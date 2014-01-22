@@ -6531,6 +6531,151 @@
           55.47807519737432
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nant-y-moch Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nant_y_Moch",
+        "comment": "Nant-y-moch Reservoir is situated in the Cambrian Mountains in northern Ceredigion, Wales. The reservoir which flooded a part of the valley of the River Rheidol and its headwaters derives its name from a stream, the Nant-y-moch, which formerly flowed into the River Rheidol at this spot. The dam is about three miles north of the village of Ponterwyd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8366317749023438,
+          52.46500453443856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usk Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Usk_Reservoir",
+        "comment": "The Usk Reservoir is located in the upper Usk Valley, at 1,050 feet (320 m) above sea level, in Carmarthenshire, south Wales."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7171554565429683,
+          51.943100878762955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llyn Cwellyn",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Llyn_Cwellyn",
+        "comment": "Llyn Cwellyn is a reservoir in North Wales which supplies drinking water to parts of Gwynedd and Anglesey. It lies on the Afon Gwyrfai in Nant y Betws between the Snowdon Massif and Mynydd Mawr in the northern part of Snowdonia National Park. It has an area of 215 acres (0.87 km2), and is over 120 ft (37 m) deep. At the southern end is the small village of Rhyd Ddu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15180206298828,
+          53.07226798520746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pontsticill Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pontsticill_Reservoir",
+        "comment": "Pontsticill Reservoir or Taf Fechan Reservoir is a large reservoir on the Taf Fechan lying partly in the county of Powys and partly within the county borough of Merthyr Tydfil in south Wales. It lies within the Brecon Beacons National Park and Fforest Fawr Geopark."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.369369506835937,
+          51.80776565156935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elan Valley Reservoirs",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Elan_Valley_Reservoirs",
+        "comment": "The Elan Valley Reservoirs are a chain of man-made lakes created from damming the Elan and Claerwen rivers within the Elan Valley in Mid Wales. The reservoirs, which were built by the Birmingham Corporation Water Department, provide clean drinking water for Birmingham in the West Midlands of England. The five lakes are known as the Claerwen, Craig-goch, Pen-y-garreg, Garreg-ddu, and Caban-coch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68865966796875,
+          52.27424991553072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claerwen",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Claerwen_Reservoir",
+        "comment": "The Claerwen reservoir and dam in Powys, Wales, were the last additions to the Elan Valley Reservoirs system built to provide water for the increasingly demanding city of Birmingham, in neighbouring England. Built mainly of concrete, the exterior of the dam face is dressed stone. The dam itself is of a type called a gravity dam. This type of dam needs to be built upon solid foundations as the pressure of the reservoir behind should be in equilibrium with the total weight of the dam itself thus causing complete stability."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6745834350585938,
+          52.27025834482595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vyrnwy",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Llyn_Efyrnwy",
+        "comment": "Lake Vyrnwy Nature Reserve and Estate is an area of land in Montgomeryshire, Powys, Wales, surrounding the Victorian reservoir of Lake Vyrnwy. Its stone-built dam, built in the 1880s, was the first of its kind in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5060119628906246,
+          52.78158519726513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llandegfedd Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Llandegfedd_Reservoir",
+        "comment": "Llandegfedd Reservoir (also known as Llandegveth Reservoir) is a large 174 hectare water supply reservoir and is eight miles (13 km) north of Newport in south Wales. The reservoir is very close to Pontypool, Cwmbran and Usk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9693984985351562,
+          51.69213893466357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Ness",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Ness",
+        "comment": "Loch Ness (/ˌlɒx ˈnɛs/; Scottish Gaelic: Loch Nis, [l̪ˠɔxˈniʃ]) is a large, deep, freshwater loch in the Scottish Highlands extending for approximately 37 km (23 mi) southwest of Inverness. Its surface is 15.8 m (52 ft) above sea level. Loch Ness is best known for alleged sightings of the cryptozoological Loch Ness Monster, also known affectionately as \"Nessie\".",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.459075927734375,
+          57.29388636800383
+        ]
+      }
     }
   ]
 }
