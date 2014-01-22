@@ -5890,6 +5890,422 @@
           37.05462912340417
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devegeçidi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Devegecidi_Dam",
+        "comment": "Devegeçidi Dam is one of the 22 dams of the Southeastern Anatolia Project of Turkey, Diyarbakır. It is near Diyarbakır on a branch of the Tigris river.[2] It was constructed for irrigation purposes between 1965 and 1972."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.98577117919922,
+          38.05944549633448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dicle Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dicle_Dam",
+        "comment": "Dicle Dam is one of the 21 dams of the Southeastern Anatolia Project of Turkey. These facilities are located within the provincial territory of Diyarbakır, at a distance of 50 kilometres to Diyarbakır city centre. More specifically, the Dam and the Hydoelectric power plant are located at a distance of 800 metres from the point of junction of the streams of Maden Stream and Dibni to form the Tigris, and 22 kilometres downstream of the Kralkızı Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.17683029174805,
+          38.23089890790333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilısu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ilisu_Dam",
+        "comment": "The Ilisu Dam is an embankment dam under construction on the Tigris River near the village of Ilisu and along the border of Mardin and Sirnak Provinces in Turkey. It is one of the 22 dams of the Southeastern Anatolia Project and its purpose is hydroelectric power production, flood control and water storage. When complete, the dam will support a 1,200 MW power station and will form a 10.4 billion m3 reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.838126182556145,
+          37.51986984729613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karkamış Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karkam%C4%B1s_Dam",
+        "comment": "Karkamış Dam is one of the 21 dams of the Southeastern Anatolia Project of Turkey. It is on the Euphrates River. The foundation of the dam was laid in 1996, and is 4.5 kilometers from the Syria border. Thehydroelectric power plant has a total installed power capacity of 189 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.028831481933594,
+          36.87028284398481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavşaktepe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kavsaktepe_Dam",
+        "comment": "The Kavşaktepe Dam is a gravity dam under construction on the Ortasu River (a tributary of the Hezil River) in Uludere district of Şırnak Province, southeast Turkey. Under contract from Turkey's State Hydraulic Works, Be-Ha-Se Insaat began construction on the dam in 2008 and a completion date has not been announced."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.86873817443848,
+          37.39303891903346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kralkızı Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kralkizi_Dam",
+        "comment": "Kralkızı Dam is one of the 21 dams of the Southeastern Anatolia Project of Turkey in Batman. The hydroelectric power plant has a total installed power capacity of 94 MW. The dam was constructed between 1985 and 1997."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.02027511596679,
+          38.3494647994142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladybower Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ladybower_Reservoir",
+        "comment": "Ladybower Reservoir is a large Y-shaped reservoir, the lowest of three in the Upper Derwent Valley in Derbyshire, England. The River Ashop flows into the reservoir from the west; the River Derwent flows south, initially through Howden Reservoir, then Derwent Reservoir, and finally through Ladybower Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7008209228515625,
+          53.36571383809991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derwent Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Derwent_Reservoir,_Derbyshire",
+        "comment": "Derwent Reservoir is the middle of three reservoirs in the Upper Derwent Valley in the northeast of Derbyshire, England. It lies approximately 10 miles (16 km) from Glossop and 10 miles (16 km) from Sheffield. The River Derwent flows first through Howden Reservoir, then Derwent Reservoir and finally through Ladybower Reservoir. Between them they provide practically all of Derbyshire's water, as well as to a large part of South Yorkshire and as far afield as Nottingham and Leicester."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7430496215820312,
+          53.40625729970218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howden Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Howden_Reservoir",
+        "comment": "The Howden Reservoir is a Y-shaped reservoir, top one of the three in the Upper Derwent Valley, England. The western half of the reservoir lies in Derbyshire, whereas the eastern half is in Sheffield, South Yorkshire. The county border runs through the middle of the reservoir, following the original path of the River Derwent. The longest arm is around 1.25 miles (2 km) in length."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7461395263671875,
+          53.4343897688732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bottoms Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bottoms_Reservoir,_Derbyshire",
+        "comment": "Bottoms Reservoir is a man-made lake in Longdendale in north Derbyshire, England. It was constructed between 1865 and 1877, by John Frederick Bateman as part of the Longdendale chain to supply water from the River Etherow to the urban areas of Greater Manchester. The upper reservoirs supplied the drinking water, while Bottoms and Vale House reservoirs regulated the flow downstream for the benefit of local water-powered mills."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9614028930664065,
+          53.46996345405544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valehouse Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Valehouse_Reservoir",
+        "comment": "Valehouse (or Vale House) Reservoir is a man-made lake in Longdendale in north Derbyshire. It was built between 1865 and 1869 as part of the Longdendale chain, which was built to supply water from the River Etherow to the urban areas of Greater Manchester while maintaining a constant flow into the river. The upper reservoirs supply the drinking water, while Vale House and Bottoms are compensation reservoirs which guarantee the flow of water to water-powered mills downstream."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9454383850097656,
+          53.47619600229145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhodeswood Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Rhodeswood_Reservoir",
+        "comment": "Rhodeswood Reservoir is a man-made lake in Longdendale in north Derbyshire. It was constructed by John Frederick Bateman between 1849 and June 1855 as part of the Longdendale chain to supply water from the River Etherow to the urban areas of Greater Manchester. It is third in the chain, and it is from here that the water is extracted to pass through the Mottram Tunnel to Godley for Manchester."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93084716796875,
+          53.48089535133995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torside Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Torside_Reservoir",
+        "comment": "Torside Reservoir is the largest man-made lake in Longdendale in north Derbyshire. It was constructed by John Frederick Bateman between April 1849 and July 1864 as part of the Longdendale chain to supply water from the River Etherow to the urban areas of Greater Manchester."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9040679931640623,
+          53.48283623493022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodhead Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Woodhead_Reservoir",
+        "comment": "Woodhead reservoir is a man-made lake near the hamlet of Woodhead in Longdendale in north Derbyshire. It was constructed by John Frederick Bateman between 1847 and June 1877 as part of the Longdendale chain to supply water from the River Etherow to the urban areas of Greater Manchester. It is at the top of the chain of reservoirs and was the first to be started, though, due to construction problems, it was the last to be completed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.862010955810547,
+          53.49345844566717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roadford Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Roadford_Lake",
+        "comment": "Roadford Lake, also known as Roadford Reservoir is a man-made reservoir fed by the River Wolf. It is located to the north-east of Broadwoodwidger in West Devon, eight miles (13 km) east of Launceston. It is the largest area of fresh water in the southwest of England. Operated by South West Water, it directly supplies water for North Devon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.228706359863281,
+          50.69993703317144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardleigh Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ardleigh_Reservoir",
+        "comment": "Ardleigh Reservoir is a 120-acre (490,000 m2) lake near Colchester in Essex constructed in the valley of the Salary Brook. It supplies water both to Anglian Water and to Tendring Hundred Water. The lake is also used for recreational activities including Sailing and angling."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9540939331054688,
+          51.91600288576498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heaton Park Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Heaton_Park_Reservoir",
+        "comment": "Heaton Park Reservoir is a granite sided reservoir in the North-West of England, on the border between the City of Manchester and Bury and is owned by United Utilities,[1] and can be found within the grounds of Heaton Park. Heaton Park BT Tower lies on the banks of the reservoir, which is close to Junction 18 of the M60 motorway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2649002075195312,
+          53.541327489179906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thornton Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Thornton_Reservoir",
+        "comment": "Thornton Reservoir is a small reservoir situated in the National Forest near the village of Thornton in Leicestershire. It has a surface area of 75 acres (300,000 m2)[1] and a perimeter of 2.45 miles (3.94 km). It was originally built in 1854 when it had its own treatment works which were situated to the south of the current dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3025665283203125,
+          52.66389056542801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eyebrook Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Eyebrook_Reservoir",
+        "comment": "Eyebrook Reservoir (also Eye Brook Reservoir) is a reservoir in the East Midlands of England. It straddles the border of Leicestershire (to the west) and Rutland (to the east). It is located about 6 km (3.7 mi) northwest of Corby in Northamptonshire. Nearby villages are Stoke Dry to the north, and Caldecott to the south and near the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7432937622070312,
+          52.54984483949457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King George V Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/King_George_V_Reservoir",
+        "comment": "The King George V Reservoir, also known as King George's Reservoir, is located in the London Borough of Enfield and is part of the Lee Valley Reservoir Chain that supplies London with drinking water. The storage reservoir is bordered by Sewardstone and Chingford to the east and Brimsdown and Ponders End to the west, and covers 420 acres (170 hectares), making it the largest in London."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0171661376953125,
+          51.64785047402897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Girling Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/William_Girling_Reservoir",
+        "comment": "The William Girling Reservoir is located in the London Borough of Enfield and is part of the Lee Valley Reservoir Chain that supplies London with drinking water. It is named after William Girling OBE, a chairman of the Metropolitan Water Board (MWB). The reservoir and the nearby King George V Reservoir are known collectively as the Chingford Reservoirs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0295257568359375,
+          51.628673774729954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banbury Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Banbury_Reservoir",
+        "comment": "Banbury Reservoir is located in the London Borough of Waltham Forest at Walthamstow. It is one of the storage reservoirs [1] in the Lee Valley Reservoir Chain. The reservoir is owned by Thames Water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0350189208984375,
+          51.60415841267934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lockwood Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lockwood_Reservoir",
+        "comment": "Lockwood Reservoir is located in Walthamstow in the London Borough of Waltham Forest. It is one of the ten Walthamstow Reservoirs, which are part of the Lee Valley Reservoir Chain. The reservoirs supply drinking water to London and are owned by Thames Water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04875183105468749,
+          51.59477511921879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scar House Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Scar_House_Reservoir",
+        "comment": "Scar House Reservoir is the second of the three reservoirs in Upper Nidderdale, the others being Angram Reservoir and Gouthwaite Reservoir. Between them they attract around 150,000 visitors a year."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.908531188964844,
+          54.187753705439604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swinsty Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Swinsty_Reservoir",
+        "comment": "Swinsty Reservoir is located in the Washburn valley north of Otley and west of Harrogate in Yorkshire, England. Construction began in 1871 and was completed in 1878. The capacity is about 866 million gallons, with a surface area of 63 hectares. It can be found from the A59 road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704254150390625,
+          53.97668575337776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheddar Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cheddar_Reservoir",
+        "comment": "Cheddar Reservoir is an artificial reservoir in Somerset, England, operated by Bristol Water. Dating from the 1930s it has a capacity of 135 million gallons (614,000 cubic metres). The reservoir is supplied with water taken from the Cheddar Yeo river in Cheddar Gorge. The inlet grate for the 54 inches (1.4 m) water pipe that is used to transport the water can be seen immediately upstream from the sensory garden in Cheddar Gorge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.804088592529297,
+          51.279957709836474
+        ]
+      }
     }
   ]
 }
