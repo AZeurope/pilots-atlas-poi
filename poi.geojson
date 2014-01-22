@@ -5873,6 +5873,23 @@
           38.98276436986852
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birecik Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Birecik_Dam",
+        "comment": "The Birecik Dam, one of the 21 dams of the Southeastern Anatolia Project of Turkey, is located on the Euphrates River 60 km (37 mi) downstream of Atatürk Dam and 8 km (5.0 mi) upstream of Birecik town 80 km (50 mi) west of Province of Şanlıurfa in the southeastern region of Turkey. It was purposed for irrigation and energy production",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.88978576660156,
+          37.05462912340417
+        ]
+      }
     }
   ]
 }
