@@ -5681,6 +5681,198 @@
           38.67626337671555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ermenek Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ermenek_Dam",
+        "comment": "The Ermenek Dam is a double-curvature concrete arch dam located on the Göksu River in Karaman Province, Turkey. The 210 m (689 ft) tall dam (218 m (715 ft) from thalweg level) was the highest in Turkey at the time of its construction and currently ranks third after Deriner Dam and Yusufeli Dam (under construction)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.96602249145508,
+          36.56687418464285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gökçekaya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goekcekaya_Dam",
+        "comment": "Gökçekaya Dam is 43 km (27 mi) north of Alpu town 45 km (28 mi) east of province of Eskişehir in central Turkey and located 60 km (37 mi) downstream of Sarıyar Dam on the Sakarya River which runs into the Black Sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.01594924926758,
+          40.03352929818725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kılıçkaya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kil%C4%B1ckaya_Dam",
+        "comment": "Kılıçkaya Dam is 25 km north of town of Suşehri 158 km northeast of Sivas city in center east of Turkey and located on the Kelkit, a tributary of the Yeşilırmak River which flows down along a large fault in the north east Anatolia than runs into the Black Sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.18899154663086,
+          40.242846824049785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarıyar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sar%C4%B1yar_Dam",
+        "comment": "Sarıyar Dam is a dam 23 kilometres (14 mi) north of the town of Sarıyar in the Nallıhan district of Ankara Province. It is 125 kilometres (78 mi) west of the city of Ankara, the central Anatolian capital of Turkey. It is also located 60 kilometres (37 mi) upstream of Gökçekaya Dam on the Sakarya River, which runs into the Black Sea. It was completed in 1956."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.41437530517578,
+          40.039837917570885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alpaslan-1 Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Alpaslan-1_Dam",
+        "comment": "Alpaslan-1 Dam is a dam and hydroelectric power station in Muş Province, Turkey. The foundation stone for the dam was laid in 1994 and construction on the dam superstructure began in 1998. The dam began to impound its reservoir in 2008 and the first of four 40 MW generators was operational in 2009. The second was commissioned in 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.817827224731445,
+          39.04978542640293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akhurian Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Arpacay_Dam",
+        "comment": "Akhurian Reservoir is a reservoir on Akhurian River between Armenia and Turkey. The reservoir has a surface area of 54 km² and a volume of 525 million cubic meters. It is one of the largest reservoirs in the Caucasus, smaller than the Mingachevir reservoir and the Shamkir reservoir in Azerbaijan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.64559173583984,
+          40.56278605408945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mingachevir reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mingachevir_reservoir",
+        "comment": "The Mingachevir reservoir is a large lake in northwestern Azerbaijan. It is the largest reservoir in the Caucasus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07967758178711,
+          40.804584285256816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Çat Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cat_Dam",
+        "comment": "The Çat Dam is an embankment dam on the Abdülharap River, located near Çelikhan in Adıyaman Province, Turkey. Constructed between 1985 and 2002, the development was backed by the Turkish State Hydraulic Works. The purpose of the dam is irrigation and it provides water for up to 21,464 ha (53,039 acres) of land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.308982849121094,
+          38.066608693948936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuzgun Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kuzgun_Dam",
+        "comment": "The Kuzgun Dam is an embankment dam on the Serçeme River in Erzurum Province, Turkey. Constructed between 1985 and 1996, the development was backed by the Turkish State Hydraulic Works. The dam has a 23 MW power station and provides water for the irrigation of 22,276 hectares (55,050 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.06414794921875,
+          40.18661102542933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Özlüce Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oezluece_Dam",
+        "comment": "Özlüce Dam is a rock-fill embankment dam on the Peri River (a tributary of the Euphrates), located 10 km (6 mi) south of Yayladere in Bingöl Province, Turkey. Constructed between 1992 and 2000, the development was backed by the Turkish State Hydraulic Works."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.08962631225586,
+          39.13099235860178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palandöken Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Palandoeken_Dam",
+        "comment": "Palandöken Dam is a rock-fill embankment dam on the Lezgi River near Çat in Erzurum Province, Turkey. Constructed between 1985 and 1988, the development was backed by the Turkish State Hydraulic Works. The purpose of the dam is irrigation and it provides water for up to 11,678 ha (28,857 acres) of land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.019601821899414,
+          39.655795247556476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uzunçayır Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Uzuncayir_Dam",
+        "comment": "The Uzunçayır Dam is an embankment dam on the Munzur River, located 14 km (9 mi) south of Tunceli in Tunceli Province, Turkey. Constructed between 1994 and 2009, the development was backed by the Turkish State Hydraulic Works. The primary purpose of the dam is hydroelectric power generation and it supports an 84 MW power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.53061103820801,
+          38.98276436986852
+        ]
+      }
     }
   ]
 }
