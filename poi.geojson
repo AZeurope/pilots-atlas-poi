@@ -6306,6 +6306,231 @@
           51.279957709836474
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch A' Chaorainn",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_A%27_Chaorainn",
+        "comment": "Loch A' Chaorainn (Loch of the Rowan) is an impounding reservoir which lies 9 kilometres north west of Tarbert. The concrete dam is 8.2 metres high and was completed in 1995."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.559253692626953,
+          55.91698691444568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch an Sgoltaire",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_an_Sgoltaire",
+        "comment": "Loch an Sgoltaire is an impounding reservoir located on the Inner Hebridean island of Colonsay, Scotland. It is located at grid reference NR386972, northwest of Kiloran and is the main source of fresh water for the island. The concrete dam was constructed in 1982 and is 3.1 metres high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.209850311279297,
+          56.08065766127248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Tarsan",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Tarsan",
+        "comment": "Loch Tarsan is an impounding reservoir located 13 kilometres north west of Dunoon and is a three-armed reservoir extending into both Glen Tarsan and Glen Lean. It supplies water to the Striven Hydro-Electric Scheme (also known as the Cowal Hydro-Electric Power Scheme). The larger of the two dams is 17.6 metres high and was completed in 1953."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.086669921875,
+          56.01105032981297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milngavie water treatment works",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bankell_Reservoir",
+        "comment": "Milngavie water treatment works is the primary source of the water for the city of Glasgow (and the Greater Glasgow area) in western Scotland. Part of the Victorian Loch Katrine water project, construction was started in 1855 and the works was opened by Queen Victoria in 1859, replacing the previous water supply sourced from the River Clyde at Cuningar Loop in Dalmarnock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305438995361328,
+          55.951122134962425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwater Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Blackwater_Reservoir",
+        "comment": "The Blackwater Reservoir is a reservoir created behind a dam in the mountains above Kinlochleven, Lochaber, Highland, Scotland. At over 914 m long, the dam is the longest in the Highlands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.773216247558594,
+          56.701678466073346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Monar",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Monar",
+        "comment": "Loch Monar is a freshwater loch situated at the head of Glen Strathfarrar, in the West Highlands of Scotland. Since the 1960s, it has been dammed as part of the Affric-Beauly hydro-electric power scheme."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.104522705078125,
+          57.41833643643223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Laggan",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Laggan",
+        "comment": "Loch Laggan is a freshwater loch situated east of Fort William, in Lochaber, Highland, Scotland. The A86 road from Spean Bridge to Kingussie follows along its north shore. Since 1934 Loch Laggan has been a reservoir, retained behind the Laggan Dam, forming part of the Lochaber hydro-electric scheme. At the other end of the loch is the hamlet of Kinloch Laggan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5119476318359375,
+          56.93560983446904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Mullardoch",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Mullardoch",
+        "comment": "Loch Mullardoch is a major reservoir in Glen Cannich in the Northwest Highlands of Scotland. It was created by the damming in 1951 of the River Cannich just upstream of Mullardoch House, as part of the Affric-Beauly hydro-electric power scheme."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.02899169921875,
+          57.33096918902605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Katrine",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Katrine",
+        "comment": "Loch Katrine is a freshwater loch in the district of Stirling, Scotland. It is roughly 8 miles long by 2/3 of a mile wide and runs the length of Strath Gartney. It is a popular destination for tourists and day visitors from Glasgow and other nearby towns."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.500274658203125,
+          56.25632029318001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladhouse Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gladhouse_Reservoir",
+        "comment": "Gladhouse Reservoir, formerly Moorfoot Loch, is a reservoir in Midlothian, Scotland, five miles (8 km) south of Penicuik. It is the largest area of freshwater in the Lothians."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1208038330078125,
+          55.770586703857326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hillend Loch",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hillend_Loch",
+        "comment": "Hillend Loch is a lake located to the east of Caldercruix in North Lanarkshire, Scotland. It is bordered on its south shore by the A89 road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.862380981445313,
+          55.88763544617004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Tummel",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Loch_Tummel",
+        "comment": "Loch Tummel (Scottish Gaelic: Loch Teimhil) is a long, narrow loch, 7 kilometres north west of Pitlochry in Perth and Kinross, Scotland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9344787597656246,
+          56.71279735670272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Megget Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Megget_Reservoir",
+        "comment": "Megget Reservoir is a man-made water body in Ettrick Forest, in the Scottish Borders. The 259 hectares (640 acres) reservoir is held back by the largest earth dam in Scotland. The reservoir collects water from the Tweedsmuir Hills, which is then conveyed 28 miles (45 km) via pipelines to Edinburgh. The pipelines are routed through the Manor Valley and the Meldon Hills, to Gladhouse Reservoir and Glencorse Reservoir in the Pentland Hills."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2773590087890625,
+          55.48858049079853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talla Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Talla_Reservoir",
+        "comment": "Talla Reservoir, located a mile from Tweedsmuir, Scottish Borders, Scotland, is an earth-work dam fed by Talla Water. The reservoir is supplemented by water from the nearby Fruid Reservoir. It was opened in 1899. To assist in bringing the materials for its construction, the Talla Railway was built.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3913421630859375,
+          55.47807519737432
+        ]
+      }
     }
   ]
 }
