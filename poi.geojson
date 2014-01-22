@@ -5456,6 +5456,231 @@
           34.42418653952984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adıgüzel Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ad%C4%B1guezel_Dam",
+        "comment": "Adıgüzel Dam is an embankment dam on the Büyük Menderes River in Denizli Province, Turkey, built between 1976 and 1989. The dam creates a lake which is 25.9 km ² and irrigates 94,825 hectares."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.207153320312504,
+          38.15899154667376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cine Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cine_Dam",
+        "comment": "Çine Dam is a dam in Turkey. The development was backed by the Turkish State Hydraulic Works. It is the first major roller compacted concrete dam in Turkey. At its height of 137 m, Cine Dam is one of the highest dams in the world"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.12851905822754,
+          37.49522228810202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demirköprü Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Demirkoeprue_Dam",
+        "comment": "Demirköprü Dam is an embankment dam on the Gediz River in Manisa Province, Turkey. Constructed between 1954 and 1960, the development was backed by the Turkish State Hydraulic Works. The dams supports a 69 MW power station and provides water for the irrigation of 99,220 hectares (245,200 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.316059112548828,
+          38.613785514758675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gördes Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goerdes_Dam",
+        "comment": "The Gördes Dam is a concrete-face rock-fill dam on the Gördes River located 13 km (8 mi) northeast of Gölmarmara in Manisa Province, Turkey. It was constructed between 1998 and 2004 by the Turkish State Hydraulic Works. The primary purpose of the dam is water supply. It provides drinking water for the city of Manisa while also irrigating 19,260 ha (47,592 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.057150840759274,
+          38.76181375644417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marmaris Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Marmaris_Dam",
+        "comment": "The Marmaris Dam is a concrete-face rock-fill dam on the Kocaalan Creek located 10 km (6 mi) north of Marmaris in Muğla Province, Turkey.[1] Constructed between 1998 and 2005, the development was backed by the Turkish State Hydraulic Works as a build-operate-transfer project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.289880752563473,
+          36.94810835875745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yortanlı Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yortanl%C4%B1_Dam",
+        "comment": "Yortanlı Dam is a dam in Turkey. The development was backed by the Turkish State Hydraulic Works. In 2010, it was announced that the dam will flood an ancient city of Allianoi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.324199676513672,
+          39.22773212003825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almus Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Almus_Dam",
+        "comment": "The Almus Dam (Almus Barajı in Turkish) is an earthen embankment dam that is near the town of Almus (28 kilometers East of Tokat city in center north of Turkey) and is located on the River Yesilirmak which runs into the Black Sea. The main purposes of the dam is irrigation, flood control and hydroelectricity. The hydroelectric power plant (established in 1966) at the dam has a capacity of 27 megawatts (three facilities at 9 megawatts each)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.904449462890625,
+          40.4074835579241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altınkaya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Altinkaya_Dam",
+        "comment": "The Altınkaya Dam is a rock-fill dam for irrigation and hydro power purposes, located on the River Kızılırmak, 23 km south of Bafra and 35 km west of Samsun in northern Turkey. It feeds Lake of Derbent.  Having a dam volume of 15,920,000 m³, Altınkaya Dam was completed in 1986. It has a storage volume of 5,763 billion m³ in a reservoir area at normal water surface elevation of 118.31 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.724449157714844,
+          41.36238012945534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boyabat Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Boyabat_Dam",
+        "comment": "The Boyabat Dam is a concrete gravity dam on the Kızılırmak River in Sinop Province, Turkey. It is 8 km (5 mi) southwest of Durağan and 24 km (15 mi) southeast of Boyabat. Construction began in 2008 and the dam and power plant were completed in December 2012. Its primary purpose is to generate hydroelectric power."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.00956535339355,
+          41.34240692602462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deriner Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Deriner_Dam",
+        "comment": "Deriner Dam is a concrete double-curved arch dam on the Çoruh River 5 km (3.1 mi) east of Artvin in Artvin Province, Turkey. The main purpose of the dam is hydroelectric power production and additionally flood control. Construction on the dam began in 1998, the reservoir began to fill in February 2012 and the power station was completed by February 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.869497299194336,
+          41.171224395980424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hasan Uğurlu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hasan_Ugurlu_Dam",
+        "comment": "The Hasan Uğurlu Dam is a rock-fill dam for hydro power purposes, located on the River Yeşilırmak 23 km south of Çarşamba town and 25 km east of Samsun in northern Turkey. Originally, it was named the Ayvacık Dam. Completed in 1979, it generates 4x125=500 MW of power giving an annual electricity production of 1,217 GWh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.646270751953125,
+          40.93608075734467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kürtün Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kuertuen_Dam",
+        "comment": "The Kürtün Dam is a concrete-face rock-fill dam on the Harşit River located 5 km (3 mi) east of Kürtün in Gümüşhane Province, Turkey. The development was backed by the Turkish State Hydraulic Works. Construction began in 1986 and ended in 2003. Filling of the reservoir began in 2002 and the underground power plant was operation in 2004. The plant has an installed capacity of 80 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.12763595581054,
+          40.68141910186579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obruk Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Obruk_Dam",
+        "comment": "Obruk Dam is an embankment dam on the Kızılırmak River in Çorum Province, Turkey. Constructed between 1996 and 2007, the development was backed by the Turkish State Hydraulic Works. The dam supports a 203 MW power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.787864685058594,
+          40.770011820529064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahçelik Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bahcelik_Dam",
+        "comment": "Bahçelik Dam is an embankment dam on the Zamanti River in Kayseri Province, Turkey, built between 1996 and 2002.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29136085510254,
+          38.67626337671555
+        ]
+      }
     }
   ]
 }
