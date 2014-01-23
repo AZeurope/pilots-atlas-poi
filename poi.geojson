@@ -7879,6 +7879,359 @@
           34.14590795200977
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaborone Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gaborone_Dam",
+        "comment": "The Gaborone Dam is a dam on the Notwane River in Botswana with a capacity of 141,100,000 cubic metres. The dam is operated by the Water Utilities Corporation, and supplies water to the capital city of Gaborone."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.925331115722656,
+          -24.69911764167151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Letsibogo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Letsibogo_Dam",
+        "comment": "The Letsibogo Dam is a dam on the Motloutse River in Botswana, built to initially provide water to the industrial town of Selebi-Phikwe and surrounding local areas, with potential for use in irrigation. The dam now supplies Gaborone, the capital of the country, via a 400 kilometres (250 mi) pipeline, as well as major villages along the pipeline route."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.730865478515625,
+          -21.84620351827813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shashe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shashe_Dam",
+        "comment": "The Shashe Dam is a dam on the Shashe River in Botswana that was built to supply water to the industrial city of Selebi-Phikwe. The large village of Tonota is just south of the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4273681640625,
+          -21.364849921458656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Falls Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Albert_Falls_Dam",
+        "comment": "Albert Falls Dam is dam in the Umgeni River, just outside Pietermaritzburg, KwaZulu-Natal, South Africa. It was established in 1976. It has a gross capacity of 290.1 million cubic meters and a surface area of 23.521 square kilometres (9.082 sq mi), the dam wall is 33 metres (108 ft) high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4046630859375,
+          -29.433617570990954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allemanskraal Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Allemanskraal_Dam",
+        "comment": "The Allemanskraal Dam is a dam in the Free State province of South Africa, on the Sand River. It was established in 1960. The reservoir has a gross capacity of 174,500 cubic metres (6,160,000 cu ft), and a surface area of 26.481 square kilometres (10.224 sq mi), the dam wall is 38 metres (125 ft) high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.151336669921875,
+          -28.287754233623506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloemhof Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bloemhof_Dam",
+        "comment": "Bloemhof Dam is a dam in South Africa. It was originally known as the Oppermansdrif Dam when under construction during the late 1960s. It is located at the confluence of the Vaal River and the Vet River, on the border between the North West, and Free State, provinces of . The dam wall is very long with a total length of 4 270 m. The reservoir is very shallow, and therefore needs a large area to mean anything for water storage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.62355041503906,
+          -27.6592036443079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandvlei Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Brandvlei_Dam",
+        "comment": "Brandvlei Dam is an earth-fill type dam on the Lower Brandvlei River in Western Cape, South Africa. It was completed in 1983 and the inlet is the Holsloot river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.412155151367188,
+          -33.710346677590785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clanwilliam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Clanwilliam_Dam",
+        "comment": "Clanwilliam Dam is a concrete gravity dam on the Olifants River, near Clanwilliam, Western Cape, South Africa. It was established in 1935, and the wall was raised to its current height of 43 m. in 1964. The main purpose of the dam is to provide irrigation water to the agricultural region downstream. It has a capacity of 121,800,000 cubic metres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.87451171875,
+          -32.18549217973895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darlington Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Darlington_Dam",
+        "comment": "Darlington Dam, also referred to as Lake Mentz. is a gravity type dam situated in the Sundays River, near Kirkwood, in Eastern Cape, South Africa. It was established in 1922 and was renovated in 1952. The dam has a capacity of 187,000,000 cubic m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.151138305664062,
+          -33.197902262595974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flag Boshielo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Flag_Boshielo_Dam",
+        "comment": "Flag Boshielo Dam is dam on the Olifants River, near Marble Hall, Limpopo, South Africa. It was established in 1987."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.420356750488278,
+          -24.783617562869416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gariep Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gariep_Dam",
+        "comment": "Gariep Dam is a dam in South Africa, near the town of Norvalspont, bordering the Free State and Eastern Cape provinces. Its primary purpose is for irrigation, domestic and industrial use as well as for power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.511627197265625,
+          -30.624322829646005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goedertrouw Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goedertrouw_Dam",
+        "comment": "Goedertrouw Dam is an earth-fill type dam in South Africa. The Dam was constructed on the Mhlathuze River, near Eshowe, KwaZulu-Natal, in 1980 (commissioned in 1982). It currently has a capacity of 301 million m3 and is principally for provision of water to the industrial complex at Richards Bay. It serves also as reservoir for irrigation and domestic use. The hazard potential of the dam has been ranked high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.432914733886715,
+          -28.764348610513753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grootdraai Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grootdraai_Dam",
+        "comment": "Grootdraai Dam is a combined gravity and earth-fill type dam located on the Vaal River, near Standerton, Mpumalanga, South Africa. It was established in 1981."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.299335479736328,
+          -26.918090357683777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heyshope Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Heyshope_Dam",
+        "comment": "Heyshope Dam is a zoned earth-fill type dam located on the Assegaai River, Mpumalanga, South Africa. It was established in 1986. Its main purpose is to serve for municipal and industrial use. The hazard potential of the dam construction has been ranked high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.520019531249996,
+          -26.988171269702267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pongolapoort Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pongolapoort_Dam",
+        "comment": "Pongolapoort Dam is an arch type dam in KwaZulu-Natal, South Africa located on the Phongolo River. The Dam was constructed at the eastern end of the narrow gorge separating the Lebombo and Ubombo ranges. It was established in 1973. The dam mainly serves for irrigation purposes and its hazard potential has been ranked high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.988754272460938,
+          -27.450399667716397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sterkfontein Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sterkfontein_Dam",
+        "comment": "The Sterkfontein Dam, located just outside the town of Harrismith, in the Free State, province of South Africa, is part of the Tugela-Vaal Water Project, and located on the Nuwejaarspruit, a tributary of the Wilge River in the upper catchment area of the Vaal River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02862548828125,
+          -28.44877013274691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaal Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vaal_Dam",
+        "comment": "The Vaal Dam in South Africa was constructed in 1938 and lies 77 km south of OR Tambo International Airport. The lake behind the dam wall has a surface area of about 320 square kilometres and is 47 meters deep. The Vaal Dam lies on the Vaal River, which is one of South Africa's strongest-flowing rivers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.129119873046875,
+          -26.89145431235484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanderkloof Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vanderkloof_Dam",
+        "comment": "The Vanderkloof Dam (originally the P.K. Le Roux Dam) is situated approximately 130 km (81 mi) downstream from Gariep Dam and is fed by the Orange River, South Africa's largest river. Vanderkloof Dam is the second-largest dam in South Africa (in volume), having the highest dam wall in the country at 108 metres (354 ft). The dam was commissioned in 1977."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.732971191406246,
+          -29.992556262764193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karuma Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karuma_Power_Station",
+        "comment": "Karuma Power Station is a 600MW hydroelectric power project under constructionin Uganda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.240753173828125,
+          2.248873032494986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiira Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kiira_Power_Station",
+        "comment": "Kiira Power Station, sometimes spelled Kiyira Power Station, is a hydroelectric power station with an installed capacity of 200MW, in Uganda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19793701171875,
+          0.41404363752032325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalubaale Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nalubaale_Power_Station",
+        "comment": "Nalubaale Power Station, often known by its old name, Owen Falls Dam, is a hydroelectric power station across the White Nile near to its source at Lake Victoria in Uganda. Nalubaale is the Luganda name for Lake Victoria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19038391113281,
+          0.43910550375033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osborne Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Osborne_Dam",
+        "comment": "The Osborne Dam site on the Odzi River, Zimbabwe, was identified in the 1950s by the planning engineers of the Ministry of Water. Cored drilling investigations on the two possible alignments were completed in the 1960s.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.48176574707031,
+          -18.774365650676245
+        ]
+      }
     }
   ]
 }
