@@ -7253,6 +7253,22 @@
           4.7249363868940195
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "comment": "Douglas Dam is a hydroelectric dam on the French Broad River in Sevier County, Tennessee, in the southeastern United States. The dam is operated by the Tennessee Valley Authority (TVA), which built the dam in record time in the early 1940s to meet emergency energy demands at the height of World War II.",
+        "name": "Douglas Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Douglas_Dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52630615234374,
+          35.957999786220704
+        ]
+      }
     }
   ]
 }
