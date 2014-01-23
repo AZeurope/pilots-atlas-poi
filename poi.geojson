@@ -7541,6 +7541,295 @@
           35.07187406335313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulf Intracoastal Waterway West Closure Complex",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gulf_Intracoastal_Waterway_West_Closure_Complex",
+        "comment": "The Gulf Intracoastal Waterway West Closure Complex is a part of the New Orleans Drainage System; it consists of a navigable floodgate, a pumping station, floodwalls, sluice gates, foreshore protection, and an earthen levee. The complex was designed to reduce risk for residences and businesses in the project area from a storm surge associated with a tropical event with an intensity that has a 1 percent chance of occurring in any given year. This project was operated for the first time on August 29, 2012 in response to Hurricane Isaac."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.00823974609375,
+          29.82694404476336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOSE Project",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/MOSE_Project",
+        "comment": "MOSE is a project intended to protect the city of Venice, Italy, and the Venetian Lagoon from flooding. The project is an integrated system consisting of rows of mobile gates installed at the Lido, Malamocco and Chioggia inlets that are able to temporarily isolate the Venetian Lagoon from the Adriatic Sea during high tides. Together with other measures such as coastal reinforcement, the raising of quaysides, and the paving and improvement of the lagoon, MOSE is designed to protect Venice and the lagoon from tides of up to 3 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358245849609375,
+          45.34056313889858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maasvlakte 2",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Maasvlakte_2",
+        "comment": "Maasvlakte 2 is a major civil engineering project in the Netherlands, constructing a new port and supporting infrastructure on reclaimed land adjoining the Maasvlakte. Approximately 2000 hectares will be reclaimed, behind a 4 km dike; approximately 1000 hectares will be used by ports related industries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9715576171875004,
+          51.986571643810805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thames Barrier",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Thames_Barrier",
+        "comment": "The Thames Barrier is the world's second-largest movable flood barrier (after the Oosterscheldekering in the Netherlands) and is located downstream of central London, United Kingdom. Operational since 1982, its purpose is to prevent the floodplain of all but the easternmost boroughs of Greater London from being flooded by exceptionally high tides and storm surges moving up from the North Sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0624847412109375,
+          51.49624032118747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oosterscheldekering",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oosterscheldekering",
+        "comment": "The Oosterscheldekering (in English: Eastern Scheldt storm surge barrier), between the islands Schouwen-Duiveland and Noord-Beveland, is the largest of the 13 ambitious Delta Works series of dams and storm surge barriers, designed to protect the Netherlands from flooding from the North Sea. The construction of the Delta Works was in response to the widespread damage and loss of life due to the North Sea Flood of 1953."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.68316650390625,
+          51.614605707797466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Petersburg Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Saint_Petersburg_Dam",
+        "comment": "The Saint Petersburg Flood Prevention Facility Complex, unofficially the Saint Petersburg Dam, is a 25 km complex of dams for flood control near Saint Petersburg, Russia. The dam extends from Lomonosov northward to Kotlin Island(and the city of Kronstadt), then turns east toward Cape Lisiy Nos near Sestroretsk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7344970703125,
+          60.00310586337268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco–Oakland Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/San_Francisco_%E2%80%93_Oakland_Bay_Bridge",
+        "comment": "The San Francisco–Oakland Bay Bridge (known locally as the Bay Bridge) is a complex of bridges spanning San Francisco Bay of the U.S. state of California. As part of Interstate 80 and the direct road route between San Francisco and Oakland, it carries approximately 240,000 vehicles per day on its two decks.[3][4] It has one of the longest spans in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35198974609375,
+          37.820632846207864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodrow Wilson Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Woodrow_Wilson_Bridge",
+        "comment": "The Woodrow Wilson Memorial Bridge (also known as the Woodrow Wilson Bridge or the Wilson Bridge) is a bascule bridge that spans the Potomac River between the independent city of Alexandria, Virginia, and Oxon Hill in Prince George's County, Maryland, United States. The bridge is one of only a handful of drawbridges in the U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02651977539062,
+          38.79476766282312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl Harbor Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pearl_Harbor_Memorial_Bridge_(Connecticut)",
+        "comment": "The Pearl Harbor Memorial Bridge, more commonly referred to as the Q Bridge (the \"Q\" referring to \"Quinnipiac\") by locals, is a partially completed extradosed bridge that carries Interstate 95 (Connecticut Turnpike) over the mouth of the Quinnipiac River in New Haven, in the U.S. state of Connecticut."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90475845336914,
+          41.29883120648203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khabarovsk Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Khabarovsk_Bridge",
+        "comment": "Khabarovsk Bridge is a road and rail bridge built in 1999. It crosses the Amur River in eastern Russia, and connects the urban-type settlement of Imeni Telmana in the Jewish Autonomous Oblast, and city of Khabarovsk in the Khabarovsk Krai. Until that time an older bridge built 1916 existed near it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.00274658203125,
+          48.539341045937974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surgut Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Surgut_Bridge",
+        "comment": "The Surgut Bridge is a cable-stayed bridge across the Ob River at Surgut, Russia. It one of the longest in Siberia. The bridge is 2,070 meters long and has only one tower. Its central span of 408 meters make it the longest single-tower cable-stayed bridge in the world. The bridge was inaugurated in September 2000 and bridge carries road traffic. A steel truss rail bridge runs parallel to the Surgut Bridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.157958984375,
+          61.22729616902509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratov Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/New_Saratov_Bridge",
+        "comment": "Saratov Bridge across the Volga River in Saratov, Russia was the longest bridge in the Soviet Union upon its inauguration in 1965. Its length is 2,803.7 m. It connects Saratov on the right (west) bank of the Volga, with the city of Engels on the left (east) bank."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.067047119140625,
+          51.51814351604911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kama Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kama_Bridge",
+        "comment": "The Kama Bridge, is a bridge on the highway R239 near Soroch'i Gory settlement in Tatarstan, Russia. It is a part of the longest bridge structure in Russia if measured by the total length of elevated roadway. The structure with a total length of 13,967 m incorporates three bridges: over the Kama River (1,608 m), over the Arkharovka River (549.9 m) and over the Kurlyanka River (69.8 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.013885498046875,
+          55.353354583171516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bureya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bureya_Dam",
+        "comment": "The Bureya Dam is a hydroelectric dam on the Bureya River in the Russian Far East."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.31158447265625,
+          50.2761762728848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kineshma Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kineshma_Bridge",
+        "comment": "Kineshemsky Bridge is a bridge across the Volga River. It is located in Ivanovo Oblast, near Kineshma and Zavolzhsk. It is a part of Highway Kineshma-Kostroma. It connects theTrans-Volga region to the Zavolzhsky District, Ivanovo Oblast Pedestrians are prohibited from using the bridge. The total length of the bridge is 1.64 km (1 Mile)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.07145690917969,
+          57.49147563312474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhivopisny Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Zhivopisny_Bridge",
+        "comment": "Zhivopisny Bridge is a cable-stayed bridge that spans Moskva River in north-western Moscow, Russia. It is the first cable-stayed bridge in Moscow. Opened on 27 December 2007 as a part of Krasnoprenensky avenue. It is also the highest cable-stayed bridge in Europe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.44380950927734,
+          55.7761868325538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volgograd Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Volgograd_Bridge",
+        "comment": "Volgograd Bridge is a concrete girder bridge over the Volga River in the city of Volgograd, Russia. The bridge and adjacent flyovers are 7,110 meters long. The bridge, which was inaugurated October 10, 2009 after 13 years of construction, is a key part of a planned 30-kilometer highway route that also includes a future bridge over the Akhtuba River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.548187255859375,
+          48.7222262088273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "President Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/President_Bridge",
+        "comment": "The President Bridge is a truss bridge that crosses over the river Volga in Ulyanovsk Oblast, Russia, connecting the city of Ulyanovsk with the east side of the Ulyanovsk Oblast. It is the second longest bridge in Russia, and one of the longest bridges in Europe, with a length of 5.85 km, and 12.98 km if the high-way is taken into account.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.442840576171875,
+          54.36375806691923
+        ]
+      }
     }
   ]
 }
