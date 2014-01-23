@@ -1284,8 +1284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.7147521972656254,
-          51.645294049305406
+          3.9056396484374996,
+          51.614605707797466
         ]
       }
     },
@@ -7267,6 +7267,182 @@
         "coordinates": [
           -83.52630615234374,
           35.957999786220704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Moses Niagara Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Robert_Moses_Niagara_Hydroelectric_Power_Station",
+        "comment": "The Robert Moses Niagara Hydroelectric Power Station is a hydroelectric power station in Lewiston, New York near Niagara Falls, New York, United States. The plant diverts water from the Niagara River above Niagara Falls and returns the water into the lower portion of the river near Lake Ontario. It utilizes 13 generators at an installed capacity of 2,525 megawatts (MW)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03427124023438,
+          43.1470901245276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabqa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tabqa_Dam",
+        "comment": "The Tabqa Dam, or al-Thawra Dam as it is also named, is an earth-fill dam on the Euphrates, located 40 kilometres (25 mi) upstream from the city ofAr-Raqqah in Ar-Raqqah Governorate, Syria. The dam is 60 metres (200 ft) high and 4.5 kilometres (2.8 mi) long and is the largest dam in Syria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56201171875,
+          35.88014896488361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagarjuna Sagar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nagarjuna_Sagar_Dam",
+        "comment": "Nagarjuna Sagar Dam is a masonry dam on the Krishna River at Nagarjuna Sagar in the border of Guntur and Nalgonda districts of Andhra Pradesh State, India. The construction duration of the dam was between the years of 1955 and 1967."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.30412292480469,
+          16.573680838239344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idukki Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Idukki_Dam",
+        "comment": "The Idukki Dam, located in Kerala, India, is a 168.91 m (554 ft) tall arch dam. The dam stands between the two mountains - Kuravanmala (839)m and Kurathimala (925) m. It is built on the Periyar River, in the ravine between the Kuravan and Kurathi Hills in Kerala, India. At 167.68 metres, it is one of the highest arch dams in Asia and third tallest arch dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97690963745117,
+          9.842700358936144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hirakud Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hirakud_Dam",
+        "comment": "Hirakud Dam is built across the Mahanadi River, about 15 km from Sambalpur in the state of Odisha in India. Behind the dam extends a lake, Hirakud Reservoir, 55 km long. It is one of the first major multipurpose river valley projects started after India's independence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.86482238769531,
+          21.52909846344139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhakra Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bhakra_Dam",
+        "comment": "Bhakra Dam is a concrete gravity dam across the Sutlej River, and is in Bilaspur, Himachal Pradesh in northern India. The dam, located at a gorge near the (now submerged) upstream Bhakra village in Bilaspur district of Himachal Pradesh, is India's second tallest at 225.55 m (740 ft) high next to the 261m Tehri Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.43943786621092,
+          31.414600276313234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakun Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bakun_Dam",
+        "comment": "The Bakun Dam is an embankment dam located in Sarawak, Malaysia on the Balui River, a tributary or source of the Rajang River and some sixty kilometers west of Belaga. As part of the project, the second tallest concrete-faced rockfill dam in the world would be built."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06417846679686,
+          2.7647345692136276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta Works",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Delta_Works",
+        "comment": "The Delta Works is a series of construction projects in the southwest of the Netherlands to protect a large area of land around the Rhine-Meuse-Scheldt delta from the sea. The works consist of dams, sluices, locks, dykes, levees, and storm surge barriers. The aim of the dams, sluices, and storm surge barriers was to shorten the Dutch coastline, thus reducing the number of dikes that had to be raised."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7023925781249996,
+          51.63591925865104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inga dams",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Inga_Dam",
+        "comment": "The Inga Dams, located in western Democratic Republic of the Congo and 140 miles southwest of Kinshasa, are two hydroelectric dams connected to the largest waterfall in the world, Inga Falls. Here, the Congo River drops 96 metres and has an average flow of 42,476 m³/s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.619098663330078,
+          -5.524409802521124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manapouri Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Manapouri_Hydroelectric_Power_Station",
+        "comment": "Manapouri Power Station is an underground hydroelectric power station on the western arm of Lake Manapouri in Fiordland National Park, in the South Island of New Zealand. At 850 MW installed capacity (although limited to 800 MW due to resource consent limits[3]), it is the largest hydroelectric power station in New Zealand, and the second largest power station in New Zealand. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.2785186767578,
+          -45.52174389699363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manicouagan Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Manicouagan_Reservoir",
+        "comment": "Manicouagan Reservoir (also Lake Manicouagan) is an annular lake in central Quebec, Canada. The lake covers an area of 1,942 km², and its eastern shore is accessible via Route 389. The lake island in the centre of the lake is known as René-Levasseur Island, and its highest point is Mount Babel. The lake and island are clearly seen from space and are sometimes called the \"eye of Quebec.\" With a volume of 139.8 cubic kilometres (33.5 cu mi), the reservoir itself is the fifth largest in the world by volume."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7744140625,
+          51.385495069223204
         ]
       }
     }
