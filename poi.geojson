@@ -7445,6 +7445,102 @@
           51.385495069223204
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apalachia Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Apalachia_Dam",
+        "comment": "Apalachia Dam is a hydroelectric dam on the Hiwassee River in Cherokee County, in the U.S. state of North Carolina. The dam is the lowermost of three dams on the river owned and operated by the Tennessee Valley Authority, which built the dam in the early 1940s to provide emergency power for aluminum production during World War II."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29466247558594,
+          35.16763411633447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Loudoun Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fort_Loudoun_Dam",
+        "comment": "Fort Loudoun Dam is a hydroelectric dam on the Tennessee River in Loudon County, Tennessee, in the southeastern United States. The dam is operated by the Tennessee Valley Authority (TVA), which built the dam in the early 1940s as part of a unified plan to provide electricity and flood control in the Tennessee Valley."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24179077148438,
+          35.7909435721697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherokee Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cherokee_Dam",
+        "comment": "Cherokee Dam is a hydroelectric dam located on the Holston River in Grainger County and Jefferson County, Tennessee, in the southeastern United States. The dam is operated and maintained by the Tennessee Valley Authority, which built the dam in the early 1940s to help meet urgent demands for energy at the outbreak of World War II."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.49660873413086,
+          36.1675367350845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontana Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fontana_Dam",
+        "comment": "Fontana Dam is a hydroelectric dam on the Little Tennessee River in Swain and Graham counties, North Carolina, United States. The dam is operated by the Tennessee Valley Authority, which built the dam in the early 1940s to accommodate the skyrocketing electricity demands in the Tennessee Valley at the height of World War II."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80508422851562,
+          35.453259119161764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watts Bar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Watts_Bar_Dam",
+        "comment": "Watts Bar Dam is a hydroelectric dam on the Tennessee River in Meigs County and Rhea County, Tennessee, United States. The dam is one of nine dams on the main Tennessee River channel operated by the Tennessee Valley Authority, which built the dam in early 1940s to provide flood control and electricity and to help create a continuous navigable channel along the entire length of the river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77840423583984,
+          35.62367497735504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pickwick_Landing_Dam",
+        "name": "Pickwick Landing Dam",
+        "comment": "Pickwick Landing Dam is a hydroelectric dam on the Tennessee River in Hardin County, in the U.S. state of Tennessee. The dam is one of nine dams on the river owned and operated by the Tennessee Valley Authority, which built the dam in the 1930s as part of a New Deal-era initiative to create a continuous navigation channel between the river's mouth and Knoxville, and bring economic development to the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24974060058594,
+          35.07187406335313
+        ]
+      }
     }
   ]
 }
