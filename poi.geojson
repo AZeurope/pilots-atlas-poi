@@ -6676,6 +6676,310 @@
           57.29388636800383
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embalse de Guadalcacín",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Guadalcacin",
+        "comment": "Embalse de Guadalcacín is a reservoir in the province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7616424560546875,
+          36.65905539969828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Beninar",
+        "comment": "Benínar Reservoir is a reservoir in Berja, province of Almería, Andalusia, Spain.",
+        "name": "Benínar Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0270767211914062,
+          36.88401445049676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbate Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Barbate",
+        "comment": "Barbate Reservoir is a reservoir in Alcalá de los Gazules, province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.71563720703125,
+          36.38591277287651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bornos Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Bornos",
+        "comment": "Bornos Reservoir is a reservoir in Bornos, province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.71563720703125,
+          36.81258314263445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahara-El Gastor Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Zahara",
+        "comment": "Zahara-El Gastor Reservoir is a reservoir in Zahara de la Sierra and El Gastor, province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3668212890625,
+          36.83346996591306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charco Redondo Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Charco_Redondo",
+        "comment": "Charco Redondo Reservoir is a reservoir in Los Barrios, province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.569725036621093,
+          36.255071190718304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeguas Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Yeguas",
+        "comment": "Yeguas Reservoir is a reservoir in Montoro, province of Córdoba, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2194366455078125,
+          38.089985571389306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadarranque Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Guadarranque",
+        "comment": "Guadarranque Reservoir is a reservoir empounding the Guadarranque in the province of Cádiz, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.468959808349609,
+          36.31775318178005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arenós Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Arenoso",
+        "comment": "Arenós Reservoir is a reservoir in Montoro, province of Córdoba, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55755615234375,
+          40.091730433255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bembézar Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Bembezar",
+        "comment": "Bembézar Reservoir is a reservoir in Hornachuelos, province of Córdoba, Andalusia, Spain. It is located in the Sierra de Hornachuelos, a mountain range of the Sierra Morena."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.242195129394531,
+          37.92578434712101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalmellato Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Iznajar",
+        "comment": "Iznajar Reservoir is a reservoir in the province of Córdoba, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3430328369140625,
+          37.28115563160914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Bermejales Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Los_Bermejales",
+        "comment": "Los Bermejales Reservoir is a reservoir in Arenas del Rey, province of Granada, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8898468017578125,
+          36.986374299569555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Negratín Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_del_Negratin",
+        "comment": "Negratín Reservoir is a reservoir in Freila, province of Granada, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8839111328125,
+          37.57233793321531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Negratín Reservoir is a reservoir in Freila, province of Granada, Andalusia, Spain.",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Rules",
+        "comment": "Rules Reservoir is a reservoir in Vélez de Benaudalla, province of Granada, Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4874725341796875,
+          36.87357865470466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embalse de El Tranco de Beas",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_El_Tranco_de_Beas",
+        "comment": "Embalse de El Tranco de Beas is a reservoir in Andalusia, Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7740478515625,
+          38.13050579141267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syncrude Tailings Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Syncrude_Tailings_Dam",
+        "comment": "The name Syncrude Tailings Dam often refers to the Mildred Lake Settling Basin (MLSB). This is an embankment dam that is, by volume of construction material, the largest dam in the world. It is located 40 km (25 mi) north of Fort McMurray, Alberta, Canada at the northern end of the Mildred Lake lease owned by Syncrude Canada Ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.59809112548828,
+          57.04726664166082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarbela Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tarbela_Dam",
+        "comment": "Tarbela Dam on the Indus River in Pakistan is the largest earth filled dam in the world and second largest by structural volume. It is located in Haripur District, Hazara Division, Khyber Pakhtunkhwa, about 50 kilometres (31 mi) northwest of Islamabad. The dam is 485 feet (148 m) high above the riverbed. The dam forms the Tarbela Reservoir, with a surface area of approximately 250-square-kilometre (97 sq mi). The dam was completed in 1974."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70099639892578,
+          34.08991429764339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Peck Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fort_Peck_Dam",
+        "comment": "The Fort Peck Dam is the highest of six major dams along the Missouri River, located in northeast Montana in the United States, near Glasgow, and adjacent to the community of Fort Peck. At 21,026 feet (6,409 m) in length and over 250 feet (76 m) in height, it is the largest hydraulically filled dam in the United States, and creates Fort Peck Lake, the fifth largest man-made lake in the U.S., more than 130 miles (210 km) long, 200 feet (61 m) deep, and it has a 1,520-mile (2,450 km) shoreline which is longer than the state of California's coastline."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41632080078124,
+          48.00049012641628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flevoland",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Flevoland",
+        "comment": "Flevoland is a province of the Netherlands. Located in the centre of the country, at the location of the former Zuiderzee, the province was established on January 1, 1986; the twelfth province of the country, with Lelystad as its capital. The province has approximately 394,758 inhabitants (2011) and consists of 6 municipalities."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6689453125,
+          52.522905940278065
+        ]
+      }
     }
   ]
 }
