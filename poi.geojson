@@ -6980,6 +6980,279 @@
           52.522905940278065
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardiner Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gardiner_Dam",
+        "comment": "The Gardiner Dam on the South Saskatchewan River in Saskatchewan is the third largest embankment dam in Canada and one of the largest embankment dams in the world. Construction on Gardiner Dam and the smaller Qu'Appelle River Dam was started in 1959 and completed in 1967, creating Lake Diefenbaker upstream and diverting a considerable portion of the South Saskatchewan's flow into the Qu'Appelle River. The dam rises 64 metres (209 feet) in height, is almost 5 km (3.1 mi) long and has a width of 1.5 km (0.93 mi) at its base."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86676025390625,
+          51.27394421143647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangla Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mangla_Dam",
+        "comment": "The Mangla Dam is a multipurpose dam located on the Jhelum River in the Mirpur District of Azad Kashmir, Pakistan. It is the 9th largest dam in the world. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.64753723144531,
+          33.130076265210626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oroville Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oroville_Dam",
+        "comment": "Oroville Dam is an earthfill embankment dam on the Feather River east of the city of Oroville, California in the United States. At 770 feet (230 m) high, it is the tallest dam in the U.S.[6] and serves mainly for water supply, hydroelectricity generation and flood control. The dam impounds Lake Oroville, the second largest man-made lake in the state of California."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48372650146486,
+          39.53873405547144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/San_Luis_Dam",
+        "comment": "San Luis Dam is a dam that creates San Luis Reservoir, which serves as an off-stream reservoir for the California State Water Project and the Central Valley Project. It is also known as the B.F. Sisk Dam, after Bernie Sisk. The earth-fill gravity embankment dam is 305 feet (93 m) tall and was completed in 1967. It is located between Los Banos, California and Gilroy, California, United States along Pacheco Pass. San Luis Reservoir is the largest off-stream reservoir in the United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.07551574707031,
+          37.05983480456623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cochiti Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cochiti_Dam",
+        "comment": "The Cochiti Dam is an earthen fill dam located on the Rio Grande in Sandoval County, New Mexico, approximately 50 miles (80 km) north of Albuquerque, New Mexico, in the United States. By volume of material, it is the 23rd largest dam in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32190704345702,
+          35.622977290844084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Randall Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fort_Randall_Dam",
+        "comment": "The Fort Randall Dam is an earth embankment dam impounding the Missouri River in South Dakota, United States and forming Lake Francis Case. It is one of six Missouri River dams, four being located in South Dakota."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.56315612792969,
+          43.05935630381922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurek Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nurek_Dam",
+        "comment": "The Nurek Dam is an earth fill embankment dam on the Vakhsh River in the central Asian nation of Tajikistan. Construction of the dam began in 1961 and was completed in 1980, when Tajikistan was still a republic within the Soviet Union. At 300 m (984 ft) it is currently the second tallest man-made dam in the world. The Rogun Dam, also along the Vakhsh in Tajikistan, may exceed it in size when completed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.34879302978516,
+          38.37396220263092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Roque Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/San_Roque_Dam_(Philippines)",
+        "comment": "The San Roque Dam, operated under San Roque Multipurpose Project (SRMP) is a 200 meters tall, 1.2 kilometer long embankment dam on the Agno River. It spans the municipalities of San Manuel and San Nicolas, Pangasinan and is nearly 200 km north of Metro Manila."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68704605102538,
+          16.14452565168874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xiaowan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Xiaowan_Dam",
+        "comment": "The Xiaowan Dam is an arch dam on the Lancang (Mekong) River in Nanjian County, Yunnan Province, southwest China. The primary purpose of the dam is hydroelectric power generation and it supports a 4,200 MW power station. Constructed between 2002 and 2010."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.09145736694336,
+          24.706291451079885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicoasén Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chicoasen_Dam",
+        "comment": "The Chicoasén Dam (officially known as Manuel M. Torres) is an embankment dam and hydroelectric power station on the Grijalva River near Chicoasén in Chiapas, Mexico. The dam's power plant, known as \"Manuel Moreno Torres\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.10020446777342,
+          16.94154338391245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angostura Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Angostura_Dam_(Mexico)",
+        "comment": "The Angostura Dam (officially known as Belisario Domínguez) is an embankment dam and hydroelectric power station on the Grijalva River near Venustiano Carranza in Chiapas, Mexico. The dam's power plant contains 5 x 180 MW, 3 x 310 MW Francis turbine-generators."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.77851104736328,
+          16.401506313368778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpaso Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Malpaso_Dam",
+        "comment": "The Malpaso Dam, officially known as the Nezahualcóyotl Dam, is located in the Centro region of Chiapas, Mexico near the border with Tabasco and Veracruz. It was the first of several major dams built on the Grijalva River to generate hydroelectric energy and has the second largest reservoir in Mexico, after the Belisario Dominguez Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5980224609375,
+          17.180155043474496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peñitas Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Penitas_Dam",
+        "comment": "The Peñitas Dam, also known as Ángel Albino Corzo, is a dam with a hydro-electric power station on the river Rio Grijalva, 83 km south west of the city of Villahermosa, lying in the municipality of Ostuacán in the state of Chiapas in southern Mexico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.45897674560547,
+          17.446629518119316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuozhadu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nuozhadu_Dam",
+        "comment": "Nuozhadu Dam is an embankment dam on the Lancang (Mekong) River in Yunnan Province, southwest China. The dam is 261.5 m (858 ft) tall, and creates a reservoir with a normal capacity of 21,749,000,000 m3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41606903076172,
+          22.659640758754808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehri Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tehri_Dam",
+        "comment": "The Tehri Dam is the highest dam in India and one of the tallest in the world. It is a multi-purpose rock and earth-fill embankment dam on the Bhagirathi River near Tehri in Uttarakhand, India. It is the primary dam of the THDC India Ltd."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.48564147949219,
+          30.380872336135198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauvoisin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mauvoisin_Dam",
+        "comment": "Mauvoisin Dam is a concrete variable radius arch dam across the Val de Bagnes on the Dranse de Bagnes stream, in the canton of Valais, Switzerland. Initial construction on the dam commenced in 1951 and was completed in 1957, with the reservoir filling by 1958. In 1991, the dam was raised to increase the capacity of the reservoir for winter storage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3491668701171875,
+          45.99803488083976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alberto Lleras Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guavio_Dam",
+        "comment": "The Alberto Lleras Dam, also known as the Guavio Dam, is a rock-fill embankment dam on the Guavio River near Guavio, Colombia. The dam was built in 1989 with a height of 243 m. The dam has an installed hydroelectric generation capacity of 1,150 MW, a crest length of 390 m, and a structural volume of 17,100,000 m3.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.48325729370117,
+          4.7249363868940195
+        ]
+      }
     }
   ]
 }
