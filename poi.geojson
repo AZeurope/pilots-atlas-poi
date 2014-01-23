@@ -7830,6 +7830,55 @@
           54.36375806691923
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Obukhovsky Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Big_Obukhovsky_Bridge",
+        "comment": "The Bolshoi Obukhovsky Bridge is the newest bridge across the Neva River in Saint Petersburg, Russia. It is also the only bridge across the Neva which is not a drawbridge.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.492897033691403,
+          59.854126723737195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zolotoy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Zolotoy_Rog_bridge",
+        "comment": "The Zolotoy Bridge is cable-stayed bridge across the Zolotoy Rog bay in Vladivostok, Russia. The Zolotoy Rog Bridge was one of two bridges along with the Russky Island Bridge built in preparation for the 2012 APEC summit. Construction of the bridge began on the 25 July 2008 and the bridge was officially opened on 11 August 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8960189819336,
+          43.1105078725329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honshū–Shikoku Bridge Project",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Honshu-Shikoku_Bridge_Project",
+        "comment": "The Honshu-Shikoku Bridge Project is a system of bridges connecting the islands of Honshu and Shikoku across the Inland Sea of Japan, which were previously only connected by ferry. It consists of three major connections. All bridges are now controlled by the Honshu-Shikoku Bridge Expressway Company and the Japan Expressway Holding and Debt Repayment Agency. The system consists of three expressways and their respective bridge systems."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0609130859375,
+          34.14590795200977
+        ]
+      }
     }
   ]
 }
