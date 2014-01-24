@@ -9259,6 +9259,38 @@
           39.15961564104208
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahid Abbaspour Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shahid_Abbaspour_dam",
+        "comment": "The Shahid Abbaspour Dam (also known as Karun-1 Dam) is a large arch dam providing hydroelectricity from the Karun River; it is located about 50 kilometres (31 mi) northeast of Masjed Soleiman, in the province of Khuzestan, Iran, and originally completed in 1976, and formerly named \"Reza Shah Kabir Dam\". The dam was the first of a series of dams planned for development on the Karun River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.61151123046875,
+          32.088392208449804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darbandikhan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Darbandikhan_Dam",
+        "comment": "The Darbandikhan Dam is a multi-purpose embankment dam on the Diyala River in northern As Sulaymaniyah Governorate, Iraq. It was constructed between 1956 and 1961. The purpose of the dam is irrigation, flood control, hydroelectric power production and recreation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.70964813232422,
+          35.11288774843568
+        ]
+      }
     }
   ]
 }
