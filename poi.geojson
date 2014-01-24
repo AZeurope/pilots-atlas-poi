@@ -8232,6 +8232,118 @@
           -18.774365650676245
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blowering Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Blowering_Dam",
+        "comment": "Blowering Dam is a major ungated rock fill with clay core embankment dam with concrete chute spillway across the Tumut River upstream of Tumut in the Snowy Mountains region of New South Wales, Australia. The dam's purpose includes flood mitigation, hydro-power, irrigation, water supply and conservation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.24590682983398,
+          -35.40094441143426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burrendong Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Burrendong_Dam",
+        "comment": "Burrendong Dam is a rock-fill embankment major gated dam with a clay core across the Macquarie River upstream of Wellington in the central west region of New South Wales, Australia. The dam's purpose includes flood mitigation, irrigation, water supply and hydro-electric power generation. The dam impounds Lake Burrendong and is filled by the waters from the Macquarie and Cudgegong rivers and Meroo Creek."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.10816192626953,
+          -32.66625768038976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burrinjuck Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Burrinjuck_Dam",
+        "comment": "Burrinjuck Dam is a major gated concrete-walled gravity dam with three spillways across the Murrumbidgee River located in the South West Slopes region of New South Wales, Australia. The dam's purpose includes flood mitigation, hydro-power, irrigation, water supply and conservation. The impounded reservoir is called Lake Burrinjuck."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.59283447265625,
+          -34.99962864712694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaffey Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chaffey_Dam",
+        "comment": "Chaffey Dam is a minor ungated rock fill with clay core embankment dam with an uncontrolled morning glory spillway across the Peel River, located upstream of the city of Tamworth, in the New England region of New South Wales, Australia. The dam's purpose includes flood mitigation, irrigation, water supply, and water conservation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12655639648438,
+          -31.354809686417838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chichester Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chichester_Dam",
+        "comment": "Chichester Dam is a minor concrete gravity dam across the Chichester and Wangat rivers, upstream of Dungog, in the Hunter Region of New South Wales, Australia. The dam's main purpose is water supply for the Hunter-Lake Macquarie conurbation. A mini hydro-electric power station operates at times of peak flow and is connected to the national grid. The impounded reservoir is Lake Chichester."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.68668746948242,
+          -32.23639921954593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenbawn Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Glenbawn_Dam",
+        "comment": "Glenbawn Dam is a major ungated earth and rock fill with clay core embankment dam with concrete chute spillway plus fuse plugs across the Hunter River upstream of Aberdeen in the Hunter region of New South Wales, Australia. The dam's purpose includes flood mitigation, hydro-electric power, irrigation, water supply and conservation. The impounded reservoir is called Lake Glenbawn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99334716796875,
+          -32.08548343029053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hume Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hume_Dam",
+        "comment": "Hume Dam, formerly the Hume Weir, is a major dam across the Murray River downstream of its junction with the Mitta River in the Riverina region of New South Wales, Australia. The dam's purpose includes flood mitigation, hydro-power, irrigation, water supply and conservation. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.03208923339844,
+          -36.110975158692476
+        ]
+      }
     }
   ]
 }
