@@ -9115,6 +9115,86 @@
           -30.493355333853494
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embalse La Paloma",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_La_Paloma",
+        "comment": "Embalse La Paloma is an artificial lake located 27 km southeast of the city of Ovalle, in the Coquimbo Region, Chile. Although its primary purpose is to provide water for irrigation, the reservoir is also a popular recreational spot for locals and visitors. It was inaugurated in 1968."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00395202636719,
+          -30.70641975748972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Rapel",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Rapel",
+        "comment": "Lake Rapel is an artificial lake created by a dam on the Rapel River. It is located in the Libertador General Bernardo O'Higgins Region, Central Chile. The reservoir was created with the aim of feeding the Rapel Hydroelectric Plant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.48323059082031,
+          -34.13681505826533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colbún Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Colbun_Lake",
+        "comment": "Colbún Lake is a reservoir in the Maule Region in Chile, straddling the provinces of Talca (comuna of San Clemente) and Linares (comuna de Colbún). Located 48 km southeast of the city of Talca, the regional capital and 35 km northeast of the city of Linares and with an area of 5,700 hectares and a capacity of 1,490,000 m³, it is the largest artificial reservoir in Chile. The lake lies at an altitude of 440 metres above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25869750976562,
+          -35.68407153314097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laguna del Maule",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Laguna_del_Maule",
+        "comment": "Laguna del Maule is a lake located in the Andes of Central Chile. The lake is natural in origin but its water level was raised by a dam inaugurated in 1957. It has a capacity of 1,420 million m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50338745117188,
+          -36.05798104702501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laja Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Laja_Lake",
+        "comment": "Laguna del Laja is a lake located in the Bío-Bío Region of Chile. The lake borders and gives its name to Laguna del Laja National Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29302978515625,
+          -37.35050947036204
+        ]
+      }
     }
   ]
 }
