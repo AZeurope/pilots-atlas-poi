@@ -8760,6 +8760,152 @@
           -16.304323337114724
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikato River",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Waikato_River",
+        "comment": "The Waikato River is the longest river in New Zealand, running for 425 kilometres through the North Island. It rises in the eastern slopes of Mount Ruapehu, joining the Tongariro River system and emptying into Lake Taupo, New Zealand's largest lake. It drains Taupo at the lake's northeastern edge, creates the Huka Falls, and then flows northwest, through the Waikato Plains. It empties into the Tasman Sea south of Auckland, at Port Waikato. It gives its name to the Waikato Region that surrounds the Waikato Plains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75128173828125,
+          -37.34614261324679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clutha River",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Clutha_River",
+        "comment": "The Clutha River / Mata-Au is the second longest river in New Zealand flowing south-southeast 338 kilometres (210 mi) through Central and South Otago from Lake Wanaka in the Southern Alps to the Pacific Ocean, 75 kilometres (47 mi) south west of Dunedin. It is the highest volume river in New Zealand, and the swiftest, with a catchment of 21,960 square kilometres (8,480 sq mi), discharging a mean flow of 614 cubic metres per second (21,700 cu ft/s)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.8101806640625,
+          -46.3440836292502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Ruapehu",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Ruapehu",
+        "comment": "Mount Ruapehu, or just Ruapehu, is an active stratovolcano at the southern end of the Taupo Volcanic Zone in New Zealand. It is 23 kilometres northeast of Ohakune and 40 kilometres southwest of the southern shore of Lake Taupo, within Tongariro National Park. The North Island's major skifields and only glaciers are on its slopes. Ruapehu is one of the world's most active volcanoes[2] and the largest active volcano in New Zealand.",
+        "date": "",
+        "elevation (meter)": 2.797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.56341171264648,
+          -39.27485610482324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohakuri Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ohakuri_Power_Station",
+        "comment": "Ohakuri is a dam and hydroelectric power station on the Waikato River, central North Island, New Zealand, midway between Taupo, Rotorua and Hamilton. Its dam is about 5 km upstream of the Atiamuri Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0943603515625,
+          -38.41028922995157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Arapuni",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Arapuni",
+        "comment": "Lake Arapuni is one of several artificial lakes formed as part of a hydroelectricity scheme on the Waikato River in the North Island of New Zealand. It is 65 km (40 mi) southeast of Hamilton, to the north of Mangakino. The dam, at the small settlement of Arapuni at the lake's northern end, was the first constructed on the Waikato, and was completed in 1929. The lake occupies an area of 9 km2 (3.5 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.63568115234375,
+          -38.137256975913346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karapiro Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karapiro_Power_Station",
+        "comment": "The Karapiro Power Station is a hydroelectric power station on Waikato River, in the North Island of New Zealand. The power station station lies on Lake Karapiro, 30 kilometres (19 mi) upstream from the city of Hamilton. Karapiro is the last of the eight hydroelectric power stations on the Waikato River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.54401397705078,
+          -37.922263660236695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clyde Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Clyde_Dam",
+        "comment": "The Clyde Dam, New Zealand's third largest hydroelectric dam, is built on the Clutha River near the town of Clyde. It is owned and operated by Contact Energy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.30892944335938,
+          -45.17840682147141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonki Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yonki_Dam",
+        "comment": "Yonki Dam is an earth-fill embankment dam over the Ramu River that supports the Ramu 1 hydroelectric power plant and the (under construction) Yonki Toe of Dam power plant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98289489746094,
+          -6.255919498648177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alicurá Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Alicura_Dam",
+        "comment": "The Alicurá Dam is the first of five dams on the Limay River in northwestern Argentine Patagonia (the Comahue region), about 100 km from the city of San Carlos de Bariloche and 705 m above mean sea level. It was inaugurated in 1985."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.77255249023438,
+          -40.578498625110434
+        ]
+      }
     }
   ]
 }
