@@ -8440,6 +8440,198 @@
           -20.580081709180345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Paradise_Dam_(Queensland)",
+        "comment": "Paradise Dam, also known as the Burnett River Dam, is a dam in Queensland, Australia located on the Burnett River. The dam is situated approximately 20 kilometres (12 mi) north-west of Biggenden and 80 km (50 mi) south-west of Bundaberg. The dam is named for the ghost town of Paradise, which is now under water following construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89285278320312,
+          -25.35333404931944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross River Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ross_River_Dam",
+        "comment": "The Ross River Dam is located at the end of Riverway Drive in the city of Townsville, Australia, and is the major water supply for the region. It was constructed by Leighton Holdings[2] in 1971 for the purposes of flood mitigation and water storage. The dam has a capacity of 250 000 megalitres (after the spillway upgrade) and an earth rock embankment 8.35 kilometres in length and 27 metres in height (the longest in the southern hemisphere) and occupies a catchment area of 750 km2 with a concrete spillway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74129486083984,
+          -19.414468637429476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wivenhoe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wivenhoe_Dam",
+        "comment": "Wivenhoe Dam is a dam across the Brisbane River upstream from Lockyer Creek in Queensland, Australia. The dam creates the artificial Lake Wivenhoe. The dam wall is located about 80 kilometres (50 mi) by road from the centre of Brisbane."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.62962341308594,
+          -27.39554577800743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Valley Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Happy_Valley_Reservoir",
+        "comment": "The Happy Valley Reservoir is a water reservoir located in Adelaide, Australia. Constructed when the total population of Adelaide numbered 315,200 (1893 census), the Happy Valley Reservoir now supplies over a half a million people, from Adelaide's southern extent to the city-centre. It is also home to lots of wildlife including many kangaroos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.56952667236328,
+          -35.073559963667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Bold Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mount_Bold_Reservoir",
+        "comment": "Mount Bold Reservoir is the largest reservoir in South Australia with a maximum capacity of over forty-six thousand megalitres. Costing A$1.1 million, the reservoir took six years to construct on the Onkaparinga River system between 1932 and 1938. The reservoir does not connect directly to the main reticulation system; rather, to maintain levels at Clarendon Weir, water is released only as required. Much of the water from Mount Bold will eventually end up at Happy Valley Reservoir and used to supply parts of the Mount Lofty Ranges and also Adelaide."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.68385314941406,
+          -35.11906610423393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myponga Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Myponga_Reservoir",
+        "comment": "The Myponga Reservoir is a reservoir in South Australia, located about 60 km south of Adelaide near the town of Myponga. The reservoir is fed by the Myponga River and other rivers in the Myponga catchment. It provides about 5% of the City of Adelaide's water supply and is the main source of filtered water for southern metropolitan Adelaide and the southern coast area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4237003326416,
+          -35.4019938370093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Para Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/South_Para_Reservoir",
+        "comment": "South Para Reservoir is the second largest reservoir in South Australia, behind Mount Bold Reservoir, and the principal reservoir of the South Para River system. The reservoir's large capacity of around 45,330 megalitres and its location in the catchment area mean that it only ever fills completely once in every five years."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.86100769042966,
+          -34.688133705394165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Lake (South Australia)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Blue_Lake_(South_Australia)",
+        "comment": "The Blue Lake in Mount Gambier, South Australia is a large monomictic lake located in an extinct volcanic maar associated with the Mount Gambier maar complex. It is one of four crater lakes on Mount Gambier. Of the four lakes, only two remain, as the other two (Leg of Mutton and Brown) have dried up over the past 30 to 40 years as the water table has dropped."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.77674865722656,
+          -37.84720589601068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Burbury",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Burbury",
+        "comment": "Lake Burbury is a man-made lake created by the Crotty Dam made by Hydro Tasmania inundating the upper King River valley that lies east of the West Coast Range. Its waters feed the John Butters Hydroelectric Power Station. It was named after Stanley Burbury former Governor of Tasmania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65673828125,
+          -42.083955124137056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Gordon",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Gordon",
+        "comment": "Lake Gordon is a reservoir created by the Gordon Dam on the upper reaches of the Gordon River in south-west Tasmania, Australia. The reservoir was formed in the early 1970s as a result of the dam construction by the HEC. It was the largest and most controversial hydro-electric power scheme in Tasmania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24176025390625,
+          -42.751045990383524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Lake (Tasmania)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Great_Lake_(Tasmania)",
+        "comment": "The Great Lake is a lake located in the central north region of Tasmania, Australia, within the sparsely inhabited Central Highlands municipality. Its original size was much smaller; it has been dammed at its southern outflow for hydro-electricity production. It is Australia's second largest freshwater lake (Lake Pedder is considered to be the largest), 1,030 metres above sea level. The lake has an area of 114 km². It is used for hydro-electric power, fishing, and tourism."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75399780273438,
+          -41.8537078883212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Pedder",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pedder",
+        "comment": "Lake Pedder was once a natural lake, located in the southwest of Tasmania, Australia but the name is now used in an official sense to refer to the much larger artificial impoundment and diversion lake formed when the original lake was expanded by damming in 1972 by the Hydro Electric Commission of Tasmania. The new Lake Pedder has an area of about 242 km² and it is considered to be the largest freshwater lake in Australia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.14974975585938,
+          -42.94838139765314
+        ]
+      }
     }
   ]
 }
