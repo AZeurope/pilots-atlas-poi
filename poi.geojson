@@ -9227,6 +9227,38 @@
           31.59842225781247
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karkheh Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karkheh_dam",
+        "comment": "The Karkheh Dam is a large multi-purpose earthen embankment dam built in Iran on the Karkheh River in 2001 by the Islamic Revolutionary Guards Corps (IRGC)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.129730224609375,
+          32.49412607839163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khoda Afarin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Khoda_Afarin_Dam",
+        "comment": "Khoda Afarin Dam is an earth-fill embankment dam on the Aras River straddling the border between Iran and Azerbaijan. It is located 8 km (5 mi) west ofKhomarlu in East Azerbaijan Province, Iran and 14 km (9 mi) southwest of Soltanlı in Jabrayil Rayon, Azerbaijan. It is located 1 km (1 mi) upstream of the Khodaafarin Bridges. The purpose of the dam is hydroelectricpower generation and irrigation. It was conceived as a joint project with the Soviet Union and both sides reached an agreement in October 1977."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.922264099121094,
+          39.15961564104208
+        ]
+      }
     }
   ]
 }
