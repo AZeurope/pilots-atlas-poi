@@ -9613,6 +9613,70 @@
           22.2280904167845
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almatti Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Almatti_Dam",
+        "comment": "The Almatti Dam is a dam project on the Krishna River in North Karnataka, India which was completed in July 2005. The target annual electric output of the dam is 560 MU (or GWh)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.88462829589844,
+          16.333648040019785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maithon Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Maithon_Dam",
+        "comment": "The Maithon Dam is located at Maithon, 48 km from Dhanbad, in the state of Jharkhand. It is 15,712 ft (4,789 m) long and 165 ft (50 m). high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.80915832519531,
+          23.789114694076385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Konar_Dam",
+        "comment": "Konar dam is the second of the four multi-purpose dams included in the first phase of the Damodar Valley Corporation.. It was constructed across the Konar River, a tributary of the Damodar Riverin Hazaribagh district in the Indian state of Jharkhand and opened in 1955. The place has scenic beauty and has been developed as a recreational spot."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.76545715332031,
+          23.9373100948755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilaiya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tilaiya_Dam",
+        "comment": "Tilaiya dam was the first of the four multi-purpose dams included in the first phase of the Damodar Valley Corporation. It was constructed across the Barakar River, at Tilaiya in Koderma district in the Indian state of Jharkhand and opened in 1953."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.52495956420898,
+          24.3222274476975
+        ]
+      }
     }
   ]
 }
