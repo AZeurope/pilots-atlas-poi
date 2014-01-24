@@ -8632,6 +8632,134 @@
           -42.94838139765314
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomson River Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Thomson_Reservoir",
+        "comment": "The Thomson Dam is located on the Thomson River about 130 km east of Melbourne in Gippsland near the former township of Beardmore and the Baw Baw National Park. Despite opposition from conservationists and farmers, plans for the dam were originally approved in late December 1975 to provide Melbourne with water security. A dam on the Thomson river was preferred because the river had a large flow, high water quality and was elevated high enough to provide water to the upper Yarra system by gravity flow."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3976287841797,
+          -37.84015683604134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yan Yean Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yan_Yean_Reservoir",
+        "comment": "Yan Yean Reservoir is the oldest water supply for the city of Melbourne, Australia. It is built on the Plenty River a tributary of the Yarra River, 30 km north of the city. A 9.5 metre embankment holds back 30,000 megalitres (30 million cubic metres) of water. Work began in 1853 at the height of the gold rush, and it took four years to construct at a cost of £750,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.13626098632812,
+          -37.55764242679522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waranga Basin",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Waranga_Basin",
+        "comment": "Waranga Basin is a reservoir forming part of the Goulburn River irrigation system in Victoria, Australia. It is located in Shire of Campaspe near the City of Greater Shepparton and is located near the townships of Tatura, Rushworth and Murchison. It covers an area of 58.5 square kilometres at full capacity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08819580078125,
+          -36.54053616262898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dartmouth Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dartmouth_Dam",
+        "comment": "Dartmouth Dam is a large dam on the Mitta Mitta River in the north-eastern portion of the Australian state of Victoria. The dam creates the artificial Lake Dartmouth, storing water from the Victorian \"High Country's\" snow fields for summer release into the Mitta Mitta (and the downstream Lake Hume) and subsequently into the greater Murray River for irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.53334045410156,
+          -36.56260003738545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocklands Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Rocklands_Reservoir",
+        "comment": "Rocklands Reservoir is created by a major ungated gravity dam across the Tooma River in the Wimmera region of Victoria, Australia. The reservoir is the largest reservoir within Grampians-Wimmera-Malle Water's (GWMWater) water supply system and is located on the Glenelg River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0085906982422,
+          -37.28060928450999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundaring Weir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mundaring_Weir",
+        "comment": "Mundaring Weir is the name of a dam (and historically the adjoining locality) which are located 39 kilometres (24 mi) from Perth, Western Australia in the Darling Scarp. It is situated in the Mundaring locality. The dam crosses the Helena River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.19861602783203,
+          -31.976046224524232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serpentine Dam (Western Australia)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Serpentine_Dam,_Western_Australia",
+        "comment": "The Serpentine Dam is one of the major water supply dams for Perth, Western Australia. The dam is used to store water which is released at a controlled rate to regulate the level in Serpentine Pipehead Dam, which in turn feeds water to the metropolitan trunk main network depending on demand. Construction of the dam was completed in 1961."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1096954345703,
+          -32.40373352326638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Argyle",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Argyle",
+        "comment": "Lake Argyle is Australia's largest artificial lake by volume. It is part of the Ord River Irrigation Scheme and is located near the East Kimberley (Western Australia) town of Kununurra. The lake flooded large parts of the Shire of Wyndham-East Kimberley on the Kimberley Plateau about eighty kilometres inland from the Joseph Bonaparte Gulf, close to the border with the Northern Territory."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.7432861328125,
+          -16.304323337114724
+        ]
+      }
     }
   ]
 }
