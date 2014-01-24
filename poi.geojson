@@ -9340,6 +9340,55 @@
           34.11407854333859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kut Barrage",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kut_Barrage",
+        "comment": "The Kut Barrage is a barrage on the Tigris river, located in the modern town of Kut in Wasit Governorate, Iraq. It is 516 metres (1,693 ft) long, 10.5 metres (34 ft) high and consists of 56 gates, each 6 metres (20 ft) wide. The maximum discharge of the barrage is 6,000 cubic metres (7,800 cu yd), but actual discharge has not exceeded 2,000 cubic metres (2,600 cu yd) in the last 10 years. The barrage supports a road and includes a lock for boats passing up and down the Tigris."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.82672119140625,
+          32.49644264363212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosul Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mosul_Dam",
+        "comment": "Mosul Dam or Chambarakat Dam, formerly known as Saddam Dam (Arabic, the largest dam in Iraq. It is located on the Tigris River in the western governorate of Ninawa, upstream of the city of Mosul. The hydroelectric dam holds, at full capacity, about 11.1 cubic kilometres (2.7 cu mi) of water and provides electricity to the 1.7 million residents of Mosul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.84255981445312,
+          36.63757008123925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samarra Barrage",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Samarra_Dam",
+        "comment": "Samarra Barrage is a multi-purpose barrage on the Tigris River adjacent (west) of Samarra and north of Baghdad, Iraq. The main purpose of the dam is to divert floodwater in the Tigris River to Lake Tharthar through the Thar Thar depression along with irrigation and an 84 MW hydro-electricity station.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.84849548339843,
+          34.199308935560154
+        ]
+      }
     }
   ]
 }
