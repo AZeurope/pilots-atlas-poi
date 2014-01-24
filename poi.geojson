@@ -9774,6 +9774,70 @@
           10.245330143029308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bansagar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bansagar_Dam",
+        "comment": "Bansagar or Ban Sagar Dam is a multipurpose Rriver Valley Project on Sone River situated in the Ganges Basin in Madhya Pradesh, India envisaging both irrigation andhydroelectric power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.265869140625,
+          24.20939467509706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandhi Sagar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gandhi_Sagar_Dam",
+        "comment": "The Gandhi Sagar Dam is one of the four major dams built on India's Chambal River. The dam is located in the Mandsaur district of the state of Madhya Pradesh. It is a masonry gravity dam, standing 62.17 metres (204.0 ft) high, with a gross storage capacity of 7.322 billion cubic metres from a catchment area of 22,584 km2 (8,720 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.552978515625,
+          24.710657915365616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mula Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mula_Dam",
+        "comment": "Mula Dam is an earthfill and gravity dam on Mula river near Rahuri in Ahmednagar district of the state of Maharashtra in India."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.59236145019531,
+          19.329286698998803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koyna Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Koyna_Dam",
+        "comment": "The Koyna Dam is the largest dams in Maharashtra, India. It is a rubble-concrete dam constructed on Koyna River which rises in Mahabaleshwar, a hillstation in Sahyadri ranges. It is located in Koyna Nagar, Satara district, nestled in the Western Ghats on the state highway between Chiplun and Karad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75328063964844,
+          17.404045811472205
+        ]
+      }
     }
   ]
 }
