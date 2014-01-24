@@ -9677,6 +9677,103 @@
           24.3222274476975
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kodasalli Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kodasalli_Dam",
+        "comment": "Kodasalli Dam is built across the Kali River (Kalinadi) in Yellapura taluk of Uttara Kannada district of Karnataka state, India. This dam was built by Karnataka Power Corporation Limited. This electric power generating station is classified as hydroelectric power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.53468322753906,
+          14.920236947679884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krishna Raja Sagara",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Krishna_Raja_Sagara",
+        "comment": "Krishna Raja Sagara, also popularly known as KRS, is the name of both a lake and the dam that creates it. It is located close to the settlement of Krishnarajasagara. The dam is across Kaveri River, in Mandya District near Mysore in Karnataka state, India. There is an ornamental garden attached to the dam, called Brindavan Gardens."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.57848358154297,
+          12.426183063336318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narayanpur Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Narayanpur_Dam",
+        "comment": "Basava Sagar Dam or Narayanpur Dam is a dam constructed across the Krishna River. Located at Narayanapur in Yadgir district, Karnataka, India, the reservoir that it impounds is known as Basava Sagar, and has a total storage capacity of 37.6 tmcft (1.075 km³), with 30.5 tmcft (0.85 km³) live storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32614135742188,
+          16.21863054208692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malampuzha Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Malampuzha_Dam",
+        "comment": "Malampuzha Dam is the largest reservoir in Kerala, located near Palakkad in south India with the scenic hills of the Western Ghats in the background. It is a combination of a masonry dam with a length of 1,849 metres and an earthen dam with a length of 220 metres. The dam is 6,066 feet high and crosses the Malampuzha River, a tributary of Bharathappuzha, Kerala's second longest river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68525695800781,
+          10.834317594265826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parambikulam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Parambikulam_Dam",
+        "comment": "Parambikulam Dam is an embankment dam on the Parambikulam River,  Parambikulam located in the Palakkad district in the Western Ghats of Kerala, India, ranks number one in India as well as in the top ten embankment dams in the world in volume in the year 2000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.80130004882812,
+          10.385168447070184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idamalayar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Idamalayar_Dam",
+        "comment": "The Idamalayar Dam is a multipurpose concrete gravity dam located at Ennakal, near Bhoothathankettu, on the Idamalayar River, a tributary of the Periyar River in Kerala,South India. Completed in 1985, with a length of 373 metres (1,224 ft), the dam created a multipurpose reservoir covering 28.3 km2 (10.9 sq mi) in the scenic hills of the Western Ghats.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.73057556152344,
+          10.245330143029308
+        ]
+      }
     }
   ]
 }
