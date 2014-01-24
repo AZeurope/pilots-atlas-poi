@@ -9291,6 +9291,55 @@
           35.11288774843568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diyala Weir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Diyala_Weir",
+        "comment": "Diyala Weir is a diversion dam on the Diyala River 90 km northeast of Baghdad, Iraq. The main purpose of the dam is to divert outflow of the Hemrin Dam (11 km upstream) on the Diyala River to the Khalis and Sadr Al-Mushtarak canals for irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.98180389404297,
+          34.06488992740197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dukan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dukan_Dam",
+        "comment": "The Dukan Dam is a multi-purpose concrete arch dam in As Sulaymaniyah Governorate, Iraq. It impounds the Little Zab, thereby creating Lake Dukan. The Dukan Dam was built between 1954 and 1959 whereas its power station became fully operational in 1979. The dam is 360 metres (1,180 ft) long and 116.5 metres (382 ft) high and its hydroelectric power station has a maximum capacity of 400 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95811462402344,
+          35.954664894270834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hemrin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hemrin_Dam",
+        "comment": "The Hemrin Dam is a dam on the Diyala River 100 km northeast of Baghdad, Iraq. The main purpose of the dam is flood control, irrigation and hydroelectric generation. Its power station has a 50 MW capacity. The dam and the attached power house were built in years 1976-1981 by the then Yugoslav company GIK Hidrogradnja.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.97047424316406,
+          34.11407854333859
+        ]
+      }
     }
   ]
 }
