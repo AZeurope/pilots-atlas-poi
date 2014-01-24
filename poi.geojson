@@ -8344,6 +8344,102 @@
           -36.110975158692476
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warragamba Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Warragamba_Dam",
+        "comment": "Warragamba Dam, a concrete gravity dam, creates Lake Burragorang, the primary reservoir for water supply for the Australian city of Sydney, New South Wales."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.58874130249023,
+          -33.88580745357737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woronora Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Woronora_Dam",
+        "comment": "Woronora Dam collects water from the catchment of the Woronora River, which drains into the dam and then to Georges River. The dam supplies water to residents within the Sutherland Shire in Sydney's south and also the northern Illawarra suburbs of Helensburgh, Otford, Stanwell Tops, Stanwell Park and Coalcliff."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9330940246582,
+          -34.1096726365133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burdekin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Burdekin_Dam",
+        "comment": "Burdekin Dam (or Burdekin Falls Dam) is located on the Burdekin River in Queensland, Australia south west of Ayr, and Home Hill. The body of water held by the dam is also known as Lake Dalrymple. Burdekin Dam is managed by SunWater. The dam provides drinking water for twin cities of Thuringowa and Townsville and a large irrigation scheme. Water from the dam is also used to replenish downstream aquifers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1460723876953,
+          -20.648205934292623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copperlode Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Copperlode_Dam",
+        "comment": "Copperlode Dam or Lake Morris is a fresh water reservoir dam servicing the city of Cairns, Queensland, Australia. The dam is located in the range immediately west of the city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67853927612302,
+          -16.983248530690656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairbairn Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fairbairn_Dam",
+        "comment": "Fairbairn Dam is located 25 kilometres southwest of Emerald, in Central Queensland, almost on top of the Tropic of Capricorn line. Fairbairn Dam was constructed in 1972 across the Nogoa River \"Gap\" creating Lake Maraboon and is Queensland's second largest lake. Maraboon is the Aboriginal for \"where the black ducks fly\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06102752685547,
+          -23.649556122147732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Moondarra",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Moondarra",
+        "comment": "Lake Moondarra is an artificial lake on the Leichhardt River in Queensland, Australia, 16 km downstream from the town of Mount Isa. It provides water to the town and the adjacent Mount Isa Mines (MIM) mining lease. Construction began on the Leichhardt Dam in 1956, and was completed on 6 November 1958 at a cost of £1.7 million. The dam was built for Mount Isa Mines and, at the time, was the largest water scheme in Australia financed by private enterprise."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56928253173825,
+          -20.580081709180345
+        ]
+      }
     }
   ]
 }
