@@ -9389,6 +9389,102 @@
           34.199308935560154
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fallujah Barrage",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fallujah_Barrage",
+        "comment": "The Fallujah Barrage is a barrage on the Euphrates near Fallujah in Al Anbar Governorate, Iraq. Construction of the barrage was completed in 1985. Unlike many other dams in the Euphrates, the Fallujah Barrage does not include a hydroelectric power station and its main function is to raise the water level of the river for irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.77124786376953,
+          33.313602383827465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haditha Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Haditha_Dam",
+        "comment": "The Haditha Dam or Qadisiya Dam is an earth-fill dam on the Euphrates, north of Haditha (Iraq), creating Lake Qadisiyah. The dam is just over 9 kilometres (5.6 mi) long and 57 metres (187 ft) high. The purpose of the dam is to generate hydroelectricity, regulate the flow of the Euphrates and provide water for irrigation. It is the second-largest hydroelectric contributor to the power system in Iraq behind the Mosul Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.364654541015625,
+          34.2140734536726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurobe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kurobe_dam",
+        "comment": "The Kurobe Dam, is a variable-radius arch dam on the Kurobe River in Toyama Prefecture on the island of Honshū, Japan. It supports the 335 MW Kurobe No. 4 Hydropower Plant and is owned by Kansai Electric Power Company. At 186 metres (610 ft) high, it is the tallest dam in Japan. It was constructed between 1956 and 1963 at a cost of ¥51.3 billion yen. The project was a difficult engineering feat for the rapidly growing post–World War II Japan, and claimed the lives of 171 people."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6641845703125,
+          36.57059663633864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cirata Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cirata_Dam",
+        "comment": "The Cirata Dam is an embankment dam on the Citarum River in West Java, Indonesia. It is located 100 km (62 mi) southeast of Jakarta. It was constructed between 1984 and 1988 for the primary purpose of hydroelectric power generation. Other purposes include flood control, aquaculture, water supply and irrigation. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.36835479736328,
+          -6.700411542470889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jatiluhur Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jatiluhur_Dam",
+        "comment": "The Jatiluhur Dam is a multi-purpose embankment dam on the Citarum River in West Java, Indonesia. It is located 70 km (43 mi) east of Jakarta, close to the medium-size town of Purwakarta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.39204406738281,
+          -6.5261410295289535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saguling Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Saguling_Dam",
+        "comment": "The Saguling Dam is an embankment dam on the headwater of Citarum River in West Java, Indonesia. It is located 26 km (16 mi) west of Bandung. Construction began in 1983. The reservoir had filled by 1985 and the first generator was operational in 1986."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3686122894287,
+          -6.912538344894274
+        ]
+      }
     }
   ]
 }
