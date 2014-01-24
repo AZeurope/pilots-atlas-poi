@@ -9549,6 +9549,70 @@
           22.497332432882345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Island Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/High_Island_Reservoir",
+        "comment": "The High Island Reservoir, located in the far south eastern part of the Sai Kung Peninsula, was opened in 1978 helping to alleviate water shortage problems in Hong Kong. Its water capacity is approximately 273 million cubic metres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3518829345703,
+          22.375476015564765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plover Cove Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Plover_Cove_Reservoir",
+        "comment": "Plover Cove Reservoir, located within Plover Cove Country Park, in the northeastern New Territories, is the largest reservoir inHong Kong in terms of area, and the second-largest in terms of volume. It was the first in the world to construct a lake from an arm of the ocean. Its main dam was one of the largest in the world at the time of its construction, disconnecting Plover Cove from the sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25437927246094,
+          22.47005097583225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aberdeen Reservoirs",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aberdeen_Reservoirs",
+        "comment": "The Aberdeen Reservoirs are a group of two reservoirs, consisting of the Upper Aberdeen Reservoir and the Lower Aberdeen Reservoir , in Aberdeen, Hong Kong."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16322708129883,
+          22.25704775182728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shek Pik Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shek_Pik_Reservoir",
+        "comment": "Shek Pik Reservoir is a reservoir in Shek Pik on Lantau Island in Hong Kong. Built between 1957 and 1963, it has a storage capacity of 24 million cubic metres and is the third largest reservoir in Hong Kong after High Island Reservoir and Plover Cove Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.89663696289062,
+          22.2280904167845
+        ]
+      }
     }
   ]
 }
