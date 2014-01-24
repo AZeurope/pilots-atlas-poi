@@ -9485,6 +9485,70 @@
           -6.912538344894274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Band-e Amir National Park",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Band-e_Amir",
+        "comment": "Band-e Amir National Park Persian: Afganistan's first national park, located in the Bamyan Province. It is a series of six deep blue lakes separated by natural dams made of travertine, a mineral deposit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.23426818847656,
+          34.84142214166116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kajaki Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kajaki_Dam",
+        "comment": "The Kajakai Dam is one of the two major hydroelectric power dams of Helmand province in southern Afghanistan. The dam is located on the Helmand River 100 miles (161 km) north-west of Kandahar City and is operated by the Helmand and Arghandab Valley Authority. It has a dual function, to provide electricity and to irrigate some 650,000 acres (1800 km²) of an otherwise arid land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.12832641601562,
+          32.319633552035235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Band-e Sardeh Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Band_E_Sardeh_Dam",
+        "comment": "The Band-e Sardeh Dam,  is located in east Andar Districtof Ghazni Province of Afghanistan and was constructed in 1967 (1346 in the Islamic calendar) by the Soviet Union and Afghanistan during the reign of Mohammed Zahir Shah prior to the Soviet War in Afghanistan. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.63536834716797,
+          33.29495143906896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaptai Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kaptai_Dam",
+        "comment": "Kaptai Dam is located on the Karnaphuli River at Kaptai, 65 kilometres (40 mi) upstream from Chittagong in Rangamati District, Bangladesh. It is an earth-fill embankment dam with a reservoir (known as Kaptai Lake) water storage capacity of 6,477,000,000 m3 (5,250,989 acre·ft)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.23159790039062,
+          22.497332432882345
+        ]
+      }
     }
   ]
 }
