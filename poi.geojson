@@ -8906,6 +8906,215 @@
           -40.578498625110434
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Cajón Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Cajon_Dam_(Argentina)",
+        "comment": "The El Cajón Dam is a dam in Córdoba, Argentina, near Capilla del Monte. It is built on the course of the Dolores River, at about 910 m MSL. The wall of the dam is 39 m tall, and creates a reservoir with a surface area of 1.45–1.8 km2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.54793930053711,
+          -30.85670029567069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Chocón Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Chocon_Dam",
+        "comment": "The El Chocón Dam is the fourth of the five dams on the Limay River in the northwestern Argentine Patagonia (the Comahue region), 381 m above mean sea level. El Chocón is on the Limay River at about 80 km (50 mi) upstream of its confluence with the Neuquén River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7359619140625,
+          -39.26203141523747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedra del Águila Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Piedra_del_Aguila_Dam",
+        "comment": "The Piedra del Águila Dam is the second of five dams on the Limay River in northwestern Argentine Patagonia (the Comahue region) and 590 m above mean sea level, downstream from the confluence of the Limay and the Collón Curá River. It was inaugurated in 1993."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99938964843749,
+          -40.1946101038738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto Grande Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Salto_Grande_Dam",
+        "comment": "The Salto Grande Dam is a large hydroelectric dam on the Uruguay River, located between Concordia, Argentina, and Salto, Uruguay; thus is shared between the two countries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.940521240234375,
+          -31.266813252320688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Roque Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/San_Roque_Lake",
+        "comment": "The San Roque Lake is a reservoir (artificial lake) in the province of Córdoba, Argentina. It was created by the damming of several rivers, especially the Suquía and the Cosquín. It is located next to the city of Villa Carlos Paz, about 600 m above mean sea level. It has a surface area of 16 km², an average depth of 16 m, and a maximum volume of 180 million m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.47601318359375,
+          -31.37708906055047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yacyretá Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yacireta_Dam",
+        "comment": "The Yacyretá Dam is a dam and hydroelectric power plant built over the waterfalls of Jasyretâ-Apipé in the Paraná River, between the Argentine Province of Corrientes and the Paraguayan City of Ayolas. The dam is named for Yacyretâ Island just upstream, much of which the dam submerged. The word “Yacyreta” is the Hispanicized spelling of the original Guaraní term Jasyret."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.721038818359375,
+          -27.470505930696984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balbina Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Balbina_Dam",
+        "comment": "The Balbina Dam is a hydroelectric dam and power station on the Uatumã River in the Amazon Rainforest, Brazil. The location is under the municipality of Presidente Figueiredo jurisdiction, in the state of Amazonas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.484100341796875,
+          -1.9016588191044044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Furnas Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Furnas_(lake)",
+        "comment": "The Furnas Dam is a hydroelectric dam in the Minas Gerais state of Brazil. A small settlement was built near the dam with the same name, to house the workers during the dam construction. The main purpose of the dam and reservoir are the production of electricity and the regulation of the flow of the Grande River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.307373046875,
+          -20.665553459115724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarapiranga",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guarapiranga",
+        "comment": "The Reservoir of Guarapiranga (Represa de Guarapiranga) is a reservoir in the southern area of the city of São Paulo, in the State of São Paulo, Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722450256347656,
+          -23.67282625092851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eng Sérgio Motta Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Eng_Sergio_Motta_Dam",
+        "comment": "The Engineer Sérgio Motta Dam, formerly known as the Porto Primavera Dam, is an embankment dam on the Paraná River near Rosana in São Paulo, Brazil. It was constructed between 1980 and 1999 for hydroelectric power production, flood control and navigation. The dam is named for Sergio Roberto Vieira da Motta, a prominent industrial engineer in São Paulo. At 11.380 km (7.071 mi) in length, it is the longest dam in Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9541015625,
+          -22.463071135066755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Antônio Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Santo_Antonio_Dam",
+        "comment": "The Santo Antônio Dam is a hydroelectric dam on the Madeira River 6 km (4 mi) southwest of Porto Velho in the state of Rondônia, Brazil. The dam's run-of-the-river hydroelectric power station will have 44 turbines each rated at 71.6 MW resulting in a total installed capacity of 3,150.4 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.91914367675782,
+          -8.774814198206268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Três Marias Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tres_Marias_Dam",
+        "comment": "The Três Marias Dam, also known as Bernardo Mascarenhas, is an embankment dam on the São Francisco River near Três Marias in Minas Gerais, Brazil. It was constructed for hydroelectric power production and flood control. The dam was completed in 1961 and its first generator was operational in 1962."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.26847839355469,
+          -18.220220521532895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embalse Recoleta",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Embalse_Recoleta",
+        "comment": "Embalse Recoleta is a reservoir located 16 km northeast of the city of Ovalle, in the Coquimbo Region, Chile.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.092529296875,
+          -30.493355333853494
+        ]
+      }
     }
   ]
 }
