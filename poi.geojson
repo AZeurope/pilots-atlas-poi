@@ -9195,6 +9195,38 @@
           -37.35050947036204
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dez Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dez_Dam",
+        "comment": "The Dez Dam is a large hydroelectric dam built in Iran in 1963 by an Italian consortium."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.45794677734375,
+          32.62087018318113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karun-4 Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karun-4_dam",
+        "comment": "The Karun-4 Dam is an arch dam on the Karun River in the province of Chaharmahal and Bakhtiari, Iran. The Karun has the highest discharge of Iran's rivers. The objectives of the construction of Karun-4 dam and hydroelectric power plant are electric power supply and flood control."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4656982421875,
+          31.59842225781247
+        ]
+      }
     }
   ]
 }
