@@ -10142,6 +10142,54 @@
           37.951507326526695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miel I Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Miel_1_Dam",
+        "comment": "The Miel I Dam, officially known as the Patángoras Dam, is a gravity dam on La Miel River just south of Norcasia in Caldas Department, Colombia. The dam was constructed between 1997 and 2002 for the primary purpose of hydroelectric power generation. At the time of its completion, the dam was the tallest roller-compacted concrete (RCC) dam in the world but was surpassed by the Longtan Dam in 2009."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88624572753906,
+          5.561229859957189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguamilpa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aguamilpa_Dam",
+        "comment": "The Aguamilpa Dam is an embankment dam on the Río Grande de Santiago in the Mexican state of Nayarit, 38 km (24 mi) northeast of Tepic. The primary purpose of the dam is hydroelectric power generation and it supplies a 960 MW power station with water. Construction on the dam began in 1989 and it was completed in 1993 while the power station became operational in 1994."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79995727539062,
+          21.837280552802703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pubugou Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pubugou_Dam",
+        "comment": "The Pubugou Dam is a concrete face rock-fill embankment dam on the Dadu River, a tributary of the Yangtze River in Sichuan Province (located in southwestern China). The main purpose of the dam is hydroelectric power generation and its total generating capacity is 3,300 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83632278442383,
+          29.213009494588725
+        ]
+      }
     }
   ]
 }
