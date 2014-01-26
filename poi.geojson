@@ -10542,6 +10542,86 @@
           27.8281463942612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Oaks Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Seven_Oaks_Dam",
+        "comment": "Seven Oaks Dam is a 550-foot (170 m) high earth and rock fill embankment dam across the Santa Ana River, about 4 miles (6.4 km) northeast of Redlands, California in the United States. The dam was proposed in response to major floods in the mid–20th century, and was constructed between 1993 and 2000. Seven Oaks is a dry dam that serves almost exclusively for flood protection to Orange, Riverside and San Bernardino Counties. One of the largest embankment dams in the United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09400177001953,
+          34.12033169446951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongfeng Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dongfeng_Dam",
+        "comment": "The Dongfeng Dam is an arch dam on the Wu River 65 km (40 mi) northwest of Qingzhen in Guizhou Province, China. The primary purpose of the dam is hydroelectric power generation and it supports a 570 MW power station. Construction on the dam began in 1989 and the first generator was operational in 1994, the last in 1995. The generators were up-rated between 2004 and 2005; bringing their capacity from 170 MW each to 190 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.15436553955078,
+          26.856082961885953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mazar_Dam",
+        "comment": "The Mazar Dam is an concrete-face rock-fill dam on the Paute River Cañar Province, Ecuador. The purpose of the dam is hydroelectric power generation and it is located directly upstream of the Paute Dam as part of the Amaluza-Molino project. The dam's power station has an installed capacity of 170 MW. Construction on the dam began in 2004, the generators were commissioned in 2010 and the remaining works were completed in 2011."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6181640625,
+          -2.5908600691466153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kremasta Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kremasta_Dam",
+        "comment": "The Kremasta Dam is an earth-fill embankment dam on the Achelous River in Aetolia-Acarnania, Greece. It is located just downstream of where the Agrafiotis, Tavropos and Trikeriotis rivers meet to form the Achelous. The dam was constructed between 1961 and 1965 and its four 109.3 MW Francis turbine-generators were commissioned between 1966 and 1967. Shortly after the dam's reservoir, Lake Kremasta, was filled a 6.3-Mw earthquake occurred. This has been attributed to reservoir-induced seismicity. Lake Kremasta is the largest artificial lake in Greece."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.496124267578125,
+          38.88996392916758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wujiangdu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wujiangdu_Dam",
+        "comment": "The Wujiangdu Dam is an arch-gravity dam on the Wu River south of Zunyi, Guizhou Province, China. The purpose of the dam is hydroelectric power generation, flood control and navigation. The dam's power stations contain five generators for a total installed capacity of 1,130 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7599868774414,
+          27.321449840012313
+        ]
+      }
     }
   ]
 }
