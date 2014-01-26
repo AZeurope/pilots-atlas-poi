@@ -5260,8 +5260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.685523986816406,
-          41.21185064786496
+          -6.2896728515625,
+          41.25716209782705
         ]
       }
     },
@@ -10044,6 +10044,38 @@
         "coordinates": [
           72.6364517211914,
           41.66021649957396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irapé Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Irape_Dam",
+        "comment": "Irapé Dam, the tallest dam in Brazil, is an embankment dam on the Jequitinhonha River in the state of Minas Gerais. It is on the border of Berilo and Grão Mogol districts, about 26 km (16 mi) west of Virgem da Lapa. The dam was constructed between 2002 and 2006 for the purpose of hydroelectric power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5749397277832,
+          -16.73386566768085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zimapán Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zimapan_Dam",
+        "comment": "The Zimapán Dam, also known as Fernando Hiriart Balderrama Dam, is an arch dam on the Moctezuma River about 15 km (9 mi) southwest of Zimapán in Hidalgo state, Mexico. The primary purpose of the dam is hydroelectric power production and it services a 292 MW power station with water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.49939727783203,
+          20.663947290011482
         ]
       }
     }
