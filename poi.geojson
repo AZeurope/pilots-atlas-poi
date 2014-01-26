@@ -10078,6 +10078,70 @@
           20.663947290011482
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campos Novos Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Campos_Novos_Dam",
+        "comment": "The Campos Novos Dam (also known as Barragem de Campos Novos locally) is a hydroelectric dam in Santa Catarina province in southern Brazil. In 2006, at 200m dam height, it was regarded as the third highest dam of this type (concrete-faced rockfill dam or CFRD) in the world, but, in June 2006, the water which it held back ran out following a break in the dam wall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3255500793457,
+          -27.602019908337024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guangzhao Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guangzhao_Dam",
+        "comment": "The Guangzhao Dam is a concrete gravity dam on the Beipan River near Guangzhao in Guanling County, Guizhou Province, China. The main purpose of the project is hydroelectric power generation with additional purposes of water regulation and irrigation. It creates the uppermost or head reservoir on the Beipan and was constructed between 2003 and 2008."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.25331497192383,
+          25.967459237133394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Bullards Bar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/New_Bullards_Bar_Dam",
+        "comment": "New Bullards Bar Dam is a variable radius concrete arch dam in California on the North Yuba River. Located near the town of Dobbins in Yuba County, the dam forms the New Bullards Bar Reservoir, which can hold about 969,600 acre·ft (1,196,000 dam3) of water. The dam serves for irrigation, drinking water and hydroelectric power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.14057540893555,
+          39.39455055001469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Melones Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/New_Melones_Dam",
+        "comment": "New Melones Dam is an earth and rock filled embankment dam on the Stanislaus River, about 5 mi (8.0 km) west of Jamestown, California in the United States. The water impounded by the 625-foot (191 m)-tall dam forms New Melones Lake, California's fourth largest reservoir, in the foothills of the Sierra Nevada east of the San Joaquin Valley. The dam serves mainly for irrigation water supply, and also provides hydropower generation, flood control and recreation benefits."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.52448272705078,
+          37.951507326526695
+        ]
+      }
     }
   ]
 }
