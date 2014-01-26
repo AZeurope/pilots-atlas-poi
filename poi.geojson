@@ -9838,6 +9838,38 @@
           17.404045811472205
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laxiwa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Laxiwa_Dam",
+        "comment": "The Laxiwa Dam is an arch dam on the Yellow River in Qinghai Province, northwest China. It is 32 km (20 mi) downstream of theLongyangxia Dam and 73 km (45 mi) upstream from the Lijiaxia Dam. The main purpose of the dam is hydroelectric power generation and it supports the largest station in the Yellow River basin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.195068359375,
+          36.075742215627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mica Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mica_Dam",
+        "comment": "The Mica Dam is a hydroelectric dam spanning the Columbia River 135 kilometres north of Revelstoke, British Columbia, Canada. Completed in 1973 under the terms of the 1964 Columbia River Treaty, the Mica powerhouse has a generating capacity of 1,805 megawatts (MW). The dam is operated by BC Hydro. The Mica Dam, named after the nearby settlement of Mica Creek and its associated stream in turn named because of the abundance of mica minerals in the area, is one of the largest earthfill dams in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.57372283935547,
+          52.08098294418278
+        ]
+      }
     }
   ]
 }
