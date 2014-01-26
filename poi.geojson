@@ -10686,6 +10686,86 @@
           28.11801628757283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokuyama Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tokuyama_Dam",
+        "comment": "The Tokuyama Dam is an embankment dam near Ibigawa, Ibi District, Gifu Prefecture in Japan. The dam was completed in 2008 and will support a 153 MW hydroelectric power stationthat is expected to be complete in 2014. The dam was originally intended to withhold the upper reservoir of a 400 MW pumped-storage power station until a design change in 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5014362335205,
+          35.66789587237085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bento Munhoz Hydroelectric Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Foz_do_Areia_Dam",
+        "comment": "The Governor Bento Munhoz da Rocha Netto Hydroelectric Plant, formerly known as Foz do Areia, is dam and hydroelectric power plant on the Iguazu River near Foz do Areia in Paraná, Brazil. It is the furthest dam upstream of the Iguazu Falls and was constructed between 1976 and 1980. The power station has a 1,676 MW capacity and is supplied with water by a concrete face rock-fill embankment dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.66114807128906,
+          -26.005881361953122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jinanqiao Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jinanqiao_Dam",
+        "comment": "The Jinanqiao Dam or Jin'anqiao (meaning \"golden and peace bridge\") is a concrete gravity dam on the Jinsha River 25 km (16 mi) southeast of Lijiang City in Yunnan Province, China. The purpose of the dam ishydroelectric power production and flood control."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44404983520508,
+          26.810436051999734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Leones Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Los_Leones_Dam",
+        "comment": "The Los Leones Dam is a tailings dam on Los Leones River, a tributary of Blanco River, about 56 km (35 mi) northeast of Santiago, in Los Andes Province, Chile. The dam was constructed in segments between 1980 and 1999 and is now used only for emergencies. The dam is 135 m (443 ft) tall on its upstream face and 200 m (656 ft) tall on its downstream face. The height at its axis though is 160 m (525 ft). It is one of the tallest tailings dams in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2524185180664,
+          -32.97266785215161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranjit Sagar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ranjit_Sagar_Dam_Project",
+        "comment": "The Ranjit Sagar Dam, also known as the Thein Dam, is part of a hydroelectric project constructed by the Government of Punjab on the Ravi River in the state of Punjab. The project is situated near Pathankot city in Pathankot District of the state of Punjab. The project is the largest hydroelectric dam in the state of Punjab. The township where the site is located is called Shah pur Kandi Township. Feasibility studies for the project began in 1953 and geotechnical studies continued until 1980. Construction began in 1981."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7291030883789,
+          32.44459523391549
+        ]
+      }
     }
   ]
 }
