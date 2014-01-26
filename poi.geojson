@@ -9934,6 +9934,54 @@
           30.444233985093696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goupitan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goupitan_dam",
+        "comment": "The Goupitan Dam is an arch dam on the Wu River, a tributary of the Yangtze River in Guizhou Province, southwest of China. The dam's hydroelectric facility will operate on five turbines, each with a hydroelectric generating capacity of 600 MW, for a total of 3,000 MW. Constructions began on in 2003 and the first generator was operational in June 2009. All works were completed in 2011."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63460159301758,
+          27.376340481619852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lago di Luzzone",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lago_di_Luzzone",
+        "comment": "Lago di Luzzone is a lake in Ticino, Switzerland. The reservoir has a volume of 108 million m³ and a surface area of 1.27 km². It is located in the upper Blenio valley, on the territory of the municipalities ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.965187072753906,
+          46.56440770742729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiangpinghe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jiangpinghe_Dam",
+        "comment": "The Jiangpinghe Dam is a concrete face rock-fill embankment dam on the Loushui Rivernear Jiangpinghe village, Zouma Town, in Hefeng County in Hubei Province, China. The purpose of the dam is hydroelectric power generation, flood control and irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36916732788086,
+          29.747835364402736
+        ]
+      }
     }
   ]
 }
