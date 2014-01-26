@@ -10190,6 +10190,70 @@
           29.213009494588725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zillergründl Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zillergruendl_Dam",
+        "comment": "The Zillergründl Dam is an arch dam on the Ziller River in the upper Ziller Valley of Tyrol state, Austria. It is 16 km (10 mi) east of Mayrhofen. The primary purpose of the dam is hydroelectric power production and it supports a 360 MW pumped-storage power station. As part of the Zemm-Ziller Development, construction on the dam began in 1981 and it along with the Häusling Pumped Storage Power Plant were complete in 1986. The power plant was fully commissioned by 1988. The dam is the second tallest in Austria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.063331604003904,
+          47.1214245689578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanbanxi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sanbanxi_Dam",
+        "comment": "The Sanbanxi Dam is a concrete face rock-fill embankment dam on the Yuan (Qingshui) River in Jinping County, Guizhou Province, China. The dam houses a hydroelectric power station with 4 x 250 MW generators for a total installed capacity of 1,000 MW. Construction began in 2001 and was complete by 2006."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.06471252441406,
+          26.6051047172447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oymapinar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oymapinar_Dam",
+        "comment": "Oymapinar Dam is an arch dam built on the Manavgat river in Turkey in 1984. It is an arch dam in design, 185 m in height, built to generate hydroelectric power. Oymapınar Dam is located 12 km north of Manavgat Waterfall. It is an artificial, freshwater dam with a capacity of 300 million cubic meters. It is 23 km upstream of Manavgat town 40 km east of city of Antalya in southern Turkey and located on the Manavgat River which runs into the Mediterranean."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.533508300781246,
+          36.90858786063866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barra Grande Hydroelectric Power Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Barra_Grande_Dam",
+        "comment": "The Barra Grande Hydroelectric Power Plant is a dam and hydroelectric power plant on the Pelotas River near Celso Ramos on the border of Santa Catarina and Rio Grande do Sul, Brazil. The power station has a 708 MW capacity and is supplied with water by a concrete face rock-fill embankment dam, the second tallest dam in Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.192512512207024,
+          -27.775911526834257
+        ]
+      }
     }
   ]
 }
