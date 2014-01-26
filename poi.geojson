@@ -9870,6 +9870,70 @@
           52.08098294418278
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ertan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ertan_Dam",
+        "comment": "The Ertan Dam is an arch dam on the Yalong River, a tributary of the Yangtze River in Sichuan Province, southwest China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.78180694580078,
+          26.82560266992461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Esmeralda Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/La_Esmeralda_Dam",
+        "comment": "La Esmeralda Dam is an embankment dam on the Batá River northwest of Santa María in Boyacá Department, Neira Province, Colombia. The primary purpose of the dam is hydroelectric power production and it is part of the Chivor Hydroelectric Project. Water from the Batá is diverted by the dam to a power station that discharges to the Lengupá River. The power station supplies 8% of Colombia's power demand."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.30421447753906,
+          4.902150265162135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Cajón Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Caj%C3%B3n_Dam_(Honduras)",
+        "comment": "The El Cajón Dam, officially known as Central Hidroeléctrica Francisco Morazán, is a hydroelectric power plant located in Western Honduras. The dam impounds the Comayagua river which derives its large volume from two large tributaries, Humuya and Sulaco. El Cajón is a double arch dam, which uses parabolic geometry in horizontal and vertical axises to spread the weight of the impounded water to canyon walls which act as buttresses."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5445556640625,
+          15.081405684819769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shuibuya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shuibuya_Dam",
+        "comment": "The Shuibuya Dam is a concrete-face rock-fill embankment dam on the Qingjiang River in Badong County, Enshi, Hubei Province, China. The purpose of the dam is mainly hydroelectricity but it also promotes flood control, navigation, tourism and fishery. At 233 m (764 ft) tall and containing 15,640,000 m3 (20,460,000 cu yd) of material, it is the tallest concrete face rock-fill dam in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3518295288086,
+          30.444233985093696
+        ]
+      }
     }
   ]
 }
