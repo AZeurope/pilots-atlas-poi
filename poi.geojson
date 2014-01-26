@@ -10478,6 +10478,70 @@
           48.34096156077363
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denis-Perron Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Denis-Perron_Dam",
+        "comment": "Denis-Perron Dam is a rockfill embankment dam spanning the Sainte-Marguerite River, a tributary of the lower Saint Lawrence River, in eastern Quebec, Canada. Standing 171 metres (561 ft) high and 378 metres (1,240 ft) long, the dam is the primary component of Hydro-Québec's Sainte-Marguerite 3 hydroelectric project. The dam is the second highest in Quebec and the hydraulic head afforded to its power plant is also the largest in the province."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.785888671875,
+          50.793783247910106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paute Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Amaluza_Dam",
+        "comment": "The Paute Dam, also known as the Daniel Palacios Dam and the Amaluza Dam, is the largest hydroelectric dam in Ecuador. It is located on the Paute River, 125 km from Cuenca."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.56597900390625,
+          -2.5923176984878276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruno Creek Tailings Impoundment",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bruno_Creek_Tailings_Dam",
+        "comment": "The Bruno Creek Tailings Impoundment is a tailings dam on Bruno Creek, 19 mi (31 km) southwest of Challis in Custer County, Idaho. It serves to store tailings for the nearby Thompson Creek Mine. At 550 ft (168 m) tall, it is the second tallest center-line tailings dam in the world. In 2008, Phase 8 of the mine was approved which includes a raising of the dam to 750 ft (229 m). The dam is mainly composed of cycloned sand."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.51324462890625,
+          44.32163750688258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guandi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guandi_Dam",
+        "comment": "The Guandi Dam is a gravity dam on the Yalong River, a tributary of the Yangtze River in Sichuan Province Southwest of China. It supplies water to four hydroelectric generators, each with generating capacity of 600 MW. The total generating capacity of the project is 2,400 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.88995361328125,
+          27.8281463942612
+        ]
+      }
     }
   ]
 }
