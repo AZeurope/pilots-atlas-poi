@@ -10766,6 +10766,118 @@
           32.44459523391549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ross_Dam",
+        "comment": "Ross Dam is a 540-foot (160 m)-high, 1,300-foot (400 m)-long concrete thin-arch dam across the Skagit River, forming Ross Lake. The dam is in Washington State, while Ross Lake extends 23 miles (37 km) north to British Columbia, Canada. Both dam and reservoir are located in Ross Lake National Recreation Area, is bordered on both sides by Stephen Mather Wilderness and combined with Lake Chelan National Recreation Area they make up North Cascades National Park Complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.06727600097655,
+          48.73411571295645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowtail Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yellowtail_Dam",
+        "comment": "Yellowtail Dam is a dam across the Bighorn River in south central Montana in the United States. The mid-1960s era concrete arch dam serves to regulate the flow of the Bighorn for irrigation purposes and to generate hydroelectric power. The dam and its reservoir, Bighorn Lake, are owned by the U.S. Bureau of Reclamation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.96195983886719,
+          45.3091830323091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naramata Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Naramata_Dam",
+        "comment": "Naramata Dam is a dam near Minakami, in the Gunma Prefecture of Japan. It supports a 12.2 MW hydroelectric power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.07979011535645,
+          36.88367119042381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okutadami Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Okutadami_Dam",
+        "comment": "The Okutadami Dam is a concrete gravity dam on the Tadami River, 26 km (16 mi) east of Uonuma on the border of Niigata and Fukushima Prefectures, Japan. The primary purpose of the dam ishydroelectric power generation and it supports a 560 MW power station which is the largest conventional hydroelectric power station in Japan.[2] The dam also forms the second largest reservoir in Japan, next to that of the Tokuyama Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2487907409668,
+          37.15402324224734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miyagase Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Miyagase_Dam",
+        "comment": "The Miyagase Dam is a dam on the Nakatsu River, a main tributary of the Sagami River in Aikō District, Kanagawa Prefecture on the island of Honshū, Japan. It straddles the border between the village of Kiyokawa, town of Aikawa and the former town of Tsukui (now part of the city of Sagamihara)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.24810409545898,
+          35.54312178361944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nukui Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nukui_Dam",
+        "comment": "Nukui Dam is a dam in Hiroshima Prefecture, Japan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.29968070983887,
+          34.633561021133936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagawado Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nagawado_Dam",
+        "comment": "Nagawado Dam is a dam in the Nagano Prefecture, Japan, completed in 1969."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7168846130371,
+          36.1330223865417
+        ]
+      }
     }
   ]
 }
