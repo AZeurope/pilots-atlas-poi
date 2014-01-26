@@ -10414,6 +10414,70 @@
           37.7029730077305
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shin-Takasegawa Pumped Storage Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Takase_Dam",
+        "comment": "The Shin-Takasegawa Pumped Storage Station uses the Takase River to operate a pumped storage hydroelectric scheme about 12 km (7 mi) west of Ōmachi in Nagano Prefecture, Japan. Construction on the complex began in 1971, concluded in 1978 and the power station was commissioned in 1979. The power plant has a 1,280 MW installed capacity and its upper reservoir is created by the Takase Dam, a rock-fill dam — which at 176 m (577 ft) in height is the tallest of its type in Japan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.68770217895505,
+          36.47451381024394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revelstoke Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Revelstoke_Dam",
+        "comment": "The Revelstoke Dam, also known as Revelstoke Canyon Dam, is a hydroelectric dam spanning the Columbia River, 5 km (3.1 mi) north of Revelstoke, British Columbia, Canada. The powerhouse was completed in 1984 and has an installed capacity of 2480 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19297790527344,
+          51.059091626472274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thisavros Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Thissavros_Dam",
+        "comment": "The Thisavros Dam is a rock-fill dam on the Nestos River in the regional unit of Drama in the northeastern portion of Greece. it is 21 km (13 mi) north of Nikiforos and 21 km (13 mi) northeast of the town of Drama. The 172 m (564 ft) high dam is the tallest in Greece. It was constructed between 1986 and 1996. The purpose of the dam is irrigation and hydroelectric power production."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.36836242675781,
+          41.35477814858021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungry Horse Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hungry_Horse_Dam",
+        "comment": "Hungry Horse Dam is an arch dam on the South Fork Flathead River in the Rocky Mountains of the U.S. state of Montana. It is located in Flathead National Forest, in Flathead County, about 15 miles (24 km) south of the west entrance to Glacier National Park, 9 miles (14 km) southeast of Columbia Falls, and 20 miles (32 km) northeast of Kalispell."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00650024414062,
+          48.34096156077363
+        ]
+      }
     }
   ]
 }
