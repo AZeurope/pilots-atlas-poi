@@ -10622,6 +10622,70 @@
           27.321449840012313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Trinity_Dam",
+        "comment": "Trinity Dam is an earthfill dam on the Trinity River located about 7 miles (11 km) northeast of Weaverville, California in the United States. The dam was completed in the early 1960s as part of the federal Central Valley Project to provide irrigation water to the arid San Joaquin Valley. Standing 538 ft (164 m) high, Trinity Dam forms Trinity Lake – California's third largest reservoir, with a capacity of more than 2,400,000 acre feet (3,000,000 dam3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76397705078124,
+          40.8034148344062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sardar Sarovar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sardar_Sarovar_Dam",
+        "comment": "The Sardar Sarovar Dam is a gravity dam on the Narmada River near Navagam, Gujarat in India. It is the largest dam and part of the Narmada Valley Project, a large hydraulic engineering project involving the construction of a series of large irrigation and hydroelectric multi-purpose dams on the Narmada River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73680114746094,
+          21.83600579798427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huites Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Huites_Dam",
+        "comment": "Huites Dam, officially known as Luis Donaldo Colosio Dam, is located on the Rio Fuerte in northwestern Sinaloa, Mexico 130 kilometres (81 mi) northeast of Los Mochis. The 162-metre (531 ft)-high, hybrid concrete arch-gravity dam impounds a reservoir called Lago Huites or Presa Luís Donaldo Colosio and is owned by the Comisión Federal de Electricidad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3639907836914,
+          26.846127990018164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tankeng Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tankeng_Dam",
+        "comment": "The Tankeng Dam is a concrete-face rock-fill embankment dam on the Ou River located 24 km (15 mi) west of Qingtian, Zhejiang Province, China. The main purpose of the dam is hydroelectric power generation but it also provides for flood control, irrigation, and tourism. The 162 m (531 ft) tall dam creates a reservoir with a maximum capacity of 4,190,000,000 m3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.03147125244139,
+          28.11801628757283
+        ]
+      }
     }
   ]
 }
