@@ -10350,6 +10350,70 @@
           32.26739424574946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongjiadu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hongjiadu_Dam",
+        "comment": "The Hongjiadu Dam is a concrete face rock-fill embankment dam on the Liuchong River in Qianxi County, Guizhou Province, China. The dam is 179.5 metres (589 ft) tall and was built for the purposes of hydroelectric power generation and water supply. The dam supports a 600 MW and withholds a 4,947,000,000 cubic metres (4,010,598 acre·ft) reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85404396057129,
+          26.874765313699452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tianshengqiao-I Hydropower Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tianshengqiao",
+        "comment": "The Tianshengqiao-I Hydropower Station (locally abbreviated as TSQ-I) is a concrete face rock-fill embankment dam and hydroelectric power station on the Nanpan River straddling the border between Guizhou and Guangxi, People's Republic of China, located in the counties of Anlong and Longlin. The dam is 178 m (584 ft) tall, and was completed in 1998."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.10448455810547,
+          24.94279481320555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Cajón Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Cajon_Dam_(Mexico)",
+        "comment": "The El Cajón Dam is a hydroelectric dam on the Río Grande de Santiago in the Mexican state of Nayarit. Construction began in 2003 and was completed in June 2007. It cost US$800 million to build. It is 640 m (2,100 ft) long and is 178 m (584 ft) high. The reservoir holds approximately 5,000,000,000 m3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.44427490234375,
+          21.430699364190286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Don Pedro Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/New_Don_Pedro_Dam",
+        "comment": "New Don Pedro Dam, often known simply as Don Pedro Dam, is an earthen embankment dam across the Tuolumne River, about 2 miles (3.2 km) northeast of La Grange, California in the United States. The dam serves mainly for irrigation water storage, flood control and hydroelectricity production, and impounds Don Pedro Reservoir in the foothills of the Sierra Nevada. The dam was completed in 1971 after four years of construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.42011260986327,
+          37.7029730077305
+        ]
+      }
     }
   ]
 }
