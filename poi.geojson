@@ -10318,6 +10318,38 @@
           45.49407440402927
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac d'Emosson",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lac_d27Emosson",
+        "comment": "Lac d'Emosson is a reservoir in the canton of Valais, Switzerland. It is located in the municipalities of Salvan and Finhaut. The closest major city in Switzerland is Martigny. The lake has a surface area of 3.27 km² and an elevation of 1,930 m. The maximum depth is 161 m. The purpose of the dam is hydroelectric power generation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931514739990234,
+          46.068824190192224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Gotvand Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Upper_Gotvand_Dam",
+        "comment": "Upper Gotvand Dam, or simply the Gotvand Dam, is an embankment dam on the Karun River in Khuzestan Province, Iran. It currently has an installed capacity of 1,000 MW with another 1,000 MW in the works for a second phase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.939285278320305,
+          32.26739424574946
+        ]
+      }
     }
   ]
 }
