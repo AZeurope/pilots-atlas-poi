@@ -10254,6 +10254,70 @@
           -27.775911526834257
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mossyrock Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mossyrock_Dam",
+        "comment": "Mossyrock Dam is a concrete arch-gravity dam on the Cowlitz River near Mossyrock in Lewis County, Washington. The reservoir created by the dam is called Riffe Lake and the primary purpose of the dam is hydroelectric production while flood control is secondary. The dam is the tallest in Washington State and its hydroelectric power station supplies 40% of Tacoma Power's electricit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41790771484375,
+          46.52863469527167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shasta Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shasta_Dam",
+        "comment": "Shasta Dam (called Kennett Dam before its construction) is a curved gravity dam across the Sacramento River in the northern part of the U.S. state of California, at the north end of the Sacramento Valley. The dam mainly serves long-term water storage and flood control in its reservoir, Shasta Lake, and also generates hydroelectric power. At 602 feet (183 m) high, it is the ninth-tallest dam in the United States and forms the largest reservoir in California."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41241455078125,
+          40.72098167171645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Techi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Techi_Dam",
+        "comment": "Techi Dam is a concrete thin arch dam on the Dajia River in Taichung County, Taiwan. Forming the 454 ha (1,120-acre) Techi Reservoir, the dam is built in the Tachien Gorge in Heping District, providing hydroelectric power, irrigation water and some flood control, and is operated by the Taiwan Power Company. At 180 m (590 ft), it is the highest dam in Taiwan and one of the tallest dams in the world. The dam was completed in 1974, after five years of construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16992950439452,
+          24.256668304025354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tignes Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tignes_Dam",
+        "comment": "The Tignes Dam, also known as the Chevril Dam, is an arch dam on the Isère River just northeast of Tignes in Val-d'Isère of the Rhône-Alpes region in south-eastern France. In planning since the 1920s and under the protest of locals, the dam was constructed between 1948 and 1952 with the purpose of hydroelectric power. At the time of its completion, it was the tallest dam in Europe. Water from the dam's reservoir, Lac du Chevril, feeds two power stations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.932716369628906,
+          45.49407440402927
+        ]
+      }
     }
   ]
 }
