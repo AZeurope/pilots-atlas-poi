@@ -10878,6 +10878,54 @@
           36.1330223865417
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Göscheneralpsee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goescheneralpsee",
+        "comment": "Göscheneralpsee is a lake in the municipality of Göschenen, Canton of Uri, Switzerland. The volume of the reservoir is 76 mio m³ and its surface area 1.32 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494319915771484,
+          46.64560626908081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sultan Mahmud Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kenyir_Dam",
+        "comment": "Sultan Mahmud Power Station or Kenyir Dam is the hydroelectric dam which forms Kenyir Lake, Terengganu, Malaysia. It is located 50 km southwest of Kuala Terengganu on the Kenyir River. The project is a multipurpose hydroelectric power and flood mitigation scheme."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.90756225585936,
+          5.0225468783063425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ralco Hydroelectric Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ralco_Hydroelectric_Plant",
+        "comment": "Ralco Hydroelectric Plant is a hydroelectric power station and dam in Bío Bío Region, Chile. The plant uses water from the upper Bío Bío River and produces 690 MW of electricity. The plant was built by ENDESA in 2004. The project has proven controversial with local indigenous Mapuche since a graveyard had to be flooded by the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.54502868652344,
+          -37.971808582009686
+        ]
+      }
     }
   ]
 }
