@@ -9982,6 +9982,70 @@
           29.747835364402736
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Yesca Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/La_Yesca_Dam",
+        "comment": "La Yesca Dam is an embankment dam on the Santiago River 90 km (56 mi) northwest of Guadalajara on the border of Mexico's Nayarit and Jalisco states. Construction on the dam began in 2007 after Empresas ICA was awarded the main construction contract. The dam was inaugurated by President Felipe Calderón on 6 November 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.09271240234374,
+          21.200416982780094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mratinje Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mratinje_Dam",
+        "comment": "The Mratinje Dam is a concrete arch dam in the canyon of the Piva River in Montenegro. The dam was completed in 1975 with designs by Energoprojekt. Its construction resulted in the flooding of the Piva canyon and the creation of Lake Piva, which, with its 12.5 km², is the second largest lake in Montenegro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.842840194702145,
+          43.27326840978397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dworshak Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dworshak_Dam",
+        "comment": "Dworshak Dam is a concrete gravity dam in the western United States, on the North Fork Clearwater River in Clearwater County, Idaho. The dam is located approximately 4 miles (6 km) northeast of Orofino and impounds the Dworshak Reservoir for flood control and hydroelectricity generation. At 717 feet (219 m) high, Dworshak is the third tallest dam in the United States and the tallest straight-axis concrete dam in the Western Hemisphere."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.29405975341797,
+          46.515641960322554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toktogul Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Toktogul_Dam",
+        "comment": "Toktogul Dam is a hydroelectric and irrigation dam on the Naryn River in the Jalal-Abad Province of Kyrgyzstan. It is concrete gravity dam with height of 215 metres (705 ft) and length of 292.5 metres (960 ft). It is a part of the Naryn-Syr Darya cascade. It is named after Toktogul Satilganov."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6364517211914,
+          41.66021649957396
+        ]
+      }
     }
   ]
 }
