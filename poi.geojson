@@ -11038,6 +11038,70 @@
           39.317549383402735
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsankov Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kamak_Dam",
+        "comment": "The Tsankov Kamak Hydroelectric Power Plant, also Tsankov Kamak HPP, comprises an arch dam and hydroelectric power plant (HPP) in Tsankov Kamak, southwestern Bulgaria. It is situated on the Vacha River in Smolyan Province, on the borders of Pazardzhik Province and Plovdiv Province, roughly 40 kilometres (25 mi) southwest of Plovdiv and downstream (north) of the town of Devin. It is a part of the Dospat-Vacha cascade development of the Vacha River involving five dams and power stations within the Devin municipality."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.429645538330078,
+          41.832990869731084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gordon Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gordon_Dam",
+        "comment": "The Gordon Dam (also known as Gordon River Dam), is a double curvature arch dam on the Gordon River in Tasmania, Australia. The dam has a length of 192 m (630 ft), and a height of 140 m (459 ft), making it the tallest dam in Tasmania and the fifth-tallest in Australia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97697257995605,
+          -42.73005466480302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carters Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Carters_Dam",
+        "comment": "Carters Dam is an earthen embankment dam located south of Chatsworth in Murray County and west of Ellijay in the U.S. state of Georgia. The dam is 445 ft (136 m) tall and is situated 26.8 miles (43.1 km) above the mouth of the Coosawattee River. The drainage area is 376 square miles (974 km²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67472076416016,
+          34.61576241844949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arimine Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Arimine_Dam",
+        "comment": "The Arimine Dam is located in Toyama, Toyama Prefecture, Japan built upon the Wada River. The two bends in the middle of the dam is the most defining feature. The Arimine Lake is anartificial lake that was created by construction of the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.44943618774414,
+          36.4907314113287
+        ]
+      }
     }
   ]
 }
