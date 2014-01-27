@@ -11374,6 +11374,54 @@
           7.061882072750512
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randenigala Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Randenigala_Dam",
+        "comment": "The Randenigala Dam is a large hydroelectric embankment dam at Rantembe, in the Central Province of Sri Lanka. Construction of the dam began in November 1982, and was completed in approximately 4 years. The dam and power station was ceremonially opened by then President J. R. Jayawardene in 1986."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.92323303222656,
+          7.2030881009321615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samanala Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Samanala_Dam",
+        "comment": "The Samanala Dam is a dam that is primarily used for hydroelectric power generation in Sri Lanka. Commissioned in 1992, the Samanalawewa Project (Samanala Reservoir Project) is the second-largest hydroelectric scheme in the country, producing 405 GWh of energy annually. It was built with financial support from Japan and the United Kingdom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.79568862915039,
+          6.684214828493886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Victoria_Dam,_Sri_Lanka",
+        "comment": "Victoria Dam is an arch dam located 130 mi (209 km) upstream of the Mahaweli River's mouth and 4 mi (6 km) from Teldeniya. Its main purposes are irrigation and hydroelectric power production. It is the tallest dam in Sri Lanka, and supports a 210 MW power station, the largest hydroelectric power station in the country."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78384399414062,
+          7.24481129804339
+        ]
+      }
     }
   ]
 }
