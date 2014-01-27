@@ -11918,6 +11918,86 @@
           54.09806018306314
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deer Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Deer_Lake,_Newfoundland_and_Labrador",
+        "comment": "Deer Lake is a Canadian town in the western part of the island of Newfoundland in the province of Newfoundland and Labrador. The town derives its name from Deer Lake and is situated at the outlet of the upper Humber River at the northeastern end of the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.45849609375,
+          49.17811258315209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Adam Beck 1 Hydroelectric Generating Stations ",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sir_Adam_Beck_Hydroelectric_Power_Stations",
+        "comment": "Sir Adam Beck Hydroelectric Generating Stations are two hydroelectric generating stations in Niagara Falls, Ontario, Canada. The stations divert water from the Niagara and Welland Rivers above Niagara Falls which is then released into the lower portion of the Niagara River, and together produce up to 1,997 MW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0521240234375,
+          43.1470901245276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Adam Beck 2 Hydroelectric Generating Stations",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sir_Adam_Beck_Hydroelectric_Power_Stations",
+        "comment": "Sir Adam Beck Hydroelectric Generating Stations are two hydroelectric generating stations in Niagara Falls, Ontario, Canada. The stations divert water from the Niagara and Welland Rivers above Niagara Falls which is then released into the lower portion of the Niagara River, and together produce up to 1,997 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03564453124999,
+          43.141078106345844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chats Falls",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chats_Falls",
+        "comment": "Chats Falls (in French: Chute des Chats, meaning \"Cat Falls\") were a set of waterfalls on the Ottawa River, near Fitzroy Harbour, Ontario, and Quyon, Quebec, Canada. A hydroelectric generating station is now located here, owned and operated jointly by Hydro-Québec and Ontario Power Generation. It lies within the cities of Ottawa, Ontario and Pontiac, Quebec."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2367057800293,
+          45.47650323381732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pittock Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pittock_Dam",
+        "comment": "The Pittock Dam is a dam in Woodstock, Ontario, Canada. It lies on the south branch of the Thames River (Ontario), and creates the Pittock Reservoir. This artificial lake forms the northeast boundary of the City of Woodstock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75981140136719,
+          43.15184921961155
+        ]
+      }
     }
   ]
 }
