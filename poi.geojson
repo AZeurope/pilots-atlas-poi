@@ -11998,6 +11998,102 @@
           43.15184921961155
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fanshawe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fanshawe_Dam",
+        "comment": "Fanshawe Dam is a dam located on the eastern edge of London, Ontario. The crest of the dam is 625 metres long. It is 30.5 metres in height and drops the river surface 12 metres. Fanshawe Lake is the reservoir created by the dam. The hydroelectric generator of the Fanshawe Dam generates enough power to run 400 households.[1] It is one of three dams on the Thames River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18106842041016,
+          43.042296289854036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildwood Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wildwood_Dam",
+        "comment": "Wildwood Dam is a dam located on Trout Creek, upstream of the Town of St. Marys, Ontario. Wildwood Dam is designed for flood control and flow augmentation purposes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07017517089842,
+          43.26370627659918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crooks' Hollow Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Crooks27_Hollow_Dam",
+        "comment": "Crooks' Hollow Dam (alternatively, Dundas Town Dam) is a buttressed gravity dam, built of concrete in 1916 on Spencer Creek in Greensville, Ontario, Canada. About 100 yards upstream from the ruins of the much earlier Cockburn sawmill and dam, it replaced that dam in supplying water by pipe to Dundas for all uses. It also provided much greater flood control, and, more than the Cockburn dam, supplied a managed flow for water power users in the industries downstream."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0082778930664,
+          43.278361351174595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outardes-2",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Outardes-2_generating_station",
+        "comment": "Outardes-2 is a hydroelectric power station and dam on the Outardes River 15 km (9.3 mi) southwest of Baie-Comeau, Quebec, Canada. The power station was commissioned in 1978 and is run-of-the-river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.39607238769531,
+          49.155888686562726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outardes-3",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Outardes-3",
+        "comment": "Outardes-3 is a hydroelectric power station and dam on the Outardes River 55 km (34.2 mi) northwest of Baie-Comeau, Quebec, Canada. The power station was commissioned in 1969 and is run-of-the-river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.75518798828125,
+          49.566196543239265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outardes-4",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Outardes-4",
+        "comment": "Outardes-4 is a hydroelectric power station and dam on the Outardes River 70 km (43.5 mi) northwest of Baie-Comeau, Quebec, Canada. The power station was commissioned in 1969 and is supplied by the Outardes-4 Reservoir which is created by seven additional dams."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.89595031738281,
+          49.70583216517381
+        ]
+      }
     }
   ]
 }
