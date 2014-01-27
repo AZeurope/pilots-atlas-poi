@@ -11310,6 +11310,70 @@
           35.88793749476293
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandalama Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kandalama_Reservoir",
+        "comment": "The Kandalama Reservoir (also erroneously known as the Kandalama Lake) is a reservoir in Kandalama, Sri Lanka. The reservoir is created by the 21 m (69 ft) high and 1,600 m (5,200 ft) wide Kandalama Dam. Water from the dam is used for irrigation purposes in the region, extending up to Kekirawa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.70487976074219,
+          7.8803861828250445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowatenna Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bowatenna_Dam",
+        "comment": "The Bowatenna Dam is a 100 ft (30 m) high gravity dam at Bowatenna, in the Central Province of Sri Lanka. The dam was built in June 1981, and is used primarily for irrigation. A 40 MW power station is also constructed 5,800 ft (1,800 m) downstream, for hydroelectric power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66548347473145,
+          7.668036925350389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlereigh Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Castlereigh_Dam",
+        "comment": "The Castlereigh Dam (also spelled Castlereagh) is a gravity dam built across the Kehelgamu Oya, a major tributary to the Kelani River, approximately 3 km (1.9 mi) south-west of Hatton, in the Central Province of Sri Lanka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.56806564331055,
+          6.871722534668438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotmale Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kotmale_Dam",
+        "comment": "The Kotmale Dam is a large hydroelectric and irrigation dam in Kotmale, Sri Lanka. The dam generates power from three 67 MW turbines, totalling the installed capacity to 201 MW, making it the second largest hydroelectric power station in Sri Lanka. Construction on the dam began in August 1979 and was ceremonially completed in February 1985."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60050964355469,
+          7.061882072750512
+        ]
+      }
     }
   ]
 }
