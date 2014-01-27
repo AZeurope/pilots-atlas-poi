@@ -11758,6 +11758,102 @@
           50.2594979383533
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keenleyside Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Keenleyside_Dam",
+        "comment": "Hugh Keenleyside Dam (originally known as the High Arrow Dam) is a hydroelectric dam spanning the Columbia River, 12 km (6.5 miles) upstream of the city of Castlegar, British Columbia, Canada. The reservoirs behind the dam is named Arrow Lakes extending 232 km (144 mi) north to Revelstoke Dam, and contain 8.76 km3 (7.1 MAF) of reservoir volume. The dam is operated by BC Hydro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7734375,
+          49.34033573299466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lajoie Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lajoie_Dam",
+        "comment": "Lajoie Dam is the uppermost of the storage dams of the Bridge River Power Project, which is located in the southwestern Interior of British Columbia. It is located just west of the small semi-ghost town of Gold Bridge. An earthfill structure, it is 87 m (287 ft) and impounds c. 570,000 acre feet (700,000,000 m3) of water in Downton Lake Reservoir. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.86457061767578,
+          50.83955180901146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terzaghi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Terzaghi_Dam",
+        "comment": "Terzaghi Dam, located about 100 km NE of the resort of Whistler, British Columbia in western Canada, is the key diversion dam in the Bridge River Power Project. It forms the project's largest reservoir, Carpenter Lake west of Lillooet. Originally known as the Mission Dam, it was renamed Terzaghi Dam in 1965 to honor Karl von Terzaghi, the civil engineer who founded the science of soil mechanics."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2235870361328,
+          50.78965970678899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coquitlam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Coquitlam_Dam",
+        "comment": "Coquitlam Dam is a hydraulic fill embankment dam on the Coquitlam River in the city of Coquitlam, British Columbia. Although it has no powerhouse of its own, its waters divert to Buntzen Lake, making it part of BC Hydro's electrical generation infrastructure. It is also one of the main reservoirs for the Greater Vancouver Water District."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78114318847655,
+          49.35688652152625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kettle Generating Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kettle_Dam",
+        "comment": "The Kettle Generating Station, also known as Kettle Rapids Generating Station, is a run-of-the-river hydroelectric power station on the Lower Nelson River in Manitoba, Canada. It is located 6 km (4 mi) northwest of Gillam. As part of the Nelson River Hydroelectric Project, the power station was completed in 1973 and the last generator commissioned in 1974. It has an installed capacity of 1,220 MW and is the second largest power station in Manitoba."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.61700439453125,
+          56.388063144098695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limestone Generating Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Limestone_Dam",
+        "comment": "Limestone Generating Station is a run-of-the-river hydroelectric dam on the Nelson River approximately 750 kilometres (470 mi) north of Winnipeg in the large Town of Gillam in the Canadian province ofManitoba. It is a part of the Nelson River Hydroelectric Project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.10751342773438,
+          56.511017504952136
+        ]
+      }
     }
   ]
 }
