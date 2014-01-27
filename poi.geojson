@@ -11502,6 +11502,102 @@
           14.876275889141638
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Binga Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Binga_Dam",
+        "comment": "Binga Dam is a dam connected to a hydroelectric power plant situated at Barrio Binga, Barangay Tinongdan in Itogon, Benguet, Philippines. The plant was constructed in 1956 and was opened in 1960, three years after Ambuklao Dam was opened. It is located 31 km southeast of Baguio City and 19 km downstream of Ambuklao Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7239532470703,
+          16.397060013737594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambuklao Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ambuklao_Dam",
+        "comment": "Ambuklao Dam is part of a hydroelectric facility in Brgy. Ambuklao, Bokod, Benguet province in the Philippines. The development of the Agno River for purposes of hydroelectric power generation, flood control, and irrigation had been conceived as early as the late 1940s. Preliminary investigations for development at Ambuklao and Binga Dam sites were undertaken as early as January 1948."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7452392578125,
+          16.4624268437789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caliraya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Caliraya_Dam",
+        "comment": "Caliraya Dam is an embankment dam located in the town of Lumban province of Laguna, in the Sierra Madre Mountain Range of the Philippines. The reservoir created by the dam, Lake Caliraya, initially supplied one of the oldest hydroelectric plants in the Philippines, and later became a popular recreational area for numerous water sports and fishing. The dam construction was started in 1939 and a small hydroelectric plant was operated in 1942."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50466918945311,
+          14.290667839893826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magat Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Magat_Dam",
+        "comment": "Magat Dam is a large rock-fill dam on the island of Luzon in the Philippines. The dam is located on Magat River, a major tributary of Cagayan River. Construction of the dam started in 1975 and completed in 1982. Magat Dam is one of the largest dams in the Philippines and has two primary purposes: as a source of irrigation water and as a provider of hydroelectric power."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4483642578125,
+          16.82623150807387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantabangan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pantabangan_Dam",
+        "comment": "Pantabangan Dam is an earth-fill embankment dam on the Pampanga River located in Pantabangan in Nueva Ecija province of the Philippines. The multi-purpose dam provides water for irrigation and hydroelectric power generation while its reservoir, Pantabangan Lake, affords flood control. The reservoir is considered one of the largest in Southeast Asia and also one of the cleanest in the Philippines. Construction on the dam began in 1971 and it was complete in 1977."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.11053466796875,
+          15.818846123229765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hub Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hub_Dam",
+        "comment": "Hub Dam is a reservoir on the Hub River. It is situated 56 km from Karachi city in Karachi and Lasbela Districts on Sindh and Balochistan provinces border. The dam is extended to 24300 acres with gross storage capacity of 857000 acre feet. It is the Pakistan's third largest dam. It is an important source that provides the drinking water to the metropolitan city Karachi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.11959838867188,
+          25.25960064916269
+        ]
+      }
     }
   ]
 }
