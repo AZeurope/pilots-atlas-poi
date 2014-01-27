@@ -11422,6 +11422,86 @@
           7.24481129804339
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Peirce Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Upper_Peirce_Reservoir",
+        "comment": "Upper Peirce Reservoir is Singapore's second reservoir. The 6-hectare Upper Peirce Reservoir Park overlooks the Upper Peirce Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80208969116211,
+          1.3679253707930392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kranji Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kranji_Reservoir",
+        "comment": "Kranji Reservoir is a reservoir in the northern part of Singapore, near the Straits of Johor was a former freshwater river that flowed out into the sea that dammed at its mouth to form a freshwater reservoir. It can also be classified as an estuary. The dam has a road bridging the two banks, and now prevents the sea from coming in, and is home to a marsh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74072074890137,
+          1.4302198710978613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Seletar Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lower_Seletar_Reservoir",
+        "comment": "Lower Seletar Reservoir is a reservoir located in the northeastern part of Singapore, to the east of Yishun New Town. The reservoir has a surface area of 3.6 km², and a capacity of 9.5 million m³. The mean depth of the reservoir is 2 m, with a maximum depth of 5.5 m. The shoreline length is 14.3 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83934020996094,
+          1.4045643477491727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agusan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Agusan_Dam",
+        "comment": "The Agusan Hydroelectric Plant, the downstream plant of two proposed plants, was constructed in Damilag, Manolo, Fortich, and Bukidnon[1] to serve the immediate domestic and industrial requirements of the area.[2] The watershed is small, and covers an area of around 25 km2 at the diversion dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.76692199707031,
+          8.352823015039604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angat Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Angat_Dam",
+        "comment": "Angat Dam is a concrete water reservoir embankment hydroelectric dam that supplies the Manila metropolitan area water. It was a part of the Angat-Ipo-La Mesa water system. The reservoir supplies about 90 percent of raw water requirements for Metro Manila through the facilities of the Metropolitan Waterworks and Sewerage System and it irrigates about 28,000 hectares of farmland in the provinces of Bulacan and Pampanga."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.14194869995117,
+          14.876275889141638
+        ]
+      }
     }
   ]
 }
