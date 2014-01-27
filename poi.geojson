@@ -10914,7 +10914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ralco Hydroelectric Plant",
+        "name": "Ralco Dam",
         "type": "dam",
         "url": "http://en.wikipedia.org/wiki/Ralco_Hydroelectric_Plant",
         "comment": "Ralco Hydroelectric Plant is a hydroelectric power station and dam in Bío Bío Region, Chile. The plant uses water from the upper Bío Bío River and produces 690 MW of electricity. The plant was built by ENDESA in 2004. The project has proven controversial with local indigenous Mapuche since a graveyard had to be flooded by the dam."
@@ -10924,6 +10924,54 @@
         "coordinates": [
           -71.54502868652344,
           -37.971808582009686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkwel Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Turkwel_Dam",
+        "comment": "The Turkwel Hydro Power Plant is Kenya's 3rd largest hydro power plant having an installed electric capacity of 106 MW. The dam, Kenya's largest, is located on the Turkwel River in NW Kenya. It has a height of 153 m, crest length of 150 m, dam volume of 170,000 m³ and retains a water volume of 1,641,000,000 m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33409118652344,
+          1.911266535096585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhumibol Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bhumibol_Dam",
+        "comment": "The Bhumibol Dam (formerly known as the Yanhi Dam) is a concrete arch dam on the Ping River, a tributary of the Chao Phraya River, in Amphoe Sam Ngao district of Tak Province, Thailand. It is located about 480 km (298 mi) north of Bangkok and was built for the purposes of water storage, hydroelectric power production, flood control, fisheries and saltwater intrusion management. The dam was named after King Bhumibol Adulyadej and was Thailand's first multi-purpose project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.97274017333984,
+          17.244432652792835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gepatschspeicher",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gepatschspeicher",
+        "comment": "Gepatschspeicher is a lake of Tyrol, Austria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740509033203125,
+          46.95401192579361
         ]
       }
     }
