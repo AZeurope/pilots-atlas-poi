@@ -11598,6 +11598,86 @@
           25.25960064916269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gomal Zam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gomal_Zam_Dam",
+        "comment": "Gomal Zam Dam is a multi-purpose gravity dam in South Waziristan Agency of Federally Administered Tribal Areas,Pakistan. The Dam impounds the Gomal River, a tributary of the Indus River, at Khjori Kach, where the Gomal River passes through a narrow ravine. The purpose of the dam is irrigation, flood control and hydroelectric power generation. Construction of the dam began in August 2001 and was completed in April 2011. The powerhouse was completed in March 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.87064361572266,
+          32.09130089401913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hwanggang Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hwanggang_Dam",
+        "comment": "Hwanggang Dam is a dam on the Imjin River in North Korea. Located approximately 26 miles (42 km) north of the Korean Demilitarized Zone, the dam has an estimated capacity of 400,000,000 short tons (360,000,000 t). Construction began in 2002 and was completed in 2007. The stated aims of the project are to generate hydropower and provide water for crop irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.18460083007812,
+          38.39737504446673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nampo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nampho",
+        "comment": "Namp'ois a city and seaport in South Pyongan Province, North Korea. Namp'o lies on the northern shore of the Taedong River, 15 km east of the river's mouth. It was a provincial-level \"Directly Governed City\" (\"Chikhalsi\") from 1980–2004, when it was designated a \"Special City\" and made a part of South P'yŏngyang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.20998001098631,
+          38.70172154765304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imnam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Imnam_Dam",
+        "comment": "Imnam Dam is a North Korean dam on the Bukhan River, completed in 2003. Construction began in 1986. The dam was immediately seen as a threat by the South Korean government. The Bukhan River is a tributary of the Han River, and war scenarios foresaw North Korea releasing flood waters that could engulf the South Korean capital of Seoul. Though fears of a \"water attack\" have diminished, 2002 satellite photos of cracks in the North Korean dam caused fears it could collapse following heavy rains. In September 2005, without warning, North Korea released a massive amount of water from a dam, causing large floods in South Korea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.78678894042967,
+          38.43530389763678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batang Ai Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Batang_Ai_Dam",
+        "comment": "The Batang Ai Dam is a concrete-face rock-fill dam in Batang Ai National Park in Sarawak, Malaysia. The power station comprises four 25 MW turbines, totalling the installed capacity to 100 MW. The station is operated by Sarawak Electricity Supply Corporation. Preparations for the dam began as early as 1975, before the design was published in 1977. Construction started 1982 with the river diversion work and the last turbine completed in 1985. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.88133239746092,
+          1.1528000201972806
+        ]
+      }
     }
   ]
 }
