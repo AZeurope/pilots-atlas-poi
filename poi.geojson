@@ -11854,6 +11854,70 @@
           56.511017504952136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Spruce Generating Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Long_Spruce_Dam",
+        "comment": "Long Spruce Generating Station is a run-of-the-river hydroelectric dam on the Nelson River approximately 745 kilometres northeast of Winnipeg in the Canadian province of Manitoba. It was Manitoba Hydro's fourth generating station to be built on the Nelson River, which flows from Lake Winnipeg to Hudson Bay. The station was built on Long Spruce Rapids. The site is approximately 27 kilometres east of Gillam, Manitoba and is 16 km downstream of Manitoba Hydro's Kettle Generating Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.37393188476562,
+          56.41694001504086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Falls Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Great_Falls_Dam_(Manitoba)",
+        "comment": "Great Falls Generating Station is a hydroelectric dam on the Winnipeg River approximately 130 kilometres northeast of Winnipeg in the Rural Municipality of Alexander in the Canadian province of Manitoba. The dam is owned and operated by Manitoba Hydro, and has a generating capacity of 130 megawatts. The Winnipeg Electric Railway Company began building the dam in 1914, first power delivered in 1922, and completion in 1928."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0040283203125,
+          50.46493503945632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mactaquac Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mactaquac_Dam",
+        "comment": "The Mactaquac Dam is an embankment dam used to generate hydroelectricity in Mactaquac, New Brunswick. It dams the waters of the Saint John River and is operated by NB Power with a capacity to generate 653 megawatts of electricity from 6 turbines; this represents 20 percent of New Brunswick's power demand."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.86656951904297,
+          45.95473010854736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smallwood Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Smallwood_Reservoir",
+        "comment": "The Smallwood Reservoir is a large reservoir located in the western part of Labrador in the province of Newfoundland and Labrador, Canada. The reservoir is the source of the Churchill River. Unlike other reservoirs, water is contained not by a single large dam, but by a series of 88 dikes that total 64 km (40 mi) in length. It is named in honour of Joseph Roberts Smallwood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.478759765625,
+          54.09806018306314
+        ]
+      }
     }
   ]
 }
