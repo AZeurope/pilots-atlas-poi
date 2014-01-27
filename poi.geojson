@@ -10974,6 +10974,70 @@
           46.95401192579361
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lai da Curnera",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lai_da_Curnera",
+        "comment": "Lai da Curnera is a reservoir in the municipality of Tujetsch, in the Grisons, Switzerland. The reservoir is linked to Lai da Sontga Maria and Lai da Nalps in the neighboring valley. The lake's volume is 41.1 mio m³ and its surface area 0.81 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.711814880371094,
+          46.63128595480917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac de Monteynard-Avignonet",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lac_de_Monteynard-Avignonet",
+        "comment": "Lac de Monteynard-Avignonet is an artificial water reservoir for the Électricité de France power station on the Drac River. It belongs to the department of Isère. It is bounded by the canyons of the Drac and Ebron.  The lake was created in 1961, when the 145-metre-high dam was built. The lake is 10 kilometres long, and in some places up to 300 metres wide."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.690746307373047,
+          44.961882876810925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fierza Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Fierza_Hydroelectric_Power_Station",
+        "comment": "The Fierza Hydroelectric Power Station is a large hydroelectric power station on the Drin River, in Albania. The facility generates power with four 125 MW turbines, totalling the installed capacity to 500 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.044384002685547,
+          42.25177422406902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesochora Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Messochora_Dam",
+        "comment": "The Mesochora Dam is concrete-face rock-fill dam on the Acheloos River near Mesochora in Trikala, Greece. The 150 m (490 ft) tall dam is part of the Acheloos River Diversion which is intended to divert a portion of the Acheloos west to irrigate 240,000–380,000 ha (590,000–940,000 acres) in the Thessaly plains. The project includes the Mesochora, Sykia, Mouzaki and Pyli Dams along with a 17.4 km (10.8 mi) long channel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.415464878082275,
+          39.317549383402735
+        ]
+      }
     }
   ]
 }
