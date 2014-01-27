@@ -11230,6 +11230,86 @@
           15.198723421349055
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wushantou Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wushantou_Dam",
+        "comment": "Wushantou Dam is an embankment dam in Tainan, Taiwan. The dam was built by the Japanese between 1920 and 1930 during the occupation of Taiwan to provide irrigation water for the Chianan Plain. Because the natural flow of the Guantian River and other local streams was insufficient for irrigation of a planned 100,000 ha (250,000 acres), a tunnel was constructed to divert water from the Zengwun River to fill the reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.37067413330077,
+          23.201591922204337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zengwen Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zengwun_Dam",
+        "comment": "Zengwen Dam, formerly spelled Zengwun Dam or Tsengwen Dam, is a major earthen dam in southern Taiwan on the Zengwun River. It is one of the largest dams in the country and forms the largest reservoir in Taiwan. The dam serves to regulate flows of irrigation and municipal water to the southern plains of the country and supports a 50 MW hydroelectric power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54010391235352,
+          23.24797064818251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tishrin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tishrin_Dam",
+        "comment": "The Tishrin Dam (literally October Dam) is a dam on the Euphrates, located 90 kilometres (56 mi) east of Aleppo in Aleppo Governorate, Syria. The dam is 40 metres (130 ft) high and has 6 water turbines capable of producing 630 MW. Construction lasted between 1991 and 1999."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.18229675292969,
+          36.386189160823875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halabiye Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Halabiye_Dam",
+        "comment": "The Halabiye Dam (or Zalabiye Dam) is a proposed dam on the Euphrates in Deir ez-Zor Governorate, Syria. It will be the fourth and most southern dam on the Syrian Euphrates, after the Tishrin Dam, the Tabqa Dam and the Baath Dam. The proposed location for the dam is the narrow gap in the Euphrates valley northwest of Deir ez-Zor that is created by basalt outcrops on the left and right river banks. It is expected that dry areas will be brought under cultivation with irrigation water provided by the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82247829437255,
+          35.69668906053789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baath Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Baath_Dam",
+        "comment": "The Baath Dam is a dam on the Euphrates, located 22 kilometres (14 mi) upstream from the city of Ar-Raqqah in Ar-Raqqah Governorate, Syria. Construction of the dam started in 1983 and was finished in 1986. It is intended to generate hydroelectric power as well as regulate the irregular flow from the Tabqa Dam, which is located 18 kilometres (11 mi) upstream from the Baath Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74397277832031,
+          35.88793749476293
+        ]
+      }
     }
   ]
 }
