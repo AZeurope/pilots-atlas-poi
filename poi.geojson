@@ -11678,6 +11678,86 @@
           1.1528000201972806
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedu Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pedu_Lake",
+        "comment": "Pedu Lake is a man made lake located in the State of Kedah, North Malaysia. Located about 5 km from Thailand, this huge lake covers an area of 75 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7779312133789,
+          6.239537883938314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeywa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yeywa_Dam",
+        "comment": "The Yeywa Hydropower Dam, located on the Myitnge River, 52 km (32 mi) southeast of Mandalay city, at Yeywa village in Kyaukse Township, Mandalay Division in central Myanmar, is the country's first roller-compacted concrete (RCC) dam, and the site of a 790-MW hydroelectric power plant, the largest in the country."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.47369384765625,
+          21.678167334402303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bighorn Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bighorn_Dam",
+        "comment": "Bighorn Dam (or Bighorn Hydro Plant) is a dam located in Clearwater County in west-central Alberta, Canada. It was built by TransAlta Corporation in 1972, and led to the creation of Lake Abraham, Alberta's largest man-made lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3507080078125,
+          52.31015787939094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stave Falls Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Alouette_Dam",
+        "comment": "Stave Falls Dam is a dual-dam power complex on the Stave River in Stave Falls, British Columbia, Canada . The dam was completed in 1912 for the primary purpose of hydroelectric power production. To increase the capacity of Stave Lake, the dam was raised in 1925 and the Blind Slough Dam constructed in an adjacent watercourse immediately to the north, which was the site of the eponymous Stave Falls. In 2000, the dam's powerhouse was replaced after a four year upgrade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35679626464844,
+          49.23643087933334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duncan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Duncan_Dam",
+        "comment": "Duncan Dam is a dam spanning the Duncan River in the Canadian province of British Columbia. Duncan Dam was the first dam built to satisfy the Columbia River Treaty, initiated after the 1948 flood along the lower Columbia, which proved fatal at Vanport City, Oregon and other locations. Construction began in 1965 and was completed in 1967. It is an earthfill dam with no power generation facilities. It was built as a storage facility, controlling the flow of water from the Duncan River into the Kootenay Lake reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.94259643554688,
+          50.2594979383533
+        ]
+      }
     }
   ]
 }
