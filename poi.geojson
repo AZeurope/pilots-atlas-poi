@@ -11102,6 +11102,70 @@
           36.4907314113287
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feitsui Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Feitsui_Dam",
+        "comment": "Feitsui or Feicui Dam spans the Xindian River in Shiding District, New Taipei, Taiwan, southeast of the city of Taipei. It is one of two major reservoirs supplying water to the Taipei-Tamsui-Taoyuan region, the other being Shihmen Dam to the west. The dam was built almost exclusively for municipal water supply, although it also generates 70 MW of electricity at the Gueishan Power Plant beneath the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5798568725586,
+          24.911660801667054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junghua Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Junghua_Dam",
+        "comment": "Junghua Dam, also spelled Ronghua Dam, is a dam crossing the Dahan River, a tributary to the Tamsui River, in Fuxing Township,Taoyuan County, Taiwan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3524055480957,
+          24.738100755264774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mingte Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mingte_Dam",
+        "comment": "Mingte Dam is a rockfill dam across the Laotianliao River in central Miaoli County, Taiwan. The dam was built between 1966–1970 and serves mainly for irrigation and municipal water supply for Miaoli City. It consists of a main embankment 35.5 metres (116 ft) high and 187 metres (614 ft) long, holding back a reservoir with a capacity of 17.1 million cubic metres (14,350 acre feet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8858299255371,
+          24.58318785791743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanhua Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nanhua_Dam",
+        "comment": "Nanhua Dam ,originally named Houjie Dam, is an dam across the Houku River, a tributary of the Tsengwen River in southern Taiwan. Located about 40 kilometres (25 mi) east of Tainan City, the dam was built to provide municipal water to Tainan and Kaohsiung City and is operated by the Taiwan Water Corporation. Construction work started in December 1988, and impoundment of the reservoir began in July 1993."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54079055786133,
+          23.091891178768314
+        ]
+      }
     }
   ]
 }
