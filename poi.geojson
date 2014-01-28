@@ -12574,6 +12574,55 @@
           30.469389578125064
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Çetin Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cetin_Dam",
+        "comment": "The Çetin Dam is a rock-fill dam with an asphalt-concrete core, currently being constructed on the Botan River in Siirt Province, Turkey. The dam will be located directly downstream of the Botan and Büyük River confluence and have a height of 145 m (476 ft). The primary purpose of the dam is hydroelectric power generation. The dam's power plant will house three 135 MW Francis turbine-generators. Also part of the Çetin project is a smaller dam 6 km (4 mi) downstream with 45 m (148 ft) in height. Commission date app. 2015.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.38250732421875,
+          37.97668004819228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lianghekou Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lianghekou_Dam",
+        "comment": "The Lianghekou Dam (meaning: \"mouth of two rivers\") is an under construction concrete-face rock-fill dam on the Yalong River in Yajiang County, Sichuan Province, China. The dam is located at the confluence of the Yalong, Xianshui and Qingda Rivers. The dam will be 295 m (968 ft) tall and support a 3,000 MW power station. Studies for the dam were completed between 2005 and 2009 with initial construction beginning that year. When the dam's reservoir fills, it will force the relocation of over 4,900 people. App. opening date: 2015."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.01173400878906,
+          30.19306333867198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yusufeli Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yusufeli_Dam",
+        "comment": "The Yusufeli Dam is an arch dam under construction on the Çoruh River near Yusufeli in Artvin Province within the eastern Black Sea region of Turkey. The Yusufeli Dam will be the second largest dam within the larger Çoruh River Development Plan, which plans to build 13 dams, of which two are operational and another two are under construction. The dam's main purpose is hydroelectric power production and it will support a 540 MW power station. On February 26, 2013, the foundation stone was laid in a ceremony attended by Minister of Forestry and Waterworks. App. opening date: may 29th 2018."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.65912628173828,
+          40.82095443342898
+        ]
+      }
     }
   ]
 }
