@@ -12338,7 +12338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Candle LakCandle Lakee",
+        "name": "Candle Lake",
         "type": "dam",
         "url": "http://en.wikipedia.org/wiki/Candle_Lake",
         "comment": "Candle Lake is a body of water in central Saskatchewan, approximately a fifty minute drive northeast of Prince Albert, Saskatchewan. It is also the name of a resort village along the Eastern shore of the lake, and of Candle Lake Provincial Park which encompasses much of the surrounding area. Candle Lake is a popular tourist destination in Western Canada and is located in the boreal forest biome."
@@ -12348,6 +12348,86 @@
         "coordinates": [
           -105.29571533203125,
           53.82011176955965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qu'Appelle River Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Qu27Appelle_River_Dam",
+        "comment": "The Qu'appelle River Dam is the smaller of two embankment dams: which created Lake Diefenbaker in Saskatchewan, Canada. The larger dam is Gardiner Dam, the biggest embankment dam in Canada and one of the biggest in the world. Construction of both dams began in the 1959 and was completed in 1967."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4300537109375,
+          50.98609893339354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwatka Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Schwatka_Lake",
+        "comment": "Schwatka Lake is a reservoir created by the damming of the Yukon River in Whitehorse, Yukon, completed in 1958. The dam provides electrical power generation and is operated by the Yukon Energy Corporation. The White Horse Rapids, which gave the city its name, are now under the lake. The lake was named after Frederick Schwatka, a US Army Lieutenant who was first to explore the total length of the Yukon River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.03021240234375,
+          60.68713251053666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aishihik Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aishihik_Lake",
+        "comment": "Aishihik Lake is a lake of Yukon, Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.14920043945312,
+          61.44927080076419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xingó Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Xingo_Dam",
+        "comment": "The Xingó Dam is a concrete face rock-fill dam on the São Francisco River on the border of Alagoas and Sergipe, near Piranhas, Brazil. The dam was built for navigation, water supply and hydroelectric power generation as it supports a 3,162 MW power station. It was constructed between 1987 and 1994 and the last of its generators was commissioned in 1997."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.79193878173828,
+          -9.616659722284906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrow Point Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Morrow_Point_Dam",
+        "comment": "Morrow Point Dam is a 468-foot-tall (143 m) concrete double-arch dam on the Gunnison River located in Colorado, the first dam of its type built by the U.S. Bureau of Reclamation. Located in the upper Black Canyon of the Gunnison, it creates Morrow Point Reservoir, and is within the National Park Service-operated Curecanti National Recreation Area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.53744125366211,
+          38.45372313892705
         ]
       }
     }
