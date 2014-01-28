@@ -12286,6 +12286,70 @@
           54.5925552364866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caniapiscau Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Caniapiscau_Reservoir",
+        "comment": "The Caniapiscau Reservoir  is a reservoir on the upper Caniapiscau River in the Côte-Nord administrative region of the Canadian province of Quebec. It is the largest body of water in Quebec  and the second largest reservoir in Canada. The Caniapiscau Reservoir, formed by two dams and forty-three dikes, is the largest reservoir in surface area of the James Bay Project. As headpond, it feeds the power plants of the La Grande complex in the winter and provides up to 35% of their production. Its total catchment area is about 36,800 square kilometres (14,200 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89501953125,
+          54.316523240258284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "René-Lévesque generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Manic-3_generating_station",
+        "comment": "The René-Lévesque generating station, formerly known as Manic-3, is a hydroelectricity generating station located 75 km from Baie-Comeau built on Manicouagan River between 1970 and 1976. On June 22, 2010, the dam and the generating station were renamed to honor former Quebec premier René Lévesque, who was minister of Hydraulic resources during the construction of the complex and became premier of Quebec in 1976."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58078002929688,
+          49.74489390461096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gouin Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gouin_Reservoir",
+        "comment": "The Gouin Reservoir is a man-made lake in the central portion of the Canadian province of Quebec, fully within the boundaries of the City of La Tuque. It is not one contiguous body of water, but the collective name for a series of connected lakes separated by innumerable bays, peninsulas, and islands with highly irregular shapes. It has therefore a relative long shoreline of over 5,600 km (excluding islands) compared to its surface area of 1,570 km².[1] It is the source of the Saint-Maurice River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.827880859375,
+          48.61838518688487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candle LakCandle Lakee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Candle_Lake",
+        "comment": "Candle Lake is a body of water in central Saskatchewan, approximately a fifty minute drive northeast of Prince Albert, Saskatchewan. It is also the name of a resort village along the Eastern shore of the lake, and of Candle Lake Provincial Park which encompasses much of the surrounding area. Candle Lake is a popular tourist destination in Western Canada and is located in the boreal forest biome."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.29571533203125,
+          53.82011176955965
+        ]
+      }
     }
   ]
 }
