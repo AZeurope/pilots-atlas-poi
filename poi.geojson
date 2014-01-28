@@ -12094,6 +12094,86 @@
           49.70583216517381
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otter Rapids Generating Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Otter_Rapids_Generating_Station",
+        "comment": "Otter Rapids Generating Station is a dam and hydroelectric power plant located in geographic Pitt Township in the Unorganized North Part of Cochrane District in Northeastern Ontario,Canada. Owned by Ontario Power Generation, this 182 MW station is part of the Northeast Plant Group. The Ontario Northland Railway runs past this facility."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63082122802734,
+          50.182504492295244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipmuacan Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pipmuacan_Reservoir",
+        "comment": "The Pipmuacan Reservoir is a man-made lake on the boundary of the Saguenay–Lac-Saint-Jean and Côte-Nord regions of Quebec, Canada, about 130 kilometres (81 mi) north ofChicoutimi. It is used to control the flow for downstream hydro-electric generating stations on the Betsiamites River and, through Lake Pamouscachiou, also on the Shipshaw River. It has a total surface area of 978 square kilometres (378 sq mi) and a net area (water only) of 802 square kilometres (310 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.38940429687499,
+          49.653404588437894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bersimis-1 generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bersimis-1_generating_station",
+        "comment": "The Bersimis-1 generating station is a dam and a hydroelectric power station built by Hydro-Québec in conjunction with Perini, Atlas and Cartier construction companies on the Betsiamites River, in Lac-au-Brochet, 85 km (53 mi) north of the town of Forestville, Quebec. Construction started in 1953 and the power station was commissioned in 1956 with an initial nameplate capacity of 912 megawatts. It is the first plant ever built by Hydro-Québec and it has been described as a turning point in the history of electricity in province, paving the way for the takeover of all private utilities by the government-owned corporation in 1963.[2] Three years later, the first plant was followed by a second one, built 30 km (20 mi) downstream. Bersimis-2 entered service in 1959."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55770492553711,
+          49.30967971114186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bersimis-2 generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bersimis-2_generating_station",
+        "comment": "The Bersimis-2 generating station is a dam and a run-of-the-river hydroelectric power station built by Hydro-Québec on the Betsiamites River, in Lac-au-Brochet, 66 km (41 mi) north of the town of Forestville, Quebec. Construction started in 1956 and the power station was commissioned in 1959 with an initial nameplate capacity of 655 megawatts. It is the second of two plants built by Hydro-Québec on the Betsiamites. Bersimis-2 was preceded by Bersimis-1, built 30 km (20 mi) upstream between 1953 and 1956. With upgrades and further river diversions, Bersimis-2's installed capacity has been increased over time to its current capacity of 869 megawatts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.22210693359375,
+          49.172725887825585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baskatong Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Baskatong_Reservoir",
+        "comment": "The Baskatong Reservoir is a man-made lake in western Quebec, Canada. It was formed following the construction of the Mercier Dam in 1927 and has an area of 413 km2.Since 2007, a 55 MW generating station is in operation at the site of the dam, the reservoir also being used to control the flow of the Gatineau River for several hydroelectric generating stations downstream. Its primary source is the Gatineau River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.80978393554688,
+          46.78689669816402
+        ]
+      }
     }
   ]
 }
