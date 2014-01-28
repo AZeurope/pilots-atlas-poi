@@ -12623,6 +12623,70 @@
           40.82095443342898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burj Khalifa",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Burj_Khalifa",
+        "comment": "Burj Khalifa, known as Burj Dubai prior to its inauguration, is a skyscraper in Dubai, United Arab Emirates, and is the tallest man-made structure in the world, at 829.8 m (2,722 ft). Construction began on 21 September 2004, with the exterior of the structure completed on 1 October 2009. The building officially opened on 4 January 2010, and is part of the new 2 km2 (490-acre) development called Downtown Dubai at the 'First Interchange' along Sheikh Zayed Road, near Dubai's main business district. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.270156860351555,
+          25.18878705643202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_Tower",
+        "comment": "The Shanghai Tower is a supertall skyscraper under construction in Lujiazui, Pudong, Shanghai. Designed byGensler, it is the tallest of a group of three supertall buildings in Pudong, the other two being the Jin Mao Tower and the Shanghai World Financial Center. Upon its completion in 2014, the building will stand approximately 632 metres (2,073 ft) high and will have 121 stories, with a total floor area of 380,000 m2 (4,090,000 sq ft). At the time of its topping out on August 3, 2013, the Shanghai Tower is the tallest building in China and the second-tallest in the world, surpassed by the Burj Khalifa in the United Arab Emirates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50123596191405,
+          31.23804994524463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraj Al Bait",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Abraj_Al-Bait_Towers",
+        "comment": "The Abraj Al-Bait Towers, also known as the Mecca Royal Hotel Clock Tower, is a building complex in Mecca, Saudi Arabia. These towers are a part of the King Abdulaziz Endowment Project that strives to modernize the city in catering to its pilgrims. The complex holds several world records, the tallest clock tower in the world and the world's largest clock face. The complex's hotel tower became the second tallest building in the world in 2012, surpassing Taiwan's Taipei 101, and is currently the third tallest building in the world, surpassed only by Dubai's Burj Khalifa and Shanghai's Shanghai Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82543945312499,
+          21.42079187814097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One World Trade Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/One_World_Trade_Center",
+        "comment": "One World Trade Center (also 1 World Trade Center or 1 WTC, formerly the Freedom Tower) is the primary building of the new World Trade Center complex in New York City's Lower Manhattan and is the tallest building in the United States. The 104-story supertall skyscraper stands on the northwest corner of the 16-acre (6.5 ha) World Trade Center site, on the site of the original 6 World Trade Center. The building is bordered to the west by West Street, to the north by Vesey Street, to the south by Fulton Street, and to the east by Washington Street. The former building complex destroyed in the September 11 attacks at the same location, see World Trade Center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00948524475098,
+          40.71330524753565
+        ]
+      }
     }
   ]
 }
