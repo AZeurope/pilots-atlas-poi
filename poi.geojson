@@ -12430,6 +12430,70 @@
           38.45372313892705
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emborcação Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Emborcacao_Dam",
+        "comment": "The Emborcação Dam, also known as Theodomiro Sampaio, is an embankment dam on the Paranaíba River near Araguari in Minas Gerais, Brazil. It was constructed for hydroelectric power production and flood control."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.983646392822266,
+          -18.44443850847538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ney Braga Hydroelectric Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ney_Braga_Hydroelectric_Plant",
+        "comment": "The Governor Ney Braga de Barros Hydroelectric Plant, formerly known as Segredo, is dam and hydroelectric power plant on the Iguazu River near Segredo in Paraná, Brazil. It is the fourth dam upstream of the Iguazu Falls and was constructed between 1987 and 1991 while being inaugurated in 1992."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.12394714355468,
+          -25.787526529117866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongjiang Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dongjiang_Dam",
+        "comment": "The Dongjiang Dam is an arch dam on the Lishui River 14 km (9 mi) southwest of Zixing in Hunan Province, China. The dam was constructed between 1978 and 1992 and supports a 500 MW hydroelectric power station. The dam also provides for flood control, navigation and water supply. The dam's first generator was operational in 1987 and the reservoir forced the relocation of 5.2 million people."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3126449584961,
+          25.871889633438183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lijiaxia Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lijiaxia_Dam",
+        "comment": "The Lijiaxia Dam is a concrete arch-gravity dam on the Yellow River in Jainca County, Qinghai Province, China. The dam houses a hydroelectric power station with 5 x 400 MW generators for a total installed capacity of 2,000 MW. Construction began in April 1988 and the reservoir began to fill on December 26, 1996. On January 26, 1997, the initial reservoir operating level was reached and the first generator was commissioned in February."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.81236267089844,
+          36.122900843140016
+        ]
+      }
     }
   ]
 }
