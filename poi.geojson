@@ -12687,6 +12687,86 @@
           39.05118518880596
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Salt_Lake_Stadium",
+        "comment": "Salt Lake Stadium is a multi-purpose stadium in Bidhannagar, Kolkata, West Bengal. It is the largest stadium in India, and the second-largest stadium in the world by capacity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.40921401977539,
+          22.569792483999546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beaver Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Beaver_Stadium",
+        "comment": "Beaver Stadium is an outdoor college football stadium in University Park, Pennsylvania, United States, on the campus of The Pennsylvania State University. It is home to the Penn State Nittany Lions of the Big Ten Conference since 1960, though some parts of the stadium date back to 1909. The stadium is named for James A. Beaver, a former governor of Pennsylvania (1887–91) and president of the university's board of trustees."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85598754882812,
+          40.81302970733594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohio Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Ohio_Stadium",
+        "comment": "Ohio Stadium, also known as The Horseshoe or The Shoe, is an American football stadium in Columbus, Ohio, United States, on the campus of The Ohio State University. Its primary purpose is the home venue of the Ohio State Buckeyes football team. From 1996–98, Ohio Stadium was the home venue for Major League Soccer team Columbus Crew prior to the opening of Columbus Crew Stadium in 1999. The stadium also was the home venue for the OSU track and field teams from 1923–2001."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02007675170898,
+          40.00210894401827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estadio Azteca",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Estadio_Azteca",
+        "comment": "Estadio Azteca is a stadium in Santa Ursula, Mexico City, Mexico. It is the official home stadium of the Mexico national football team and the Mexican Club América. The stadium was the principle venue for football in the 1968 Summer Olympics. It has the honour of being the only stadium in the world to have hosted two FIFA World Cup Finals. In the 1970 World Cup final, Brazil defeated Italy 4–1 and in the 1986 World Cup final, Argentina defeated West Germany 3–2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15040969848633,
+          19.30361003585453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neyland Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Neyland_Stadium",
+        "comment": "Neyland Stadium is a sports stadium in Knoxville, Tennessee, United States. It serves primarily as the home of the Tennessee Volunteers football team, but is also used to host large conventions and has been a site for several NFL exhibition games. The stadium's official capacity is 102,455. Constructed in 1921, the stadium has undergone 16 expansion projects, at one point reaching a capacity of 104,079 before being slightly reduced by alterations in the following decade. Neyland Stadium is the fourth largest non-racing stadium in the United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92498970031738,
+          35.95556810807676
+        ]
+      }
     }
   ]
 }
