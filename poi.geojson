@@ -12494,6 +12494,86 @@
           36.122900843140016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srisailam Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Srisailam_Dam",
+        "comment": "The Srisailam Dam is a dam constructed across the Krishna River at Srisailam in the Kurnool district in the state of Andhra Pradesh in India and is the 3rd largest capacity hydroelectric project in the country. The dam was constructed in a deep gorge in the Nallamala Hills in Kurnool district, 300 m (980 ft) above sea level. It is 512 m (1,680 ft) long, 269.748 m (885.00 ft) high and has 12 radial crest gates. It has a reservoir of 800 km2 (310 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.91273498535156,
+          16.099422657775825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linth–Limmern Power Stations",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Limmern_Dam",
+        "comment": "The Linth–Limmern Power Stations are a system of hydroelectric power stations located south of Linthal in the canton of Glarus, Switzerland. Using five reservoirs and three power stations at steep variations in altitude, the scheme currently has an installed capacity of 479.8 MW. Construction on the Limmern Dam and Linth–Limmern Power Stations began in 1957."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00604248046875,
+          46.848334450542914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Infiernillo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Infiernillo_Dam",
+        "comment": "The Infiernillo Dam (\"Little hell\"), also known as Adolfo López Mateos Dam, is an embankment dam on the Balsas River near La Unión, Guerrero, Mexico. The dam supports a hydroelectric power station containing six turbine-generators for a total installed capacity of 1,120 MW. The dam is 149 m (489 ft) high, 344 m (1,129 ft) long and is owned by Comisión Federal de Electricidad. Its first generator was operational on January 25, 1965."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8930435180664,
+          18.27483522699113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flaming Gorge Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Flaming_Gorge_Dam",
+        "comment": "The Flaming Gorge Dam is a concrete thin-arch dam in the Flaming Gorge National Recreation Area of the Green River, a major tributary of the Colorado River, in the U.S. state of Utah. One of the largest dams in the American West, Flaming Gorge Dam forms the Flaming Gorge Reservoir, which extends 91 miles (146 km) into southern Wyoming, submerging four distinct gorges of the Green River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.43000793457031,
+          40.91922020055109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geheyan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Geheyan_Dam",
+        "comment": "The Geheyan Dam is an arch-gravity dam on the Qingjiang River, a tributary of the Yangtze River, in Hubei, China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.13666534423828,
+          30.469389578125064
+        ]
+      }
     }
   ]
 }
