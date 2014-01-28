@@ -12767,6 +12767,70 @@
           35.95556810807676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryant–Denny Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Bryant-Denny_Stadium",
+        "comment": "Bryant–Denny Stadium, located in Tuscaloosa, Alabama, is the home stadium for the University of Alabama football team. The stadium opened in 1929 and was originally named Denny Stadium in honor of former University of Alabama president George H. Denny. The stadium's name was amended to Bryant–Denny Stadium in 1975 after the Alabama legislature chose to honor famed Alabama coach Paul \"Bear\" Bryant. It has a seating capacity of 101,821, and is the second largest stadium in the SEC, the fifth largest stadium in the United States and the eighth largest non-racing stadium by seating in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55047798156738,
+          33.20845942740516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darrell K Royal",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Darrell_K_Royal%E2%80%93Texas_Memorial_Stadium",
+        "comment": "Darrell K Royal–Texas Memorial Stadium (formerly War Memorial Stadium, Memorial Stadium, and Texas Memorial Stadium), located in Austin, Texas, has been home to the University of Texas at Austin Longhorns football team since 1924. The stadium has delivered a great home field advantage with the team's home record through the 2013 season being 356–102–10 (77.1%). The current official stadium seating capacity of 100,119 makes the stadium the largest football-only venue by seating capacity in the state of Texas, the largest in the Big 12 Conference, the sixth largest stadium in the United States, and the ninth largest non-motorsport stadium in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72991180419922,
+          30.282936335784676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbourne Cricket Ground",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Melbourne_Cricket_Ground",
+        "comment": "The Melbourne Cricket Ground (MCG) is an Australian sports stadium located in Yarra Park, Melbourne, Victoria, and is home to the Melbourne Cricket Club. It is the tenth-largest stadium in the world, the largest in Australia, the largest stadium for playing cricket, and holds the world record for the highest light towers at any sporting venue. The MCG is within walking distance of the city centre and is served by the Richmond railway station, Richmond, and the Jolimont railway station, East Melbourne."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9833106994629,
+          -37.81941242531439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Jalil National Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/National_Stadium,_Bukit_Jalil",
+        "comment": "National Stadium (Malay: Stadium Nasional Bukit Jalil) in Bukit Jalil, located in the National Sports Complex to the south of the capital city of Malaysia's Kuala Lumpur is a 110,000 capacity all-seater of multi-purpose stadium it was officially inaugurated by the Prime Minister of Malaysia's Tun Dr. Mahathir bin Mohamad on 1 January 1998 based in 1998 Commonwealth Games it was officially opening ceremonie."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69134140014648,
+          3.0560964630135823
+        ]
+      }
     }
   ]
 }
