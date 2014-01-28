@@ -12639,6 +12639,54 @@
           25.245938079306878
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mecca",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Mecca",
+        "comment": "Mecca, also transliterated as Makkah, is a city in the Hejaz and the capital of Makkah Province in Saudi Arabia. The city is located 70 km (43 mi) inland from Jeddah in a narrow valley at a height of 277 m (909 ft) above sea level. Its resident population in 2012 was roughly 2 million, although visitors more than triple this number every year during Hajj period held in the twelfth Muslim lunar month of Dhu al-Hijjah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.826812744140625,
+          21.451790481559417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Michigan_Stadium",
+        "comment": "Michigan Stadium, nicknamed \"The Big House\", is the football stadium for the University of Michigan in Ann Arbor, Michigan. Michigan Stadium was built in 1927 at a cost of $950,000 and had an original capacity of 82,000. Prior to the stadium's construction, the Wolverines played football at Ferry Field. Michigan Stadium is the largest stadium in the United States with an official capacity of 109,901, but has hosted crowds in excess of 115,000. It is the third largest stadium in the world and the 31st largest sports venue including auto racing and horse racing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484359741211,
+          42.26701997570877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rungnado May Day Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Rungnado_May_Day_Stadium",
+        "comment": "The Rungnado 1st of May Stadium is a multi-purpose stadium in Pyongyang, North Korea, completed on May 1, 1989. It is regarded as one of the largest stadiums in the world, with a capacity of 150,000, and occupying over 207,000 m squared."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77526092529297,
+          39.05118518880596
+        ]
+      }
     }
   ]
 }
