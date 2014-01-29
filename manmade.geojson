@@ -3224,6 +3224,119 @@
           30.597360348648255
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modern Media Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Modern_Media_Center",
+        "comment": "Modern Media Center is a skyscraper under construction in Changzhou, China. Completed 2013, Height 332 m (1,089 ft), Floor count 57."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97276306152344,
+          31.812812518555912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Landmark",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Landmark_(Abu_Dhabi)",
+        "comment": "The Landmark is a postmodern supertall skyscraper in Abu Dhabi, United Arab Emirates. The mixed-use project stands 324 metres (1,063 ft) tall with 72 floors above ground and five basement levels. The skyscraper was completed in 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.35091018676758,
+          24.484805223828925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pentagon",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Pentagon_(building)",
+        "comment": "The Pentagon is the headquarters of the United States Department of Defense, located in Arlington County, Virginia. As a symbol of the U.S. military, \"the Pentagon\" is often used metonymically to refer to the U.S. Department of Defense rather than the building itself. The Pentagon is a large office building, with about 6,500,000 sq ft (600,000 m2), of which 3,700,000 sq ft (340,000 m2) are used as offices. Approximately 28,000 military and civilian employees and about 3,000 non-defense support personnel work in the Pentagon. It has five sides, five floors above ground, two basement levels, and five ring corridors per floor with a total of 17.5 mi (28.2 km) of corridors. The Pentagon includes a five-acre (20,000 m2) central plaza, which is shaped like a pentagon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05595970153809,
+          38.8715229186257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turning Torso",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Turning_Torso",
+        "comment": "HSB Turning Torso is the tallest skyscraper in Sweden and the Nordic countries, situated in Malmö, Sweden on the Swedish side of the Öresund strait. When completed, it was the tallest building in Scandinavia. A similar, taller skyscraper featuring a 90° twist is the Cayan Tower, located in Dubai, United Arab Emirates. Prior to the construction of Turning Torso, the 86‑metre (282 ft) Kronprinsen had been the city's tallest building."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.976398468017578,
+          55.613383476482376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlton Centre",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Carlton_Centre",
+        "comment": "The Carlton Centre is a skyscraper and shopping centre located in downtown Johannesburg, South Africa. At 223 metres (732 ft), it has been the tallest office building in Africa for 39 years. The Carlton Centre has 50 floors. The foundations of the two buildings in the complex are 5 m (16 ft) in diameter and extend 15 m (49 ft) down to the bedrock, 35 m (115 ft) below street level. The building houses both offices and shops, and has over 46 per cent of the floor area below ground level. The Carlton Centre is linked to the Carlton Hotel by a below-ground shopping centre with over 180 shops as well as an ice skating rink all set below an above-ground public plaza."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.046121597290036,
+          -26.205369591044292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hassan II Mosque",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Hassan_II_Mosque",
+        "comment": "The Hassan II Mosque or Grande Mosquée Hassan II, nickname: \"Casablanca Hajj\", is a mosque in Casablanca, Morocco. It is the largest mosque in the country and the 7th largest in the world. Its minaret is the world's tallest at 210 metres (689 ft). Completed in 1993, it was designed by Michel Pinseau and built by Bouygues. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca. The mosque stands on a promontory looking out to the Atlantic Ocean, the sea bed being visible through the glass floor of the building's hall. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque's outside grounds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.63249397277832,
+          33.608829373246664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ministry of Foreign Affairs",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Egypt)",
+        "comment": "The Ministry of Foreign Affairs of the Arab Republic of Egypt is the Egyptian government ministry which oversees the foreign relations of Egypt. The current Minister is Nabil Fahmy.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.229796409606934,
+          30.0554998366744
+        ]
+      }
     }
   ]
 }
