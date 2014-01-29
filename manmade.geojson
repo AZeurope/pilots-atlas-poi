@@ -2024,6 +2024,70 @@
           25.08954387165955
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuntex Sky Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tuntex_Sky_Tower",
+        "comment": "Tuntex Sky Tower, or the T & C Tower or 85 SKYTOWER, is an 85-floor skyscraper located in Lingya District, Kaohsiung, Taiwan. The structure is 347.5 m (1,140 ft) high. An antenna pushes the building height to 378 m (1,240 ft). Constructed from 1994 to 1997, it is the tallest skyscraper in Kaohsiung, and was the tallest in Taiwan until the completion of Taipei 101. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30012130737305,
+          22.611633902823524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Central_Plaza",
+        "comment": "Central Plaza is a 78-storey, 374 m (1,227 ft) skyscraper completed in August 1995 at 18 Harbour Road, in Wan Chai on Hong Kong Island in Hong Kong. It is the third tallest tower in the city after 2 IFC in Centraland the ICC in West Kowloon. It was the tallest building in Asia from 1992 to 1996, until the Shun Hing Square in neighbouring Shenzhen was built. Central Plaza surpassed the Bank of China Tower as the tallest building in Hong Kong until the completion of 2IFC. Central Plaza was also the tallest reinforced concrete building in the world, until it was surpassed by CITIC Plaza, Guangzhou. The building uses a triangular floor plan. On the top of the tower is a four-bar neon clock that indicates the time by displaying different colours in 15 minute intervals, blinking at the change of the quarter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17367696762084,
+          22.279863819758702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of China Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Bank_of_China_Tower,_Hong_Kong",
+        "comment": "The Bank of China Tower (abbreviated BOC Tower) is one of the most recognisable skyscrapers in Admiralty, Hong Kong. It houses the headquarters for the Bank of China (Hong Kong) Limited. The building is located at 1 Garden Road, in Central and Western District on Hong Kong Island. Designed by I. M. Pei and L.C Pei of I.M Pei and Partners, the building is 315.0 m (1,033.5 ft) high with two masts reaching 367.4 m (1,205.4 ft) high.[5] It was the tallest building in Hong Kong and Asia from 1989 to 1992, and it was the first building outside the United States to break the 305 m (1,000 ft) mark. It is now the fourth tallest skyscraper in Hong Kong, after International Commerce Centre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615319252014,
+          22.279307858855177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of America Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Bank_of_America_Tower_(New_York)",
+        "comment": "Bank of America Tower at One Bryant Park is a 1,200 ft (366 m) skyscraper in the Midtown district of Manhattan in New York City, in the United States. It is located on Sixth Avenue, between 42nd and 43rd Streets, opposite Bryant Park. The US$1 billion project was designed by COOKFOX Architects, and advertised to be one of the most efficient and ecologically friendly buildings in the world. It is the third tallest building in New York City, after One World Trade Center and the Empire State Building, and the fifth tallest building in the United States. Construction was completed in 2009."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98448705673218,
+          40.75538459186637
+        ]
+      }
     }
   ]
 }
