@@ -2744,6 +2744,102 @@
           1.2846704633603576
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UOB Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/UOB_Plaza_One",
+        "comment": "United Overseas Bank Plaza (UOB Plaza) is a complex with twin tower late-modernist skyscrapers in the city of Singapore. UOB Plaza One is one of the three tallest in the city, sharing the title with the OUB Centre and Republic Plaza. UOB Plaza Two is the shorter and older building with construction completed in 1973 and later renovated in 1995 with a similar facade as UOB Plaza One. Both buildings are connected by a 45 m (148 ft) podium supported by four columns. The podium houses the banking hall of the United Overseas Bank's main branch. The building was opened by then Senior MinisterLee Kuan Yew in 1995 which is 60 years after United Overseas Bank's founding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85004758834839,
+          1.2856143634441277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Republic Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Republic_Plaza,_Singapore",
+        "comment": "Republic Plaza is one of the three tallest skyscrapers in Singapore, located at the Southern end of Raffles Place in the Downtown Core, the central business district of Singapore. It shares the title of \"tallest building\" with the OUB Centre and UOB Plaza One. Built at 280 metres (919 feet) tall, it was completed in 1995, and incorporates earthquake proof features despite the city being relatively far from earthquake zones."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85090589523315,
+          1.2829650066431004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trump International Hotel and Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Toronto)",
+        "comment": "Trump International Hotel and Tower, Toronto is a mixed-use skyscraper in Toronto, Ontario, Canada. It was built by Talon International Development Inc., which is owned by Val Levitan and Canadian businessman Alex Shnaider. It is named for real estate developer Donald Trump, a minority shareholder in the project. The tower is located in the Financial District, at 311 Bay Street, on the southeast corner of Bay and Adelaide. Construction began with the removal of the sales centre in September 2007, but the official groundbreaking was Friday, October 12, 2007. The planned completion date for the hotel portion of the tower was fall 2011, with the official completion of the tower projected to be in early 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38016891479492,
+          43.64972423132168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Faisaliyah Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Al_Faisaliyah_Center",
+        "comment": "The Al Faisaliyah Center, or Al Faisaliah Center, is a commercial skyscraper located in the business district of Riyadh, Saudi Arabia. It is the third tallest building in Saudi Arabia after theKingdom Centre and Abraj Al Bait . Immediately below the ball is an outside viewing deck; at ground level, there is a shopping center with major world brands. The Al Faisaliah Center is about 267 meters high and consists of 44 floors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68462038040161,
+          24.690286270955884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "120 Collins Street",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/120_Collins_Street",
+        "comment": "120 Collins Street is a 265-metre (869 ft) skyscraper in Melbourne, Victoria, Australia. Built from 1989 to 1991 and comprises 50 levels of office accommodation and 4 levels of plant. 120 Collins Street is a postmodern style building, paying homage to New York's grand Art Deco buildings, such as the Empire State Building and the Chrysler Building. This influence can be seen in the building's granite facade, its setbacks and its central mast."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9703073501587,
+          -37.81380161965189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of America Corporate Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Bank_of_America_Corporate_Center",
+        "comment": "The Bank of America Corporate Center is an 871 ft (265 m) skyscraper in Uptown Charlotte, North Carolina. When completed in 1992, it became and still is the tallest building in North Carolina as well as the tallest building between Philadelphia and Atlanta; it is 60 stories high. It is the 161st tallest building in the world. Designed by Argentine architect César Pelli and HKS Architects, it is the 26th tallest building in the United States and is the most widely known building in the Charlotte skyline. It is best known as the world headquarters for Bank of America. It is the among the tallest buildings on the East Coast behind buildings in New York City and Philadelphia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84315299987793,
+          35.228040443180454
+        ]
+      }
     }
   ]
 }
