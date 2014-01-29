@@ -3261,7 +3261,7 @@
       "type": "Feature",
       "properties": {
         "name": "The Pentagon",
-        "type": "tower",
+        "type": "building",
         "url": "http://en.wikipedia.org/wiki/Pentagon_(building)",
         "comment": "The Pentagon is the headquarters of the United States Department of Defense, located in Arlington County, Virginia. As a symbol of the U.S. military, \"the Pentagon\" is often used metonymically to refer to the U.S. Department of Defense rather than the building itself. The Pentagon is a large office building, with about 6,500,000 sq ft (600,000 m2), of which 3,700,000 sq ft (340,000 m2) are used as offices. Approximately 28,000 military and civilian employees and about 3,000 non-defense support personnel work in the Pentagon. It has five sides, five floors above ground, two basement levels, and five ring corridors per floor with a total of 17.5 mi (28.2 km) of corridors. The Pentagon includes a five-acre (20,000 m2) central plaza, which is shaped like a pentagon."
       },
@@ -3335,6 +3335,70 @@
         "coordinates": [
           31.229796409606934,
           30.0554998366744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Skytree",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Skytree",
+        "comment": "Tokyo Skytree is a broadcasting, restaurant, and observation tower in Sumida, Tokyo, Japan. It became the tallest structure in Japan in 2010 and reached its full height of 634.0 metres (2,080 ft) in March 2011, making it the tallest tower in the world, displacing the Canton Tower, and the second tallest structure in the world after Burj Khalifa (829.8 m/2,722 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.81226921081543,
+          35.7104893734736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimney",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Chimney",
+        "comment": "A chimney is a structure which provides ventilation for hot flue gases or smoke from a boiler, stove, furnace or fireplace to the outside atmosphere. Chimneys are typically vertical, or as near as possible to vertical, to ensure that the gases flow smoothly, drawing air into the combustion in what is known as the stack, or chimney, effect. The space inside a chimney is called a flue. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.48362731933594,
+          52.02503610077118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radio masts and towers",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Radio_masts_and_towers",
+        "comment": "Radio masts and towers are, typically, tall structures designed to support antennas (also known as aerials) for telecommunications and broadcasting, including television. They are among the tallest man-made structures. Similar structures include electricity pylons and towers for wind turbines."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28917121887207,
+          47.34242874941908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boeing Everett Factory",
+        "type": "building",
+        "url": "http://en.wikipedia.org/wiki/Boeing_Everett_Factory",
+        "comment": "The Boeing Everett Factory, in Everett, Washington, is an airplane assembly building owned by Boeing. Located on the northeast corner of Paine Field, it is the largest building in the world by volume at 13,385,378 m3 (472,370,319 cu ft) and covers 399,480 m2 (98.3 acres).[1] It is where wide-body Boeing 747s, 767s, 777s, and the new 787 Dreamliner are assembled."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2716522216797,
+          47.926580479080826
         ]
       }
     }
