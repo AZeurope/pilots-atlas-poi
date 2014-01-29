@@ -2488,6 +2488,70 @@
           29.760447032078382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Asia Trade Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Northeast_Asia_Trade_Tower",
+        "comment": "The Northeast Asia Trade Tower or NEATT is a skyscraper in Songdo International City, the world's most expensive private real estate project in Incheon Free Economic Zone, South Korea. The 305m (1001 foot) building is currently South Korea's tallest, and has 68 floors. It surpassed the previous record-holder, Samsung Tower Palace 3 – Tower G in Seoul, when it topped-out in 2009. The building was intended to be a landmark of the Songdo International Business District. It will feature 19 floors of class A office space, South Korea's tallest observatory on the 65th-floor, luxury hotel, serviced residences, and retail stores. The column-free floors include an office lobby at ground level with French limestone floors and Vermont slate stone walls. The building is next to Songdo Convensia, the Riverstone shopping center, and the Sheraton Incheon Hotel. It has an extensive parking station next door, and will have pedestrian access to a future subway station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.64481163024902,
+          37.38843585234131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baiyoke Tower II",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Baiyoke_Tower_II",
+        "comment": "Baiyoke Tower II, is an 85-storey, 304 m (997 ft) skyscraper hotel at 222 Ratchaprarop Road in the Ratchathewi district of Bangkok, Thailand. It is the tallest building in the city, and comprises the Baiyoke Sky Hotel, the tallest hotel in Southeast Asia and the seventh-tallest all-hotel structure in the world. With the antenna included, the building's height is 328.4 m (1,077 ft), and features a public observatory on the 77th floor, a bar called \"Roof Top Bar & Music Lounge\" on the 83rd floor, a 360-degree revolving roof deck on the 84th floor and the hotel offers 673 guest rooms. Construction on the building ended in 1997, with the antenna being added two years later. The Baiyoke Sky Hotel website notes the height without the antenna as 309 m (1,014 ft), but the Council on Tall Buildings and Urban Habitat (CTBUH), Emporis and SkyscraperPage note it as 304 m (997 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54054498672484,
+          13.754433742919414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kingdom Centre",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Kingdom_Centre",
+        "comment": "Kingdom Centre, is a 65-storey, 302.3 m (992 ft) skyscraper in Riyadh, Saudi Arabia. It is the second tallest skyscraper in the country, and the world's third tallest building with a hole after the Shanghai World Financial Center and Tuntex Sky Tower. Besides the shopping mall, Kingdom Tower contains the Four Seasons Hotel Riyadh and state-of-the-art apartments. The 56 m (184 ft) skybridge atop the skyscraper. The building is situated on 100,000 square metres site with carparking for 3,000 vehicles."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.67459964752197,
+          24.711983418869835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wells Fargo Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Wells_Fargo_Plaza_(Houston)",
+        "comment": "The Wells Fargo Plaza, formerly the Allied Bank Plaza and First Interstate Bank Plaza, is located at 1000 Louisiana Street in downtown Houston, Texas, in the United States. This building is currently the 14th-tallest Building in the United States, the second tallest building in Texas and Houston, after Houston's JPMorgan Chase Tower, and the tallest all glass building in the western hemisphere.[2] It is the tallest building named for Wells Fargo. From street level, the building is 302.4 meters (992 ft) tall and contains 71 floors. It extends four more stories below street level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36823749542236,
+          29.75849111669676
+        ]
+      }
     }
   ]
 }
