@@ -2088,6 +2088,102 @@
           40.75538459186637
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almas Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Almas_Tower",
+        "comment": "Almas Tower is a 68-storey,360 m (1,180 ft), supertall skyscraper in the Jumeirah Lake Towers Free Zone of Dubai, United Arab Emirates. Construction of the office building began in early 2005 and was completed in 2009 with the installation of some remaining cladding panels at the top of the tower. The building was topped out in 2008, and became the tallest building in Dubai until 2010 when it was surpassed by Burj Khalifa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1409387588501,
+          25.069312385252136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pinnacle",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Grand_International_Mansion",
+        "comment": "The Pinnacle is a 60-storey, 360 m (1,180 ft), supertall skyscraper in the Tianhe District of Guangzhou, Guangdong, China. Construction of the 118,452 m2(1,275,010 sq ft) tower was completed in 2012, and resembles the Empire State Building, in New York City."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.31788063049316,
+          23.127770832022392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEG Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/SEG_Plaza",
+        "comment": "The SEG Plaza is a skyscraper located at the junction of Shennan Boulevard and Hua Qiang Bei in Shenzhen, Guangdong, People's Republic of China. Completed in 2000, it is 356m (1,168 ft) high (spire/antenna height). It is the 21st tallest in China and the 72nd tallest in the world. It has an observation floor at the 69th level which offers views over Shenzhen and northern Hong Kong. It is the home of, and named after the Shenzhen Electronics Group. It can be reached by using the Shenzhen Metro to Hua Qiang Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.08233165740967,
+          22.54407114110134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JW Marriott Marquis 1+2 Dubai",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Emirates_Park_Tower_1",
+        "comment": "The JW Marriott Marquis Dubai Hotel is the world's tallest hotel, a 72-storey, 355 m (1,165 ft) twin-tower skyscraper complex in Dubai, United Arab Emirates. The AED1.8 billion features a 1,608-room hotel run byMarriott International. With the first tower open, the hotel comprises 14 food and beverage outlets, rooftop bars, a business center, conference halls and meeting rooms, an extensive banquet hall, a 3,700 m2 (40,000 sq ft) spa and health club, as well as retail outlets, a swimming pool, and a gymnasium."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.256166458129876,
+          25.18529189772618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emirates Office Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Emirates_Office_Tower",
+        "comment": "The Emirates Office Tower, also known as Emirates Tower One, is a 54-floor office building along Sheikh Zayed Road in the city of Dubai, United Arab Emirates. Connected with the 56-floor Jumeirah Emirates Towers Hotel by a retail boulevard, the two towers form what is commonly referred to as the Emirates Towers complex. The tower has a total structural height of 354.6 m (1,163 ft) and roof height of 311 m (1,020 ft), making it the 23rd-tallest building in the world. The Emirates Office Tower One is taller than the neighboring Jumeirah Emirates Towers Hotel, but has two fewer floors. Construction of the building was completed on November 3, 1999."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28303146362305,
+          25.217598875991705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aon Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Aon_Center_(Chicago)",
+        "comment": "The Aon Center (200 East Randolph Street, formerly Amoco Building) is a modern skyscraper in the Chicago Loop, Chicago, Illinois, United States, designed by architect firms Edward Durell Stone and The Perkins and Will partnership, and completed in 1974 as the Standard Oil Building. With 83 floors and a height of 1,136 feet (346 m), it is the third tallest building in Chicago, surpassed in height by the Sears Tower and the Trump International Hotel and Tower. The building is managed by Jones Lang LaSalle, which is also headquartered in the building. Aon Center formerly had the headquarters of Aon and Amoco; Aon's US operations are still headquartered here. The Aon Center is almost identical in design and floorplan to First Canadian Place in Toronto, Canada, the only major design difference being the orientation of the exterior windows, which can be seen by comparing exterior images of the two buildings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62163162231445,
+          41.885250086640895
+        ]
+      }
     }
   ]
 }
