@@ -1848,6 +1848,102 @@
           25.089446706325155
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trump International Hotel and Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago)",
+        "comment": "The Trump International Hotel and Tower, also known as Trump Tower Chicago and Trump Tower, is a skyscraper condo-hotel in downtown Chicago, Illinois. The building, named after billionaire real estate developer Donald Trump, was designed by architect Adrian Smith of Skidmore, Owings and Merrill. Bovis Lend Lease built the 96-story structure, which reached a height of 1,389 feet (423 m) including its spire, its roof topping out at 1,170 feet (360 m). It is adjacent to the main branch of the Chicago River, with a view of the entry to Lake Michigan beyond a series of bridges over the river. The building received publicity when the winner of the first season of The Apprentice reality television show, Bill Rancic, chose to manage the construction of the tower over managing a new Trump National Golf Course and resort in Los Angeles, California."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62638449668884,
+          41.88890822980698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jin Mao Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Jin_Mao_Tower",
+        "comment": "The Jin Mao Tower is an 88-story landmark skyscraper in the Lujiazui area of the Pudongdistrict of Shanghai, People's Republic of China. It contains offices and the Shanghai Grand Hyatt hotel. Until 2007 it was the tallest building in the PRC, the fifth tallest in the world by roof height and the seventh tallest by pinnacle height. Along with the Oriental Pearl Tower, it is part of the Pudong skyline. Its height was surpassed on September 14, 2007 by the Shanghai World Financial Center which is next to the building. The Shanghai Tower, a 128-story building located next to these two buildings and now under construction, will be even taller."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50132179260252,
+          31.23735276655503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Princess Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Princess_Tower",
+        "comment": "The Princess Tower is a 101 storey, 414 m (1,358 ft) tall residential skyscraper located in the Marina district of Dubai, UAE. Princess Tower has been the world's tallest residential building since 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.146753787994385,
+          25.08857221484369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hamra Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Al_Hamra_Tower",
+        "comment": "The Al Hamra Tower is a topped out skyscraper in Kuwait City, Kuwait. Designed by architectural firm Skidmore, Owings and Merrill, the tower is the tallest building in Kuwait on completion in 2011 at 412.6 m (1,354 ft). It is the tallest sculpted tower in the world. Turner Construction was in charge of the tower's construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.992658615112305,
+          29.379108639525644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "International Finance Centre",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/2_International_Finance_Centre",
+        "comment": "The International Finance Centre (abbr. IFC, branded as \"ifc\") is an integrated commercial development on the waterfront of Hong Kong's Central District. A prominent landmark on Hong Kong Island, IFC consists of two skyscrapers, the IFC Mall, and the 55-storey Four Seasons Hotel Hong Kong. Tower 2 is the second tallest building in Hong Kong, behind the International Commerce Centre in West Kowloon. It is the fourth-tallest building in the Greater China region and the eighth-tallest office building in the world, based on structural heights; by roof height, only the Taipei 101, Shanghai World Financial Center, Willis Tower, International Commerce Centre and Burj Khalifa exceed it. It is of similar height to the former World Trade Center. The Airport Express Hong Kong Station is directly beneath it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15931105613708,
+          22.285214830429947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23 Marina",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/23_Marina",
+        "comment": "23 Marina is a 90-storey, 392.8 m (1,289 ft) residential skyscraper in Dubai, United Arab Emirates. It was the world's tallest all-residential building until the completion of the nearby Princess Tower. The tower has 57 swimming pools and each duplex in the tower is equipped with its own private elevator. The building was 79 percent sold before construction started. The raft was completed on 30 April 2007. In June 2011, 23 Marina topped out and became the second-tallest building in the city and the tallest residential building in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.15085220336914,
+          25.08975763512369
+        ]
+      }
     }
   ]
 }
