@@ -1720,6 +1720,86 @@
           25.033972149830436
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai World Financial Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_World_Financial_Center",
+        "comment": "The Shanghai World Financial Center is a supertall skyscraper located in the Pudong district of Shanghai, China. It was designed by Kohn Pedersen Fox and developed by the Mori Building Company, with Leslie E. Robertson Associates as its structural engineer and China State Construction Engineering Corp and Shanghai Construction (Group) General Co. as its main contractor. It is a mixed-use skyscraper, consisting of offices, hotels, conference rooms, observation decks, and ground-floor shopping malls. Park Hyatt Shanghai is the tower's hotel component, comprising 174 rooms and suites. Occupying the 79th to the 93rd floors, it is the second-highest hotel in the world, surpassing the Grand Hyatt Shanghai on the 53rd to 87th floors of the neighboring Jin Mao Tower. On 14 September 2007, the skyscraper was topped out at 492.0 meters (1,614.2 ft), making it, at the time, the second-tallest building in the world and the tallest structure in Mainland China: The Shanghai Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50333881378172,
+          31.23647211243473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "International Commerce Centre",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/International_Commerce_Centre",
+        "comment": "The International Commerce Centre is a 118-storey (see below), 484 m (1,588 ft) commercial skyscraper completed in 2010 in West Kowloon, Hong Kong. It is a part of the Union Square project built on top of Kowloon Station. As of 2013, it is the world's seventh tallest building by height, world's third tallest building by number of floors, as well as the tallest building in Hong Kong. The ICC Tower faces the second-tallest skyscraper in Hong Kong, the 2 International Finance Centre (abbr. IFC), located directly across Victoria Harbour in Central, Hong Kong Island. The IFC Tower was also developed by Sun Hung Kai Properties, along with another major Hong Kong developer, Henderson Land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1605234146118,
+          22.303470262105765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petronas Towers",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Petronas_Tower",
+        "comment": "The Petronas Towers, also known as the Petronas Twin Towers are twin skyscrapers in Kuala Lumpur, Malaysia. According to the Council on Tall Buildings and Urban Habitat (CTBUH)'s official definition and ranking, they were the tallest buildings in the world from 1998 to 2004 until surpassed by Taipei 101, but they remain the tallest twin buildings in the world. The buildings are the landmark of Kuala Lumpur with nearby Kuala Lumpur Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71211242675781,
+          3.1574849195294337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zifeng Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Zifeng_Tower",
+        "comment": "Zifeng Tower (a.k.a. Greenland Center-Zifeng Tower or Greenland Square Zifeng Tower, formerly Nanjing Greenland Financial Center) is a 450-metre (1,480 ft) skyscraper completed in 2010 inNanjing, China. The 89-story building comprises retail and office space in the lower section, and restaurants, a hotel, and a public observatory near the top. The tower’s stepping is functional, helping separate these sections."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7779140472412,
+          32.062791783472406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willis Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Willis_Tower",
+        "comment": "Group obtained the right to rename the building, as part of their lease on a portion of its offices. On July 16, 2009, the building was officially renamed Willis Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63605117797852,
+          41.878827861470725
+        ]
+      }
     }
   ]
 }
