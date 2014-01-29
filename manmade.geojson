@@ -1800,6 +1800,54 @@
           41.878827861470725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KK100",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Kingkey_100",
+        "comment": "The KK100, formerly known as Kingkey 100 and Kingkey Finance Center Plaza, is a skyscraper in Shenzhen, Guangdong province, China. It is located in Shenzhen's Luohu District in an area which can be described as the financial district. The mixed-use building rises to 441.8 metres (1,449 ft) and contains 100 floors for office space and a hotel. Out of those 100 floors, 68 are used for 173,000 square metres (1,862,157 sq ft) of Class A office space, 22 stories for a 35,000 square metres (376,737 sq ft) six-star business hotel and the top four floors of the skyscraper hold a garden and several restaurants. Adjacent to KK100 is the KK Mall, which opened its doors November 26, 2010, and contains luxury brand stores, restaurants and a supermarket."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.10185813903809,
+          22.546766360343852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guangzhou International Finance Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Guangzhou_International_Finance_Center",
+        "comment": "Guangzhou International Finance Centre or Guangzhou West Tower is a 103-storey, 438.6 m (1,439 ft) skyscraper at Zhujiang Avenue West in the Tianhe District of Guangzhou, Guangdong, China. The building was topped out at the end of 2008. It is a part of the Guangzhou Twin Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3175802230835,
+          23.120508838007076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dream Dubai Marina",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Dream_Dubai_Marina",
+        "comment": "Dream Dubai Marina is a 101 storey, 432 m (1,417 ft) supertall skyscraper under construction in Dubai Marina, Dubai, United Arab Emirates. While originally scheduled for completion in 2012, as of January 2013 it is still under construction and the completion is now expected by the end of 2013, and opening in 2014. The first 32 floors of the skyscraper will have a 5-star hotel, while the floors from 34 to 100 will be furnished apartments. Apart from five restaurants in the hotel tower, there will be 252 one, 204 two and 42 three-bedroom apartments with eight penthouses from the 97th to the 100th floor. The skyscraper will have 324 hotel rooms and 516 residential units."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.149028301239014,
+          25.089446706325155
+        ]
+      }
     }
   ]
 }
