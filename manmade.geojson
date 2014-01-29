@@ -2920,6 +2920,54 @@
           14.558371682233476
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Place",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Two_Liberty_Place",
+        "comment": "Liberty Place is a skyscraper complex in Philadelphia, Pennsylvania, United States. The complex is composed of a 61-story 945-foot (288 m) skyscraper called One Liberty Place, a 58-story 848-foot (258 m) skyscraper called Two Liberty Place, a two-story shopping mall called the Shops at Liberty Place, and the 14-story Westin Philadelphia Hotel. Prior to the construction of Liberty Place, there was a \"gentlemen's agreement\" not to build any structure in Center City higher than the statue of William Penn on top of Philadelphia City Hall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1675021648407,
+          39.951900049401715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Imperial (Mumbai)",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Imperial,_Mumbai",
+        "comment": "The Imperial is a twin-tower residential skyscraper complex in Mumbai, India that are the tallest completed buildings in the country. The towers are located at the sea front in Tardeo, South Mumbai. Construction was completed and the towers were inaugurated in 2010."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81313419342041,
+          18.970909282152192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gramercy Residences",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Gramercy_Residences",
+        "comment": "The Gramercy Residences, also known as The Gramercy Residences at Century City, is a residential high-rise condominium in Makati City, Philippines. It is the first of several building projects to be built at the new Century City area along Kalayaan Avenue. The building takes its name from Gramercy Park, a fenced-in private park in one of Manhattan, New York City's prestigious neighborhoods. Originally planned to be a 65-storey building, it was announced to have 73 floors above ground with a total height of 250 meters (820.2 feet) from ground to its architectural top."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02800846099854,
+          14.565640611100514
+        ]
+      }
     }
   ]
 }
