@@ -2552,6 +2552,134 @@
           29.75849111669676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gate to the East",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Gate_to_the_East",
+        "comment": "The Gate to the East, also known as the Gate of the Orient, is a $700 Million (USD) skyscraper under construction inSuzhou, Jiangsu. It is intended to be a gateway to the city that emphasizes the city's continuing significance in today's China. The building is to be around 300 metres (980 ft) high, and located in the heart of Suzhou's central business district. It will be used mainly for transport and commercial purposes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6785488128662,
+          31.317934522048926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Capitals",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/City_of_Capitals",
+        "comment": "The City of Capitals, literally \"a city of capital cities\", official English name: Capital City, is a multifunctional complex, including twin tower skyscrapers, located on plot 9 in the Moscow International Business Center in Moscow. The City of Capitals, symbolising Moscow and St. Petersburg, was completed in 2009. The \"Moscow Tower\" is taller than Naberezhnaya Tower and was the tallest in the Commonwealth of Independent States (CIS) and in Europe with a height of 301.6 metres, until the construction of the The Shard in London, England."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53867387771606,
+          55.74724819827148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "We've the Zenith",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/We27ve_the_Zenith",
+        "comment": "Busan Haeundae Doosan We’ve the Zenith is a complex of three residential towers which were completed in 2011. With 80 floors and a height of 301m, Tower A is the 8th tallest residential building in the world, and has been officially announced as the second tallest building in Korea, according to the Ministry of Land, Transport and Maritime Affairs. The Haeundae Doosan We’ve the Zenith consists of three residential buildings, a 70, 75 and 80 story building each, with 1,788 households in total and one office building on its 42,500 square metres (457,000 sq ft) site. The total construction work took 48 months from November 2007 to November 2011."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.14454460144043,
+          35.1568281353594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspire Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Aspire_Tower",
+        "comment": "The Aspire Tower, also known as Torch Hotel, is a 300-metre (984 ft) tall skyscraper hotel located in the Doha Sports City complex in Doha, Qatar. Designed by architect Hadi Simaan and AREP and engineer Ove Arup and Partners, the tower served as the focal point for the 15th Asian Games hosted by Qatar in December 2006. The Aspire Tower is currently the tallest structure and building in Doha and Qatar, but it is expected to be surpassed by the Dubai Towers Doha and the Barwa Tower. The tower has also been known as Khalifa Sports Tower, Doha Olympic Tower or the Torch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44498348236084,
+          25.262589131451602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arraya Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Arraya_2",
+        "comment": "The Arraya Tower is a skyscraper completed in 2009 in Kuwait City, Kuwait. The tower serves as a grade-A office structure. With sixty storeys, and 300 metres high (with a 45-metre spire), the building was the tallest tower in Kuwait until the construction of Al Hamra Tower in 2011. It is currently the 59th tallest building in the world. On January 19, 2010, The Council on Tall Buildings and Urban Habitat (CTBUH) announced that Arraya Tower was the 4th-tallest building completed in 2009."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99044847488403,
+          29.376453480388943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gran Torre Santiago",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Gran_Torre_Santiago",
+        "comment": "The Gran Torre Santiago (Spanish for \"Grand Santiago Tower\"), previously known as Torre Gran Costanera, is a 64-story tall skyscraper under construction in Santiago, Chile. In 2011 it became the tallest building in South America, and in 2012 the tallest in Latin America. Upon completion it will become the second tallest building in the Southern Hemisphere, behind Q1 in Australia's sixth largest city the Gold Coast, Queensland, just surpassing the Eureka Tower in Australia's second largest city, Melbourne."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60681343078613,
+          -33.41697094460129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Canadian Place",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/First_Canadian_Place",
+        "comment": "First Canadian Place is a skyscraper in the financial district of Toronto, Ontario, at the northwest corner of King and Bay streets, and is the location of the Toronto operational head office of the Bank of Montreal. At 298 m (978 ft), it is Canada's tallest skyscraper and the 15th tallest building in North America to structural top (spires) and 9th highest to the roof top, and the 93rd tallest in the world. It is the third tallest free-standing structure in Canada, after CN Tower, also in Toronto, and the Inco Superstack in Sudbury, Ontario. The building is owned by Brookfield Office Properties, putting it in co-ownership with the neighbouring Exchange Tower and Bay Adelaide Centre as well as various other office spaces across Downtown Toronto."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38218593597412,
+          43.648683967290836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eureka Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Eureka_Tower",
+        "comment": "Eureka Tower is a 297.3-metre (975 ft) skyscraper located in the Southbank precinct of Melbourne, Victoria, Australia. Construction began in August 2002 and the exterior completed on 1 June 2006. The plaza was finished in June 2006 and the building was officially opened on 11 October 2006. The project was designed by Melbourne architectural firm Fender Katsalidis Architects and was built by Grocon (Grollo Australia). The developer of the tower was Eureka Tower Pty Ltd, a joint venture consisting of Daniel Grollo (Grocon)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96490001678467,
+          -37.82154814863567
+        ]
+      }
     }
   ]
 }
