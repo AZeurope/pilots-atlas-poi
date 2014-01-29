@@ -3160,6 +3160,70 @@
           29.737402062076352
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etihad Towers",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Etihad_Towers",
+        "comment": "Etihad Towers is the name of a complex of buildings with five towers in Abu Dhabi, the capital city of the United Arab Emirates. Tower 1: 69 floors, 277 meters, Tower 2: 74 floors, 305 meters, Tower 3: 54 floors, 260 meters, Tower 4: 60 floors, 234 meters, Tower 5: 55 floors, 218 meters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.320611953735344,
+          24.458791226692007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Key Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Key_Tower",
+        "comment": "Key Tower is a skyscraper on Public Square in downtown Cleveland, Ohio designed by architect César Pelli. It is the tallest building in both the city of Cleveland and the state of Ohio, the 18th tallest building in the United States, and the 104th tallest building in the world. The building reaches 57 stories or 947 feet (289 m) to the top of its spire, and it can be visible for up to twenty miles (32 km) away. The tower contains about 1.5 million square feet (139,355 m²) of office space."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69390678405762,
+          41.50118526539321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China World Trade Center Tower III",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/China_World_Trade_Center_Tower_3",
+        "comment": "China World Trade Center Tower III is a supertall skyscraper with 81 floors, 4 underground floors, and 30 elevators in Beijing, China. It is the third phase of development of the China World Trade Centercomplex in Beijing's central business district of Chaoyang at the junction of the East Third Ring Road and Jianguomen Outer Street (Jian Guo Men Wai Dajie). The building topped out at 330 m (1,083 ft) on 29 October 2007 and completed in 2010. It is currently one of the tallest skyscrapers in Beijing. The building bears a striking resemblance to the World Trade Center in New York that was destroyed in theSeptember 11 attacks in 2001."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45293235778807,
+          39.911250467801544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minsheng Bank Building",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Minsheng_Bank_Building",
+        "comment": "The Minsheng Bank Building (also known as Wuhan International Securities Building) is a supertall skyscraper located in Wuhan, Hubei, China. The 331 m (1,086 ft) tall building was completed in 2008 and contains 68 floors. In April 2006, the building was topped out, becoming the 18th-tallest building in the world. Currently, it is the 32nd-tallest in the world, and the 15th-tallest in China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2680263519287,
+          30.597360348648255
+        ]
+      }
     }
   ]
 }
