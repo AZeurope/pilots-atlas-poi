@@ -1672,6 +1672,54 @@
           31.235885005127034
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraj Al Bait",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Abraj_Al-Bait_Towers",
+        "comment": "The Abraj Al-Bait Towers, also known as the Mecca Royal Hotel Clock Tower, is a building complex in Mecca, Saudi Arabia. These towers are a part of the King Abdulaziz Endowment Project that strives to modernize the city in catering to its pilgrims. The complex holds several world records, the tallest clock tower in the world and the world's largest clock face. The complex's hotel tower became the second tallest building in the world in 2012, surpassing Taiwan's Taipei 101, and is currently the third tallest building in the world, surpassed only by Dubai's Burj Khalifa and Shanghai's Shanghai Tower. The building complex is metres away from the world's largest mosque and Islam's most sacred site, the Masjid al-Haram. The developer and contractor of the complex is the Saudi Binladin Group, the Kingdom's largest construction company. The complex was built after the demolition of the Ajyad Fortress, the 18th century Ottoman citadel which stood atop a hill overlooking the Grand Mosque. The destruction of the fort in 2002 by theSaudi government sparked Turkish and international outcry."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8259973526001,
+          21.419153882226368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One World Trade Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/One_World_Trade_Center",
+        "comment": "One World Trade Center (also 1 World Trade Center or 1 WTC, formerly the Freedom Tower) is the primary building of the new World Trade Center complex in New York City's Lower Manhattan and is the tallest building in the United States. The 104-story supertall skyscraper stands on the northwest corner of the 16-acre (6.5 ha) World Trade Center site, on the site of the original 6 World Trade Center. The building is bordered to the west by West Street, to the north by Vesey Street, to the south by Fulton Street, and to the east by Washington Street. Construction on below-ground utility relocations, footings, and foundations for the building began on April 27, 2006. On March 30, 2009, the Port Authority of New York and New Jersey confirmed that the building would be known by its legal name, One World Trade Center, rather than the colloquial name, Freedom Tower. The tower's steel structure topped out on August 30, 2012. On May 10, 2013, the final component of the skyscraper's spire was installed, making One World Trade Center the tallest building in the Western Hemisphere and the fourth-tallest skyscraper in the world by pinnacle height. Its spire reaches a symbolic height of 1,776 feet (541 m) in reference to the year of the United States Declaration of Independence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01283264160156,
+          40.71311007267091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taipei 101",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Taipei_101",
+        "comment": "Taipei 101, formerly known as the Taipei World Financial Center, is a landmark skyscraper located in Xinyi District, Taipei, Taiwan. The building ranked officially as the world's tallestfrom 2004 until the opening of the Burj Khalifa in Dubai in 2010. In July 2011, the building was awarded LEED Platinum certification, the highest award in the Leadership in Energy and Environmental Design (LEED) rating system and became the tallest and largest green building in the world. Taipei 101 was designed by C.Y. Lee & partners and constructed primarily by KTRT Joint Venture. The construction was finished in 2004. The tower has served as an icon of modern Taiwan ever since its opening. Fireworks launched from Taipei 101 feature prominently in international New Year's Eve broadcasts and the structure appears frequently in travel literature and international media. Taipei 101 comprises 101 floors above ground and 5 floors underground. The building was architecturally created as a symbol of the evolution of technology and Asian tradition . Its postmodernist approach to style incorporates traditional design elements and gives them modern treatments. The tower is designed to withstand typhoons and earthquakes. A multi-level shopping mall adjoining the tower houses hundreds of fashionable stores, restaurants and clubs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56449317932127,
+          25.033972149830436
+        ]
+      }
     }
   ]
 }
