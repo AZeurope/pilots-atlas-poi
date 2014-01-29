@@ -2968,6 +2968,102 @@
           14.565640611100514
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torre Caja Madrid",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Caja_Madrid_Tower",
+        "comment": "The Torre Bankia (until 2013 Torre Caja Madrid) (English: Madrid Savings Bank Tower) is a skyscraper located in the Cuatro Torres Business Area in Madrid, Spain. With a height of 250 m (820 ft) and 45 floors, it is the tallest of the four buildings in the Cuatro Torres Business Area complex, surpassing Torre de Cristal by less than a metre. It is the tallest building in Spain and the 4th tallest building in the European Union."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6879730224609375,
+          40.47643155523496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma 46",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Wisma_46",
+        "comment": "Wisma 46 is the tallest building in Indonesia. It is a 250m tall (roof height) skyscraper located in the Kota BNI-Maybank complex in Central Jakarta, Indonesia. The 48 storey office tower was completed in 1995 under the design by Zeidler Roberts Partnership (Zeidler Partnership Architects) and DP Architects Private Ltd. The tower is located on a 15 ha lot in the downtown city. It has a floor area of 140,028 m². The tower contains 23 elevators which can reach speeds of 360 mpm in the super high speed models. Wisma 46 is equal 184th tallest existing building in the world. When measured up to the roof, the tower is 228 m tall and when measured up to the lower roof, it is only 200 m tall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82011127471922,
+          -6.2030613573754065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Infinity Tower (Brisbane)",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Infinity_Tower_(Brisbane)",
+        "comment": "The Infinity Tower is a 249-metre (817 ft) skyscraper by Meriton under construction at 43 Herschel Street Brisbane, Australia. It has been the tallest building in Brisbane since surpassing Soleil in 2013. It will contain 74 levels of serviced apartments and residential apartments totalling 546 units. It is situated on a relatively small site and is part of the North Quarter district of the Brisbane CBD. It is close to Roma Street railway station, King George Square, Queen Street Mall and the Treasury District. It is also close to the Kurilpa Bridge which gives access to South Bank Parklands and the Queensland Cultural Centre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01950931549072,
+          -27.467802461003306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Park",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Central_Park,_Australia",
+        "comment": "Central Park is a 51-storey office tower in Perth, Western Australia. The building measures 226 m (741 ft) from its base at St Georges Terrace to the roof, and 249 m (817 ft) to the tip of its communications mast. Upon its completion in 1992, the tower became the tallest building in Perth. It is also currently the ninth tallest building in Australia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.85561513900758,
+          -31.953727994469986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torre de Cristal",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Torre_de_Cristal_(Madrid)",
+        "comment": "The Torre de Cristal (Spanish for Tower of Glass) is a skyscraper in the Cuatro Torres Business Area in Madrid, Spain, completed in 2008. With a final height of 249.5 metres, it ranks as the second tallest building in the country after neighbouring Torre Caja Madrid. In April 2007, its structure surpassed the height of neighbouring Torre Espacio, for a while becoming the tallest building and structure in Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6872434616088867,
+          40.47891249487545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Midtown_Tower",
+        "comment": "Midtown Tower is a mixed-use skyscraper in Roppongi, Minato, Tokyo. Completed in 2007, it is the tallest of the six buildings within the Tokyo Midtown complex, and at 248.1 meters (814 ft), it is also currently the tallest office building in Tokyo. The building is home to numerous companies and The Ritz-Carlton, Tokyo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73133087158203,
+          35.66644896712357
+        ]
+      }
     }
   ]
 }
