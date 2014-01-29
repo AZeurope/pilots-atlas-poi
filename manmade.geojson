@@ -2840,6 +2840,86 @@
           35.228040443180454
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istanbul Sapphire",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Sapphire_of_Istanbul",
+        "comment": "Istanbul Sapphire, or Sapphire, is a skyscraper, and as of 2011, the tallest building in Istanbul and Turkey, located in the central business district of Levent. Istanbul Sapphire was the tallest building in Europe without Russian territory, when the construction was completed. It is the 7th tallest building in Europe. It is the country's first ecological skyscraper. Sapphire rises 54 floors above ground level, and boasts an above-ground roof height of 238 meters (the building has an overall structural height of 261 meters including its spire, which is part of the design and not a radio antenna.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.006223678588864,
+          41.08514147233193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahrain Financial Harbour",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Bahrain_Financial_Harbour",
+        "comment": "Bahrain Financial Harbour (commonly abbreviated as BFH) is a large-scale commercial development project in Manama, the capital of Bahrain. The commercial complex is located next to the King Faisal Highway, near many popular landmarks such as the Bahrain World Trade Center, Abraj Al Lulu, and the National Bank of Bahrain. The majority of the project is being constructed on reclaimed land. The BFH project consists of multiple construction phases such as."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.57363033294677,
+          26.23772801925357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transamerica Pyramid",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Transamerica_Pyramid",
+        "comment": "The Transamerica Pyramid is the tallest skyscraper in the San Francisco skyline. The building no longer houses the headquarters of the Transamerica Corporation, who moved their U.S. headquarters to Baltimore, Maryland, but it is still associated with the company and is depicted in the company's logo. Designed by architect William Pereira and built by Hathaway Dinwiddie Construction Company, at 260 m (850 ft), on completion in 1972 it was the eighth tallest building in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4027371406555,
+          37.79516933039645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commerzbank Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Commerzbank_Tower",
+        "comment": "Commerzbank Tower is a 56-storey, 259 m (850 ft) skyscraper in the Innenstadt district of Frankfurt, Germany. An antenna spire with a signal light on top gives the tower a total height of 300.1 m (985 ft). It is the tallest building in Frankfurt, the tallest building in Germany and the second tallest building in the European Union. It had been the tallest building in Europe from its completion in 1997 until 2003 when it was surpassed by the Triumph-Palace in Moscow. The Commerzbank Tower is only two metres taller than the Messeturm, which is also located in Frankfurt. The Messeturm had been the tallest building in Europe before the construction of the Commerzbank Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674049377441406,
+          50.11094645730395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PBCom Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/PBCOM_Tower",
+        "comment": "The Philippine Bank of Communications Tower, more commonly known as PBCom Tower, is an office skyscraper ranked officially as the tallest building in the Philippines since 2000. It has a total ground to architectural top height of 259 metres (850 ft), with 52 storeys  including an 8-level radio tower. It is a joint development of Filinvest Asia Corporation (FAC) and the Philippine Bank of Communications(PBCom). The building is the home of PBCom, one of the oldest Philippine banks. The bank occupies the building's first ten floors, with a food court on the seventh floor. It is also home to a competitor bank, East West Bank, which is based in the building's twentieth and twenty-first floors, which are controlled by Filinvest Land."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01946830749512,
+          14.558371682233476
+        ]
+      }
     }
   ]
 }
