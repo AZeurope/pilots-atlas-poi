@@ -2680,6 +2680,70 @@
           -37.82154814863567
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comcast Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Comcast_Center_(office_building)",
+        "comment": "Comcast Center is a skyscraper in Center City, Philadelphia, Pennsylvania. The 58-story, 297 m (974 ft) tower is the tallest building in Philadelphia and the seventeenth tallest building in the United States. Originally called One Pennsylvania Plaza when the building was first announced in 2001, the Comcast Center went through two redesigns before construction began in 2005.At the beginning of 2005, the final redesign and its new name the Comcast Center was unveiled. The building is named after its lead tenant, cable company Comcast, which makes the skyscraper its corporate headquarters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16854286193848,
+          39.95477035777346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yokohama Landmark Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Yokohama_Landmark_Tower",
+        "comment": "The Yokohama Landmark Tower is the tallest building and 3rd tallest structure in Japan, standing 296.3 m (972 ft) high. It is located in the Minato Mirai 21district of Yokohama city, right next to Yokohama Museum of Art. Work on the building was finished in 1993. When opened, it had the highest observation deck in Japan. The building contains a five-star hotel which occupies floors 49-70, with 603 rooms in total. The lower 48 floors contain shops, restaurants, clinics, and offices. The building contains two tuned mass dampers on the (hidden) 71st floor on opposite corners of the building."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6316385269165,
+          35.454517610505185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trump Ocean Club International Hotel and Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Trump_Ocean_Club_International_Hotel_and_Tower",
+        "comment": "The Trump Ocean Club is a 70 story, 2,500,000 sq ft (230,000 m2), mixed-use waterfront condominium tower development in Panama City, Panama.The project was developed by Colombian architects Arias - Serna - Saravia S.A. The building is situated on a beachfront lot with views of the Pacific Ocean and Panama Bay, in the area of Punta Pacifica. The building was developed by real estate tycoon Donald J. Trump of the Trump Organization and Mr. Roger Khafif, President of the K Group, (a Panama resort developer). The project includes 369 hotel condominium units, 700 condominium units, 1500 parking spaces, retail shops, casino, use of a private beach club on Viveros Island, yacht club and pier, wellness spa, gym, pool deck, meeting and event spaces, and a business center. The hotel opened July 6, 2011."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50689792633057,
+          8.975436864604346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One Raffles Place",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/OUB_Centre",
+        "comment": "One Raffles Place, formerly Overseas Union Bank Centre or OUB Centre is one of the three tallest skyscrapers in the city of Singapore, sharing the title with the UOB Plaza and Republic Plaza. At 280 m (920 ft), it was the tallest building in the world outside North America at the time of its completion in 1986, surpassing South Korea's 63 Building completed one year earlier, until it was succeeded by the Bank of China Tower. The building sits at the city centre of Raffles Place."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85127067565918,
+          1.2846704633603576
+        ]
+      }
     }
   ]
 }
