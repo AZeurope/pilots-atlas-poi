@@ -2184,6 +2184,134 @@
           41.885250086640895
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Center",
+        "comment": "The Center is the fifth tallest skyscraper in Hong Kong, after International Commerce Centre, Two International Finance Centre (88 storeys), Central Plaza and Bank of China Tower. With a height of 346 m (1,135 ft), it comprises 73 stories. The Center is one of the few skyscrapers in Hong Kong that is entirely steel-structured with no reinforced concrete core. It is located on Queen's Road Central in the Central and Western District, roughly halfway between the MTR Island Line's Sheung Wan and Central stations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15471911430359,
+          22.28466881831508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keangnam Hanoi Landmark Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Keangnam_Hanoi_Landmark_Tower",
+        "comment": "Keangnam Hanoi Landmark Tower (or Keangnam Landmark 72) is a supertall skyscraper in Pham Hung Boulevard, Từ Liêm District, Hanoi, Vietnam. The area is reserved for major companies to set up their headquarters there such as KPMG, Standard Chartered Bank, PWC, LG Electronics and so on. The complex consists of one 72-story office tower with the height of 350 m and two 48-storey residence towers. Landmark 72 is located on an area of 46,054 m2 and the total floor area is 609,673 m2, ranked 5th as the largest floor area of a single building in the world. The investor as well as the executor and operator of this complex is the South Korea-based company named Keangnam Enterprises, Ltd. The investment capital for this complex is estimated $1.05 billion USD."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78452110290527,
+          21.017254034683983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Hancock Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/John_Hancock_Center",
+        "comment": "The John Hancock Center, at 875 North Michigan Avenue in the Streeterville area of Chicago, Illinois, United States, is a 100-story, 1,127-foot (344 m) tall skyscraper, constructed under the supervision of Skidmore, Owings and Merrill, with chief designer Bruce Graham and structural engineer Fazlur Khan. When the building topped out on May 6, 1968, it was the tallest building in the world outside New York City. It is currently the fourth-tallest building in Chicago and the seventh-tallest in the United States, after One World Trade Center, the Willis Tower, the Empire State Building, the Bank of America Tower, the Trump Tower Chicago, and the Aon Center. When measured to the top of its antenna masts, it stands at 1,506 feet (459 m). The building is home to offices and restaurants, as well as about 700 condominiums, and contains the third highest residence (above adjacent ground level) in the world, after the Trump Tower (also in Chicago), and the Burj Khalifa (in Dubai)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62296199798584,
+          41.89895506484607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercury City Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Mercury_City_Tower",
+        "comment": "Mercury City Tower is a 75-story skyscraper currently under construction in Moscow. Located in the Moscow International Business Center, construction started in 2009. The building topped-out at 338.8 m (1,112 ft) on 1 November 2012, overtaking The Shard in London as Europe's tallest building."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54024028778076,
+          55.7507383920938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tianjin World Financial Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tianjin_World_Financial_Center",
+        "comment": "The Tianjin Tower, or Jin Tower, or Tianjin World Financial Center is a modern supertall skyscraperlocated in the Heping Business District of Tianjin, China, on the banks of the Hai River. The mixed-use tower is 336.9 metres (1,105 ft) tall and contains 74 floors above ground and 4 below, with an observation deck at 305.2 metres (1,001 ft). The area of the glass unitized curtain wall, manufactured by Jangho Group, is 215,000m². It is notable as the first office building in Tianjin to be equipped with double decker elevators."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.19596862792969,
+          39.128961660461236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Marina Torch",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Marina_Torch",
+        "comment": "The Marina Torch, also known as Dubai Torch or just The Torch, is a supertall residential skyscraper at the Dubai Marina, in Dubai, United Arab Emirates. The tower became the tallest residential building in the world in 2011, surpassing Q1, in Gold Coast, Australia. The tower reaches 336.1 m (1105 ft) in height with 79 floors above ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14741897583008,
+          25.088086383542663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shimao International Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Shimao_International_Plaza",
+        "comment": "Shimao International Plaza is a 333.3 m (1,094 ft) tall skyscraper of 60 stories in Shanghai's Huangpu District. It was completed in 2006. Shimao International Plaza has two spires on its top, which make its total construction height to 333.3 metres. Most of the building (the upper 48 floors) houses the five-star, ultra-luxurious Le Royal Méridien Shanghai hotel with 770 rooms. The building also includes a 9 floor shopping mall and 3 floors of exclusive clubs.Shanghai Shimao Group bought the original developer of the tower, Wan Xiang Group, in 2001 and the name of the building was changed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47119522094725,
+          31.236325335949868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryugyong Hotel",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Ryugyong_Hotel",
+        "comment": "The Ryugyong Hotel (sometimes anglicised as Ryu-Gyong Hotel or Yu-Kyung Hotel) is a 105-story pyramid-shaped skyscraper under construction in Pyongyang, North Korea. Its name (\"capital of willows\") is also one of the historical names for Pyongyang. building is also known as the 105 Building, a reference to its number of floors. Construction began in 1987 but was halted in 1992 as North Korea entered a period of economic crisis after the fall of the Soviet Union. After 1992 the building stood topped out, but without any windows or interior fittings. In 2008 construction resumed. In 2012, the exterior was reported to be complete. The opening of the hotel was scheduled several times but postponed. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7304573059082,
+          39.036719639572794
+        ]
+      }
     }
   ]
 }
