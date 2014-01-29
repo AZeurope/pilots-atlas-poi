@@ -2312,6 +2312,134 @@
           39.036719639572794
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longxi International Hotel",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Longxi_International_Hotel",
+        "comment": "The Hanging Village of Huaxi is a late-modernist-futurism supertall skyscraper in Jiangyin, China. The mixed-use tower began construction in 2008 and completed in 2011. The building rises 328 m (1,076 ft) with 74 storeys. The skyscraper includes a glass sphere at the very top. The opening of the Longxi International Hotel was on 12 October 2011."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42320251464844,
+          31.831336597194174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Q1 (building)",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Q1_(building)",
+        "comment": "Q1 (meaning Queensland Number One is a skyscraper in Surfers Paradise, on the Gold Coast, Queensland. It lost its title as the world's tallest residential tower to the 348 metre building The Marina Torch in Dubai on 29 April 2011. As of May 2012, it is the fifth tallest such building. Q1 is the tallest building in Australia and the Southern Hemisphere when measured to the top of its spire (third tallest building behind Eureka Tower and Rialto Towers, both in Melbourne, Victoria, when measured to roof and highest habitable floor) and the second-tallest free-standing structure in the Southern Hemisphere, behind the Sky Towerin Auckland, New Zealand. It opened in November 2005."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.42965126037598,
+          -28.00614790104041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wenzhou World Trade Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Wenzhou_World_Trade_Center",
+        "comment": "Wenzhou World Trade Center is a 68-floor supertall skyscraper in Wenzhou, Zhejiang, China. Construction of the building began on 9 June 2003 and was completed in 2010 at 333 m (1,093 ft), giving it the title of the 25th-tallest building in the world. It is located in the downtown area of Wenzhou where it stands as the tallest building in the city, the tallest in Zhejiang province and the 18th-tallest in China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66464424133301,
+          28.006526798752308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chrysler Building",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Chrysler_Building",
+        "comment": "The Chrysler Building is an Art Deco style skyscraper in New York City, located on the east side of Manhattan in the Turtle Bay area at the intersection of 42nd Street and Lexington Avenue. At 1,046 feet (319 m), the structure was the world's tallest building for 11 months before it was surpassed by the Empire State Building in 1931. It is still the tallest brick building in the world, albeit with an internal steel skeleton. After the destruction of the World Trade Center, it was again the second-tallest building in New York City until December 2007, when the spire was raised on the 1,200-foot (365.8 m) Bank of America Tower, pushing the Chrysler Building into third position. In addition, The New York Times Building, which opened in 2007, is exactly level with the Chrysler Building in height. Both buildings were then pushed into 4th position, when the under construction One World Trade Center surpassed their height."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9753246307373,
+          40.75162975070735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of America Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Bank_of_America_Plaza_(Atlanta)",
+        "comment": "Bank of America Plaza (colloquially known as The Pencil Building due to its pencil-like shape ) is a skyscraper located in the SoNo district of Atlanta, Georgia. At 317 m (1,040 ft) the tower is the 60th-tallest building in the world. When it first opened, it was the 9th tallest building in the world, and 6th tallest building in the United States. It is also Georgia's tallest building, the tallest building in any U.S. state capital, and the tallest building in the United States outside of Chicago and New York City; however, the Wilshire Grand Tower in Los Angeles at 335 m (1,099 ft) would claim the title of the tallest building in the U.S. outside of New York and Chicago in 2017 if built as proposed. It has 55 stories of office space and was completed in 1992, when it was called NationsBank Plaza."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38611507415771,
+          33.77079998760392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U.S. Bank Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/U.S._Bank_Tower_(Los_Angeles)",
+        "comment": "US Bank Tower, formerly Library Tower and First Interstate Bank World Center, is a 1,018-foot (310 m) skyscraper at 633 West Fifth Street in downtown Los Angeles, California. It is the tallest building in California, the tenth tallest in the United States, the tallest west of the Mississippi River, and the 63rd tallest building in the world. Because local building codes require all high-rise buildings to have a helipad, it was known as the tallest building in the world with a roof-top heliport from its completion in 1989 to 2004 when Taipei 101 opened. It is also the second tallest building in a major active seismic region; its structure was designed to resist an earthquake of 8.3 on the Richter scale."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25415372848512,
+          34.051041591480235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menara Telekom",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Menara_Telekom",
+        "comment": "The Menara Telekom is a skyscraper in Malaysia. It is 310 m (1,017 ft) tall, has 55 floors, and is shaped to represent a sprouting \"bamboo shoot\". It is located along the Federal Highway, Sprint Expressway and Jalan Pantai Baru and is served by the Rapid KL Kerinchi LRT station. The complex also includes a theatre able to seat a 2,500 audience, a large prayer hall (surau) and a sports facility. A unique feature of the tower is its 22 open skygardens alternating every three floors. The office floors are separated into north and south wings served by express double-deck elevators. Near the building is Kerinchi Pylon, the tallest electricity pylon in Southeast Asia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.66567802429199,
+          3.116390773209163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eurasia (building)",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Eurasia_(building)",
+        "comment": "Eurasia Tower is a 308.9 m (1,013 ft) tall skyscraper in Moscow International Business Center Moscow, Russia. The complex will house offices, apartments, a hotel, and other entertainment. Located on plot 12, is an office/recreational space with a total area of 207,542 square meters. It will be situated on a three-tier podium which will have a fitness centre, entertainment, restaurants, and shops. Other areas will be distributed as follows: 106,231 square meters will be reserved for office space, and residential apartments will occupy 21,185 square meters. On the bottom, there will be parking for more than 1000 cars. The external design of the building is a combination of classical and modernist styles. On the outside of the building, a scenic elevator will run up and down, allowing people to enjoy views of the entire city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.534446716308594,
+          55.74897521901593
+        ]
+      }
     }
   ]
 }
