@@ -3064,6 +3064,102 @@
           35.66644896712357
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moshe Aviv Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Moshe_Aviv_Tower",
+        "comment": "Moshe Aviv Tower, is a 235 m (771 ft) tall skyscraper located in the demarcated area of the bursa (Israel Diamond Exchange) on Jabotinsky Road (No. 7) in northern Ramat Gan, Israel. The 68-story building is commonly known as City Gate, its original name. It is the tallest building in Israel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803807735443115,
+          32.0834290499308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Devon_Tower",
+        "comment": "Devon Energy Center is a 50-story corporate skyscraper in downtown Oklahoma City, Oklahoma, and is tied as the 39th tallest building in the United States. Construction began October 6, 2009, and was completed in October 2012 The tower is located next to the historic Colcord Hotel, which Devon currently owns, on Sheridan Avenue between Hudson and Robinson Avenues. The office tower, a six-story rotunda and a six-story podium structure comprise more than 1,800,000 square feet (170,000 m2) and was initially estimated to cost $750 million."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51760959625244,
+          35.46696163175256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U.S. Steel Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/U.S._Steel_Tower",
+        "comment": "U.S. Steel Tower, also known as the Steel Building (formerly USX Tower) is a 64-story, 256.34 m (841.0 ft) skyscraper with 2,300,000 sq ft (210,000 m2) of leasable space at 600 Grant Street in downtown Pittsburgh, Pennsylvania. It is the tallest skyscraper in Pittsburgh, the fourth tallest building in Pennsylvania, and the 41st tallest in the United States. The tower's original name when completed in 1970 was the U.S. Steel Building and was changed to USX Tower in 1988. The name was finally changed back to the U.S. Steel Tower in January 2002 to reflect U.S. Steel's new corporate identity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99490976333618,
+          40.44133766339088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aon Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Aon_Center_(Los_Angeles)",
+        "comment": "Aon Center is a 62-story, 860 ft (260 m) Modernist office skyscraper at 707 Wilshire Boulevard in downtown Los Angeles, California. Designed by Charles Luckman, and completed in 1973, the rectangular black building with white trim is remarkably slender for a skyscraper in a seismically active area. It is the second tallest building in Los Angeles, the second tallest in California, and the 31st tallest in the United States. The logo of the Aon Corporation, its anchor tenant, is displayed at the top in red."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25724363327025,
+          34.04937039411698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renaissance Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Renaissance_Tower_(Dallas)",
+        "comment": "Renaissance Tower is a 886 ft (270 m), 56-story modernist skyscraper at 1201 Elm Street in downtown Dallas, Texas. The tower is the second tallest in the city, the fifth tallest in Texas, and the 24th tallest in the United States. Renaissance Tower was designed by the architectural firm Hellmuth, Obata and Kassabaum, completed in 1974, and renovated by architects Skidmore, Owings and Merrill in 1986. Major tenants include Neiman Marcus Group, Southwest Securities and Godwin Lewis PC."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8018889427185,
+          32.781357477885635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williams Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Williams_Tower",
+        "comment": "The Williams Tower (originally the Transco Tower) is a 64-story, 1.4 million sq-ft class A office tower located in the Uptown District of Houston, Texas. The building was designed by New York-based John Burgee Architects with Philip Johnson in association with Houston-based Morris-Aubry Architects (now known as Morris Architects). Construction began in August, 1981 and was completed in December, 1982. The tower is among Houston's most visible buildings and is the 4th-tallest in Texas, the 26th-tallest in the United States, and the 140th-tallest building in the world. The Williams Tower is the tallest building in Houston outside ofDowntown Houston, and at the time of its construction was believed to be the world's tallest skyscraper outside of a central business district."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.46127796173094,
+          29.737402062076352
+        ]
+      }
     }
   ]
 }
