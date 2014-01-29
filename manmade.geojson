@@ -2440,6 +2440,54 @@
           55.74897521901593
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burj Rafal",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Burj_Rafal",
+        "comment": "Burj Rafal is a skyscraper topped-out and currently under-construction in the capital city of Saudi Arabia, Riyadh. As the tower topped-out now it hold's the record for the tallest building in the city of Riyadh and Second tallest building in Saudi Arabia behind Abraj Al Bait in Makkah. Once Completed Burj Rafal will become the tallest residential tower in Saudi Arabia with 349 Hotel Rooms and 423 Apartments. The Tower will also be home to Kempinski Hotel. Burj Rafal is located on King Fahd Road (Riyadh) and is a part of King Abdullah Financial District."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.63644790649414,
+          24.79405913469039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shard",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/The_Shard",
+        "comment": "The Shard, also referred to as the Shard of Glass, Shard London Bridge and formerly London Bridge Tower, is an 87-storey skyscraper in London that forms part of the London Bridge Quarter development. The Shard's construction began in March 2009; it was topped out on 30 March 2012 and inaugurated on 5 July 2012. Practical completion was achieved in November 2012. Its privately operated observation deck, the View from the Shard, opened to the public on 1 February 2013. Standing approximately 306 metres (1,004 ft) high,[3] the Shard is currently the tallest building in the European Union. It is the second-tallest free-standing structure in the United Kingdom, after the concrete tower at the Emley Moor transmitting station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08668899536132812,
+          51.5044953223804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JPMorgan Chase Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/JPMorgan_Chase_Tower_(Houston)",
+        "comment": "JPMorgan Chase Tower, formerly Texas Commerce Tower, is a 305.41 m (1,002.0 ft), 75-story skyscraper at 600 Travis Street in downtown Houston, Texas. It is currently the tallest building in the city, the tallest building in Texas, the tallest five-sided building in the world, 13th tallest building in the United States, and the 75th tallest building in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36403179168701,
+          29.760447032078382
+        ]
+      }
     }
   ]
 }
