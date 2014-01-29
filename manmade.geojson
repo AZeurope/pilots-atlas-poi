@@ -1944,6 +1944,86 @@
           25.08975763512369
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CITIC Plaza",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/CITIC_Plaza",
+        "comment": "China International Trust and Investment (CITIC) Plaza is an 80-storey, 391 m (1,283 ft) skyscraper in the Tianhe District of Guangzhou, Guangdong, People's Republic of China. Its structural height includes two antenna-like spires on the top. Completed in 1997, it is the tallest concrete building in the world. Currently, it ranks as the eighth tallest building in China, 11th in Asia, and 16th worldwide. Located in the growing and expanding Tianhe District, it is part of a complex of the same name which also consists of two 38-story residential buildings. Its proximity includes a new train station which serves the extremely busy Guangzhou-Shenzhen and Guangzhou-Hong Kong railways. A new metro station, and the Tianhe Sports Center, where the 6th National Games and parts of the 2010 Asian Games were held. It is on the same Axis as two new building developments in Guangzhou, the first being the East and West Towers in Zhujiang New City and the Pearl Observation tower. It is surrounded by other tall buildings and is a symbol of Guangzhou's growing wealth and importance."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.31933975219725,
+          23.144819185936022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shun Hing Square",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Shun_Hing_Square",
+        "comment": "Shun Hing Square, also named \"Diwang Building\" Shenzhen, is a 384-metre-tall (1,260 ft) skyscraper in Shenzhen, Guangdong province, China. It is currently the second tallest in Shenzhen, 9th tallest building in mainland China, and the 17th tallest in the world. It was the tallest building in China from its completion in 1996 until CITIC Plaza in Guangzhou was completed in 1997. It was also the first skyscraper in China to be one of the ten tallest in the world (Bank of China Tower and Central Plaza, of Hong Kong, were constructed while Hong Kong was still a part of the British Empire). The building was built at the fast pace of four floors in nine days. The main tower has offices, while an accompanying 35-floor annex contains apartments, car park and shopping arcade complex which has 5 floors, four sets of escalators, five passenger lifts and two service lifts, and a floor area ranging from 3450 m2 to 4900 m2. On the top floor is the Meridian View Centre, an observation deck."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.10569906234741,
+          22.545339486124835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Market Project",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Central_Market_Project",
+        "comment": "The Central Market Project is a complex of three skyscrapers, one supertall, that are under construction in Abu Dhabi, United Arab Emirates. Construction of the three towers was scheduled to end in 2010 and a total project completion date of 2014, including the Emporium and The Souk and the four star Marriot Courtyard Hotel and five star Marriot Renaissance hotel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3563175201416,
+          24.487695336073156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empire State Building",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Empire_State_Building",
+        "comment": "The Empire State Building is a 103-story skyscraper located in Midtown Manhattan, New York City, at the intersection of Fifth Avenue and West 34th Street. It has a roof height of 1,250 feet (381 meters), and with its antenna spire included, it stands a total of 1,454 ft (443.2 m) high. Its name is derived from the nickname for New York, the Empire State. It stood as the world's tallest building for nearly 40 years, from its completion in early 1931 until the topping out of the World Trade Center's North Tower in late 1970. Following the September 11 attacks in 2001, the Empire State Building was again the tallest building in New York (although it was no longer the tallest in the US or the world), until One World Trade Center reached a greater height on April 30, 2012. The Empire State Building is currently the fourth-tallest completed skyscraper in the United States (after the One World Trade Center, the Willis Tower and Trump International Hotel and Tower, both in Chicago), and the 23rd-tallest in the world (the tallest now is Burj Khalifa, located in Dubai). It is also the fourth-tallest freestanding structure in the Americas. The Empire State Building is generally thought of as an American cultural icon. It is designed in the distinctive Art Deco style and has been named as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98549556732178,
+          40.74823233074709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elite Residence",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Elite_Residence",
+        "comment": "Elite Residence is a supertall skyscraper in Dubai, United Arab Emirates in the Dubai Marina district, overlooking one of the man made palm island, Palm Jumeirah. The building stands 380.5 metres (1,248 ft) tall and has 87 floors. Of the 91 floors 76 are for 695 apartments and the other 15 include amenities such as swimming pools, spas, reception areas, health clubs, a business center and a gymnasium. The skyscraper has 695 apartments, and 12 elevators Construction was completed in 2012. The tower is the third tallest residential building in the world. The handing over commenced from January, 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14793395996094,
+          25.08954387165955
+        ]
+      }
     }
   ]
 }
