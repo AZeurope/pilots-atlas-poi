@@ -4452,12 +4452,92 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Space Needle",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Space_Needle",
+        "comment": "The Space Needle is an observation tower in Seattle, Washington, a landmark of the Pacific Northwest, and a symbol of Seattle. Built in the Seattle Center for the 1962 World's Fair, which drew over 2.3 million visitors, nearly 20,000 people a day used its elevators. Once the tallest structure west of the Mississippi River, it is 605 ft (184 m) high, 138 ft (42 m) wide, and weighs 9,550 tons. It is built to withstand winds of up to 200 miles per hour (89 m/s) and earthquakes of up to 9.1 magnitude, as strong as the 1700 Cascadia earthquake. It also has 25 lightning rods."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           39.201836585998535,
           21.47557424630034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerbrandy Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Gerbrandy_Tower",
+        "comment": "The Gerbrandy Tower is a tower in IJsselstein, the Netherlands. It was built in 1961. The Gerbrandy Tower is used for directional radio services and for FM- and TV-broadcasting. The Gerbrandy Tower consists of a concrete tower with a height of 100 meters on which a guyed aerial mast is mounted. Its total height was originally 382.5 meters, but in 1987 it was reduced to 375 meters. On August 2, 2007 its analog antenna was replaced by a digital one reducing its height by another 9 meters. Its height is now 366.8 meters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34930753707884,
+          47.620237788913194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vännäs TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Vaennaes_TV_Tower",
+        "comment": "Vännäs TV Tower is a 323 m (1,060 ft) tall Swedish concrete television tower that is used for transmitting FM-/TV-broadcasting. Comparable to the Gerbrandy Tower in IJsselstein, the Netherlands, the Vännäs TV Tower is a partially guyed concrete television tower with a concrete tower as basement and a mast guyed to the ground, albeit the latter being shorter; the Gerbrandy Tower possesses a height of 366.8 m (1,203 ft) (see Gerbrandy Tower). Vännäs TV Tower was built in 1988 as replacement for a tower destroyed by icing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.053689479827881,
+          52.010179952771026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Høiåsmasten",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Hoiasmasten",
+        "comment": "Høiåsmasten is a TV tower used for DAB-, GSM-, FM- and TV-transmission near Halden, Norway. Høiåsmasten, built in 1980, is one of the tallest partially guyed towers in the world and with a height of 320 metres (1,050 ft) the second tallest tower of Norway. It consists, like the Gerbrandy Tower, of a concrete tower as basement on which the antenna mast, guyed to the ground, is mounted. However this mast is, in contrast to that of Gerbrandy Tower, a lattice structure and not a tube structure."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.822769165039062,
+          63.837186940298416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telecommunication Tower Aarhus",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Telecommunication_Tower_Aarhus",
+        "comment": "Telecommunication Tower Aarhus, is the main radio/television transmission tower in Aarhus, Denmark, and the second tallest building in Denmark. The construction of it began in 1956, and the tower was finished later the same year. The tower is 216 m tall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429128646850586,
+          59.175444466266754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.216748714447021,
+          56.0988896313809
         ]
       }
     }
