@@ -4196,12 +4196,60 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Samatra TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Samatra_TV_Tower",
+        "comment": "Samatra TV Tower, formerly Bhuj TV Tower is a tower located at Bhuj in India. With a height of 300 m (984 ft), it is India's 8th tallest structure and 201st tallest structure in the world"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           70.49823760986327,
           27.3787794342561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sint-Pieters-Leeuw Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/BRTN_Toren",
+        "comment": "The Sint-Pieters-Leeuw Tower, sometimes called the VRT-toren, although there are several by that name, is a 300 metre tall free standing tower at Sint-Pieters-Leeuw, on the outskirts of Brussels, Belgium built in 1996. It is the tallest free standing structure in Belgium. The tower's location, which is south-west of Brussels, was chosen in order to minimize hindrance to Brussels Airport located just outside the opposite end (north-east) of the city. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.47668075561523,
+          23.19228268671898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhuzhou Television Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Zhuzhou_Television_Tower",
+        "comment": "Zhuzhou Television Tower is a 293-metre (961 ft) tall free standing telecommunications tower in Zhuzhou, China. It was renamed Shennong Tower at a later date."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.224328994750977,
+          50.76795086283796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.11360359191895,
+          27.821922045156743
         ]
       }
     }
