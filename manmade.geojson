@@ -4628,12 +4628,60 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Tiger Stadium (LSU)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Tiger_Stadium_(LSU)",
+        "comment": "Tiger Stadium is an outdoor stadium located in Baton Rouge, Louisiana. It is best known as the home stadium of the Louisiana State University Tigers football team. Prior to 1924, LSU played its home games at State Field which was located on the old LSU Campus in Downtown Baton Rouge. Tiger Stadium opened with a capacity of 12,000 in 1924. Renovations and expansions have brought the stadium's current seating capacity to 92,542, making it the eighth largest on-campus stadium in the NCAA and the eighteenth largest stadium in the world. When filled to capacity, Tiger Stadium ranks as the fifth largest \"city\" by population in the state of Louisiana."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.16774368286133,
           34.16146305533814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotton Bowl",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Cotton_Bowl_(stadium)",
+        "comment": "The Cotton Bowl is a stadium which opened in 1930 and became known as \"The House That Doak Built\" due to the immense crowds that former Southern Methodist University (SMU) running back Doak Walker drew to the stadium during his college career in the late 1940s. Originally known as Fair Park Stadium, it is located in Fair Park, site of the State Fair of Texas in Dallas, Texas, United States. Capacity: 92,100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18377685546875,
+          30.412188198098093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memorial Stadium, Lincoln",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Memorial_Stadium,_Lincoln",
+        "comment": "Memorial Stadium is located on the campus of the University of Nebraska-Lincoln in Lincoln, Nebraska, United States. It is the home of the Nebraska Cornhuskers football team. The stadium holds an ongoing NCAA record of 333 consecutive sellouts, which began in 1962. When full, Memorial Stadium holds more people than any Nebraska city except Omaha and Lincoln. Because most fans wear red apparel, the stadium is referred to as the \"Sea of Red\" on game days. Capacity: 87,091."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75968170166016,
+          32.77991423548457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70578002929688,
+          40.82069462135467
         ]
       }
     }
