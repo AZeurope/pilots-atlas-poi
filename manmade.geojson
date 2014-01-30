@@ -3401,6 +3401,86 @@
           47.926580479080826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Rose_Tower",
+        "comment": "The Rose Tower, also known as Rose Rayhaan by Rotana, is a 72-storey, 333 m (1,093 ft) hotel on Sheikh Zayed Road in Dubai, United Arab Emirates. It was the world's tallest hotel from 2009-2012. The tower was originally to be 380 m (1,250 ft), but design modification reduced it to 333 m (1,093 ft). Construction on the tower began in 2004 and was completed in 2007. On 24 October 2006, the building reached its full height with the addition of the spire."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27644395828247,
+          25.211444902383203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burj Al Arab",
+        "type": "building",
+        "url": "http://en.wikipedia.org/wiki/Burj_Al_Arab",
+        "comment": "Burj Al Arab (Tower of the Arabs) is a luxury hotel located in Dubai, United Arab Emirates. At 321 m (1,053 ft), it is the fourth tallest hotel in the world; however, 39% of its total height is made up of non-occupiable space. Burj Al Arab stands on an artificial island 280 m (920 ft) from Jumeirah beach and is connected to the mainland by a private curving bridge. The shape of the structure is designed to mimic the sail of a ship. Sometimes referred to as \"the world's only 7-Star hotel\", its star rating is disputed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.185441970825195,
+          25.141788204948032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sky Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Sky_Tower_(Abu_Dhabi)",
+        "comment": "Sky Tower Abu Dhabi is a 292 metre tall supertall skyscraper with 74 floors in Abu Dhabi, United Arab Emirates. It is located on Al Reem Island and includes office and residential space. Construction was completed in 2010 when it was the city's largest building but has been overtaken by The Landmark since, see also Abu Dhabi skyscrapers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.40734386444092,
+          24.495857591779775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl River Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Pearl_River_Tower",
+        "comment": "Pearl River Tower is a 71-storey, 309.7 m (1,016 ft), clean technology skyscraper at the junction of Jinsui Road/Zhujiang Avenue West, Tianhe District, Guangzhou, China. The tower's architecture and engineering were performed by Skidmore, Owings & Merrill with Adrian D. Smith and Gordon Gill (now at their own firm, AS+GG) as architects. Ground broke on the tower on the 8th of September 2006 and construction was completed in March 2011. It is intended for office use and is partially occupied by the China National Tobacco Corporation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.31730127334595,
+          23.12690257081813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Pacific Center",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/East_Pacific_Center",
+        "comment": "The East Pacific Center is a skyscraper complex under construction in Shenzhen, China. The complex consists of four buildings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0186882019043,
+          22.536381549895335
+        ]
+      }
     }
   ]
 }
