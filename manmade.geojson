@@ -4276,12 +4276,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Torre de Collserola",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Torre_de_Collserola",
+        "comment": "Torre de Collserola is a uniquely designed tower located on the Tibidabo hill in the Serra de Collserola, in Barcelona, Catalonia, Spain. It was designed by architect Sir Norman Foster and by Spanish civil engineers Julio Martínez Calzón and Manuel Julià Vilardell, and built in 1991 by construction company Cubiertas y MZOV S.A. for the 1992 Summer Olympics. It features a pod for floor space like many towers but uses guy wires for lateral support like a mast. Mainly used as a TV and radio transmitter, this futuristic design provides the highest viewpoint over the city. The top antenna reaches 288.4 m (946 ft) and the top of the pod, which has thirteen floors, reaches 152 m (499 ft)."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.553711891174315,
           48.17442846212872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudelange Radio Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Dudelange_Radio_Tower",
+        "comment": "The Dudelange Radio Tower is a 285-metre high freestanding steel framework FM radio and television transmission tower near Dudelange in Luxembourg. Dudelange Radio Tower was completed in 1957. On 31 July 1981, a Belgian military aircraft hit the tower. Debris of the tower killed a couple in a house near the tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.114245891571045,
+          41.41727483781795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telemax",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Telemax",
+        "comment": "The Telemax is a telecommunication tower built from 1988 to 1992 in Hanover. The tower was designed by Hans U. Boeckler and is 272 metres (892 feet) high. The tower stands on a 10 metre high base building, which brings its overall height to 282 metres (925 feet). Deutsche Telekom operates the tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0952019691467285,
+          49.46345236385163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heinrich-Hertz-Turm",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Heinrich-Hertz-Turm",
+        "comment": "The Heinrich-Hertz-Turm (named after the German physicist and Hamburg-born Heinrich Hertz) is a radio telecommunication tower and a famous landmark of Hamburg, Germany.  With an overall height of 279,2 m (916 ft) it is Hamburg's tallest building; it comprises a 204 m (670 ft) steel-reinforced concrete lower section, topped by a 45 m (148 ft) steel-lattice tower and a three-segmented cylinder of about 30 m (98 ft), which supports various antennas. There are eight concentric platforms stacked one above the other; starting at 128 m (420 ft) with the two-story observation (lower floor) and restaurant (upper floor) platform, served by two high-speed elevators. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800920486450195,
+          52.39325381821551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.975864887237549,
+          53.56331736650838
         ]
       }
     }
