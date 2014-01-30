@@ -4340,12 +4340,60 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Hillbrow Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Hillbrow_Tower",
+        "comment": "The Hillbrow Tower is a tall tower located in the suburb of Hillbrow in Johannesburg, South Africa. At 269 m (883 ft), it has been the tallest structure and tower in Africa for 40 years, and it was also the tallest structure in the Southern Hemisphere until 1978, when surpassed by the 270m Mount Isa Chimney in Queensland, Australia. Construction of the tower began in June 1968 and was completed three years later, in April 1971. Construction cost 2 million Rand (at the time, US$2.8 million). The tower was initially known as the JG Strijdom Tower, after JG Strijdom, South African Prime Minister from 1954 to 1958. On 31 May 2005 it was renamed the Telkom Jo'burg Tower."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           9.975864887237549,
           53.56331736650838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daqing Radio and Television Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Daqing_Radio_and_Television_Tower",
+        "comment": "Daqing Radio and Television Tower is a free standing telecommunications tower built in 1989 in Daqing, China. The tower is 260 m (853 ft) tall. It is the highest steel broadcasting tower in China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.04925441741943,
+          -26.186905278935715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernmeldeturm Koblenz",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Fernmeldeturm_Kuehkopf",
+        "comment": "Fernmeldeturm Koblenz is a free standing telecommunications tower on the mountain Kühkopf near Koblenz, Germany. It was built between 1972 and 1976. The Fernmeldeturm Kühkopf is 255 m (837 ft) high and not accessible to visitors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.08011817932129,
+          46.59629427506483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569150924682617,
+          50.30921393721127
         ]
       }
     }
