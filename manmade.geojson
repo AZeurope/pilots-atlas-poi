@@ -4033,6 +4033,54 @@
           39.070612358709106
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turner Broadcasting tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Atlanta_Turner_Broadcasting_Tower",
+        "comment": "The Turner Broadcasting tower, built in 1967, was a 314.3-meter (1,031 ft) free-standing lattice tower in Atlanta, Georgia. It was located next to the Downtown Connector between Spring, West Peachtree, 10th and 12th Streets in Midtown. It had a triangular cross-section, and was built on the site of a previous square broadcast tower built for WAGA-TV 5. It was disassembled in late 2010, with analog WPCH-TV 17 having been discontinued by law in June 2009, and tenants WNNX FM 100.5 and WWWQ FM 99.7 moving their auxiliary/backup facilities elsewhere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38832521438599,
+          33.782482474085775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tallinn TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tallinn_TV_Tower",
+        "comment": "The Tallinn TV Tower (Tallinna teletorn) is a free-standing structure with an observation deck, built to provide better telecommunication services for the 1980 Moscow Summer Olympics regatta event (see Sailing at the 1980 Summer Olympics). It is located near the suburb Pirita, six km north-east of the Tallinn city center. With its 314 m (1030.2 ft), the TV Tower is the tallest building in Tallinn. The tower was officially opened on 11 July 1980. The viewing platform at a height of 170 metres was open to the public until 26 November 2007, when it was closed for renovation. Having been repaired, the tower began receiving visitors again on 5 April 2012. The building is administered by the public company Levira (formerly Estonian Broadcasting Transmission Center Ltd) and is a member of the World Federation of Great Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.887337684631348,
+          59.47126671339532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yerevan TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/TV_Tower_Yerevan",
+        "comment": "Yerevan TV Tower is a 311.7-metre (1,023 ft) high lattice tower on Nork Hill in Yerevan, near city downtown, Armenia. It was built from 1974 to 1977 as a replacement for the old 180-metre (590 ft) high TV tower at Yerevan. Currently being the highest point in the city, it is one of the highest towers in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5365571975708,
+          40.17041328147474
+        ]
+      }
     }
   ]
 }
