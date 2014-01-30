@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fernsehturm Berlin",
-        "type": "tower",
-        "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
-        "comment": "",
-        "date": null,
-        "elevation": null,
-        "length_km": null,
-        "scalerank": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.409435749053955,
-          52.52083001960651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Oresund Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge",
@@ -3955,6 +3935,102 @@
         "coordinates": [
           25.214481353759766,
           54.687328056839974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernsehturm Berlin",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Berliner_Fernsehturm",
+        "comment": "The Fernsehturm (English: Berlin TV Tower) is a television tower in central Berlin, Germany. Close to Alexanderplatz in Mitte, the tower was constructed between 1965 and 1969 by the administration of the German Democratic Republic. It was intended as a symbol of Berlin, which it remains today,[1] as it is easily visible throughout the central and some suburban districts of Berlin. With its height of 368 meters, it is the tallest structure in Germany."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409371376037598,
+          52.52086918882907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiffel Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Eiffel_Tower",
+        "comment": "The Eiffel Tower is an iron lattice tower located on the Champ de Mars in Paris. It was named after the engineer Gustave Eiffel, whose company designed and built the tower. Erected in 1889 as the entrance arch to the 1889 World's Fair, it has become both a global cultural icon of France and one of the most recognizable structures in the world. The tower is the tallest structure in Paris and the most-visited paid monument in the world; 6.98 million people ascended it in 2011. The tower received its 250 millionth visitor in 2010. The tower is 324 metres (1,063 ft) tall, about the same height as an 81-storey building. During its construction, the Eiffel Tower surpassed the Washington Monument to assume the title of the tallest human-made structure in the world, a title it held for 41 years, until the Chrysler Building in New York City was built in 1930. Because of the addition of the antenna atop the Eiffel Tower in 1957, it is now taller than the Chrysler Building by 5.2 metres (17 ft). Not including broadcast antennae, it is the second-tallest structure in France, after the Millau Viaduct."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2943830490112305,
+          48.858418764575596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WHDH-TV tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/WHDH-TV_Tower",
+        "comment": "The WHDH-TV tower is a free-standing lattice tower with triangular cross section used by WHDH in Newton, Massachusetts. The tower stands 323.8 m (1,062 ft) tall. It is one of the tallest free-standing lattice towers in the United States and is just a few meters shorter than the Eiffel Tower."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2162971496582,
+          42.311418092304045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rameswaram TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Rameswaram_TV_Tower",
+        "comment": "Rameswaram TV Tower is a free-standing tower that was built in 1995. Standing at 323 metres (1,060 ft), it is the tallest structure in India. The tower is used by Doordarshan for television broadcasting. The main structure is made of reinforced cement concrete and the mast is made of lattice steel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.30983066558838,
+          9.292775208071175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiangsu Nanjing Broadcast Television Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Jiangsu_Nanjing_TV_Tower",
+        "comment": "The Nanjing Broadcast Television Tower in Jiangsu Province is free standing telecommunications and observation tower whose antenna reaches up to 318.5 metres (1045 feet). It was built in 1996 in Nanjing, China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74512672424318,
+          32.068247020432345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KCTV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/KCTV-Tower#Tower",
+        "comment": "KCTV's 1,042 feet (318 m) transmitter tower at its former studios on East 31st Street on Union Hill (south of downtown), is a widely recognized Kansas City landmark. This is due largely in part to the string lights adorning the four corners of the tower that can be seen for miles around the immediate metropolitan area at night. It is so recognized that from 1999 to 2002, the \"tall tower\" (as it was called on-air) was incorporated into KCTV's logo. For many years, the station flashed the lights on the tower due to inclement weather in Kansas City and the immediate surrounding communities in three sections:"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.58301544189453,
+          39.070612358709106
         ]
       }
     }
