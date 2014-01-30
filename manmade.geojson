@@ -4388,12 +4388,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Donauturm",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Donauturm",
+        "comment": "The Vienna Donauturm (English: Danube Tower), opened in April 1964, is the tallest structure in Austria, at 252 metres (827 ft), and among the 75 tallest towers in the world. The tower is located near the north bank of the Danube River in the district of Donaustadt."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.569150924682617,
           50.30921393721127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dresden TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Fernsehturm_Dresden-Wachwitz",
+        "comment": "The Fernsehturm Dresden-Wachwitz is a TV tower in Dresden, Germany. It is situated on the Wachwitzer Elbhöhen and serves as a transmitting tower for television and radio broadcasts. Due to its visibility over large distances and its unusual form, it has become a landmark of Dresden and the Elbe Valley."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41007661819458,
+          48.240266495528545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swisscom-Sendeturm St. Chrischona",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Swisscom-Sendeturm_St._Chrischona",
+        "comment": "Swisscom-Sendeturm St. Chrischona is a communications tower built in 1980-1984 near Basel, Switzerland. It is located east of St. Chrischona, on the territory of the municipality Bettingen, Basel-Stadt. It was built as replacement for a 136 metre tall lattice tower, which was erected at the site in 1962. This lattice tower was once a part of famous Beromünster transmitter. The tower is 250 m (820 ft) tall - a 98 m steel antenna on a 152 m concrete base - and not generally accessible for the public, although guided visits can be booked. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.838835954666138,
+          51.04003796248139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeddah TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Jeddah_TV_Tower",
+        "comment": "The Jeddah TV Tower in Jeddah, Saudi Arabia is a 250 metres (820 ft) high television tower with an observation deck. The tower was completed in 2006."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687082290649414,
+          47.57179202754399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.201836585998535,
+          21.47557424630034
         ]
       }
     }
