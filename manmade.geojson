@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Test",
-        "type": "tower",
-        "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
-        "comment": null,
-        "date": null,
-        "elevation": null,
-        "length_km": null,
-        "scalerank": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.409414291381836,
-          52.52077779392211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fernsehturm Berlin",
         "type": "tower",
         "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
@@ -36,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.409414291381836,
-          52.52077779392211
+          13.409435749053955,
+          52.52083001960651
         ]
       }
     },
