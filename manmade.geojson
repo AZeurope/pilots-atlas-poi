@@ -24,10 +24,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Berliner Fernsehturm",
+        "name": "Fernsehturm Berlin",
         "type": "tower",
         "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
-        "comment": null,
+        "comment": "",
         "date": null,
         "elevation": null,
         "length_km": null,
@@ -3815,6 +3815,166 @@
         "coordinates": [
           24.13722038269043,
           56.92406504229187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stratosphere Las Vegas",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Stratosphere_Tower",
+        "comment": "Stratosphere Las Vegas is a tower, hotel, and casino located on Las Vegas Boulevard just north of the Las Vegas Strip in Las Vegas, Nevada, United States. The property's signature attraction is the 1,149 ft (350.2 m) Stratosphere Tower, the tallest freestanding observation tower in the United States, and the second tallest in the Western Hemisphere, surpassed only by the CN Tower in Toronto, Ontario. The hotel is a separate building with 24 stories, 2,427 rooms and an 80,000 sq ft (7,400 m2) casino. It is the tallest building west of the Mississippi River and also the tallest structure in Las Vegas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15637397766113,
+          36.14743986519926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Pearl Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/West_Pearl_Tower",
+        "comment": "West Pearl Tower is a 339 m (1,112 ft) high tower built of reinforced concrete located in Chengdu, Sichuan Province, China. West Pearl Tower started construction in 1992 but construction was halted later in the year due to budgeting problems. Construction restarted in 1998 and was completed in 2004. It was mainly built to help TV networks across Chengdu but since then it has expanded to include a revolving restaurant with a 360 degree view of the city, and a recreational and commercial mall for Chengdu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09133911132812,
+          30.66567532452044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macau Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Macau_Tower",
+        "comment": "Macau Tower Convention & Entertainment Centre, also known as Macau Tower, is a towerlocated in the Special Administrative Region of the People's Republic of China. Macau used to be a Portuguese colony until 1999. The tower measures 338 m (1,109 ft) in height from ground level to the highest point. An observation deck with panoramic views, restaurants, theaters, shopping malls and the Skywalk X, a thrilling walking tour around the outer rim. It offers the best view of Macau and in recent years has been used for a variety of adventurous activities. At 233 meters, the Macau Tower's tethered \"skyjump\" and Bungee jump by AJ Hackett from the tower's outer rim, is the second highest commercial skyjump in the world, after Vegas' Stratosphere skyjump at 260 meters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.53657722473145,
+          22.18104682859417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europaturm",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Europaturm",
+        "comment": "Designed by architect Erwin Heinle, the tower's construction began in 1974. At its completion five years later, it became the tallest free-standing structure in the Federal Republic of Germany at 331 metres (1,086 ft). Even without the height of the antenna at its top, the building is over 295 metres (968 ft) high, which still makes it Germany's second tallest structure, after the Fernsehturm Berlin (368 metres/1,207 feet). Its base, at 59 metres (194 ft) thick, is the widest of any similar structure in the world. The top of the tower can turn and provides a panoramic view of the Rhine Main area. For a number of years, the upper part of the structure housed a restaurant and discothèque, but since 1999, the Europaturm has been closed to the public. In September, 2004, the antenna at the top of the tower was replaced, increasing the total height to 337.5 metres (1,107.3 ft). The six-ton antenna was lifted to the top in two parts by helicopter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654651641845703,
+          50.135448296821906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Ta",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Dragon_Tower",
+        "comment": "Long Ta, also known as the Dragon Tower, or Heilongjiang Tower, is a 336 m (1,102 ft) tall multi-purpose Chinese steel lattice television andobservation tower. Multi-purpose, the Long Ta is utilized for television broadcasting and telecommunication, transmitting FM-/TV-broadcasting throughout the province of Heilongjiang, for observation, providing a picturesque view of the surrounding areas of the city in which it situates, and for bestowing and accommodating certain famous restaurants that provide ambrosial and appetite-titillating food and delicacies. In addition, numerous features were installed in the tower, such as an observation decks and platforms, tower halls, walkways and buffet restaurants. All these contributed to making the tower earn its current grade of AAAA. In terms of height, the Dragon Tower, being the second tallest freestanding lattice tower in the world, tallest in Asia, and 7th in the whole of China, has a rich stature of 336 m (1,102 ft). The tower has an antenna that stands at 335.89 m (1,102 ft) and a top floor which stands at 216.10 m (709 ft) above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.67450904846191,
+          45.7459046107557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Tower",
+        "comment": "Tokyo Tower is a communications and observation tower located in the Shiba-koen district of Minato, Tokyo, Japan. At 333 metres (1,093 ft), it is the second-tallest structure in Japan. The structure is an Eiffel Tower-inspired lattice tower that is painted white and international orange to comply with air safety regulations. Built in 1958, the tower's main sources of revenue are tourism and antenna leasing. Over 150 million people have visited the tower since its opening. FootTown, a four-storey building located directly under the tower, houses museums, restaurants and shops. Departing from there, guests can visit two observation decks. The two-storey Main Observatory is located at 150 metres (490 ft), while the smaller Special Observatory reaches a height of 250 metres (820 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74552512168884,
+          35.65849923676496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emley Moor transmitting station",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Emley_Moor_TV_Tower",
+        "comment": "Emley Moor transmitting station is a telecommunications and broadcasting facility on Emley Moor, 1 mile (1.6 km) west of Emley, in Kirklees, West Yorkshire, England. The station's most visible feature is its 1,084-foot (330.4 m) tall concrete tower, which is a Grade II listed building. It is the tallest freestanding structure in the United Kingdom, 7th tallest freestanding structure in the European Union, 4th tallest tower in the European Union, and 23rd tallest tower in the world. The tower's official name \"Arqiva Tower\" is shown on a sign beside the offices at the base of the structure but it is commonly known as \"Emley Moor mast\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6644072532653809,
+          53.61207496484847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WITI TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/WITI_TV_Tower",
+        "comment": "The WITI Tower in Milwaukee, Wisconsin was completed in August 1962 and was briefly the tallest free-standing tower in the world, rising 1,078 feet (329 m). (Tokyo Tower had been the world's tallest, and after the construction of WITI's tower, it added additional members to regain the title.) For many years, it was the tallest free-standing tower in the United States. The Bentley Company was the foundation contractor for the Dresser Ideco tower, which was erected by the Seago Construction Co."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89723396301268,
+          43.09079826396252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sky Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Sky_Tower",
+        "comment": "The Sky Tower is an observation and telecommunications tower located on the corner of Victoria and Federal Streets in the Auckland CBD, Auckland City, New Zealand. It is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the tallest free-standing structure in the Southern Hemisphere. Due to its shape and height, especially when compared to the next tallest structures, it has become an iconic structure in Auckland's skyline."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76211786270142,
+          -36.848410164705186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilnius TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Vilnius_TV_Tower",
+        "comment": "The Vilnius TV Tower is a 326.5 m (1,071 ft) tower in the Karoliniškės microdistrict of Vilnius, Lithuania. It is the tallest structure in Lithuania, and is occupied by the SC Lithuanian Radio and Television Centre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.214481353759766,
+          54.687328056839974
         ]
       }
     }
