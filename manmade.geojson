@@ -4129,6 +4129,81 @@
           -33.870130489527014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liaoning Broadcast and TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Liaoning_Broadcast_and_TV_Tower",
+        "comment": "The Liaoning Broadcast and Television Tower is a tall free-standing structure used for communication. It was built in 1989 in Shenyang, China and is 305.5 metres (1,002 ft) tall. Within the \"disk\" of the tower, accessible through an elevator, there is an in-door observation deck, rotating restaurant, and a small bar. On the top of the disk is an outdoor observation deck. This tower is in World Federation of Great Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.42787742614746,
+          41.780368929988974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fazilka TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Fazilka_TV_Tower",
+        "comment": "Fazilka TV Tower, often nicknamed the Fazilka Eiffel Tower, is a 304.8 m (1,000 ft) tall Indian lattice tower at Fazilka, Punjab, India, which is used for FM-/TV-broadcasting in the whole of Punjab. The tower is currently the forty-fourth in the world and the second tallest man-made structure in India. Fazilka TV Tower is able to supply all areas around 100 kilometres of its location with TV programmes. The tall tower is nicknamed the \"Fazilka Eiffel Tower\", although its similarity with the real Eiffel Tower is questionable at best. Fazilka TV Tower, after Rameswaram TV Tower, is the second-tallest man-made structure in India."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98665428161621,
+          30.372282780756848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai Television Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Mumbai_Television_Tower",
+        "comment": "The Mumbai Television Tower is the television tower owned by Doordarshan, the state-broadcaster located in the city of Mumbai in India. It stands at 300 m (984 ft) and is the fourth tallest man-made structure in the Indian subcontinent. The red and white tower is an open latticework structure. The tower, located at Worli can be seen from most parts of South Mumbai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03244495391846,
+          30.39584671665653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaisalmer TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Jaisalmer_TV_Tower",
+        "comment": "Jaisalmer TV Tower is one of the tallest structures in India, located at Jaisalmer. It has a pinnacle height of 300 m (980 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82150268554686,
+          19.00929764707014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.49823760986327,
+          27.3787794342561
+        ]
+      }
     }
   ]
 }
