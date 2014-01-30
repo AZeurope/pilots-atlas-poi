@@ -4244,12 +4244,44 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Fernmeldeturm Nürnberg",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Fernmeldeturm_N%C3%BCrnberg",
+        "comment": "The Fernmeldeturm Nürnberg, the tallest structure in Bavaria, is a telecommunication tower in Nuremberg, southern Germany. Also called the Nürnberger Ei (\"Egg of Nuremberg\") because of its egg-shaped tower basket in a height of 185 metres, it is 292 metres high and was built between 1977 and 1980."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           113.11360359191895,
           27.821922045156743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympiaturm",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Olympiaturm",
+        "comment": "The Olympic Tower in the Olympic Park, Munich was built for the 1972 Summer Olympics. It has an overall height of 291 m and a weight of 52,500 tons. At a height of 190 m there is an observation platform as well as a small rock and roll museum housing various memorabilia, which is signposted as \"Rock Museum\" outside the entrance. Since its opening in 1968, the tower has registered over 35 million visitors (as of 2004). At a height of 182 m there is a revolving restaurant, which seats 230 people. A full revolution takes 53 minutes. The tower also serves as a broadcast tower, and has one Deutsche Telekom maintenance elevator with a speed of 4 m/s, as well as two visitor lifts with a speed of 7 m/s which have a capacity of about 30 people per car. The travel time is about 30 seconds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039092540740967,
+          49.42608363349172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.553711891174315,
+          48.17442846212872
         ]
       }
     }
