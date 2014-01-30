@@ -4081,6 +4081,54 @@
           40.17041328147474
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Petersburg TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/St._Petersburg_TV_Tower",
+        "comment": "Saint Petersburg Television Tower is a 310 m-high (1,020 ft) Russian steel lattice television tower in Saint Petersburg, Russia. Being the very first dedicated television tower in the Soviet Union, the Saint Petersburg TV Tower is utilized for transmitting for FM-/TV-broadcasting throughout the federal city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.32097816467285,
+          59.97653309193128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baku TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Azeri_TV_Tower",
+        "comment": "The Baku TV Tower, built in 1996, is a free standing concrete telecommunications tower in Baku, Azerbaijan. With a height of 310 metres (1017 ft), it is the tallest structure in Azerbaijan and the tallest reinforced concrete building in Caucasus. The tower has become one of the most prominent trademarks of Baku, often in the establishing shot of films set in the city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.82325553894043,
+          40.35180984156763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Sydney_Tower",
+        "comment": "Sydney Tower is Sydney's tallest free-standing structure, and the second tallest in Australia (with the Q1 building on the Gold Coast being the tallest). It is also the second tallest observation tower in the Southern Hemisphere (after Auckland's Sky Tower, though Sydney Tower Eye's main observation deck is almost 50 m (164 ft) higher than that of Auckland's Sky Tower). The name Sydney Tower has become common in daily usage, however the tower is also known as the Sydney Tower Eye, AMP Tower, Westfield Centrepoint Tower, Centrepoint Tower or just Centrepoint. The Sydney Tower is a member of the World Federation of Great Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20873928070068,
+          -33.870130489527014
+        ]
+      }
     }
   ]
 }
