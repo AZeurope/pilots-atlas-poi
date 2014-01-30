@@ -4580,12 +4580,60 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Los Angeles Memorial Coliseum",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Los_Angeles_Memorial_Coliseum",
+        "comment": "The Los Angeles Memorial Coliseum, colloquially known as just \"The Coliseum\", is a large outdoor sports stadium in the University Park neighborhood of Los Angeles, at Exposition Park, that is home to the Pacific-12. Conference's University of Southern California Trojans football team. It is the largest football stadium in the Pac-12. The Coliseum is the first stadium to have hosted the Olympic Games twice, in 1932 and 1984. It has also hosted Super Bowls and World Series. It was declared a National Historic Landmark on July 27, 1984, the day before the opening ceremony of the 1984 Summer Olympics. Capacity: 93,607."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           27.982606887817383,
           -26.234609990410277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanford Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Sanford_Stadium",
+        "comment": "Sanford Stadium is the on-campus playing venue for football at the University of Georgia in Athens, Georgia, United States. The 92,746-seat stadium is the seventh largest stadium in the NCAA. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2879066467285,
+          34.014107565123375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Bowl",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Rose_Bowl_(stadium)",
+        "comment": "The Rose Bowl is an outdoor athletic stadium in Pasadena, California, U.S., in Los Angeles County. The stadium is the home field of the football team from UCLA and the site of the annual college football bowl game, the Rose Bowl, held on New Year's Day. It hosted events during the 1932 and 1984 Olympics, and was the venue for the 1994 FIFA World Cup Final and the 1999 FIFA Women's World Cup Final. Capacity: 91,136."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37335586547852,
+          33.949839289215014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16774368286133,
+          34.16146305533814
         ]
       }
     }
