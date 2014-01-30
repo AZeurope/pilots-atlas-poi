@@ -3625,6 +3625,86 @@
           43.642442004753015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ostankino Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Ostankino_Tower",
+        "comment": "Ostankino Tower is a television and radio tower in Moscow, Russia, owned by Moscow branch of unitary enterprise Russian TV and Radio Broadcasting Network. Standing 540.1 metres (1,772 ft) tall, Ostankino was designed by Nikolai Nikitin. It is currently the tallest freestanding structure in Europe and eighth tallest in the world. The tower was the first free-standing structure to exceed 500 m (1,600 ft) in height. Ostankino was built to mark the 50th anniversary of the October Revolution. It is named after the Ostankino district of Moscow in which it is located. Construction began in 1963 and was completed in 1967. Extensive use of prestressed concrete resulted in a simple and sturdy structure. It surpassed the Empire State Building and was a masterpiece of Soviet engineering in the time period it was built, to become the tallest free-standing structure in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61160850524902,
+          55.81958466423872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oriental Pearl Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Oriental_Pearl_Tower",
+        "comment": "The Oriental Pearl Radio & TV Tower is a TV tower in Shanghai, China. Its location at the tip of Lujiazui in the Pudong district by the side of Huangpu River, opposite The Bund, makes it a distinct landmark in the area. Its principal designers were Jiang Huan Chen, Lin Benlin and Zhang Xiulin. Construction began in 1991, and the tower was completed in 1994. At 468 m (1,535 feet) high, it was the tallest structure in China from 1994–2007, when it was surpassed by the Shanghai World Financial Center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4952278137207,
+          31.241865990065794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milad Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Milad_Tower",
+        "comment": "Milad Tower, also known as Borj-e Milad or Tehran/Teheran Tower, is a 435 m-high (1,427 ft) multi-purpose Iranian concrete tower built in 2007 in between the Shahrak-e Gharband Gisha districts of Tehran. As mentioned, it stands at 435 m (1,427 ft) from base to the tip of the antenna. The head consists of a large pod with 12 floors, the roof of which is at 315 m (1,033 ft). Below this is a staircase and elevators to reach the area. In terms of height records and ranks, Milad Tower is the sixth tallest tower in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37413024902344,
+          35.74497970303246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuala Lumpur Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/KL_Tower",
+        "comment": "The Kuala Lumpur Tower is a tall tower located in Kuala Lumpur, Malaysia. Its construction was completed on 1 March 1995. It is used for communication purposes and features an antenna that reaches 421 metres (1,381 feet). The roof of the pod is at 335 metres (1,099 feet). The rest of the tower below has a stairwell and an elevator to reach the upper area, which also contains a Muslim month of Ramadhan, Syawal, and Zulhijjah, to celebrate fasting month of Ramadhan, Hari Raya Aidilfitri and Aidiladha. The tower is the highest viewpoint in Kuala Lumpur that is open to the public. The building is the landmark of Kuala Lumpur with arch-rival Petronas Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7038083076477,
+          3.1529427889428856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tianjin Radio and Television Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tianjin_Radio_and_Television_Tower",
+        "comment": "The Tianjin Radio and Television Tower is a 415.2 metres (1,362 ft) tower in Tianjin, China used primarily for communication. It was built in 1991 at a cost of $45 million. Approximately two-thirds up the tower is an observation pod with floor space 253m (830 feet) (used mostly for communication equipment). It is a member (10th tallest) of the World Federation of Great Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17528343200684,
+          39.09223254260029
+        ]
+      }
     }
   ]
 }
