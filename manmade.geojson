@@ -4532,12 +4532,60 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Warsaw radio mast",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Warsaw_Radio_Mast",
+        "comment": "The Warsaw radio mast was the world's tallest structure until its collapse on 8 August 1991. It is the second tallest land-based structure ever built, being surpassed as tallest by the Burj Khalifa, completed in 2010. The mast, which was designed by Jan Polak, was 646.38 metres (2,120.7 ft) tall. Its construction, started in July 1970, was completed on 18 May 1974, and its transmitter entered regular service on 22 July of that year. It was located in Konstantynów, Gąbin, Poland."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           10.216748714447021,
           56.0988896313809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Nou",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Camp_Nou",
+        "comment": "Camp Nou, New Field, often referred to in English as The Nou Camp is a football stadium in Barcelona, Catalonia, Spain, which has been the home of Futbol Club Barcelona since 1957. The Camp Nou seats 99,786,[4] reduced to 96,336 in matches organized by UEFA, making it the largest stadium in Europe and the 11th largest in the world in terms of capacity. It has hosted numerous international matches at a senior level, including two UEFA Champions League finals and the football competition at the 1992 Summer Olympics."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.805302619934082,
+          52.37098790002057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FNB Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Soccer_City",
+        "comment": "First National Bank Stadium or simply FNB Stadium, also known as Soccer City and The Calabash, is a stadium located in Nasrec, bordering the Soweto area of Johannesburg, South Africa. It is located next to the South African Football Association headquarters (SAFA House) where both the FIFA offices and the Local Organising Committee for the 2010 FIFA World Cup were housed. Designed as the main association football stadium for the World Cup, the FNB Stadium became the largest stadium in Africa with a capacity of 94,736. However its maximum capacity during the 2010 FIFA World Cup was 84,490 due to reserved seating for the press and other VIPs. The stadium is the home ground of Kaizer Chiefs F.C. and the South Africa national football team."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1228933334350586,
+          41.38115579295878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.982606887817383,
+          -26.234609990410277
         ]
       }
     }
