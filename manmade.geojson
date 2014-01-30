@@ -3705,6 +3705,118 @@
           39.09223254260029
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Radio & TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Central_Radio_and_TV_Tower",
+        "comment": "The Central Radio & TV Tower is a 405 m (1,329 ft) telecommunications- and observation tower in Beijing, China. It is the tallest structure in the city, and has its observation deck at 238 m (781 ft). The tower provides panoramic views over the city from its revolving restaurant and observation deck. It is a member of the World Federation of Great Towers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.30135536193848,
+          39.91928192803442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhongyuan Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Zhongyuan_Tower",
+        "comment": "Zhongyuan Tower is a 388-metre (1,273 ft) tall steel tower in Zhengzhou, Henan province, China. It was completed in February, 2011. It is used as a television tower, 200-guest revolving restaurant,and observation tower. As of 2012, it was one of the twenty tallest towers in the world, and claimed to be the highest steel structure tower in the world (but was surpassed by Tokyo Skytree)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.72278690338135,
+          34.725001088851954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiev TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Kiev_TV_Tower",
+        "comment": "The Kiev TV Tower is a 385 m-high (1,263 ft) lattice steel tower built in 1973 in Kiev, Ukraine, for radio andtelevision broadcasting. It is the tallest freestanding lattice steel construction in the world. The tower is not open to the public. Construction began in 1968 and finished in 1973 at a cost of approximately $12 million. Made of steel pipe of various diameters and thicknesses, the structure weighs 2,700 tonnes. The central pipe, or core, where the elevator is located, is 4 metres in diameter and made of pipe that is 12 mm thick. It sits on a four-legged base that is about 100 metres tall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.45307159423828,
+          50.47110845400034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tashkent Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Tashkent_Tower",
+        "comment": "The Tashkent Television Tower is a 375 metres (1,230 ft) high tower, located in Tashkent, Uzbekistan. Construction started in 1978 and it began operation 6 years later, on 15 January 1985. It was the 3rd tallest tower in the world from 1985 to 1991. It is of a vertical cantilever structure, and is constructed out of steel. The tower has an observation deck located 97 metres (318 ft) above the ground. It is the tallest structure in Central Asia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2847204208374,
+          41.34559660673659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuwait Telecommunications Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Kuwait_Telecommunications_Tower",
+        "comment": "The Liberation Tower is the second tallest structure in Kuwait. Construction of the tower commenced before the Iraqi invasion of Kuwait on August 2, 1990. It was meant to be called The Kuwait Telecommunications Tower. When the invasion took place, construction, which was almost half-way complete, was put on hold. However, the structure received no damage, and construction resumed after Saddam Hussein's forces were expelled on February 27, 1991. Upon completion in 1993, the tower was renamed the Liberation Tower, symbolizing Kuwait's liberation from Iraq."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97532081604004,
+          29.368487587394714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almaty Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Almaty_Tower",
+        "comment": "The Almaty Television Tower, or simply Almaty Tower, is a 371.5-metre-high (1,219 ft) steel television tower built between 1975 and 1983 in Almaty, Kazakhstan. The tower is located on high slopes of Kok Tobe mountain (\"blue hill\") south-east of downtown Almaty. Unlike other similar TV towers, it is not a concrete, but a steel tubular structure. It is the tallest free-standing tubular steel structure in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97557926177979,
+          43.229883027338396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riga Radio and TV Tower",
+        "type": "tower",
+        "url": "http://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower",
+        "comment": "The Riga Radio and TV Tower in Riga, Latvia is the tallest structure in the Baltic countries and in the European Union. It was built between 1979 and 1986 with funding from the central government of the Soviet Union. Its highest point reaches 368.5 m (1,209 ft), which makes it the third tallest tower in Europe (after the Ostankino Tower at 540 metres (1,772 ft) and the Kiev TV Tower at 385 metres (1,263 ft)) and the 14th tallest tower in the world. There is an observation platform at the height of 97 m, from which most of the city can be seen (and in good weather, the Gulf of Riga, and many of the city surroundings). The tower is built on an island called Zaķusala in the middle of the River Daugava, and the base of the tower is located about 7 m above mean sea level. The tower is said to be able to withstand extreme winds up to 44 m/s (98 mph) without any noticeable vibration."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13722038269043,
+          56.92406504229187
+        ]
+      }
     }
   ]
 }
