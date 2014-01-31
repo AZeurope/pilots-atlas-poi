@@ -5380,12 +5380,44 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "name": "Millennium Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Millennium_Stadium",
+        "comment": "The Millennium Stadium is the national stadium of Wales, located in the capital city, Cardiff. It is the home of the Wales national rugby union team and also frequently stages games of the Wales national football team. Initially built to host the 1999 Rugby World Cup, it has gone on to host many other large-scale events. The stadium opened in June 1999, and the first major event to be held was an international rugby union match on 26 June 1999, when Wales beat South Africa in a friendly by 29–19, before a test crowd of 29,000. With total seating capacity of 74,500, it is the third largest stadium in the Six Nations Championship behind the Stade de France and Twickenham, which is the largest. It is also the second largest stadium in the world with a fully retractable roof, and was the second stadium in Europe to have this feature."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.449840545654304,
+          -34.54544890644246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympiastadion (Berlin)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olympic_Stadium_(Berlin)",
+        "comment": "The Olympiastadion (English: Olympic Stadium) is a sports stadium in Berlin, Germany. There have been two stadia on the site: the present facility, and one that is called the Deutsches Stadion which was built for the aborted 1916 Summer Olympics. Both were designed by members of the same family, the first by Otto March and the second by his son Werner March. It is the second biggest stadium in Germany behind Signal Iduna Park. It has been the home stadium of the Hertha Berlin football team since 1963. Capacity: 74,064."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1826019287109375,
+          51.47822907875211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.45001220703125,
-          -34.54488333065786
+          13.239469528198242,
+          52.514915066214606
         ]
       }
     }
