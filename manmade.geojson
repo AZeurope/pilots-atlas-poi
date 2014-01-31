@@ -5364,12 +5364,28 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Estadio Monumental Antonio Vespucio Liberti",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti",
+        "comment": "Estadio Monumental Antonio Vespucio Liberti, also referred to as River Plate Stadium or simply El Monumental, is a stadiumin the Núñez district of Buenos Aires, Argentina, home of the football club River Plate. It was opened on 25 May 1938 and named after former club president Antonio Vespucio Liberti. It is the largest stadium in Argentina with a capacity of 67,664 and also home of the Argentina national football team. It was a venue in the 1978 FIFA World Cup and hosted the final between Argentina and the Netherlands. Additionally, it hosted four finals of the Copa América, most recently in 2011 for the 2011 Copa América. In 2018, the stadium will host the Opening and Closing ceremonies of 2018 Summer Youth Olympics in Buenos Aires."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           51.68621063232422,
           32.74411433562025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45001220703125,
+          -34.54488333065786
         ]
       }
     }
