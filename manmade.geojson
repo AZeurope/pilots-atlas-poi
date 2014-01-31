@@ -5044,12 +5044,108 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Williams-Brice Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Williams-Brice_Stadium",
+        "comment": "Williams-Brice Stadium is the home football stadium for the South Carolina Gamecocks, the college football team representing the University of South Carolina in Columbia, South Carolina. It is currently the 20th largest college football stadium in the NCAA and is located on the corner of George Rogers Boulevard and Bluff Road adjacent to the South Carolina State Fairgrounds. Carolina football teams consistently attract standing-room-only crowds to Williams-Brice Stadium. The atmosphere on game days has been voted \"the best\" by SECsports.com. Capacity: 80,250."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -89.41257476806639,
           43.069953701739934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stade 5 Juillet 1962",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stade_5_Juillet_1962",
+        "comment": "Stade 5 Juillet 1962 or 5 July 1962 Stadium (the name refers to 5 July 1962, the day Algeria declared independence from France), also known as El Djezair Stadium, is a football and athletics stadium located in Algiers, Algeria. The stadium was inaugurated in 1972 with a capacity of 95,000. It served as the main stadium of the 1975 Mediterranean Games, the 1978 All-Africa Games, the 2004 Pan Arab Games, and the 2007 All-Africa Games.  It hosted 9 matches of the tournament, including the final match, which had a second record attendance of 105,302 spectators. In the final match, the home team Algeria defeated Nigeria 1-0 to win the tournament. The record attendance is of 110,000 spectators in the frendly match between Algeria and Serbia in 3 Marsh 2010. It also hosted the 2000 African Championships in Athletics. After a formal compliance with current safety standards in 1999, the stadium was reduced to an 80,200 capacity, and following a new phase of renovation in 2003, the stadium's capacity has been reduced further to its current all-seater capacity of 76,200."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0190200805664,
+          33.97311813059791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estadio Monumental \"U\"",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Estadio_Monumental_U",
+        "comment": "Estadio Monumental (Monumental Stadium) or Coloso de Ate (Ate's Colosum), is a football stadium in the district of Ate in Lima, Peru, home ground of the football Club Universitario de Deportes, which opened in 2000 to replace the Estadio Teodoro Lolo Fernandez. Designed by Progreso International and Gremco S.A., Uruguayan architect Walter Lavalleja Sarriés led the construction of the stadium. It is Peru’s largest stadium and also the largest in South America. It has a spectator-capacity of 80,093; 59,177 seated in the four stands and 20,916 in luxury box suites known as palcos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9952335357666016,
+          36.75985980658165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guangdong Olympic Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Guangdong_Olympic_Stadium",
+        "comment": "The Guangdong Olympic Stadium, also known as the Aoti Main Stadium, is a multi-purpose stadium in Guangzhou, People's Republic of China. Currently used mostly for footballmatches, the stadium was built in 2001. It has a capacity of 80,012. The building of Guangdong Olympic Stadium was started in 1998. It opened to the public for the ninth National Games of the People's Republic of China in 2001. It was originally planned to help host the 2008 Summer Olympics."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93571090698242,
+          -12.055269218864204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Stade de Casablanca",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Grand_Stade_de_Casablanca",
+        "comment": "Grand Stade de Casablanca is a proposed title of the planned football stadium to be built in Casablanca, Morocco. Once completed in 2014, it will be used mostly for football matches and will serve as the home of Raja Casablanca, Wydad Casablanca and Morocco national football team. The stadium was designed with a capacity of 80,000 spectators, making it one of the highest capacity stadiums in Africa. Once completed, it will replace Stade Mohamed V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.40336799621582,
+          23.138189528088994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AT&T Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/ATT_Stadium",
+        "comment": "AT&T Stadium (previously known as Cowboys Stadium) is a city-owned stadium with a retractable roof in Arlington, Texas, United States. It serves as the home of the Dallas Cowboys of the National Football League. It replaced the partially covered Texas Stadium, which opened in 1971 and served as the Cowboys' home through the 2008 season. It was completed on May 27, 2009. The stadium seats 80,000, making it the fourth largest stadium in the NFL by seating capacity. The maximum capacity of the stadium, including standing room, is 105,000. The Party Pass (open areas) sections are behind seats in each end zone and on a series of six elevated platforms connected by stairways. It has the world's largest column-free interior and the fourth largest high definition video screen, which hangs from 20-yard line to 20-yard line."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.509284019470214,
+          33.53776400118107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.09339141845703,
+          32.747868226330375
         ]
       }
     }
