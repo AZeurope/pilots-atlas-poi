@@ -4756,12 +4756,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Borg El Arab Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Borg_El_Arab_Stadium",
+        "comment": "The Egyptian Army Stadium or Borg El Arab Stadium is a stadium commissioned in 2006 in the Mediterranean Sea resort of Borg el Arab; 50 km west of Alexandria, Egypt. It is the largest stadium in Egypt and the second largest in Africa (after Soccer City in Johannesburg) with a capacity of 86,000 and is an all-seater. It is also the 27th largest stadium in the world, and the 10th largest association football stadium in the world. It is located on the Cairo-Alexandria desert highway 10 km from Borg El Arab Airport and 15 km from Alexandria's city centre. A running track runs around the pitch, and the ground has four large floodlights. Only one stand is covered by a roof."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -85.48925399780273,
           32.6021447474656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago Bernabéu Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Santiago_Bernabeu_Stadium",
+        "comment": "The Estadio Santiago Bernabéu is an all-seater football stadium in Madrid, Spain. It was inaugurated on 14 December 1947 and is owned by Real Madrid Club de Fútbol. It has a current capacity of 85,454 spectators. El Bernabéu, renamed in honour of their former chairman Santiago Bernabéu Yeste, is one of the world's most famous and prestigious football venues. It has hosted the European Cup final on four occasions: in 1957, 1969, 1980, and the UEFA Champions League Final in 2010. The Bernabéu is both the second-largest stadium in Spain and the second-largest stadium home to a top-flight European club, behind only Camp Nou, home to rival Barcelona. Overall, it is the third-largest stadium in Europe, behind Camp Nou and Wembley Stadium. In 2013, the redevelopment project which would increase the capacity from 85,000 to 90,000 was estimated to cost about €400 million."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.726943969726562,
+          30.999683098550452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Siro",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/San_Siro",
+        "comment": "The Stadio Giuseppe Meazza, commonly known as the San Siro, is a football stadium located in the San Siro district in Milan, Italy. It is the home of both A.C. Milan and F.C. Internazionale Milano. On 3 March 1980, the stadium was named in honour of Giuseppe Meazza, the two-time World Cup winner (1934, 1938) who played for Internazionale, and briefly for Milan, in the 1920s, 1930s and 1940s. It held UEFA five-star stadium status which was superseded by a new system of classification."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.688488006591797,
+          40.45318461566577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadium Australia",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stadium_Australia",
+        "comment": "Stadium Australia, known for sponsorship reasons as ANZ Stadium, formerly Telstra Stadium, is a multi-purpose stadium located in the Sydney Olympic Park, in Sydney, Australia. The stadium, which in Australia is sometimes referred to simply as the \"Olympic Stadium\", was completed in March 1999 at a cost of A$690 million to host the 2000 Summer Olympics. The stadium was originally built to temporarily hold 110,000 spectators, making it the largest Olympic Stadium ever built as well as the largest stadium in Australia. In 2003 reconfiguration work was completed to shorten the north and south wings, and install movable seating. These changes reduced the capacity to 83,500 for a rectangular field and 82,500 for an oval field (making it the second largest stadium in Australia, after the Melbourne Cricket Ground)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.124145507812498,
+          45.47842910891348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06329917907715,
+          -33.8468234993097
         ]
       }
     }
