@@ -5268,12 +5268,108 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Old Trafford",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Old_Trafford",
+        "comment": "Old Trafford is a football stadium in Old Trafford, Greater Manchester, England, and the home of Manchester United F.C. With a capacity of 75,731, Old Trafford is the second-largest football stadium in the United Kingdom after Wembley Stadium, and the ninth-largest in Europe. It is approximately 0.5 miles (0.8 km) from Old Trafford Cricket Ground and the adjacent tram station. Old Trafford, nicknamed the Theatre of Dreams by Bobby Charlton, has been United's home ground since 1910, although from 1941 to 1949, as a result of bomb damage during the Second World War, the club shared Maine Road with local rivals Manchester City. Old Trafford underwent several expansions in the 1990s and 2000s, including the addition of extra tiers to the North, West and East Stands, which served to return the ground almost to its original capacity of 80,000. Future expansion is likely to involve the addition of a second tier to the South Stand, which would raise the capacity to over 90,000. The stadium's record attendance was recorded in 1939, when 76,962 spectators watched the FA Cup semi-final between Wolverhampton Wanderers and Grimsby Town."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -94.48431015014648,
           39.04911886312711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sports Authority Field at Mile High",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Sports_Authority_Field_at_Mile_High",
+        "comment": "Sports Authority Field at Mile High, previously known as Invesco Field at Mile High, and commonly known as Mile High, is a stadium in Denver, Colorado. It replaced the identically sized, but commercially obsolete Mile High Stadium (named for the fact that Denver is approximately one mile above sea level) in 2001. It is best known as the home of the Denver Broncos of the National Football League. Invesco paid $120 million for the original naming rights, before Sports Authority secured the naming rights on August 16, 2011. Capacity 76,125 (football), up to 50,000 (concerts)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2914648056030273,
+          53.463270108539035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jawaharlal Nehru Stadium, Kochi",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium,_Kochi",
+        "comment": "Jawaharlal Nehru International Stadium, locally known as Kaloor International Stadium is an international stadium in Kochi, Kerala. The stadium has a capacity of 75,000 spectators making it the largest cricket stadium in India and second largest stadium in India after Salt Lake Stadium in Kolkata . Eden Gardens which used to be the largest cricket stadium in India currently holds 66,349 people following renovations for the Cricket World Cup 2011; a capacity down from an estimated 100,000 before the upgrade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.02019882202148,
+          39.74408823235372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairo International Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Cairo_International_Stadium",
+        "comment": "Cairo International Stadium, or \"Stad El-Qahira El-Dawly\", is an Olympic-standard, multi-use stadium with an all-seated capacity of 75,000. It is the Arab World's third largest (after 5 Juillet 1962 Stadium in Algiers and after Borg El Arab Stadium in Alexandria). It is the foremost Olympic-standard facility befitting the role of Cairo, Egypt as the center of events in the region. It is also the 69th largest stadium in the world. Located in Nasr City; a suburb north east of Cairo, it was completed in 1960, and was inaugurated by President Gamal Abdel Nasser on 23 July that year, the eighth anniversary of the Egyptian Revolution of 1952."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30056381225586,
+          9.997844760306355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aleppo International Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Aleppo_International_Stadium",
+        "comment": "Aleppo International Stadium is an Olympic-standard, multi-use, all-covered and all-seater stadium in the Syrian city of Aleppo. It is the largest stadium in Syria, and is currently used mostly for football matches. It serves as a home ground of Al-Ittihad football club. It also hosted some home games of the Syrian football team. The stadium was opened in 2007 and holds 75,000 spectators. The venue is a part of al-Hamadaniah sports city which is located in the southern districts of Aleppo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.312236785888675,
+          30.06909396443887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naghsh-e-Jahan Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Naghsh-e-Jahan_Stadium",
+        "comment": "The Naghsh-e-Jahan Stadium is a multi-purpose stadium in Isfahan, Iran. It is currently used for football matches. The stadium was built in 2003 and holds 45,000 in a three-tier configuration. It is currently used by Sepahan, an Iranian football team in Iran's Premier Football League.The first phase finished in 2003 and they have decided to finish the second phase which is the first floor of the stadium. It was started in 2007 and has been going on but meant to finish by 2008 and is still going on till 2013. The final capacity in of the stadium will be 75,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.11752414703369,
+          36.18496140107185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.68621063232422,
+          32.74411433562025
         ]
       }
     }
