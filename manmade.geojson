@@ -5204,12 +5204,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Estádio do Maracanã",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Maracana_(stadium)",
+        "comment": "The Estádio do Maracanã (English: Maracanã Stadium), officially Estádio Jornalista Mário Filho, is an open-air stadium in Rio de Janeiro, Brazil. Owned by the Rio de Janeiro state government, it is, as is the Maracanã neighborhood where it is located, named after the Rio Maracanã, a now canalized river in Rio de Janeiro. It was opened in 1950 to host the FIFA World Cup, in which Brazil were beaten 2–1 by Uruguay in the final. Although the paid attendance at the final game of the 1950 FIFA World Cup was 199,854 (being the world's largest stadium by capacity, when it was inaugurated), the stadium currently seats 78,838 spectators, making it the largest stadium in Brazil and in South America."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           28.765468597412106,
           41.07508086389766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luzhniki Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Luzhniki_Stadium",
+        "comment": "The Luzhniki Stadium, previously called the Central Lenin Stadium, is the biggest sports stadium in Russia. Its totalseating capacity is 78,360 seats, all covered (upgraded). The stadium is a part of the Luzhniki Olympic Complex, and is located in Khamovniki District of the Central Administrative Okrug of Moscow city. The nameLuzhniki derives from the flood meadows in the bend of Moskva River where the stadium was built, translating roughly as \"The Meadows\". Record attendance: 102,538 (USSR–Italy, 13 October 1963)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23025703430176,
+          -22.911795994388118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EverBank Field",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/EverBank_Field",
+        "comment": "EverBank Field (originally Jacksonville Municipal Stadium and formerly Alltel Stadium) is an American football stadium in downtown Jacksonville, Florida, and the home stadium facility of theJacksonville Jaguars of the National Football League (NFL). It also hosts the annual Florida–Georgia game, a college football rivalry game between the University of Florida and the University of Georgia, and the Gator Bowl, a post-season college bowl game. The current stadium opened in 1995 on the site of the old Gator Bowl Stadium, which had been erected in 1949. Located on the St. Johns River, it sits on 10 acres (4.0 ha) of land, including portions of the older stadium. At its opening, it had a total capacity of 73,000 and expansions over the past decade have since increased that to 76,867. The stadium hosted Super Bowl XXXIX in 2005 and has also held a number of college football games as well as concerts and other events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.553672790527344,
+          55.71599161931457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrowhead Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Arrowhead_Stadium",
+        "comment": "Arrowhead Stadium (commonly or simply Arrowhead) is a stadium located in Kansas City, Missouri, and home to the NFL's Kansas City Chiefs. It is part of the city's Truman Sports Complex (together with Kauffman Stadium). The stadium is commonly referred to as the \"Home of the CHIEFS\" at the beginning of every home game during the singing of the national anthem. It is the 27th largeststadium in North America and fifth largest NFL Stadium in seating capacity; behind AT&T Stadium, Lambeau Field, MetLife Stadium, and FedExField. It is the largest sports facility, by capacity, in the state of Missouri. A $375 million renovation of the stadium was completed in 2010. On October 13, 2013, at a home game against the Oakland Raiders, Chiefs fans broke the Guinness World Record for loudest crowd roar at an outdoor stadium with 137.5 decibels. Capacity: 76,416 (2010-present)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63743019104002,
+          30.32402656043975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.48431015014648,
+          39.04911886312711
         ]
       }
     }
