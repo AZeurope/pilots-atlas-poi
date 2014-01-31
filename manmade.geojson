@@ -5140,12 +5140,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Beijing National Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Beijing_National_Stadium",
+        "comment": "Beijing National Stadium, officially the National Stadium, also known as the Bird's Nest, is a stadium in Beijing, China. The stadium was designed for use throughout the 2008 Summer Olympics and Paralympics. Located at the Olympic Green, the stadium cost US428 million. The design was awarded to a submission from the Swiss architecture firm Herzog & de Meuron in April 2003 after a bidding process that included 13 final submissions. Capacity: 80,000; and  91,000 (2008 Olympics)."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -97.09339141845703,
           32.747868226330375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stade des Martyrs",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stade_des_Martyrs",
+        "comment": "Stade des Martyrs de la Pentecôte (Martyrs of Pentecost Stadium), also known as simply Stade des Martyrs and formerly known as Stade Kamanyola is a national stadium located in the town of Lingwala inKinshasa, the capital of the Democratic Republic of the Congo. It is mainly used for football matches and has organised many concerts and athletics competitions. It is the home stadium of the National Team of the Democratic Republic of the Congo and the AS Vita Club and DC Motema Pembe of Championship Democratic Republic of the Congo football. The stadium has a capacity of 80,000, but crowds can sometimes reach 100,000 for some matches."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.39036178588867,
+          39.99204874504144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_Stadium",
+        "comment": "The Shanghai Stadium is a multi-purpose stadium in Shanghai, China. It is currently used mostly for football matches ofChinese Super League club Shanghai East Asia. The stadium was built in 1997 when the 8th National Games of the People's Republic of China was held in Shanghai. It can hold about 80,000 people, so it is also called the \"80,000 people's Stadium\". It is one of the thirty largest football stadiums in the world, and is the third largest stadium in China after the Guangdong Olympic Stadium and the Beijing National Stadium. It was used for football preliminaries at the 2008 Summer Olympics. Shanghai Stadium was also the venue for the Opening Ceremony of the 2007 Special Olympics World Summer Games."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.310220718383789,
+          -4.330235755199973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atatürk Olympic Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Atat%C3%BCrk_Olympic_Stadium",
+        "comment": "Atatürk Olympic Stadium, located in İkitelli, a district in the western outskirts of Istanbul, is the largest-capacity stadium of Turkey. The stadium is named after Mustafa Kemal Atatürk, the founder and first President of the Republic of Turkey. Its construction began in 1999 and was completed in 2002. It was built for Turkey's failed bid for the 2008 Olympic Games that were ultimately awarded to Beijing. It cost about 140 million USD. With its 76,092 (all-seater) capacity and Olympic size, it was granted the \"5-star sports complex\" title by the UEFA in 2004, enabling it to host the finals of UEFA events. The 2005 UEFA Champions League Final between A.C. Milan and Liverpool F.C. was played at the Atatürk Olympic Stadium on 25 May 2005."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43739938735962,
+          31.183507702671136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.765468597412106,
+          41.07508086389766
         ]
       }
     }
