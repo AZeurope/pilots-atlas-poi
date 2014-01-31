@@ -4820,12 +4820,92 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Kyle Field",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Kyle_Field",
+        "comment": "Kyle Field is the football stadium located on the campus of Texas A&M University in College Station, Texas. It has been the home to the Texas A&M Aggie football team in rudimentary form since 1904, and as a complete stadium since 1927. It is known as The Home of the 12th Man. The current official stadium seating capacity of 82,589 makes the stadium the third largest football-only venue by seating capacity in the state of Texas, the seventh largest in the Southeastern Conference, the fourteenth largest stadium in the NCAA, the sixteenth largest stadium in the United States, and the twenty-ninth largest non-racing stadium in the world. Kyle Field's only time to break the 90,000 attendance mark occurred on November 20, 2010 when 90,079 people watched Texas A&M beat the Nebraska Cornhuskers 9-6."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           151.06329917907715,
           -33.8468234993097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MetLife Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/MetLife_Stadium",
+        "comment": "MetLife Stadium is a stadium located at the Meadowlands Sports Complex in East Rutherford, New Jersey. It is the home of the New York Giants and New York Jets of the National Football League and is adjacent to the site of the former Giants Stadium, which was home to the Giants from 1976 until December 2009 and the Jets from 1984 until January 2010. Like its predecessor, MetLife Stadium is the only NFL stadium shared by two teams. On May 25, 2010, it was announced that Super Bowl XLVIII, to take place in 2014, was awarded to the stadium, the first time a Super Bowl would be played in the New York metropolitan area, and the first time that a non-domed stadium in a cold-weather city would host it. Capacity: 82,500. Construction cost $1.6 billion."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34027004241942,
+          30.60999302096146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croke Park",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Croke_Park",
+        "comment": "Croke Park is a GAA stadium located in Dublin, Ireland. Often called Croker by GAA followers in Dublin, it serves both as the principal stadium and headquarters of the Gaelic Athletic Association (GAA). Since 1884 the site has been used primarily by the GAA to host Gaelic games, most notably the annual All-Ireland finals in football and hurling. Both the opening and closing ceremonies of the 2003 Special Olympics, as well as numerous music concerts by major international acts, have been held in the stadium. During the construction of the Aviva Stadium, Croke Park hosted games played by the Ireland national rugby union team team and the Republic of Ireland national football team. Following a redevelopment programme started in the 1990s, Croke Park has a capacity of 82,300, making it the fourth largest stadium in Europe, and the largest not primarily used for association football."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07463073730469,
+          40.81393915021809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doak Campbell Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Bobby_Bowden_Field_at_Doak_Campbell_Stadium",
+        "comment": "Bobby Bowden Field at Doak Campbell Stadium, commonly referred to as Doak Campbell Stadium, is the football stadium on the campus of the Florida State University in Tallahassee, Florida. It is the home venue for the university's football team, nicknamed the Seminoles. The stadium was named for Doak S. Campbell, the president of the university at the time of its construction, and the field was named for legendary head football coach Bobby Bowden. The stadium is part of the University Center complex, a mixed-use facility encompassing university office space, university classrooms, the university's Visitor's Center, souvenir store, The University Center Club, as well as skyboxes and press boxes for use during football games. The stadium has capacity of 82,300, making it the fourteenth largest stadium in the NCAA, the largest football stadium in the ACC and the largest continuous brick structure in the United States. On November 20, 2004 in accordance with an act of state legislation, the stadium and field were renamed Bobby Bowden Field at Doak Campbell Stadium."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.251091957092285,
+          53.36095051952888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaylord Family Oklahoma Memorial Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Gaylord_Family_Oklahoma_Memorial_Stadium",
+        "comment": "The Gaylord Family Oklahoma Memorial Stadium (also known as Owen Field or The Palace on the Prairie) is the on-campus football facility for the University of Oklahoma Sooners in Norman, Oklahoma. The official seating capacity of the stadium, following recent renovations, is 82,112, making it the 15th largest college stadium in the United States and the second largest in the Big 12 Conference (behind Darrell K Royal-Texas Memorial Stadium at the University of Texas). The record attendance for the stadium was set during a 2012 home game against Notre Dame, with 86,031 in attendance."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3044900894165,
+          30.43820307661705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44242191314697,
+          35.20572426715963
         ]
       }
     }
