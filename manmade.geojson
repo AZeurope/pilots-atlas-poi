@@ -4900,12 +4900,76 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Silverdome",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Silverdome",
+        "comment": "The Silverdome (formerly known as the Pontiac Silverdome) is a domed stadium located in the city of Pontiac, Michigan, USA, which sits on 127 acres (51 ha). It was the largest stadium in the National Football League (NFL) until FedEx Field in suburban Washington, D.C. opened in 1997. The Silverdome hosted the Detroit Lions of the NFL (1975–2001), the Detroit Pistons of the NBA (1978–1988), the Detroit Express of the NASL (1978–1980), the Michigan Panthers of the USFL (1983–1984), the Cherry Bowl, from 1984–1985, the Motor City Bowl, from 1997–2001, the MHSAA football state finals, from 1976–2004 and four first-round games during the 1994 FIFA World Cup. In 2012 the Silverdome became the home stadium of the city's professional ultimate team the Detroit Mechanix of the American Ultimate Disc League. Capacity: 82,000."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -97.44242191314697,
           35.20572426715963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FedExField",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/FedEx_Field",
+        "comment": "FedExField (originally Jack Kent Cooke Stadium) or known as Redskins Stadium is a football stadium located in an unincorporated area near the Capital Beltway (I-495) in Prince George's County, Maryland, United States, near the site of the old Capital Centre (later called USAir Arena in 1993 and US Airways Arena in 1996). FedExField is the home of the Washington Redskins football team. With seating for 85,000, FedExField is the largest venue in the NFL in terms of regular capacity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25448036193848,
+          42.64576576891115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twickenham Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Twickenham_Stadium",
+        "comment": "Twickenham Stadium, known as just Twickenham or Twickers, is a stadium located in Twickenham, in the London Borough of Richmond upon Thames. It is the largest stadium in the world devoted solely to the sport of rugby union, it is the second largest stadium in the UK after Wembley Stadium and the fifth largest stadium in Europe. The stadium is the home of the Rugby Football Union (RFU), and as such primarily a venue for rugby union and hosts England's home test matches, as well as the Middlesex Sevens, the Aviva Premiership final, the LV Cup and Heineken Cup matches. Capacity: 82,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86468601226807,
+          38.90783244260866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memorial Stadium, Clemson",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Memorial_Stadium,_Clemson",
+        "comment": "Frank Howard Field at Clemson Memorial Stadium, popularly known as Death Valley, is home to the Clemson Tigers, an NCAA Division I FBS football team, located in Clemson, South Carolina. Built in 1941-1942, the stadium has seen expansions throughout the years, with the most recent being the WestZone, which began in 2004 and was completed in 2006. Currently, the stadium is the second largest in the Atlantic Coast Conference. Capacity:  81,500 (2008-present)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3414344787597656,
+          51.45641366097073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84369468688965,
+          34.67888782391115
         ]
       }
     }
