@@ -4964,12 +4964,92 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Stade de France",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stade_de_France",
+        "comment": "The Stade de France is the national stadium of France, situated just north of Paris in the commune of Saint-Denis. It has an all-seater capacity of 81,338, making it the sixth largest stadium in Europe, and is used by both the France national football team and French rugby union team for international competition. The stadium was built for the 1998 FIFA World Cup, and the name of the stadium was recommended by French legend Michel Platini. On 12 July 1998, France defeated Brazil 3–0 in the 1998 FIFA World Cup Final contested at the stadium. "
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -82.84369468688965,
           34.67888782391115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westfalenstadion",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Westfalenstadion",
+        "comment": "Westfalenstadion is an association football stadium in Dortmund, North Rhine-Westphalia, Germany. It is the home stadium of the Borussia Dortmund footballteam playing in the German Bundesliga. The stadium is officially named Signal Iduna Park under a sponsorship arrangement lasting from December 2005 until 2021, giving naming rights to the Signal Iduna Group, an insurance company. The older name Westfalenstadion derives from the former Prussian province of Westphalia, which is part of the German federal state North Rhine-Westphalia. It is one of the most famous football stadiums in Europe and was elected best football stadium by The Times for its renowned atmosphere. It has a league capacity of 80,720 (standing and seated) and an international capacity of 65,718 (officially seats only)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601722717285156,
+          48.924698720440965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Notre Dame Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Notre_Dame_Stadium",
+        "comment": "Notre Dame Stadium is the home football stadium for the University of Notre Dame Fighting Irish football team. The stadium is located on the campus of the University of Notre Dame in Notre Dame, Indiana, just north of the city of South Bend. Opened in 1930, the stadium seating capacity was nearly 60,000 for decades. More than 21,000 seats were added for the 1997 season, which increased the capacity to over 80,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4516916275024405,
+          51.492766896468545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lambeau Field",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Lambeau_Field",
+        "comment": "Lambeau Field is an outdoor athletic stadium in Green Bay, Wisconsin, the home field of the Green Bay Packers of the National Football League. It opened in 1957 as City Stadium, replacing the original City Stadium at East High School as the Packers' home field. Informally known as New City Stadium for its first eight seasons, it was renamed in August 1965 in memory of Packers founder, player, and long-time head coach, Curly Lambeau, who had died two months earlier. The stadium completed its latest renovation in the summer of 2013 with the addition of 7,000 seats high in the south end zone. About 5,400 of the new seating is general, while the remaining 1,600 seats are club or terrace suite seating. With a capacity of 80,750, Lambeau Field is the fourth largest stadium in the NFL with standing room, but is third in normal capacity. It is now the largest venue in the state of Wisconsin, edging out Camp Randall Stadium (80,321) on the campus of the University of Wisconsin in Madison."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23383522033691,
+          41.69842312158612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Randall Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Camp_Randall_Stadium",
+        "comment": "Camp Randall Stadium is an outdoor stadium in Madison, Wisconsin. It has been the home of the Wisconsin Badgers football team in rudimentary form since 1895, and as a complete stadium since 1917. It is located in the south-central region of the University of Wisconsin–Madison campus. The stadium seats 80,321. It is the oldest and fifth largest stadium in the Big Ten Conference, and the 41st largest stadium in the world. When full, Camp Randall would be the fifth largest \"city\" in the state of Wisconsin (after Milwaukee, Madison itself, Green Bay, and Kenosha)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06220054626465,
+          44.50140292110874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41257476806639,
+          43.069953701739934
         ]
       }
     }
