@@ -4180,9 +4180,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-
-      },
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -5377,16 +5375,66 @@
     },
     {
       "type": "Feature",
-      "properties": {        
+      "properties": {
         "name": "Estadio Monumental Antonio Vespucio Liberti",
         "type": "stadium",
         "url": "http://en.wikipedia.org/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti",
-        "comment": "Estadio Monumental Antonio Vespucio Liberti, also referred to as River Plate Stadium or simply El Monumental, is a stadiumin the Núñez district of Buenos Aires, Argentina, home of the football club River Plate. It was opened on 25 May 1938 and named after former club president Antonio Vespucio Liberti. It is the largest stadium in Argentina with a capacity of 67,664 and also home of the Argentina national football team. It was a venue in the 1978 FIFA World Cup and hosted the final between Argentina and the Netherlands. Additionally, it hosted four finals of the Copa América, most recently in 2011 for the 2011 Copa América. In 2018, the stadium will host the Opening and Closing ceremonies of 2018 Summer Youth Olympics in Buenos Aires."},
+        "comment": "Estadio Monumental Antonio Vespucio Liberti, also referred to as River Plate Stadium or simply El Monumental, is a stadiumin the Núñez district of Buenos Aires, Argentina, home of the football club River Plate. It was opened on 25 May 1938 and named after former club president Antonio Vespucio Liberti. It is the largest stadium in Argentina with a capacity of 67,664 and also home of the Argentina national football team. It was a venue in the 1978 FIFA World Cup and hosted the final between Argentina and the Netherlands. Additionally, it hosted four finals of the Copa América, most recently in 2011 for the 2011 Copa América. In 2018, the stadium will host the Opening and Closing ceremonies of 2018 Summer Youth Olympics in Buenos Aires."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -58.45001220703125,
           -34.54488333065786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millennium Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Millennium_Stadium",
+        "comment": "The Millennium Stadium is the national stadium of Wales, located in the capital city, Cardiff. It is the home of the Wales national rugby union team and also frequently stages games of the Wales national football team. Initially built to host the 1999 Rugby World Cup, it has gone on to host many other large-scale events, such as the Tsunami Relief concert, the Super Special Stage of Wales Rally Great Britain, the Speedway Grand Prix of Great Britain, and numerous music concerts. The stadium opened in June 1999, and the first major event to be held was an international rugby union match on 26 June 1999, when Wales beat South Africa in a friendly by 29–19, before a test crowd of 29,000. With total seating capacity of 74,500, it is the third largest stadium in the Six Nations Championship behind the Stade de France and Twickenham, which is the largest. It is also the second largest stadium in the world with a fully retractable roof, and was the second stadium in Europe to have this feature."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1829452514648438,
+          51.47860327187397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympiastadion (Berlin)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olympic_Stadium_(Berlin)",
+        "comment": "The Olympiastadion (English: Olympic Stadium) is a sports stadium in Berlin, Germany. There have been two stadia on the site: the present facility, and one that is called the Deutsches Stadion which was built for the aborted 1916 Summer Olympics. The current Olympiastadion was originally built for the 1936 Summer Olympics in the southern part of the Reichssportfeld (today Olympiapark Berlin). During World War II, the area suffered little damage. After the war, the British military occupation used the northern part of the Reichssportfeld as its headquarters until 1949. From 1951 to 2005, the Olympischer Platz had a giant antenna transmitting for all the portable radios in Berlin. Aside from its use as an Olympic stadium, the Olympiastadion has a strong footballing tradition. It was used for 3 matches in the 1974 FIFA World Cup. It hosted six matches, including the final, in the 2006 FIFA World Cup and was renovated for that reason. The German Cup final match is held each year at the Olympiastadion. The stadium sees use in other sports as well; at one point it held the world record for the attendance of a baseball game, thought to be over 110,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.239469528198242,
+          52.514758367880944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadio Olimpico (Rom)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stadio_Olimpico",
+        "comment": "The Stadio Olimpico is the main and largest sports facility of Rome, Italy. It is located within the Foro Italico sports complex on the north of the city. An asset of the Italian National Olympic Committee, the structure is intended primarily for football. It is the home stadium of Serie A clubs Lazio and Roma, and the venue of the Coppa Italia final. The stadium was rebuilt for the 1990 FIFA World Cup, and hosted the final. A UEFA category four stadium, it has also hosted four European Cup finals, the most recent being the 2009 UEFA Champions League Final. Outside football, the stadium is used by the Italian national rugby union team and is Italy's national athletics stadium. It also occasionally hosts concerts and events of various kinds. Capacity 73,261.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454633712768555,
+          41.93401874682134
         ]
       }
     }
