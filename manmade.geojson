@@ -5902,6 +5902,70 @@
           50.33581929989812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Motor Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Texas_Motor_Speedway",
+        "comment": "Texas Motor Speedway is a speedway located in the northernmost portion of the U.S. city of Fort Worth, Texas – the portion located in Denton County, Texas. The track measures 1.5 miles (2.4 km) around and is banked 24 degrees in the turns, and is of the oval design, where the front straightaway juts outward slightly. With the ability to seat over 190,000, Texas Motor Speedway has the largest capacity for any NASCAR track after Indianapolis Motor Speedway. The track layout is similar to Atlanta Motor Speedway and Charlotte Motor Speedway (formerly Lowe's Motor Speedway). Capacity: 154,861."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28290557861328,
+          33.036873809320596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buddh International Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Buddh_International_Circuit",
+        "comment": "The Buddh International Circuit is an Indian motor racing circuit in Greater Noida, Uttar Pradesh, India, 40km from Delhi. The circuit is best known as the venue for the annual Formula One Indian Grand Prix, which was first hosted on 30 October 2011. The track was officially inaugurated on 18 October 2011. The 5.14 km long Circuit has been designed by world-renowned German architect and racetrack designer, Hermann Tilke, who has also designed other race circuits in Malaysia, Bahrain, China, Turkey, the UAE, South Korea and the US. Capacity: 150,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53292083740234,
+          28.350316628915728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Vegas Motor Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Las_Vegas_Motor_Speedway",
+        "comment": "Las Vegas Motor Speedway, located in Clark County, Nevada in Las Vegas, Nevada about 15 miles northeast of the Las Vegas Strip, is a 1,200-acre (490 ha) complex of multiple tracks for automobile racing. The complex is owned by Speedway Motorsports, Inc., which is headquartered in Charlotte, North Carolina. Capacity: 142,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0114059448242,
+          36.27264936628077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuji Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Fuji_Speedway",
+        "comment": "Fuji Speedway is a motorsport race track standing in the foothills of Mount Fuji, in Oyama, Suntō District, Shizuoka Prefecture, Japan. It was built in the early 1960s and hosted the first Formula One race in Japan in 1976. In the 1980s, Fuji Speedway was used for the FIA World Sportscar Championship and national racing. Originally managed by Mitsubishi Estate Co., Fuji Speedway was acquired by Toyota Motor Corporation in 2000. The circuit hosted the Formula One Japanese Grand Prix in 2007, after an absence of 30 years, replacing the Suzuka Circuit, owned by Honda. After Fuji Speedway hosted the 2008 race, the Japanese Grand Prix returned to Suzuka for the 2009-onward races. Fuji Speedway is known for having one of the longest straights in motorsport tracks, at 1.5 km (0.93 mi) in length. Capacity: 140,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.92967224121094,
+          35.37505425672557
+        ]
+      }
     }
   ]
 }
