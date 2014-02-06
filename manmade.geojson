@@ -5822,6 +5822,86 @@
           29.185587305296504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte Motor Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Charlotte_Motor_Speedway",
+        "comment": "Charlotte Motor Speedway is a motorsports complex located in Concord, North Carolina, United States 13 miles from Charlotte, North Carolina. The complex features a 1.5 miles (2.4 km) quad oval track that hosts NASCAR racing including the prestigious Coca-Cola 600 on Memorial Day weekend and the Sprint All-Star Race, as well as the Bank of America 500. The speedway was built in 1959 by Bruton Smith and is considered the home track for NASCAR with many race teams located in the Charlotte area. The 2,000 acres (810 ha) complex also features a state-of-the-art quarter mile (0.40 km) drag racing strip, ZMAX Dragway. It is the only all-concrete, four-lane drag strip in the United States and hosts NHRA events. Alongside the drag strip is a state-of-the-art clay oval that hosts dirt racing including the World of Outlaws finals. Capacity: 167,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6832504272461,
+          35.351606003431314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bristol Motor Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Bristol_Motor_Speedway",
+        "comment": "Bristol Motor Speedway, formerly known as Bristol International Raceway and Bristol Raceway is a NASCAR short track venue located in Bristol, Tennessee. Constructed in 1960, it held its first NASCAR race on July 30, 1961. Despite its short length, Bristol is among the most popular tracks on the NASCAR schedule because of its distinct features, which include extraordinarily steep banking, an all concrete surface, two pit roads, and stadium-like seating. It has also been named one of the loudest NASCAR tracks. Capacity: 160,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25704193115234,
+          36.516258626036624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silverstone Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Silverstone_Circuit",
+        "comment": "Silverstone Circuit is a British motor racing circuit next to the Northamptonshire villages of Silverstone and Whittlebury. The circuit straddles the Northamptonshire and Buckinghamshire border, with the current main circuit entry on the Buckinghamshire side. The Northamptonshire towns of Towcester (5 miles) and Brackley (7 miles) and Buckinghamshire town of Buckingham (6 miles) are close by, and the nearest large towns are Northampton and Milton Keynes. Silverstone is the current home of the British Grand Prix, which it first hosted in 1948. The 1950 British Grand Prix at Silverstone was the first race in the newly created Formula One World Championship. The race rotated between Silverstone, Aintree and Brands Hatch from 1955 to 1986, but relocated permanently to Silverstone in 1987. Capacity: 150,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0172653198242188,
+          52.072648140382974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sepang International Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Sepang_International_Circuit",
+        "comment": "The Sepang International Circuit is a motorsport race track in Sepang, Selangor, Malaysia. It is located near Kuala Lumpur International Airport, approximately 60 km south of the capital city Kuala Lumpur. It is the venue used for the Formula One Malaysian Grand Prix, A1 Grand Prix, Malaysian Motorcycle Grand Prix and other major motorsport events. Capacity: 130,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.73580169677734,
+          2.7633628758952615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nürburgring",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Nuerburgring",
+        "comment": "The Nürburgring is a motorsports complex around the village of Nürburg, Rhineland-Palatinate, Germany. It is located about 70 km (43 mi) south of Cologne, and 120 km (75 mi) northwest of Frankfurt. It features aGrand Prix race track built in 1984, and a much longer old \"North loop\" track which was built in the 1920s around the village and medieval castle of Nürburg in the Eifel mountains. The north loop is 12.8 miles (20.8 km) long and has more than 300 metres (1,000 feet) of elevation change from its lowest to highest points. Jackie Stewart nicknamed the old track \"The Green Hell,\" and it is widely considered to be the most demanding and difficult purpose-built racing circuit in the world. Between 1982 and 1983 the start/finish area was demolished to create a new GP-Strecke, and this is used for all major and international racing events. However, the shortened Nordschleife is still in use for racing, testing and public access. Capacity: 150,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9438743591308585,
+          50.33581929989812
+        ]
+      }
     }
   ]
 }
