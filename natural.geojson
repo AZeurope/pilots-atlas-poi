@@ -1332,6 +1332,118 @@
           61.62728646147466
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Titicaca",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Titicaca",
+        "comment": "Titicaca or Titiqaqa is a lake in the Andes on the border of Peru and Bolivia. By volume of water, it is the largest lake in South America. Lake Maracaibohas a larger surface area, but it is considered to be a large brackish bay due to its direct connection with the sea. It is often called the highest navigable lake in the world, with a surface elevation of 3,812 metres (12,507 ft).[4][5] Although this refers to navigation by large boats, it is generally considered to mean commercial craft. For many years the largest vessel afloat on the lake was the 2,200-ton, 79-metre (259 ft) SS Ollanta. Today the largest vessel is probably the similarly sized, but broader, train barge/float Manco Capac, operated by PeruRail. At least two dozen bodies of water around the world are at higher elevations, but all are much smaller and shallower. Surface area 8,372 km2 (3,232 sq mi), Average depth 107 m (351 ft), Max. depth 281 m (922 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.488525390625,
+          -15.760536148501288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nicaragua",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Nicaragua",
+        "comment": "Lake Nicaragua or Cocibolca or Granada is a vast freshwater lake in Nicaragua. Of tectonic origin and with an area of 8,264 km2 (3,191 sq mi), it is the largest lake in Central America, the 19th largest lake in the world (by area) and the 9th largest in the Americas, slightly smaller than Lake Titicaca. With an elevation of 32.7 metres (107 ft) above sea level, the lake reaches a depth of 26 metres (85 ft). It is intermittently joined by the Tipitapa River to Lake Managua. The lake drains to the Caribbean Sea via the San Juan River, historically making the lakeside city of Granada, Nicaragua, an Atlantic port although Granada (as well as the entire lake) is closer to the Pacific ocean geographically. The Pacific is near enough to be seen from the mountains of Ometepe (an island in the lake). Surface area 8,264 km2 (3,191 sq mi), Max. depth 26 m (85 ft), Water volume 108 km3 (26 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.341796875,
+          11.485407865844378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Athabasca",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Athabasca",
+        "comment": "Lake Athabasca is located in the northwest corner of Saskatchewan and the northeast corner of Alberta between 58° and 60° N. Surface area 7,850 km2 (3,030 sq mi), Average depth 20 m (66 ft), Max. depth 124 m (407 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.599609375,
+          59.29955167361263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Taymyr",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Taymyr",
+        "comment": "Lake Taymyr is a lake of the central regions of the Taymyr Peninsula in Krasnoyarsk Krai, Russian Federation. It is located south of the Byrranga Mountains. Lake Taymyr is large, with a length of 165 km roughly east-to-west. It has an irregular shape with many arms projecting in different directions that cover a wide region. Its maximum width, however, is only about 23 km in its broadest area which is towards the eastern end of the lake. Lake Taymyr is covered with ice from late September until June. The main river flowing into its basin, from the west, is the Upper Taymyra. Surface area 4,560 km2 (1,760 sq mi), Average depth 2.8 m (9.2 ft), Max. depth 26 m (85 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.57958984375,
+          74.53161365108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Turkana",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Turkana",
+        "comment": "Lake Turkana, formerly known as Lake Rudolf, is a lake in the Kenyan Rift Valley, with its far northern end crossing into Ethiopia. It is the world's largest permanent desert lake and the world's largest alkaline lake. By volume it is the world's fourth-largest salt lake[citation needed] after the Caspian Sea, Issyk-Kul, and Lake Van (passing the shrinking South Aral Sea), and among all lakes it ranks 24th. The water is potable, but not palatable. It supports a rich lacustrine wildlife. The climate is hot and very dry. The rocks of the surrounding area are predominantly volcanic. Central Island is an active volcano, emitting vapour. Outcrops and rocky shores are found on the east and south shores of the lake, while dunes, spits and flats are on the west and north, at a lower elevation. Surface area 6,405 km2 (2,473 sq mi), Average depth 30.2 m, Max. depth 109 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.002197265625,
+          3.6669277409287235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reindeer Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Reindeer_Lake",
+        "comment": "Reindeer Lake is a lake in Western Canada located on the border between northeastern Saskatchewan and northwestern Manitoba, with the majority in Saskatchewan. The name of the lake appears to be a translation of the Algonquian name. It is the second-largest lake in Saskatchewan and the ninth largest in Canada. Surface area 6,500 km2 (2,500 sq mi), Max. depth 219 m (719 ft), Surface elevation 340 m (1,120 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.32666015625,
+          57.48040333923341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Issyk Kul",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Issyk-Kul",
+        "comment": "Issyk Kul is an endorheic lake in the northern Tian Shan mountains in eastern Kyrgyzstan. It is the tenth largest lake in the world by volume and the second largest saline lake after the Caspian Sea. Although it is surrounded by snow-capped peaks, it never freezes; hence its name, which means \"hot lake\" in the Kyrgyz language. The lake is a Ramsar site of globally significant biodiversity and forms part of the Issyk-Kul Biosphere Reserve. It was the site of an ancient metropolis 2,500 years ago, and archaeological excavations are ongoing. Max. width 60 kilometres (37 mi), Surface area 6,236 square kilometres (2,408 sq mi), Average depth 270 meters (890 ft), Max. depth 668 metres (2,192 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998046875,
+          42.47209690919285
+        ]
+      }
     }
   ]
 }
