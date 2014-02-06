@@ -6062,6 +6062,70 @@
           45.619440531458615
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuit de Barcelona-Catalunya",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Circuit_de_Catalunya",
+        "comment": "The Circuit de Barcelona-Catalunya is a motorsport race track in Barcelona, Catalonia, Spain. With long straights and a variety of corners, the Circuit de Barcelona-Catalunya is seen as an all-rounder circuit. The track has stands with a capacity of 107,000. Until 2013 the track was known only as the Circuit de Catalunya, before a sponsorship deal with Barcelona City Council added Barcelona to the track's title."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2576904296875,
+          41.57031597967034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autódromo Hermanos Rodríguez",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Autodromo_Hermanos_Rodriguez",
+        "comment": "The Autódromo Hermanos Rodríguez (\"Rodríguez Brothers Racetrack\") is a 4.484 km (2.786 mi) race track in Mexico City, Mexico, named for the famous racing drivers Ricardo and Pedro Rodríguez. The circuit got its name shortly after it opened when Ricardo Rodríguez died in practice for the non-Championship 1962 Mexican Grand Prix. Ricardo's brother Pedro also lost his life behind the wheel years later. The circuit is located within the public park of the Magdalena Mixhuca Sports City in southeast Mexico City. The circuit is owned by the Government of the City, but is currently operated under concession by Corporación Interamericana de Entretenimiento, S.A. Capacity: 100,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.08895492553711,
+          19.40329711942984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algarve International Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_do_Algarve",
+        "comment": "The Algarve International Circuit, commonly referred to as Portimao Circuit, is a 4.692 km (2.915 mi) race circuit located in Portimão, Portugal. With a total cost of €195 million (approximately $250 million), the project includes a karting track, technology park, five-star hotel, sports complex and apartments. Construction was finished in October 2008 and the circuit was homologated by both the FIM on 11 October 2008 and the FIA two days later. Capacity: 100,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.628559112548828,
+          37.23210518672818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuit de Spa-Francorchamps",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "comment": "The Circuit de Spa-Francorchamps motor-racing circuit is the venue of the Formula One Belgian Grand Prix, and of the Spa 24 Hours and 1000 km Spa endurance races. It is also home to the all Volkswagen club event, 25 Hours of Spa, run by the Uniroyal Fun Cup. It is one of the most challenging race tracks in the world, mainly due to its fast, hilly and twisty nature. Spa is a favourite circuit of many racing drivers and fans. Capacity: 90,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.970039367675781,
+          50.4385933698494
+        ]
+      }
     }
   ]
 }
