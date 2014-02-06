@@ -5501,6 +5501,87 @@
           -15.782837978546878
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olimpiyskiy National Sports Complex",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olimpiyskiy_National_Sports_Complex",
+        "comment": "The Olympic National Sports Complex (also known as Olympic Stadium) is a multi-use sports and recreation facility in Kyiv, Ukraine, located on the slopes of the city's central Cherepanov Hill, Pechersk Raion. The stadium is the premier sports venue in Ukraine and the second largest in Eastern Europe after Moscow's Luzhniki Stadium. The complex beside its stadium also features several other sports facilities and is designed to host the Olympic Games (the stadium hosted some football matches at the 1980 Summer Olympics). Following extensive renovation works, including the construction of a new roof, the stadium was reopened on 9 October 2011 with a performance by Shakira and had its international inauguration with a 3–3 friendly draw by Ukraine against Germany on 11 November 2011. It hosted the final of Euro 2012. Capacity: 70,050 (football)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.521049499511722,
+          50.43411054714534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yadegar-e Emam Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Yadegar-e_Emam_Stadium",
+        "comment": "Yadegar-e-Emam Stadium (Sahand) is a multi-purpose stadium in Tabriz, Iran, and is the second largest stadium in Iran. It is currently used mostly for football matches. The stadium was built in 1996 and has a capacity of 80,451 people. Tractor Sazi F.C. play their games at the stadium. Yadegar-e-Emam Stadium is part of the Tabriz Olympic village. It was built in 1989 and was opened in 19 January 1996 when President Ali Akbar Hashemi Rafsanjani officially opened it.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.29612922668457,
+          38.02693198760465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic Stadium (Seoul)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olympic_Stadium_(Seoul)",
+        "comment": "The Seoul Olympic Stadium, aka Jamsil Olympic Stadium (formerly romanised as Chamshil) is located in Seoul, South Korea. It is the main stadium built for the 1988 Summer Olympics and the 10th Asian Games in 1986. It is the centrepiece of the Jamsil Sports Complex in the Songpa-gu District, in the southeast of the city south of the Han River. Capacity: 69,950 seats, 72,000 (Concerts) and 100,000 (Olympic Games)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07276344299316,
+          37.51653405171553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shah Alam Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Shah_Alam_Stadium",
+        "comment": "Shah Alam Stadium is a multi-purpose stadium located in Shah Alam, Malaysia. It is used mostly for football matches but also has facilities for athletics. The stadium is the home of Selangor FA, and has a capacity of 80,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.54508590698242,
+          3.083008631699479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Türk Telekom Arena",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Tuerk_Telekom_Arena",
+        "comment": "Ali Sami Yen Spor Kompleksi - Türk Telekom Arena is a multi-purpose stadium in the Sisli district of Istanbul, Turkey. It is the new home ground for Galatasaray S.K., replacing the old Ali Sami Yen Stadium. The all-seater stadium has the capacity to host 52,652 spectators during football games. On March 18, 2011, it recorded 131.76 decibels which is considered to be the world record for 'loudest crowd roar at a sport stadium' in Guinness World Records (although it was broken on September 15, 2013 in an NFL American football game that reached 136.6 decibels)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.991117477416996,
+          41.10354419401677
+        ]
+      }
     }
   ]
 }
