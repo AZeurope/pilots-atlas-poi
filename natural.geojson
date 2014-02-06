@@ -1444,6 +1444,102 @@
           42.47209690919285
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Urmia",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Urmia",
+        "comment": "Lake Urmia is a salt lake in northwestern Iran near Iran's border with Turkey. The lake is between the Iranian provinces of East Azerbaijan and West Azerbaijan, west of the southern portion of the similarly shaped Caspian Sea. It is the largest lake in the Middle East, and the sixth largest saltwater lake on earth, with a surface area of approximately 5,200 km² (2,000 mile²), 140 km (87 mi) length, 55 km (34 mi) width, and 16 m (52 ft) depth. It is protected as a national park by the Iranian Department of Environment. In 1967 the Department sent a team of Iranian scientists to count the deer population and study the ecology of the Shahi Island. A paper on the ecology of the island was published in the Iranian Scientific Sokhan by Javad Hashemi. This included a microscopic study of the breeding habit of Artemia. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4010009765625,
+          37.59682400108367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vänern",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Vaenern",
+        "comment": "Vänern is the largest lake in Sweden, the largest lake in the European Union and the third-largest lake entirely in Europe after Ladoga and Onega in Russia. It is located in theprovinces of Västergötland, Dalsland, and Värmland in the southwest of the country. Surface area 5,650 km², Average depth 27 m, Max. depth 106 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4912109375,
+          58.89329575587951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Winnipegosis",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Winnipegosis",
+        "comment": "Lake Winnipegosis is a large (5,370 km²) lake in central North America, in Manitoba, Canada, some 300 km northwest of Winnipeg. It is Canada's eleventh-largest lake. An alternate spelling, once common but now rare, is Lake Winipigoos or simply 'Lake Winipigis'. The elongated, 240 kilometre long lake is the second-largest of three large lakes in central Manitoba; the other two are Lake Winnipeg, the largest, and Lake Manitoba. All three lakes are on the floor of the prehistoric glacial Lake Agassiz. Surface area 5,370 km² (2,075 mi²), Max. depth 18 m (60 ft), Surface elevation 254 m (833 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.008544921875,
+          52.335339071889386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Albert (Africa)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Albert_(Africa)",
+        "comment": "Lake Albert – also Albert Nyanza and formerly Lake Mobutu Sese Seko – is one of the African Great Lakes. It is Africa's seventh-largest lake, and the world's twenty-seventh largest lake by volume. Lake Albert is located in the center of the continent, on the border between Uganda and the Democratic Republic of the Congo (formerly Zaire). Lake Albert is the northernmost of the chain of lakes in the Albertine Rift, the western branch of the East African Rift. It is about 160 km (100 mi) long and 30 km (19 mi) wide, with a maximum depth of 51 m (168 ft), and a surface elevation of 619 m (2,030 ft) above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.761718749999996,
+          1.6037944300589855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mweru",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mweru",
+        "comment": "Lake Mweru is a freshwater lake on the longest arm of Africa's second-longest river, the Congo. Located on the border between Zambia and Democratic Republic of the Congo, it makes up 110 km of the total length of the Congo, lying between its Luapula River (upstream) and Luvua River (downstream) segments. Surface area 5,120 km² (1,977 sq. mi.), Average depth 7.5 m, Max. depth 27 m, Water volume 38.2 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.696289062499996,
+          -8.993600464280018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettilling Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Nettilling_Lake",
+        "comment": "Nettilling Lake is a cold freshwater lake located toward the south end of Baffin Island, Nunavut, Canada. It is also the world's largest lake on an island, with an area of 5,542 km2 and a maximum length of 123 km. The lake is in the Great Plain of the Koukdjuak about 280 km northwest of Iqaluit. The Arctic Circle crosses the lake. The lake's name is of Inuktitut origin, coming from the word for the adult ringed seal (netsilak). Franz Boas explored its southern shore in 1883. Nettilling is the largest lake in Nunavut. It is fed by the second largest lake on Baffin Island, Amadjuak Lake and several other smaller lakes and streams. Surface area 5,066 km2 (1,956 sq mi), Max. depth 132 m (433 ft), Surface elevation 30 m (98 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7080078125,
+          66.5482634621744
+        ]
+      }
     }
   ]
 }
