@@ -1,60 +1,1225 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "name": "Palm Islands", "type": "landmark", "url": "http:\/\/en.wikipedia.org\/wiki\/Palm_Islands", "comment": null, "date": null, "elevation": null, "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 55.122528076171875, 25.126635956381818 ] } },
-{ "type": "Feature", "properties": { "name": "Sigiriya (Lion Rock)", "type": "landmark", "url": "http:\/\/en.wikipedia.org\/wiki\/Sigiriya", "comment": null, "date": null, "elevation": null, "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 80.759940147399902, 7.956652829116874 ] } },
-{ "type": "Feature", "properties": { "name": "Statue of Liberty", "type": "landmark", "url": "http:\/\/en.wikipedia.org\/wiki\/Statue_of_Liberty", "comment": null, "date": null, "elevation": null, "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -74.044632911682129, 40.689245635408142 ] } },
-{ "type": "Feature", "properties": { "name": "Ben Nevis", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Ben_Nevis", "comment": null, "date": null, "elevation": "1344", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -5.003414154052734, 56.79702439081462 ] } },
-{ "type": "Feature", "properties": { "name": "Ben Macdhui", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Ben_Macdui", "comment": null, "date": null, "elevation": "1309", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.669090270996094, 57.070416346118094 ] } },
-{ "type": "Feature", "properties": { "name": "Braeriach", "type": "peak", "url": "http:\/\/de.wikipedia.org\/wiki\/Braeriach", "comment": null, "date": null, "elevation": "1296", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.729000091552734, 57.07806750862629 ] } },
-{ "type": "Feature", "properties": { "name": "Cairn Toul", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Cairn_Toul", "comment": null, "date": null, "elevation": "1291", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.710803985595703, 57.054455796735638 ] } },
-{ "type": "Feature", "properties": { "name": "Sgor an Lochain Uaine", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Sg%C3%B2r_an_Lochain_Uaine", "comment": null, "date": null, "elevation": "1258", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.725566864013672, 57.058189873488658 ] } },
-{ "type": "Feature", "properties": { "name": "Cairn Gorm", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Cairn_Gorm", "comment": null, "date": null, "elevation": "1244", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.644542694091796, 57.116392860554505 ] } },
-{ "type": "Feature", "properties": { "name": "Ben Lawers", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Ben_Lawers", "comment": null, "date": null, "elevation": "1214", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -4.221324920654297, 56.54481701416055 ] } },
-{ "type": "Feature", "properties": { "name": "Snowdon", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Snowdon", "comment": null, "date": null, "elevation": "1085", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -4.076957702636719, 53.068039226449223 ] } },
-{ "type": "Feature", "properties": { "name": "Carnedd Llewelyn", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Carnedd_Llewelyn", "comment": null, "date": null, "elevation": "1064", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.970184326171875, 53.160049713624403 ] } },
-{ "type": "Feature", "properties": { "name": "Pen Yr Ole Wen", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Pen_yr_Ole_Wen", "comment": null, "date": null, "elevation": "978", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -4.011039733886719, 53.137709170442392 ] } },
-{ "type": "Feature", "properties": { "name": "Scafell Pike", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Scafell_Pike", "comment": null, "date": null, "elevation": "978", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -3.211784362792969, 54.454173121360078 ] } },
-{ "type": "Feature", "properties": { "name": "Slieve Donard", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Slieve_Donard", "comment": null, "date": null, "elevation": "852", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -5.921287536621094, 54.180119226526202 ] } },
-{ "type": "Feature", "properties": { "name": "Slieve Commedagh", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Slieve_Commedagh", "comment": null, "date": null, "elevation": "767", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ -5.938796997070312, 54.188758137198178 ] } },
-{ "type": "Feature", "properties": { "name": "Uluru - Ayers Rock", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Uluru", "comment": null, "date": null, "elevation": "863", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 131.033935546875, -25.345267139880555 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Narodnaya", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Narodnaya", "comment": null, "date": null, "elevation": "1895", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 60.115814208984375, 65.037378800405378 ] } },
-{ "type": "Feature", "properties": { "name": "Galdhøpiggen", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Galdh%C3%B8piggen", "comment": null, "date": null, "elevation": "2469", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 8.31235885620117, 61.636421443890939 ] } },
-{ "type": "Feature", "properties": { "name": "Keilhaus topp", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Keilhaus_topp", "comment": null, "date": null, "elevation": "2355", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 8.32639217376709, 61.634984086419202 ] } },
-{ "type": "Feature", "properties": { "name": "Kebnekaise", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Kebnekaise", "comment": null, "date": null, "elevation": "2106", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 8.337936401367188, 61.634137951146229 ] } },
-{ "type": "Feature", "properties": { "name": "Kaskasapakte", "type": "peak", "url": "http:\/\/peakery.com\/kaskasapakte\/", "comment": null, "date": null, "elevation": "2043", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 18.554534912109375, 67.935460326522772 ] } },
-{ "type": "Feature", "properties": { "name": "Haltitunturi", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Halti", "comment": null, "date": null, "elevation": "1365", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 21.263179779052734, 69.309042205743765 ] } },
-{ "type": "Feature", "properties": { "name": "Saana", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Saana", "comment": null, "date": null, "elevation": "1029", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 20.84930419921875, 69.046965759346307 ] } },
-{ "type": "Feature", "properties": { "name": "Rysy", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Rysy", "comment": null, "date": null, "elevation": "2503", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 20.0885009765625, 49.178785878850945 ] } },
-{ "type": "Feature", "properties": { "name": "Sněžka (Schneekoppe)", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Snezka", "comment": null, "date": null, "elevation": "1602", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 15.739974975585939, 50.737541549316241 ] } },
-{ "type": "Feature", "properties": { "name": "Mięguszowiecki Szczyt Pośredni", "type": "peak", "url": "http:\/\/sk.wikipedia.org\/wiki\/Prostredny_Mengusovsky_stit", "comment": null, "date": null, "elevation": "2393", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 20.062065124511719, 49.18535003191959 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Zeil", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Zeil", "comment": null, "date": null, "elevation": "1531", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 132.395725250244141, -23.40118949870773 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Bartle Frere", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Bartle_Frere", "comment": null, "date": null, "elevation": "1622", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 145.81878662109375, -17.375541940881345 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Woodroffe", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Woodroffe", "comment": null, "date": null, "elevation": "1435", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 131.7645263671875, -26.318036522949065 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Bogong", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Bogong", "comment": null, "date": null, "elevation": "1986", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 147.306404113769531, -36.732555907758901 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Meharry", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Meharry", "comment": null, "date": null, "elevation": "1249", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 118.597412109375, -22.965980167474083 ] } },
-{ "type": "Feature", "properties": { "name": "Atherton Tablelands", "type": "volcano", "url": "http:\/\/en.wikipedia.org\/wiki\/Atherton_Tableland", "comment": null, "date": null, "elevation": "1622", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 145.399932861328125, -17.375541940881345 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Fox", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Fox_(Queensland)", "comment": null, "date": null, "elevation": "120", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 145.803337097167969, -18.836439844074253 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Barney", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Barney", "comment": null, "date": null, "elevation": "1359", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 152.697858810424805, -28.280347070065211 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Lindesay", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Lindesay_(Queensland)", "comment": null, "date": null, "elevation": "1177", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 152.724723815917969, -28.510332505222394 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Canobolas", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Canobolas", "comment": null, "date": null, "elevation": "1396", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.982505798339844, -33.341714728012285 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Kaputar", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Kaputar", "comment": null, "date": null, "elevation": "1508", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 150.157699584960938, -30.247797770388885 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Warning (Wollumbin)", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Warning", "comment": null, "date": null, "elevation": "1156", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 153.271636962890625, -28.396232711680433 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Hotham", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Hotham", "comment": null, "date": null, "elevation": "1861", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 147.133026123046875, -36.970741077964334 ] } },
-{ "type": "Feature", "properties": { "name": "Big Ben", "type": "volcano", "url": "http:\/\/en.wikipedia.org\/wiki\/Big_Ben_(Heard_Island)", "comment": null, "date": null, "elevation": "2745", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 73.53424072265625, -53.107216691893392 ] } },
-{ "type": "Feature", "properties": { "name": "Ball’s Pyramid", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Ball%27s_Pyramid", "comment": null, "date": null, "elevation": "552", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 159.251718521118164, -31.754152754917481 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Townsend", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Townsend", "comment": null, "date": null, "elevation": "2209", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.258700966835022, -36.422702593395805 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Twynam", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Twynam", "comment": null, "date": null, "elevation": "2196", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.315086364746094, -36.393443993047725 ] } },
-{ "type": "Feature", "properties": { "name": "Rams Head", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Rams_Head", "comment": null, "date": null, "elevation": "2190", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.259532451629639, -36.491576703826837 ] } },
-{ "type": "Feature", "properties": { "name": "Etheridge Ridge", "type": "peak", "url": "http:\/\/de.wikipedia.org\/wiki\/Etheridge_Ridge", "comment": null, "date": null, "elevation": "2180", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.274402618408175, -36.457740551058293 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Gungartan", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Gungartan", "comment": null, "date": null, "elevation": "2068", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.401292562484741, -36.28453747841273 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Jagungal", "type": "peak", "url": "http:\/\/de.wikipedia.org\/wiki\/Mount_Jagungal", "comment": null, "date": null, "elevation": "2161", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.387704491615295, -36.14808529731922 ] } },
-{ "type": "Feature", "properties": { "name": "Bimberi Peak", "type": "peak", "url": "http:\/\/peakbagger.com\/peak.aspx?pid=11592", "comment": null, "date": null, "elevation": "1913", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.791103363037109, -35.659876549365897 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Kosciuszko", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Kosciuszko", "comment": null, "date": null, "elevation": null, "length_km": "2,228", "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 148.263587951660156, -36.455393385897416 ] } },
-{ "type": "Feature", "properties": { "name": "Mount Ruapehu", "type": "peak", "url": "http:\/\/en.wikipedia.org\/wiki\/Mount_Ruapehu", "comment": "Mount Ruapehu, or just Ruapehu, is an active stratovolcano at the southern end of the Taupo Volcanic Zone in New Zealand. It is 23 kilometres northeast of Ohakune and 40 kilometres southwest of the southern shore of Lake Taupo, within Tongari", "date": null, "elevation": "2.797", "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 175.563411712646484, -39.274856104823243 ] } },
-{ "type": "Feature", "properties": { "name": "The World (archipelago)", "type": "landmark", "url": "http:\/\/en.wikipedia.org\/wiki\/The_World_(archipelago)", "comment": "The World or World Islands is an artificial archipelago synecdoche of various small islands constructed in the rough shape of a world map, located 4.0 kilometres (2.5 mi) off the coast of Dubai, United Arab Emirates. The World islands are c", "date": null, "elevation": null, "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 55.15411376953125, 25.245938079306878 ] } },
-{ "type": "Feature", "properties": { "name": "Mecca", "type": "landmark", "url": "http:\/\/en.wikipedia.org\/wiki\/Mecca", "comment": "Mecca, also transliterated as Makkah, is a city in the Hejaz and the capital of Makkah Province in Saudi Arabia. The city is located 70 km (43 mi) inland from Jeddah in a narrow valley at a height of 277 m (909 ft) above sea level. Its reside", "date": null, "elevation": null, "length_km": null, "scalerank": null }, "geometry": { "type": "Point", "coordinates": [ 39.826812744140625, 21.451790481559417 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Islands",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Palm_Islands",
+        "comment": null,
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.122528076171875,
+          25.12663595638182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigiriya (Lion Rock)",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Sigiriya",
+        "comment": null,
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7599401473999,
+          7.956652829116874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue of Liberty",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Statue_of_Liberty",
+        "comment": null,
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04463291168213,
+          40.68924563540814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Nevis",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Nevis",
+        "comment": null,
+        "date": null,
+        "elevation": "1344",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.003414154052734,
+          56.79702439081462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Macdhui",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Macdui",
+        "comment": null,
+        "date": null,
+        "elevation": "1309",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.669090270996094,
+          57.070416346118094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braeriach",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Braeriach",
+        "comment": null,
+        "date": null,
+        "elevation": "1296",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.729000091552734,
+          57.07806750862629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairn Toul",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Cairn_Toul",
+        "comment": null,
+        "date": null,
+        "elevation": "1291",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710803985595703,
+          57.05445579673564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sgor an Lochain Uaine",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Sg%C3%B2r_an_Lochain_Uaine",
+        "comment": null,
+        "date": null,
+        "elevation": "1258",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.725566864013672,
+          57.05818987348866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairn Gorm",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Cairn_Gorm",
+        "comment": null,
+        "date": null,
+        "elevation": "1244",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.644542694091796,
+          57.116392860554505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Lawers",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Lawers",
+        "comment": null,
+        "date": null,
+        "elevation": "1214",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.221324920654297,
+          56.54481701416055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snowdon",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Snowdon",
+        "comment": null,
+        "date": null,
+        "elevation": "1085",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.076957702636719,
+          53.06803922644922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnedd Llewelyn",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Carnedd_Llewelyn",
+        "comment": null,
+        "date": null,
+        "elevation": "1064",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.970184326171875,
+          53.1600497136244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pen Yr Ole Wen",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Pen_yr_Ole_Wen",
+        "comment": null,
+        "date": null,
+        "elevation": "978",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.011039733886719,
+          53.13770917044239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scafell Pike",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Scafell_Pike",
+        "comment": null,
+        "date": null,
+        "elevation": "978",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.211784362792969,
+          54.45417312136008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slieve Donard",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Slieve_Donard",
+        "comment": null,
+        "date": null,
+        "elevation": "852",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.921287536621094,
+          54.1801192265262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slieve Commedagh",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Slieve_Commedagh",
+        "comment": null,
+        "date": null,
+        "elevation": "767",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.938796997070312,
+          54.18875813719818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uluru - Ayers Rock",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Uluru",
+        "comment": null,
+        "date": null,
+        "elevation": "863",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.033935546875,
+          -25.345267139880555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Narodnaya",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Narodnaya",
+        "comment": null,
+        "date": null,
+        "elevation": "1895",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.115814208984375,
+          65.03737880040538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galdhøpiggen",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Galdh%C3%B8piggen",
+        "comment": null,
+        "date": null,
+        "elevation": "2469",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31235885620117,
+          61.63642144389094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keilhaus topp",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Keilhaus_topp",
+        "comment": null,
+        "date": null,
+        "elevation": "2355",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32639217376709,
+          61.6349840864192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kebnekaise",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Kebnekaise",
+        "comment": null,
+        "date": null,
+        "elevation": "2106",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.337936401367188,
+          61.63413795114623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskasapakte",
+        "type": "peak",
+        "url": "http://peakery.com/kaskasapakte/",
+        "comment": null,
+        "date": null,
+        "elevation": "2043",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.554534912109375,
+          67.93546032652277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haltitunturi",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Halti",
+        "comment": null,
+        "date": null,
+        "elevation": "1365",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.263179779052734,
+          69.30904220574376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saana",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Saana",
+        "comment": null,
+        "date": null,
+        "elevation": "1029",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.84930419921875,
+          69.0469657593463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rysy",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Rysy",
+        "comment": null,
+        "date": null,
+        "elevation": "2503",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0885009765625,
+          49.178785878850945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sněžka (Schneekoppe)",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Snezka",
+        "comment": null,
+        "date": null,
+        "elevation": "1602",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.73997497558594,
+          50.73754154931624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mięguszowiecki Szczyt Pośredni",
+        "type": "peak",
+        "url": "http://sk.wikipedia.org/wiki/Prostredny_Mengusovsky_stit",
+        "comment": null,
+        "date": null,
+        "elevation": "2393",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.06206512451172,
+          49.18535003191959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Zeil",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Zeil",
+        "comment": null,
+        "date": null,
+        "elevation": "1531",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.39572525024414,
+          -23.40118949870773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Bartle Frere",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Bartle_Frere",
+        "comment": null,
+        "date": null,
+        "elevation": "1622",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.81878662109375,
+          -17.375541940881345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Woodroffe",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Woodroffe",
+        "comment": null,
+        "date": null,
+        "elevation": "1435",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.7645263671875,
+          -26.318036522949065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Bogong",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Bogong",
+        "comment": null,
+        "date": null,
+        "elevation": "1986",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.30640411376953,
+          -36.7325559077589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Meharry",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Meharry",
+        "comment": null,
+        "date": null,
+        "elevation": "1249",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.597412109375,
+          -22.965980167474083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atherton Tablelands",
+        "type": "volcano",
+        "url": "http://en.wikipedia.org/wiki/Atherton_Tableland",
+        "comment": null,
+        "date": null,
+        "elevation": "1622",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39993286132812,
+          -17.375541940881345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Fox",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Fox_(Queensland)",
+        "comment": null,
+        "date": null,
+        "elevation": "120",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80333709716797,
+          -18.836439844074253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Barney",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Barney",
+        "comment": null,
+        "date": null,
+        "elevation": "1359",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6978588104248,
+          -28.28034707006521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Lindesay",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Lindesay_(Queensland)",
+        "comment": null,
+        "date": null,
+        "elevation": "1177",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72472381591797,
+          -28.510332505222394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Canobolas",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Canobolas",
+        "comment": null,
+        "date": null,
+        "elevation": "1396",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98250579833984,
+          -33.341714728012285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kaputar",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Kaputar",
+        "comment": null,
+        "date": null,
+        "elevation": "1508",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.15769958496094,
+          -30.247797770388885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Warning (Wollumbin)",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Warning",
+        "comment": null,
+        "date": null,
+        "elevation": "1156",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.27163696289062,
+          -28.396232711680433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Hotham",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Hotham",
+        "comment": null,
+        "date": null,
+        "elevation": "1861",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13302612304688,
+          -36.970741077964334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Ben",
+        "type": "volcano",
+        "url": "http://en.wikipedia.org/wiki/Big_Ben_(Heard_Island)",
+        "comment": null,
+        "date": null,
+        "elevation": "2745",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53424072265625,
+          -53.10721669189339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ball’s Pyramid",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ball%27s_Pyramid",
+        "comment": null,
+        "date": null,
+        "elevation": "552",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.25171852111816,
+          -31.75415275491748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Townsend",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Townsend",
+        "comment": null,
+        "date": null,
+        "elevation": "2209",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25870096683502,
+          -36.422702593395805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Twynam",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Twynam",
+        "comment": null,
+        "date": null,
+        "elevation": "2196",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3150863647461,
+          -36.393443993047725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rams Head",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Rams_Head",
+        "comment": null,
+        "date": null,
+        "elevation": "2190",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25953245162964,
+          -36.49157670382684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etheridge Ridge",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Etheridge_Ridge",
+        "comment": null,
+        "date": null,
+        "elevation": "2180",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.27440261840817,
+          -36.45774055105829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Gungartan",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Gungartan",
+        "comment": null,
+        "date": null,
+        "elevation": "2068",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.40129256248474,
+          -36.28453747841273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Jagungal",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Mount_Jagungal",
+        "comment": null,
+        "date": null,
+        "elevation": "2161",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3877044916153,
+          -36.14808529731922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bimberi Peak",
+        "type": "peak",
+        "url": "http://peakbagger.com/peak.aspx?pid=11592",
+        "comment": null,
+        "date": null,
+        "elevation": "1913",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7911033630371,
+          -35.6598765493659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kosciuszko",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Kosciuszko",
+        "comment": null,
+        "date": null,
+        "elevation": null,
+        "length_km": "2,228",
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26358795166016,
+          -36.455393385897416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Ruapehu",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Ruapehu",
+        "comment": "Mount Ruapehu, or just Ruapehu, is an active stratovolcano at the southern end of the Taupo Volcanic Zone in New Zealand. It is 23 kilometres northeast of Ohakune and 40 kilometres southwest of the southern shore of Lake Taupo, within Tongari",
+        "date": null,
+        "elevation": "2.797",
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.56341171264648,
+          -39.27485610482324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The World (archipelago)",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/The_World_(archipelago)",
+        "comment": "The World or World Islands is an artificial archipelago synecdoche of various small islands constructed in the rough shape of a world map, located 4.0 kilometres (2.5 mi) off the coast of Dubai, United Arab Emirates. The World islands are c",
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.15411376953125,
+          25.245938079306878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mecca",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Mecca",
+        "comment": "Mecca, also transliterated as Makkah, is a city in the Hejaz and the capital of Makkah Province in Saudi Arabia. The city is located 70 km (43 mi) inland from Jeddah in a narrow valley at a height of 277 m (909 ft) above sea level. Its reside",
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.826812744140625,
+          21.451790481559417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Erie",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Erie",
+        "comment": "Lake Erie is the fourth largest lake (by surface area) of the five Great Lakes in North America, and the tenth largest globally or twelfth largest globally if measured in terms of surface area. It is the southernmost, shallowest, and smallest by volume of the Great Lakes and therefore also has the shortest average water residence time. It is bounded by Ontario to the north, Ohio, Pennsylvania, and New York to the south, and Michigan to the west. The lake is named after the Erie tribe of Native Americans who lived along its southern shore. The outflow from the lake provides hydroelectric power to Canada and the U.S. as it spins huge turbines at Niagara Falls. The lake's environmental health has been an ongoing concern for decades, with issues such as overfishing, pollution and more recently algal bloomsand eutrophication generating headlines. Surface area 9,910 sq mi (25,667 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.485595703125,
+          42.08191667830631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Superior",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Superior",
+        "comment": "Lake Superior is the largest of the Great Lakes of North America. The lake is bounded by Ontario and Minnesota to the north and west, and Wisconsin and Michigan to the south. It is generally considered the largest freshwater lake in the world by surface area. It is the world's third-largest freshwater lake by volume and the largest by volume in North America. Surface area 31,700 sq mi (82,100 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.275390625,
+          47.57652571374621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Michigan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Michigan",
+        "comment": "Lake Michigan is one of the five Great Lakes of North America and the only one located entirely within the United States. The other four Great Lakes are shared by the U.S. and Canada. It is the second largest of the Great Lakes by volume and the third largest by surface area, after Lake Superior and Lake Huron (and is slightly smaller than the U.S. state of West Virginia). To the east, its basin is conjoined with that of Lake Huron through the wide Straits of Mackinac, giving it the same surface elevation as its easterly counterpart; the two are technically a single lake. Lake Michigan is bounded, from west to east, by the U.S. states of Wisconsin, Illinois, Indiana, and Michigan. The word \"Michigan\" originally referred to the lake itself, and is believed to come from the Ojibwa word mishigami meaning \"great water\". Surface area 22,300 sq mi (58,000 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8359375,
+          44.08758502824518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Huron",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Huron",
+        "comment": "Lake Huron is one of the five Great Lakes of North America. Hydrologically, it comprises the easterly portion of Lake Michigan–Huron, having the same surface elevation as its westerly counterpart, to which it is connected by the wide Straits of Mackinac. It is bounded on the east by the Canadian province of Ontario and on the west by the state of Michigan in the United States. The name of the lake is derived from early French explorers who named it for the Huron people inhabiting the region. The huronian glaciation was named due to evidence collected from Lake Huron region. Surface area 23,000 sq mi (59,600 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6171875,
+          44.902577996288876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ontario",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ontario",
+        "comment": "Lake Ontario is one of the five Great Lakes of North America. It is bounded on the north and southwest by the Canadian province of Ontario, and on the south and east by the American state of New York. Ontario, Canada's most populous province, was named for the lake. In the Wyandot (Huron) language, ontarío means “Lake of Shining Waters”. It is the last in the Great Lakes chain and serves as the outlet to the Atlantic Ocean via the St. Lawrence River. Lake Ontario is also the only one of the five Great Lakes not to share a shoreline with the state of Michigan. Surface area 7,340 sq mi (19,000 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.87109375,
+          43.77109381775651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caspian Sea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Caspian_Sea",
+        "comment": "The Caspian Sea is the largest enclosed inland body of water on Earth by area, variously classed as the world's largest lake or a full-fledged sea. The sea has a surface area of 371,000 km2 (143,200 sq mi) (not including Garabogazköl Aylagy) and a volume of 78,200 km3 (18,800 cu mi). It is in an endorheic basin (it has no outflows) and is bounded to the northwest by Russia, to the west by Azerbaijan, to the south by Iran, to the southeast by Turkmenistan, and to the northeast by Kazakhstan. Surface area 371,000 km2 (143,200 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.625,
+          41.83682786072714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Victoria",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Victoria",
+        "comment": "Lake Victoria is one of the African Great Lakes. The lake was named after Queen Victoria by the explorer John Hanning Speke, who was the first European to discover it, and which he did alone in 1858 while on an expedition with Richard Francis Burton to locate the source of the Nile River. With a surface area of 68,800 square kilometres (26,600 sq mi), Lake Victoria is Africa’s largest lake by area, and it is the largest tropical lake in the world. Lake Victoria is the world's 2nd largest freshwater lake by surface area; only Lake Superior in North America is larger. In terms of its volume, Lake Victoria is the world's ninth largest continental lake, and it contains about 2,750 cubic kilometers (2.2 billion acre-feet) of water. Lake Victoria receives its water primarily from direct precipitation and thousands of small streams. The largest stream flowing into this lake is the Kagera River, the mouth of which lies on the lake's western shore. Lake Victoria is drained by the Nile River (generally known as the Victoria Nile, part of the White Nile) near Jinja, Uganda, on the lake's northern shore."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.71728515625,
+          -0.9447814006873896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tanganyika",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tanganyika",
+        "comment": "Lake Tanganyika is an African Great Lake. It is estimated to be the second largest freshwater lake in the world by volume, and the second deepest, in both cases, after only Lake Baikal in Siberia; it is also the world's longest freshwater lake. The lake is divided among four countries – Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia, with Tanzania (46%) and the DRC (40%) possessing the majority of the lake. The water flows into the Congo River system and ultimately into the Atlantic Ocean. Surface area 32,900 km2 (12,700 sq mi), Average depth 570 m (1,870 ft), Max. depth 1,470 m (4,820 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.553222656249996,
+          -5.922044619883293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Baikal",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Baikal",
+        "comment": "Lake Baikal is a rift lake in the south of the Russian region of Siberia, between the Irkutsk Oblast to the northwest and the Buryat Republic to the southeast. Lake Baikal is the most voluminous freshwater lake in the world, containing roughly 20% of the world's unfrozen surface fresh water, and at 1,642 m (5,387 ft), the deepest. It is also among the clearest of all lakes, and thought to be the world's oldest lake at 25 million years. It is the 7th largest lake in the world by surface area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.1494140625,
+          53.605544099237974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Bear Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Great_Bear_Lake",
+        "comment": "Great Bear Lake is the largest lake entirely in Canada (Lake Superior and Lake Huron straddling the Canada-US border are larger), the fourth largest in North America, and the eighth largest in the world. The lake is in the Northwest Territories, on the Arctic Circle between 65 and 67 degrees of northern latitude and between 118 and 123 degrees western longitude, 186 m (610 ft) above sea level. The name originated with the First Nations living on the northern shores, who called themselves Chipewyan, meaning “grizzly bear water people.” Grizzly Bear Mountain on the shore of the Lake comes from the Chipewyan, meaning, “bear large hill. Surface area 31,153 km2 (12,028 sq mi), Average depth 71.7 m (235 ft), Max. depth 446 m (1,463 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.69580078125001,
+          66.08045694353868
+        ]
+      }
+    }
+  ]
 }
