@@ -5966,6 +5966,102 @@
           35.37505425672557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korea International Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Korea_International_Circuit",
+        "comment": "The Korea International Circuit is a 5.62 km (3.49 mi) motorsport circuit located in Yeongam, South Jeolla, South Korea, 400 kilometres south of Seoul and near the port city of Mokpo. It is the venue for the Korean Grand Prix after a $264 million (250 billion won) deal between Bernie Ecclestone and the Korean F1 promoter Korea Auto Valley Operation (KAVO – a joint venture between M-Bridge Holdings and Jeollanam-do regional government). Capacity: 135,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.41332626342773,
+          34.73582886236539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hockenheimring",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Hockenheimring",
+        "comment": "The Hockenheimring Baden-Württemberg (help·info) is a motor racing circuit situated near the town of Hockenheim in Baden-Württemberg, Germany, located on Bertha Benz Memorial Route. Amongst other motor racing events, it biennially hosts the German Grand Prix, with the most recent being in 2012. Situated in the Rhine valley, the circuit is almost completely flat, with very little change in elevation. Capacity: 120,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.572425842285156,
+          49.33295318076032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EuroSpeedway Lausitz",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/EuroSpeedway_Lausitz",
+        "comment": "The EuroSpeedway Lausitz is a race track located near Klettwitz in the state of Brandenburg in Eastern Germany, near the borders of Poland and the Czech Republic. It was originally named Lausitzring as it is located in the region the Germans call Lausitz (Lusatia), but was renamed \"EuroSpeedway Lausitz\" for better international communication. The EuroSpeedway has been in use for motor racing since 2000. Among other series, DTM (German Touring Car Championship) and Superbike World Championship take place there annually. The EuroSpeedway has a feature which is unique in continental Europe: a high-speed oval race track, as used in the United States by NASCAR and Indycar. The 3.2 km (2 mi) tri-oval (similar to Pocono Raceway) was used twice in 2001 and 2003 by open seater CART races named German 500 (won by Kenny Bräck and Sébastien Bourdais), plus a few British SCSA races. In 2005 and 2006, the German Formula Three Championship held races at the oval, with a pole position lap average speed of 251.761 km/h and a race average of 228.931 km/h. Capacity: 120,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.924999237060547,
+          51.53277539171936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungaroring",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Hungaroring",
+        "comment": "The Hungaroring is a motor-racing circuit in Mogyoród, Hungary where the Formula One Hungarian Grand Prix is held. In 1986, it became the location of the first Formula One Grand Prix behind the Iron Curtain. Bernie Ecclestone wanted a race in the USSR, but a Hungarian friend recommended Budapest. They wanted a street circuit similar to the Circuit de Monaco to be built in the Népliget – Budapest's largest park – but the government decided to build a new circuit just outside the city near a major highway. Construction works started on October 1, 1985. It was built in eight months, less time than any other Formula One circuit. The first race was held on March 24, 1986, in memory of János Drapál, the first Hungarian who won motorcycle Grand Prix races. Capacity: 120,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.251136779785156,
+          47.583241891903775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuit de Nevers Magny-Cours",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
+        "comment": "Circuit de Nevers Magny-Cours is a motor racing circuit located in central France, near the towns of Magny-Cours and Nevers, some 250 km (160 miles) from Paris. It staged the Formula One French Grand Prix from 1991 to 2008, and the 24-hour Bol d'Or motorcycle endurance events since 2000. Capacity: 120,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1659507751464844,
+          46.8641817456968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autodromo Nazionale Monza",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza",
+        "comment": "The Autodromo Nazionale Monza is a race track located near the city of Monza, north of Milan, in Italy. The circuit's biggest event is the Formula One Italian Grand Prix, which has been hosted there since the sport's inception. Built in the Royal Villa of Monza park in a woodland setting, the site has three tracks – the 5.793-kilometre (3.600 mi) Grand Prix track, the 2.405-kilometre (1.494 mi) Junior track, and a 4.250-kilometre (2.641 mi) high speed oval track with steep bankings which has been unused for many decades and is now decaying. The major features of the main Grand Prix track include the Curva Grande, the Curva di Lesmo, the Variante Ascari and the Curva Parabolica. The high speed curve, Curva Grande, is located after the Variante del Rettifilo which is located at the end of the front straight or Rettifilo Tribune, and is usually taken flat out by Formula One cars. Capacity: 113,860."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.284477233886719,
+          45.619440531458615
+        ]
+      }
     }
   ]
 }
