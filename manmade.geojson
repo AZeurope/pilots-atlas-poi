@@ -5678,6 +5678,86 @@
           36.748100376224045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abuja Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Abuja_Stadium",
+        "comment": "Abuja National Stadium is an all-seater national sports stadium located in Abuja, the rapidly developing Federal Capital Territory of Nigeria. The stadium serves as a home to the Nigerian national football team, as well as a center for various social, cultural, and religious events. The Federal Government of Nigeria approved the contract for the construction of the National Stadium complex and Games Village on July 18, 2000. The stadium was constructed to host the 8th All Africa Games which took place in October 2003. The 60,491 seater ultra modern multipurpose sports complex has been tagged by many as one of the greatest architectural landmarks in the city of Abuja."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453536987304687,
+          9.038020080407914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Celtic Park",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Celtic_Park",
+        "comment": "Celtic Park is a football stadium in the Parkhead area of Glasgow, and is the home ground of Celtic Football Club. Celtic Park, an all-seater stadium with a capacity of 60,355, is the largest football stadium in Scotland and the Seventh-largest stadium in the United Kingdom, after Murrayfield, Old Trafford, the Olympic Stadium (London), Twickenham, Wembley, and Millennium Stadium. It is also commonly known by Celtic fans as either Parkhead or Paradise."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.206047058105469,
+          55.85036078588332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadio San Paolo",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stadio_San_Paolo",
+        "comment": "Stadio San Paolo is a multi-purpose stadium in the western suburb of Fuorigrotta in Naples, Italy, and is the third largest football stadium in Italy after the San Siro and Stadio Olimpico. For the 1960 Summer Olympics in Rome, it hosted the football preliminaries. It is currently used mostly for football matches and is the home of Napoli. The stadium was built in 1959 and underwent extensive renovations in 1989 for the 1990 World Cup. The present capacity of the San Paolo is 60,240."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.19279098510742,
+          40.82835864973048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tanganyika Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tanganyika_Stadium",
+        "comment": "Lake Tanganyika Stadium is a multi-purpose stadium in Kigoma, Tanzania. It is used mostly for football matches. Capacity: 60,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.661884307861325,
+          -4.901551647801194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borussia-Park",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Borussia-Park",
+        "comment": "Borussia-Park in Mönchengladbach, North Rhine-Westphalia, Germany is the home stadium of German Bundesliga club Borussia Mönchengladbach. It replaced the smaller Bökelberg stadium, which no longer satisfied modern safety standards and international requirements, in July 2004. Borussia-Park has a capacity of up to 54,057 (league matches), of which 16,145 are standing-room only due to popular demand. For international games, the standing room is converted into temporary seating for a total seating capacity of 46,249 (international matches). The new stadium features amenities such as VIP lounges, fanshop and sports bar, and cost 85 million euro to construct."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.385631561279297,
+          51.174715435400955
+        ]
+      }
     }
   ]
 }
