@@ -5582,6 +5582,102 @@
           41.10354419401677
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrayfield Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Murrayfield_Stadium",
+        "comment": "Murrayfield Stadium (usually just known as Murrayfield) is a sports stadium located in the west end of Edinburgh, the capital of Scotland. Its all-seater capacity was recently reduced from 67,800 to 67,144 to incorporate the largest permanent \"big screens\" in the country, though it remains the largest stadium in Scotland and one of the largest in the United Kingdom overall. The stadium is the home of the Scottish Rugby Union (SRU), and is primarily used as a venue for rugby union and hosts most of Scotland's home test matches, as well as the Edinburgh Sevens, the Scottish Hydro Electric Cup final, as well as Pro12 and Heineken Cup matches. Although mainly a rugby union stadium, Murrayfield has in the past hosted American football, rugby league and association football matches and music concerts. One of the most notable of the latter was the Edinburgh 50,000 - The Final Push concert as part of Live 8."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.241138458251953,
+          55.942374846393314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friends Arena",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Friends_Arena",
+        "comment": "Friends Arena, the Association football national arena of Sweden, is a retractable roof multi-purpose stadium located next to Råstasjön (eng. Lake Råsta) in Solna, just north of Stockholm City Centre. The main tenants of the stadium are Sweden's national football team and Allsvenskan football club Solna AIK. Both relocated from their previous home at the Råsunda Stadium. The venue has a total capacity of 65,000 at concerts and 50,000 seated at football matches, but the stadium can be scaled down to accomplish a more intimate setting to host smaller events with a capacity of approximately 20,000 guests. Friends Arena is the biggest football stadium, and indoor venue, in the Nordic countries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.00006866455078,
+          59.37309104662694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Fahd International Stadium",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/King_Fahd_International_Stadium",
+        "comment": "King Fahd International Stadium is a multi-purpose stadium in Riyadh, Saudi Arabia. It is currently used mostly for football matches and it also has athletics facilities.The stadium was built in 1987 and holds 67,000. It measures 116 yards by 74 yards. It also has one of the largest stadium roofs in the world. It was a venue for matches of the FIFA World Youth Championship in 1989 including the final match. The stadium is included on the football video game FIFA 13, the first time in that series. It is also in Pro Evolution Soccer 2014."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.83900833129883,
+          24.788604691876046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic Stadium (Montreal)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal)",
+        "comment": "King Fahd International Stadium is a multi-purpose stadium in Riyadh, Saudi Arabia. It is currently used mostly for football matches and it also has athletics facilities.The stadium was built in 1987 and holds 67,000. It measures 116 yards by 74 yards. It also has one of the largest stadium roofs in the world. It was a venue for matches of the FIFA World Youth Championship in 1989 including the final match. The stadium is included on the football video game FIFA 13, the first time in that series. It is also in Pro Evolution Soccer 2014."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55175018310547,
+          45.557693904139384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estadio Centenario",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Estadio_Centenario",
+        "comment": "Estadio Centenario is a stadium in the Parque Batlle neighborhood of Montevideo, Uruguay, used primarily for football. The stadium was built between 1929 and 1930 to host the 1930 FIFA World Cup, as well as to commemorate the centennial of Uruguay's first constitution. It is listed by FIFA as one of the football world's classic stadiums, along with the likes of Maracanã, Wembley Stadium, San Siro, Estadio Azteca, and Santiago Bernabéu Stadium. On July 18, 1983, it was declared by FIFA as the only historical monument of World Football, the only building of its kind (worldwide). Capacity: 65,235."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.15275382995605,
+          -34.89452005510336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stade Olympique de Radès",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Stade_Olympique_de_Rades",
+        "comment": "Stade Olympique de Radès is a multi-purpose stadium in Rades, Tunisia. It is currently used mostly for football matches and it also has facilities for athletics. The stadium holds 65,000 and was built in 2001 for the 2001 Mediterranean Games and is considered to be one of the best stadiums in Africa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.272817611694336,
+          36.748100376224045
+        ]
+      }
     }
   ]
 }
