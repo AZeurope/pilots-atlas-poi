@@ -1220,6 +1220,118 @@
           66.08045694353868
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Malawi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Malawi",
+        "comment": "Lake Malawi is an African Great Lake and the southernmost lake in the East African Rift system, located between Malawi, Mozambique and Tanzania. The third largest and second deepest lake in Africa, it is also the ninth largest in the world. It is reportedly the habitat of more species of fish than any other body of freshwater, including more than 1000 species of cichlids, and was officially declared a reserve by the Government of Mozambique on June 10, 2011. Lake Malawi is a Meromictic lake; permanent stratification and the oxic-anoxic boundary are maintained by moderately small chemical and thermal gradients. Surface area 29,600 km2 (11,400 sq mi), Average depth 292 m, Max. depth 706 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.365234375,
+          -11.996338401936214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Slave Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Great_Slave_Lake",
+        "comment": "Great Slave Lake is the second-largest lake in the Northwest Territories of Canada (after Great Bear Lake), the deepest lake in North America at 614 metres (336 fathoms; 2,014 ft), and the tenth-largest lake in the world. It is 480 km (300 mi) long and 19 to 109 km (12 to 68 mi) wide. It covers an area of 27,200 km2 (10,502 sq mi) in the southern part of the territory. Its given volume ranges from 1,070 km3 (260 cu mi) to 1,580 km3 (380 cu mi) and up to 2,088 km3 (501 cu mi) making it the 10th or 12th largest. Surface area 27,200 km2 (10,502 sq mi), Average depth 41 m (135 ft), Max. depth 614 m (2,014 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.345703125,
+          61.60639637138628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Winnipeg",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Winnipeg",
+        "comment": "Lake Winnipeg is a large, 24,514-square-kilometre (9,465 sq mi) lake in central North America, in the province of Manitoba, Canada, with its southern tip about 55 kilometres (34 mi) north of the city of Winnipeg. It is the largest lake within the borders of southern Canada, and it is part of the most undeveloped large watershed of southern Canada. Lake Winnipeg is the sixth-largest freshwater lake in Canada, and the third-largest freshwater lake contained entirely within Canada, but it is relatively shallow (mean depth of 12 m (39 ft)) excluding a narrow 36 m (118 ft) deep channel between the northern and southern basins. It is the eleventh-largest freshwater lake on Earth. Surface area 24,514 km2 (9,465 sq mi), Average depth 12 m (39 ft), Max. depth 36 m (118 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8662109375,
+          52.74959372674114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Balkhash",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Balkhash",
+        "comment": "Lake Balkhash is one of the largest lakes in Asia and 13th largest continental lake in the world. It is located in southeastern Kazakhstan, in Central Asia, and belongs to an endorheic (closed) basin shared by Kazakhstan and China, with a small part in Kyrgyzstan. The basin drains into the lake via seven rivers. The major one is the Ili River, which brings the majority of the riparian inflow; others, such as the Karatal, provide both surface and subsurface flow. The Ili is fed from precipitation (largely vernal snowmelt) from the mountains of China's Xinjiang region. The lake currently covers 16,400 km2 (6,300 sq mi), but, like the Aral Sea, it is shrinking because of the diversion of water from the rivers that feed it. The lake is divided by a strait into two distinct parts. The western part is fresh water, while the eastern half is saline. The eastern part is on average 1.7 times deeper than the western part. Surface area 16,400 km2 (6,300 sq mi), Average depth 5.8 m (19 ft), Max. depth 26 m (85 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.33349609375,
+          46.31658418182218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ladoga",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ladoga",
+        "comment": "Lake Ladoga is a freshwater lake located in the Republic of Karelia and Leningrad Oblast in northwestern Russia just outside the outskirts of Saint Petersburg. It is the largest lake in Europe, and the 14th largest freshwater lake by area in the world. Surface area 17,700 km2 (6,800 sq mi), Average depth 51 m (167 ft), Max. depth 230 m (750 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.552734374999996,
+          60.84491057364915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Sea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Black_Sea",
+        "comment": "The Black Sea is a sea in south-eastern Europe. It is bounded by Europe, Anatolia and the Caucasus and is ultimately connected to the Atlantic Ocean via the Mediterranean and the Aegean Seas and variousstraits. The Bosphorus Strait connects it to the Sea of Marmara, and the Strait of the Dardanelles connects that sea to the Aegean Sea region of the Mediterranean. These waters separate eastern Europe andwestern Asia. The Black Sea is also connected to the Sea of Azov by the Strait of Kerch. The Black Sea has an area of 436,400 km2 (168,500 sq mi) (not including the Sea of Azov), a maximum depth of 2,212 m (7,257 ft), and a volume of 547,000 km3 (131,000 cu mi). The Black Sea forms in an east-west trending elliptical depression which lies between Bulgaria, Georgia, Romania, Russia, Turkey, and Ukraine. It is constrained by the Pontic Mountains to the south and by the Caucasus Mountains to the east, and features a wide shelf to the northwest. The longest east-west extent is about 1,175 km (730 mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.431640625,
+          43.45291889355465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Onega",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Onega",
+        "comment": "Lake Onega (also known as Onego) is a lake in the north-west European part of Russia, located on the territory of Republic of Karelia, Leningrad Oblast and Vologda Oblast. It belongs to the basin of Baltic Sea, Atlantic Ocean, and is the second largest lake in Europe after Lake Ladoga. The lake is fed by about 50 rivers and is drained by the Svir River. There are about 1650 islands on the lake. They include Kizhi, which hosts a historical complex of 89 orthodox wooden churches and other wooden constructions of 15th–20th centuries. The complex includes a UNESCO World Heritage site Kizhi Pogost. Eastern shores of the lake contain about 1200 petroglyphs (rock engravings) dated to 4th–2nd millennia BC. The major cities on the lake are Petrozavodsk, Kondopoga and Medvezhyegorsk. Surface area 9,700 km2 (3,700 sq mi), Average depth 30 m (98 ft), Max. depth 127 m (417 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6396484375,
+          61.62728646147466
+        ]
+      }
     }
   ]
 }
