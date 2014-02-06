@@ -5758,6 +5758,70 @@
           51.174715435400955
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indianapolis Motor Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+        "comment": "The Indianapolis Motor Speedway, located in Speedway, Indiana (an enclave suburb of Indianapolis) in the United States, is the home of the Indianapolis 500 and the Brickyard 400. Constructed in 1909, it is the original Speedway, the first racing facility so named. It has a permanent seating capacity estimated at 257,325, with infield seating raising capacity to an approximate 400,000. It is the highest-capacity stadium-type facility in the world. In addition to the Indianapolis 500, the speedway also hosts NASCAR's Brickyard 400. From 2000 to 2007 the speedway also hosted the United States Grand Prix for Formula One. The inaugural USGP race drew an estimated 400,000 spectators, setting a Formula One attendance record. In 2008, the Speedway added the Indianapolis motorcycle Grand Prix, a Grand Prix motorcycle racing event."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23477935791016,
+          39.79666687584735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circuit de la Sarthe",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe",
+        "comment": "The Circuit des 24 Heures, also known as Circuit de la Sarthe, located in Le Mans, Maine, France, is a semi-permanent race course most famous as the venue for the 24 Hours of Le Mans auto race. The track uses local roads that remain open to the public most of the year. The circuit, in its present configuration, is 13.629 kilometres (8.47 mi) long, making it one of the longest circuits in the world. Le Mans is a race where up to 85% of the time is spent on full throttle, meaning immense stress on engine and drivetrain components. However, the times spent reaching maximum speed also mean tremendous wear on the brakes and suspension as cars must slow from over 200 mph (320 km/h) to around 65 mph (100 km/h) for the end of Mulsanne in a short distance. Downforce in the era of Group C cars helped braking to some degree but presently cars are tending towards low downforce to seek higher speeds in the face of power limiting regulations. Capacity: 384,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2231597900390625,
+          47.93704690017251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai International Circuit",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_International_Circuit",
+        "comment": "The Shanghai International Circuit is a motorsport race track, situated in the Jiading, Shanghai, People's Republic of China. The circuit is best known as the venue for the annual Formula 1 Chinese Grand Prix, which it first hosted in 2004. Other events held at the circuit include a round of the MotoGP world championship, the Australian-based V8 Supercar championship in 2005, attracting crowds of over 250,000 spectators, and also the final round of the A1 Grand Prix in 2006/2007."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22142791748047,
+          31.34102901000588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daytona International Speedway",
+        "type": "race track",
+        "url": "http://en.wikipedia.org/wiki/Daytona_International_Speedway",
+        "comment": "Daytona International Speedway is a race track in Daytona Beach, Florida, United States. Since opening in 1959, it has been the home of the Daytona 500, the most prestigious race in NASCAR. In addition to NASCAR, the track also hosts races of ARCA, AMA Superbike, Grand-Am, SCCA, and Motocross. The track features multiple layouts including the primary 2.5 miles (4.0 km) high speed tri-oval, a 3.56 miles (5.73 km) sports car course, a 2.95 miles (4.75 km) motorcycle course, and a .25 miles (0.40 km) karting and motorcycle flat-track. The track's 180-acre (73 ha) infield includes the 29-acre (12 ha) Lake Lloyd, which has hosted powerboat racing. The speedway is owned and operated by International Speedway Corporation. The track was built in 1958 by NASCAR founder William France Sr. to host racing that was being held at the former Daytona Beach Road Course. His banked design permitted higher speeds and gave fans a better view of the cars. Lights were installed around the track in 1998, and today it is the third largest single lit outdoor sports facility. Capacity: 168,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.06914520263672,
+          29.185587305296504
+        ]
+      }
     }
   ]
 }
