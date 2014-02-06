@@ -5437,6 +5437,70 @@
           41.93401874682134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "International Stadium Yokohama",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/International_Stadium_Yokohama",
+        "comment": "The International Stadium Yokohama, also known as Nissan Stadium is a sports venue in Yokohama,Kanagawa Prefecture, Japan, inaugurated in March 1998. It is the home stadium of Yokohama F. Marinos of the J. League. Yokohama International Stadium has the highest seating capacity of any stadium in Japan, with a total of 72,327 seats. It hosted three first-round games during the 2002 FIFA World Cup, and the final game between Germany and Brazil was played there on 30 June 2002 (the game was won by Brazil, 2–0). The stadium is one of the planned football venues for the 2020 Summer Olympics."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60610389709473,
+          35.51015120792517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allianz Arena",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Allianz_Arena",
+        "comment": "The Allianz Arena is football stadium in Munich, Bavaria, Germany with a 69,901 seating capacity. Widely known for it's exterior of inflated ETFE plastic panels, it is the first stadium in the world with a full color-changing color exterior. Located at the northern edge of Munich's Schwabing-Freimann borough on the Fröttmaning Heath, it is the third largest arena in Germany behind Signal Iduna Park in Dortmund and the Olympiastadion in Berlin. The large financial services provider Allianz purchased the naming rights to the stadium for 30 years. However this name cannot be used when hosting FIFA and UEFA events, since these governing bodies have policies forbidding corporate sponsorship from companies that are not official tournament partners. During the 2006 World Cup, the stadium was referred to as FIFA World Cup Stadium Munich. In UEFA club matches, it is known as Fußball Arena München, and it hosted the 2012 UEFA Champions League Final. The stadium has been nicknamed \"Schlauchboot\" (inflatable boat). The museum of Bayern Munich, FC Bayern Erlebniswelt, is located inside the Allianz Arena. Capacity: 71,437 (2013 – today) (League Matches) or 67,812 (International Matches)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.624393463134766,
+          48.219297317381724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic Stadium (Athens)",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Olympic_Stadium_(Athens)",
+        "comment": "The Olympic Stadium of Athens \"Spiros Louis\", (Olympyakó Stádio \"Spiros Louis\") is part of the Athens Olympic Sports Complex. It is named after the first modern Olympic marathon race winner in 1896, Spiros Louis. Construction cost: €265 million (Renovation 2004), Capacity 75,263, Record attendance 82,662 (concert)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.787803649902344,
+          38.03653207215142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estádio Nacional Mané Garrincha",
+        "type": "stadium",
+        "url": "http://en.wikipedia.org/wiki/Estadio_Nacional_de_Bras%C3%ADlia",
+        "comment": "Estádio Nacional Mané Garrincha is a multi-purpose stadium in Brasília, Brazil. It is currently used mostly for football matches. The stadium holds 70,064. and was built in 1974. It is named after famed Brazilian footballer Garrincha. The stadium is one of several structures comprising the Ayrton Senna Multisport Complex, which also includes the Nilson Nelson Gymnasium and the Nelson Piquet International Autodrome. Estádio Nacional Mané Garrincha is owned by the Department of Sports, Physical Education and Recreation of Distrito Federal. The name is a homage to the football legend Mané Garrincha, who won the 1958 and 1962 World Cup with the Brazil national team. Capacity: 70,064."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.899532318115234,
+          -15.782837978546878
+        ]
+      }
     }
   ]
 }
