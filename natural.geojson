@@ -2004,6 +2004,86 @@
           38.21444607848999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mjøsa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mjosa",
+        "comment": "Mjøsa is Norway's largest lake, as well as one of the deepest lakes in Norway and in Europe. It´s the fourth deepest lake in Norway. It is located in the southern part of Norway, about 100 km north of Oslo. Its maintributary is Gudbrandsdalslågen in the north; the only distributary is Vorma in the south. Max. length 117 km, Max. width 15 km, Surface area 362 km², Average depth 155 m, Max. depth 449 m (other sources give 468 m), Water volume 56.0 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.044006347656248,
+          60.69200655888423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahuel Huapi Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Nahuel_Huapi_Lake",
+        "comment": "Nahuel Huapi Lake is a lake in the lake region of northern Patagonia between the provinces of Río Negro and Neuquén, in Argentina. The lake depression consists of several glacial valleys carved out along faults and Miocene valleys that were later dammed by moraines. Nahuel Huapi lake, located within the Nahuel Huapi National Park, has a surface of 529 km2 (204 sq mi), rests 2,510 feet (770 m) over the sea level, and has a maximum measured depth (as of 2007) of 1,437 feet (438 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3507080078125,
+          -41.093842171296195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Hauroko",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Hauroko",
+        "comment": "Lake Hauroko is located in a mountain valley in Fiordland National Park in the South Island of New Zealand. The long S-shaped lake is 30 kilometres in length and covers an area of 63 km². The surface is at an altitude of 150 metres above sea level, and the lake is 463 metres deep. It is New Zealand's deepest lake. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.31216430664062,
+          -45.98837476770812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinnsjå",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tinnsjo",
+        "comment": "Tinnsjå is one of the largest lakes in Norway, and one of the deepest in Europe. It is located between the municipalities of Tinn and Notodden in Telemark county. At its source in the west, the Måna river flows out of Møsvatn and past Rjukan into Tinnsjå. From the north, the river Mår flows from the Mår, Gøystavatn, and Kalhovdfjorden lakes into Tinnsjå. Tinnsjå is part of the Skiensvassdrag, and drains via the Tinnelva river in the south, down to Heddalsvatn. Surface area 51.43 km², Average depth 190 m, Max. depth 460 m, Water volume 9.71 km³, Surface elevation 190 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9154052734375,
+          59.88962583920852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Adams_Lake",
+        "comment": "Adams Lake is a large, deep, coldwater lake. The southern end of the lake is approximately 30 km (19 mi) north of the town of Chase in the Shuswap Country region of British Columbia, Canada. The lake's upper reaches lie in the northern Monashee Mountains, while its lower end penetrates the Shuswap Highland. The lake is 63 km (39 mi) long and between 1.6 km and 3.2 km (1 to 2 miles) wide. The surface elevation is 404 meters (1,326 feet) above sea level. The lake is very deep; it is the second deepest lake in British Columbia next to Quesnel Lake with a maximum depth of 500 meters (1500 feet). Water flows into the lake though many tributaries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.55322265624999,
+          51.210324789481355
+        ]
+      }
     }
   ]
 }
