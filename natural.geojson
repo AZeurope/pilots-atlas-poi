@@ -2420,6 +2420,70 @@
           60.15244221438077
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vygozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Vygozero",
+        "comment": "Lake Vygozero is a large freshwater lake in the Republic of Karelia, in the northwestern part of Russia. It has an area of 1,250 km², and is part of the Vyg River drainage in the White Sea basin. From 1933 it has been a part of the White Sea-Baltic Canal. There are more than 500 islands on the lake. Vygozero is used for its fishing. The Upper Vyg and Segezha Rivers empty into the lake. Islands: more than 500."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73876953125,
+          63.58767529470318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mälaren",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Maelaren",
+        "comment": "Lake Mälaren is the third-largest lake in Sweden, after Lakes Vänern and Vättern. Its area is 1,140 km² and its greatest depth is 64 m. Mälaren spans 120 kilometers from east to west. The lake drains, from southwest to northeast, into the Baltic Sea through the Södertälje Canal, Hammarbyslussen, Karl Johanslussen andNorrström. The easternmost bay of Mälaren, in central Stockholm, is called Riddarfjärden. The lake is located in Svealand and bounded by the provinces of Uppland, Södermanland, Närke, and Västmanland. The two largest islands in Mälaren are Selaön (91 km²) and Svartsjölandet (79 km²). Surface area 1,140 km², Average depth 13 m, Max. depth 64 m, Water volume 14 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38037109375,
+          59.39337387496283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IJsselmeer",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/IJsselmeer",
+        "comment": "Ĳsselmeer is a shallow artificial lake of 1100 km² in the central Netherlands bordering the provinces of Flevoland, North Holland andFriesland, with an average depth of 5 to 6 m. The Ĳsselmeer is the largest lake in Western Europe. The Ĳsselmeer is a freshwater lake fed through the Ketelmeer by the river IJssel, which gives it its name. It is mainly fed by water from the Rhine since the IJssel is a branch of it. Surface area 1,100 km2 (420 sq mi), Average depth 5.5 m (18 ft), Max. depth 7 m (23 ft), Surface elevation −0.4 m (−1.3 ft) (winter) −0.2 m (−0.66 ft) (summer)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2734375,
+          52.84591235390171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Päijänne",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Paeij%C3%A4nne",
+        "comment": "Lake Päijänne is the second largest lake in Finland (1,080 km2 (266,874 acres)). The lake drains into the Gulf of Finland via the Kymi River. The major islands are from north to south Vuoritsalo, Muuratsalo, Onkisalo, Judinsalo, Edessalo, Taivassalo, Haukkasalo, Vehkasalo, Mustassalo, Virmailansaari and Salonsaari. The largest island is Virmailansaari. Surface area 1,080.63 km² (other sources give 1,070 km²), Average depth 16.2 m (53 ft) (some sources give 18 m), Max. depth 95.3 m (313 ft), Water volume 18.1 km3 (4.3 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.389404296875,
+          61.46239496003727
+        ]
+      }
     }
   ]
 }
