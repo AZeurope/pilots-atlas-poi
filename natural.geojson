@@ -1684,6 +1684,134 @@
           2.7839381088009785
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Murray (Papua New Guinea)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Murray_(Papua_New_Guinea)",
+        "comment": "Lake Murray is the largest lake in Papua New Guinea. It is located in the Middle Fly District, Western Province at 7°S 141.5°E, which covers approximately 647 km² and in the wet season increases to five times the size. It has a highly convoluted shoreline more than 2000 km long. The lake has been a source of nourishment for many of the local peoples. Freshwater sawfish have been caught in its shallow waters to feed thecrocodiles in a farming operation. Indigenous tribes of around 5000 people own the lake and the surrounding one million hectares of forest. Surface area 647 km², Max. depth 10 m, Shore length 2038 km, Surface elevation 59 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5093994140625,
+          -7.144498849647323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Taupo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Taupo",
+        "comment": "Lake Taupo is a lake situated in the North Island of New Zealand. With a surface area of 616 square kilometres (238 sq mi), it is the largest lake by surface area in New Zealand, and the second largest freshwater lake by surface area in geopolitical Oceania after Lake Murray (Papua New Guinea). Lake Taupo has a perimeter of approximately 193 kilometres, a deepest point of 186 metres. It is drained by the Waikato River (New Zealand's longest river), while its main tributaries are the Waitahanui River, the Tongariro River, and the Tauranga Taupo River. It is a noted trout fishery with stocks of introduced brown trout and rainbow trout. Surface area 616 km2 (238 sq mi), Average depth 110 m (360 ft), Max. depth 186 m (610 ft), Water volume 59 km3 (14 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.902099609375,
+          -38.78406349514288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Enriquillo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Enriquillo",
+        "comment": "Lake Enriquillo is a lake in the Dominican Republic and is the largest lake and lowest point in the Caribbean and the lowest point on any ocean island. The highest point in the Caribbean, Pico Duarte, is about 53 miles to the north-east. Surface area 375 km2 (145 sq mi), Max. depth 52 m, Surface elevation -27 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.69403076171875,
+          18.519981158139565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Maracaibo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Maracaibo",
+        "comment": "Lake Maracaibo is a large brackish bay in Venezuela. It is connected to the Gulf of Venezuela by Tablazo Strait (55 km) at the northern end, and fed by numerous rivers, the largest being the Catatumbo. It is sometimes considered a lake rather than a bay or lagoon, and at 13,210 km² it would be the largest lake in South America. The geological record shows that it has been a true lake in the past, and as such is one of the oldest lakes on Earth at 20–36 million years old. Lake Maracaibo acts as a major shipping route to the ports of Maracaibo and Cabimas. The surrounding Maracaibo Basin contains large reserves of crude oil, making the lake a major profit center for Venezuela. Surface area 13,210 km2 (5,100 sq mi), Max. depth 60 m (200 ft), Water volume 280 km3 (230,000,000 acre·ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56494140625,
+          9.763197528547247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khövsgöl Nuur",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Khoevsgoel",
+        "comment": "Lake Khövsgöl, also referred to as Khövsgöl dalai or Dalai Eej is the largest fresh water lake in Mongolia by volume, and second largest by area. Khövsgöl Nuur is nicknamed \"Younger sister of the Sister Lakes (Lake Khövsgöl and Lake Baikal)\". Max. length 136 km, Max. width 36.5 km, Surface area 2,760 km2 (1,070 sq mi), Average depth 138 m, Max. depth 267 m, Water volume 480.7 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43701171875,
+          51.12421275782688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kivu",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kivu",
+        "comment": "Lake Kivu is one of the African Great Lakes. It lies on the border between the Democratic Republic of the Congo and Rwanda, and is in the Albertine Rift, the western branch of the East African Rift. Lake Kivu empties into the Ruzizi River, which flows southwards into Lake Tanganyika. The name comes from kivu which means \"lake\" in some Bantu languages, just like the words tanganyika or nyanza. The lake covers a total surface area of some 2,700 km2 (1,040 sq mi) and stands at a height of 1,460 metres (4,790 ft) above sea level. Some 1 370 km2 or 58% of the lake's waters lie within DRC borders. The lake bed sits upon a rift valley that is slowly being pulled apart, causing volcanic activity in the area, and making it particularly deep: its maximum depth of 480 m (1,575 ft) is ranked eighteenth in the world. Average depth 240 m (787 ft), Max. depth 480 m, (1,575 ft), Water volume 500 km3 (120 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.003906249999996,
+          -1.9716566508363198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentino Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Argentino",
+        "comment": "Lago Argentino is a lake in the Patagonian province of Santa Cruz, Argentina. It is the biggest freshwater lake in Argentina, with a surface area of 1,466 km2 (566 sq mi) (maximum width: 20 mi (32 km)). It has an average depth of 150 m (492 ft), and a maximum depth of 500 m (1,640 ft). The lake lies within the Los Glaciares National Park, in a landscape with numerous glaciers and is fed by the glacial meltwater of several rivers, the water from Lake Viedma brought by the La Leona River, and many mountain streams. Its drainage basin amounts to more than 17,000 km2 (6,564 sq mi). Waters from Lake Argentino flow into the Atlantic Ocean through the Santa Cruz River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4658203125,
+          -50.21206446065372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tahoe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tahoe",
+        "comment": "Lake Tahoe is a large freshwater lake in the Sierra Nevada of the United States. At a surface elevation of 6,225 ft (1,897 m), it is located along the border between California and Nevada, west of Carson City. Lake Tahoe is the largest alpine lake in North America. Its depth is 1,645 ft (501 m), making it the second-deepest in the United States (the deepest is Crater Lake in Oregon at 1,945 ft (593 m), 300 ft (91 m) deeper). Additionally, Lake Tahoe is listed as the 27th largest lake by volume in the world at 122,160,280 acre·ft (150,682,490 dam3). Surface area 191 sq mi (490 km2), Average depth 1,000 ft (300 m), Max. depth 1,645 ft (501 m), Water volume 36 cu mi (150 km3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.05310058593749,
+          39.12366825402605
+        ]
+      }
     }
   ]
 }
