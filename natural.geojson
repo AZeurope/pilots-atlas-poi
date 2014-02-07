@@ -2964,6 +2964,86 @@
           37.75280111220671
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stora Lulevatten",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Stora_Lulevatten",
+        "comment": "Stora Lulevatten, \"Great Lule Lake\" is a lake in Norrbotten County, Lappland, Sweden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.27001953125,
+          67.16995497083367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Berre",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Berre",
+        "comment": "The Étang de Berre is a lagoon on the Mediterraneancoast of France, about 25 km north-west of Marseille. Surface area 155.3 km², Water volume 900 mio m3, Surface elevation 0.4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0811767578125,
+          43.46288733737435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storavan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Storavan",
+        "comment": "Storavan is a lake in Norrbotten County, Lappland, Sweden, southeast of Lake Uddjaure, 421 metres above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81982421875,
+          65.98227002980873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Yalpuh",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Yalpug_Lake",
+        "comment": "Yalpuh is a freshwater lake located in the southern Ukrainian oblast of Odessa. The largest natural lake in Ukraine, it covers an area of 149 km², has an average depth of about 2 metres, a maximum depth of 5.5 metres and, at its southernmost point, adjoins Lake Kugurluy. Its northern shores are in the Bolhrad Raion, it borders the Reni Raion to its southwest and the Izmail Raion to its southeast. The largest town on Yalpuh's shores is Bolhrad at its northernmost point. Larger villages include Vynohradivka to the north, Kotlovyna to the west and Ozerne on its southeastern shore."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.62762451171875,
+          45.41966030640988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grevelingen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Grevelingenmeer",
+        "comment": "Grevelingen or Grevelingenmeer (Lake Grevelingen) is a former Rhine-Meuse estuary on the border of the Dutch provinces of South Holland and Zeeland that has become a lake due to the Delta Works. It is situated between the former islands of Goeree-Overflakkee (South Holland) and Schouwen-Duiveland (Zeeland) which are connected by the Brouwersdam on the west and the Grevelingendam on the east. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9605712890625,
+          51.75934048406749
+        ]
+      }
     }
   ]
 }
