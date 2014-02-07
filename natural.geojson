@@ -2900,6 +2900,70 @@
           45.9511496866914
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Corrib",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Corrib",
+        "comment": "Lough Corrib is a lake in the west of Ireland. The River Corrib or Galway river connects the lake to the sea at Galway. It is the second largest lough in the island of Ireland (after Lough Neagh). It covers 176 km² and lies mostly in County Galway with a small area of its northeast corner in County Mayo. Max. length 43.5 km (27.0 mi), Max. width 16.1 km (10.0 mi), Surface area 176 km2 (68 sq mi), Average depth 12 m (39 ft), Max. depth 47 m (154 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.282073974609375,
+          53.46516070239169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narva Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Narva_Reservoir",
+        "comment": "Narva Reservoir is a reservoir by Narva River, shared by Russia and Estonia. The reservoir was constructed during 1955-1956, during the Soviet times. It provides water to Narva Hydroelectric Station (installed capacity 125 MW, located on the Russian side and owned by the power company TGC-1) and cooling water to the Estonian Narva Power Plants. Its surface area at normal headwater level of 25 metres (82 ft) is 191 square kilometres (74 sq mi), of which 40 square kilometres (15 sq mi) belongs to Estonia. Its drainage basin is 55,848 square kilometres (21,563 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.157958984375,
+          59.29113703426701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sinoe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sinoe_Lake",
+        "comment": "Lake Sinoe is a lagoon in Northern Dobruja, Romania, close to the Black Sea. Its name derives from Slavic (Blue Lake). The ruins of the ancient Greek colony of Histria are located on the lake shore. Surface area 135.6 km², Max. depth 1.6 m, Surface elevation 0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85833740234375,
+          44.62761851676016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mar Menor",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Mar_Menor",
+        "comment": "Mar Menor is a salty lagoon, in the south-east of the autonomous community of Murcia, in Spain, separated from the Mediterranean sea by La Manga, a sandbar 22km in length and with a width ranging from 100 to 1200 m. It belongs to four municipalities: Cartagena, Los Alcázares, San Javier and San Pedro del Pinatar. With a surface area of nearly 170km², a coastal length of 70km, and warm and clear water no more than 7 m in depth, it is \"the largest swimming pool in the world\", in the opinion of famous swimmer and Hollywood actress Esther Williams."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8109283447265625,
+          37.75280111220671
+        ]
+      }
     }
   ]
 }
