@@ -2244,6 +2244,54 @@
           41.027571415339786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Geneva",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Geneva",
+        "comment": "Lake Geneva or Lake Léman, is a lake in Switzerland and France. It is one of the largest lakes in Western Europe. 59.53% 345.31 km2 (133.32 sq mi) of it comes under the jurisdiction of Switzerland (cantons of Vaud, Geneva, and Valais), and 40.47% 234.71 km2 (90.62 sq mi) under France. Max. length 73 km (45 mi), Max. width 14 km (8.7 mi), Average depth 154.4 metres (507 feet), Max. depth 310 metres (1,020 feet), Water volume 89 cubic kilometres (72,000,000 acre·ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.520385742187499,
+          46.45299704748289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Singkarak",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Singkarak",
+        "comment": "Lake Singkarak is a lake in West Sumatra, Indonesia. It is located between the cities of Padang Panjang and Solok. It has an area of 107.8 km², being approximately 21 km long and 7 km wide. The natural outlet for excess water is the Ombilin river which flows eastward to the Strait of Malacca. A hydroelectric project however has diverted most of the lake outflow to the Anai river which flows westward into the Indian Ocean near Padang. Average depth 149 m, Max. depth 268 m, Water volume 16.1 km³, Surface elevation 362 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54412841796875,
+          -0.6207153969631238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gander Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gander_Lake",
+        "comment": "Gander Lake is located in the central part of the Canadian island of Newfoundland in the province of Newfoundland and Labrador. It is the third-largest lake on Newfoundland. Measuring 56 km (35 mi) in length and several kilometres in width, the lake is oriented roughly northwest–southeast. The town of Gander is located on the eastern shore at roughly its midpoint, and the towns of Appleton and Glenwood are situated on the northern extremity of the lake, on the banks of the Gander River. Gander Lake has been measured to 288 m (945 ft) in some areas, but has been estimated to much deeper depths, though not validated due to unclear openings in the \"bottom\" of the lake. The extreme depth is the result of being situated on the Dover Fault line, similar to Loch Ness in Scotland. It is the main source of water for the towns of Gander, Appleton and Glenwood. Max. length 56 km (35 mi), Max. width 7 km, Surface area 113.2 km2, Average depth 105.4 m, Max. depth 288 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.68170166015624,
+          48.94054322456003
+        ]
+      }
     }
   ]
 }
