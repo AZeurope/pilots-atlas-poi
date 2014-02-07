@@ -2564,6 +2564,118 @@
           58.297944045474146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sevan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sevan",
+        "comment": "Lake Sevan is the largest lake in Armenia and the Caucasus region. It is one of the largest fresh-water high-altitude lakes in the world. Lake Sevan is situated in the central part of the Republic of Armenia, inside the Gegharkunik Province, at the altitude of 1,900m above sea level. The total surface area of its basin is about 5,000 km2, the lake itself is 940 km2, and the volume is 34.0 bln cubic metres. It is fed by 28 rivers and streams. Only 10% of the outgoing water is drained by the Hrazdan (Razdan) river, while the remaining 90% evaporates. Max. length 78 km (2005), Max. width 56 km (2005), Surface area 940 km² (2005), 1236 km² (2002), 1416 km² (1933), Water volume 32.921 km³ (2002), 58.5 km³ (1933), Surface elevation 1900.01 m (2010), 1896.32 (2002), 1916.2 m (1933)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35705566406249,
+          40.32141999593439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pielinen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pielinen",
+        "comment": "Pielinen is the fourth largest lake of Finland, with a drainage basin area of 12,823 km2 (4,951 sq mi) that is equally distributed between eastern Finland and Russia. The creation of the lake and its outlet is attributed to a post-glacial isostatic rebound, which resulted in uplift of the land. As is common in Finnish lakes, the water color of the lake is dark on account of the high proportion of bogs present in the catchment of the drainage basin that drains humic substances. Max. length 120 km (75 mi), Max. width 40 km (25 mi), Surface area 894.21 km2 (345.26 sq mi), Average depth 9.9 m (32 ft), Max. depth 60 m (200 ft), Water volume 8.5 km3 (2.0 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.794921874999996,
+          63.22125543402331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Markermeer",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Markermeer",
+        "comment": "The Markermeer is a 700 km2 (270 sq mi) lake in the central Netherlands in between North Holland, Flevoland and its larger sibling, the IJsselmeer. A shallow lake at some 3 to 5 m in depth, it is named after the small former island, now peninsula, of Marken that lies within it. The southwest side of the lake that begins where the IJ once emptied into the Zuiderzee is known as the IJmeer. Surface area 700 km², Max. depth 5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3009033203125,
+          52.57301159428889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Orivesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Orivesi",
+        "comment": "Orivesi is a lake located in the southeastern Finland. The area of the lake is 601.30 km² (7th largest). Orivesi is one of the major basins of Saimaa. The lake has numerous islands and several open lake areas including Paasselkä, an ancient impact crater in south. Surface area 601.30 km², Surface elevation 75.9 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4378662109375,
+          62.25258166753235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Balaton",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Balaton",
+        "comment": "Lake Balaton, or The Balaton, is a freshwater lake in the Transdanubian region of Hungary. It is the largest lake in Central Europe, and one of its foremost tourist destinations. The Zala River provides the largest inflow of water to the lake, and the canalized Sió is the only outflow. The mountainous region of the northern shore is known both for its historic character and as a major wine region, while the flat southern shore is known for its resort towns. Max. length 77 km (48 mi), Max. width 14 km (8.7 mi), Surface area 592 km2 (229 sq mi), Average depth 3.2 m (10 ft), Max. depth 12.2 m (40 ft), Water volume 1.9 km3 (0.46 cu mi), Shore length 236 km (147 mi), Surface elevation 104.8 m (344 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.698974609375,
+          46.83389173208538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Constance",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Constance",
+        "comment": "Lake Constance is a lake on the Rhine at the northern foot of the Alps, and consists of three bodies of water: the Obersee (\"upper lake\"), the Untersee (\"lower lake\"), and a connecting stretch of the Rhine, called the Seerhein. The lake is situated in Germany, Switzerland and Austria near the Alps. Specifically, its shorelines lie in the German federal states of Bavaria and Baden-Württemberg, the Austrian federal state of Vorarlberg, and the Swiss cantons of Thurgau and St. Gallen. The Rhine flows into it from the south following the Austro-Swiss frontier. Max. length 63 km (39 mi), Max. width 14 km (8.7 mi), Surface area 536 km2 (207 sq mi), Average depth 90 m (300 ft), Max. depth 254 m (833 ft), Water volume 48 km3 (12 cu mi), Surface elevation 395 m (1,296 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41802978515625,
+          47.58764167941513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjälmaren",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hjaelmaren",
+        "comment": "Lake Hjälmaren is Sweden's fourth largest lake. It is situated adjacent to Lake Mälaren through which it drains into the Baltic Sea, west of Stockholm. It is connected by waterway with Stockholm by the 13 kilometres long Hjälmare kanal. Max. length 58 km, Max. width 18 km, Surface area 483 km2, Average depth 6.2 m, Max. depth 20 m, Water volume 3 km3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.75439453125,
+          59.22093407615045
+        ]
+      }
     }
   ]
 }
