@@ -1812,6 +1812,198 @@
           39.12366825402605
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Sea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dead_Sea",
+        "comment": "The Dead Sea, also called the Salt Sea, is a salt lakebordering Jordan to the east, and the West Bank and Israel to the west. Its surface and shores are 427 metres (1,401 ft) below sea level, Earth's lowest elevation on land. The Dead Sea is 306 m (1,004 ft) deep, the deepest hypersaline lake in the world. With 34.2% salinity (in 2011), it is also one of the world's saltiest bodies of water, though Lake Vanda Antarctica (35%), Lake Assal (Djibouti) (34.8%), Lagoon Garabogazkölin the Caspian Sea (up to 35%) and some hypersaline ponds and lakes of the McMurdo Dry Valleys in Antarctica (such as Don Juan Pond (44%)) have reported higher salinities. It is 9.6 times as salty as the ocean. This salinity makes for a harsh environment in which animals cannot flourish, hence its name. The Dead Sea is 50 kilometres (31 mi) long and 15 kilometres (9 mi) wide at its widest point. It lies in the Jordan Rift Valley, and its main tributary is the Jordan River. Max. width 15 km (9.3 mi), Surface area 605 km2 (234 sq mi), Average depth 200 m (656 ft), Max. depth 306 m (1,004 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4638671875,
+          31.512995857454676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Assal (Djibouti)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)",
+        "comment": "Lake Assal is a crater lake in central-western Djibouti. It is located at the western end of Gulf of Tadjoura in the Tadjoura Region, touching Dikhil Region, at the top of the Great Rift Valley, some 120 km (75 mi) west of Djibouti city. Lake Assal is a saline lake which lies 155 m (509 ft) below sea level in the Afar Triangle, making it the lowest point on land in Africa and the third lowest land depression on Earth after the Dead Sea and Sea of Galilee. There is no outflow from the lake and, due to high evaporation, the salinity level of its waters is ten times that of the sea, making it the most saline in the world after Don Juan Pond. Lake Assal is the world's largest salt reserve, which is exploited under four concessions awarded in 2002 at the southeast end of the lake. Surface area 54 km2 (21 sq mi), Average depth 7.4 m (24 ft), Max. depth > 40 m (130 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.418212890625,
+          11.665685974203642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garabogazköl",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Garabogazkoel",
+        "comment": "The Garabogazköl Aylagy, alternatively the Kara-Bogaz-Gol is a shallow inundated depression in the northwestern corner of Turkmenistan. It forms a lagoon of the Caspian Sea with a surface area of about 18,000 km2 (6,900 sq mi). It is separated from the Caspian Sea proper, which lies immediately to the west, by a narrow, rocky ridge having a very narrow opening in the rock through which the Caspian waters flow, cascading down into Garabogazköl (whence the name of the bay – \"Mighty Strait Lake\" in the Turkmen language – comes). The water volume of the bay fluctuates seasonally with the Caspian Sea; at times it becomes a large bay of the Caspian Sea, while at other times its water level drops drastically. The city of Garabogaz (formerly Bekdaş) lies on the ridge, about 50 km (31 mi) north of the channel between the main Caspian basin and the Garabogazköl lagoon. The town has a population of about 10,000."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.76708984375,
+          41.29431726315258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iliamna Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Iliamna_Lake",
+        "comment": "Iliamna Lake or Lake Iliamna is a lake in southwest Alaska, at the north end of the Alaska Peninsula, between Kvichak Bay and Cook Inlet, about 100 miles (160 km) west of Seldovia, Alaska. It is the largest lake in Alaska, eighth largest lake in the United States of America, and one of the largest in North America, covering about 2,600 km² (1,000 sq. miles). The lake is 77 miles (124 km) long and up to 22 miles (35 km) wide, with a maximum depth of 988 feet (301 m). Through the Kvichak River, its waters drain into Bristol Bay. Surface area 1,012.5 sq mi (2,622 km2), Average depth 144 ft (44 m), Max. depth 988 ft (301 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.390625,
+          59.55659188568175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Te Anau",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Te_Anau",
+        "comment": "Lake Te Anau is in the southwestern corner of the South Island of New Zealand. Its name was originally Te Ana-au, Maori for 'The cave of swirling water'. The lake covers an area of 344 km², making it the second-largest lake by surface area in New Zealand (after Lake Taupo) and the largest in the South Island. Lake Te Anau is however the largest lake in Australasia by fresh water volume. Max. length 65 km, Surface area 344 km², Max. depth 417 m, Surface elevation 210 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.750244140625,
+          -45.24395342262324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Higgins/San Martín Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/O27Higgins/San_Martin_Lake",
+        "comment": "The lake known as O'Higgins in Chile and San Martín in Argentina Patagonia, between the Aysén del General Carlos Ibáñez del Campo Region and the Santa Cruz Province. It has a surface area of 1,013 km², an elevation of 250 metres above mean sea level, and a shoreline length of 525 km. Viewed from above, the lake consists of a series of finger-shaped flooded valleys, of which 554 km² are in Chile and 459 km² in Argentina, although sources differ on the precise split, presumably reflecting water level variability. Surface area 1,013 km², Max. depth 836 m, Shore length1 525 km, Surface elevation 250 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.586669921875,
+          -48.90805939965008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crater Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Crater_Lake",
+        "comment": "Crater Lake is a caldera lake in the western United States, located in south-central Oregon. It is the main feature of Crater Lake National Park and is famous for its deep blue color and water clarity. The lake partly fills a nearly 2,148-foot (655 m)-deep caldera that was formed around 7,700 (± 150) years ago by the collapse of the volcano Mount Mazama. Max. length 6 mi (9.7 km), Max. width 5 mi (8.0 km), Surface area 20.6 sq mi (53 km2), Average depth 1,148 ft (350 m), Max. depth 1,949 ft (594 m), Water volume 4.49 cu mi (18.7 km3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10479736328125,
+          42.95039177450287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Matano",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Matano",
+        "comment": "Lake Matano also known as Matana, is a natural lake in South Sulawesi, Indonesia. With a depth of 590 m (1,940 ft), it is the deepest lake in Indonesia (ranked by maximum depth), and the 10th deepest lake in the world. The surface elevation from mean sea level is only 382 m (1,253 ft), which means that the deepest portion of the lake is below sea level (cryptodepression). It is one of the two major lakes (the other being Lake Towuti) in the Malili Lake system. Max. length 28 km, Max. width 8 km, Surface area 164.1 km², Max. depth 590 m, Surface elevation 382 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33300781249999,
+          -2.4766453821075793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Carrera Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_General_Carrera/Buenos_Aires",
+        "comment": "General Carrera Lake (Chilean side) or Lake Buenos Aires (Argentine side) is a lake located in Patagonia and shared by Argentina and Chile. Both names are internationally accepted. he lake has a surface of 1,850 km² of which 970 km² are in the Chilean Aysén del General Carlos Ibáñez del Campo Region, and 880 km² in the Argentine Santa Cruz Province, making it the biggest lake in Chile, and the fourth largest in Argentina. In its western basin, Lake Gen. Carrera has 586 m maximum depth."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6748046875,
+          -46.437856895024204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hornindalsvatnet",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hornindalsvatnet",
+        "comment": "Hornindalsvatnet is Norway's and Europe's deepest lake, officially measured to a depth of 514 metres (1,686 ft). Its surface is 53 metres (174 ft) above sea level, which means that its bottom is 461 metres (1,512 ft) below sea level. The village of Grodås lies at the eastern end of the lake in Hornindal Municipality and the village of Mogrenda is located on the western end of the lake in Eid Municipality. The European route E39highway runs near the lake. The village of Heggjabygda and Heggjabygda Church lie on the northern shore of the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38580322265625,
+          61.95186794815146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quesnel Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Quesnel_Lake",
+        "comment": "Quesnel Lake is a glacial lake or fjord in British Columbia, Canada, and is the origin of the Quesnel River. With a maximum depth of 506 meters (although the true maximum depth is unknown), it is the deepest lake in British Columbia, though not the deepest lake in Canada, as is often claimed. That distinction belongs to Great Slave Lake. It is claimed to be the deepest fjord lake in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.058349609375,
+          52.54295506642125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarez Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sarez_Lake",
+        "comment": "Sarez Lake is a lake in Rushon District of Gorno-Badakhshan province, Tajikistan. Length about 55.8 km, depth few hundred meters, water surface elevation about 3,263 m over sea level and volume of water is more than 16 km³. The mountains around come up more than 2,416 m over the lake level. The lake formed in 1911, after a great earthquake, when the Murghab River was blocked by a big landslide. Scientists believe that the landslide dam formed by the earthquake, known as the Usoi Dam, is unstable given local seismicity, and that the terrain below the lake is in danger of catastrophic flood if the dam were to fail during a future earthquake. Max. length 55.8 km, Max. width 3.3 km, Surface area 79.7 km², Average depth 201.8 m, Max. depth 505 m, Water volume 16.074 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77618408203125,
+          38.21444607848999
+        ]
+      }
     }
   ]
 }
