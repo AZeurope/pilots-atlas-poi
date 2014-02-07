@@ -1540,6 +1540,70 @@
           66.5482634621744
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nipigon",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Nipigon",
+        "comment": "Lake Nipigon is the largest lake entirely within the boundaries of the Canadian province of Ontario (since four of the five Great Lakes are split between the U.S. and Canada). It is sometimes described as the sixth Great Lake. Lying 260 metres (853 ft) above sea level, the lake drains into the Nipigon River and thence into Nipigon Bay of Lake Superior. The lake and river are the largest tributaries of Lake Superior. It lies about 120 kilometres (75 mi) northeast of the city of Thunder Bay, Ontario. Lake Nipigon has a total area (including islands within the lake) of 4,848 square kilometres (1,872 sq mi) — compared to 3,150 square kilometres (1,220 sq mi) for Lake of the Woods. The largest islands are Caribou Island, Geikie Island, Katatota Island, Kelvin Island, Logan Island, Murchison Island, Murray Island, and Shakespeare Island. Maximum depth is 165 metres (541 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.330078125,
+          49.816720843571765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Manitoba",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Manitoba",
+        "comment": "Lake Manitoba is Canada's thirteenth largest lake (4,624 km2) and the world's 33rd largest freshwater lake. It is in central North America, in the Canadian province of Manitoba, which is named after the lake. It is located about 75 km northwest of the province's capital, Winnipeg. The irregularly shaped lake, about 200 km long, is the smallest of a group of three large lakes, the other two being Lake Winnipeg (the largest) and Lake Winnipegosis, which are found on the floor of the prehistoric Glacial Lake Agassiz. The lake is subdivided into two connected but distinctly different basins: a small, irregular-shaped north basin and a much larger south basin. It is part of the watershed of the Nelson River and Hudson Bay. Surface area 4,624 km2 (1,785 sq mi), Max. depth 7 m (23 ft), Water volume 14.1 km3 (3.4 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8165283203125,
+          50.92381327191295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Salt Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Great_Salt_Lake",
+        "comment": "The Great Salt Lake, located in the northern part of the U.S. state of Utah, is the largest salt water lake in the Western Hemisphere, and the fourth-largest terminal lake in the world. In an average year the lake covers an area of around 1,700 square miles (4,400 km2), but the lake's size fluctuates substantially due to its shallowness. For instance, in 1963 it reached its lowest recorded level at 950 square miles (2,460 km²), but in 1988 the surface area was at the historic high of 3,300 square miles (8,500 km2). In terms of surface area, it is the largest lake in the United States that is not part of the Great Lakes region. Surface area 1,700 sq mi (4,400 km²), Average depth 16 ft (4.9 m), when lake is at average level Max. depth 33 ft (10 m) average, high of 45 ft (14 m) in 1987, low of 24 ft (7.3 m) in 1963, Water volume 15,338,693.6 acre·ft (18.92 km3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.587890625,
+          41.1290213474951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qinghai Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Qinghai_Lake",
+        "comment": "Qinghai Lake or Tsongon Po is the largest lake in People's Republic of China. Located in Qinghai province on an endorheic basin, Qinghai Lake is classified as a saline and alkaline lake. Both the current Chinese name \"Qinghai\" and the older Mongolian name Kokonor translate to \"Blue Lake\" or \"Teal Sea\", are used in English. Qinghai Lake is located about 100 kilometres (62 mi) west of the provincial capital of Xining at 3,205 m (10,515 feet) above sea level in a depression of the Tibetan plateau. Twenty-three rivers and streams empty into Qinghai Lake, most of them seasonal. Five permanent streams provide 80% of total influx. The lake has fluctuated in size, shrinking over much of the 20th century, but increasing since 2004. Despite its salinity, it has an abundance of fish, such as the edible naked carp. Surface area 4,186 km2 (1,616 sq mi) (2004),  4,489 km2 (1,733 sq mi) (2007)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.074462890625,
+          36.914764288955936
+        ]
+      }
     }
   ]
 }
