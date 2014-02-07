@@ -2292,6 +2292,134 @@
           48.94054322456003
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Atitlán",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lago_de_Atitlan",
+        "comment": "Lake Atitlán is a fairly large lake for the elevation in the Guatemala highlands. It is technically endorheic (lacking direct flow to the sea) but substantial seepage feeds two nearby rivers. Atitlan is recognized to be the deepest lake in Central America with maximum depth about 340 metres (1,120 ft). The lake is shaped by deep escarpments which surround it and by three volcanoes on its southern flank. Lake Atitlan is further characterized by towns and villages of the Maya people. The lake is about 50 kilometres (31 mi) west-northwest of Antigua; it should not be confused with the smaller Lake Amatitlán."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2030029296875,
+          14.70449329599549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Amatitlán",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Amatitlan",
+        "comment": "Lake Amatitlán is a volcanic lake in south-central Guatemala, fairly close to Guatemala City. It lies in the central highlands, 1,186 m (3890 feet) above sea level. Its maximum depth is 33 m (108 feet) and an average of 18 m (59 feet). The lake is 11 km (7 miles) long and 3 km (2 miles) wide; with an area of 15.2 square kilometers (5.9 sq mi) and a water volume of 0.286 cubic kilometers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55274963378906,
+          14.440664862991145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake St Clair (Tasmania)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_St_Clair_(Tasmania)",
+        "comment": "Lake St Clair is a lake in the Central Highlands area of Tasmania, Australia. It forms part of the Cradle Mountain-Lake St Clair National Park. It has an area of approx 45 km2 (17 sq mi), and a maximum depth of 200 m, making it Australia's deepest lake. Max. length 15 km, Max. width 3 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.17721557617188,
+          -42.06560675405715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Peipus",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Peipus",
+        "comment": "Lake Peipus, is the biggest transboundary lake in Europe on the border between Estonia (part of European Union) and Russia. The lake is the fifth largest in Europe after Lake Ladoga and Lake Onega in Russia north of St. Petersburg, Lake Vänern in Sweden, and Lake Saimaa in Finland. urface area 3,555 km2 (1,373 sq mi), Average depth 7.1 m (23 ft), Max. depth 15.3 m (50 ft), Water volume 25 km3 (6.0 cu mi), Shore length 520 km (320 mi), Surface elevation 30 m (98 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.421875,
+          58.67122581929799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kremenchuk Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kremenchuk_Reservoir",
+        "comment": "The Kremenchuk Reservoir is the largest water reservoir located on the Dnieper River. Named for the city of Kremenchuk, it covers a total area of 2,250 square kilometres in the territories of the Poltava, Cherkasy, and Kirovohrad Oblasts in central Ukraine. The reservoir was created in 1959 when the Kremenchuk Hydroelectric Power Plant was built. Max. length 149 km, Max. width 28 km, Surface area 2,250 km², Water volume 13.5 km³, Surface elevation 77 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.772216796875,
+          49.23194729854554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vättern",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Vaettern",
+        "comment": "Vättern is the second largest lake (by surface area) in Sweden, after Vänern and the sixth largest lake in Europe. It is a long, finger-shaped body of fresh water in south central Sweden to the southeast of Vänern pointing at the tip of Scandinavia. Surface area 1,912 km2 (738 sq mi), Average depth 41 m (135 ft), Max. depth 128 m (420 ft), Water volume 77.0 km3 (18.5 cu mi), Surface elevation 88 m (289 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.47998046875,
+          58.27195448059009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakhovka Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kakhovka_Reservoir",
+        "comment": "The Kakhovka Reservoir is a water reservoir located on the Dnieper River. It covers a total surface area of 2,155 square kilometres in the territories of the Kherson, Zaporizhia, and the Dnipropetrovsk Oblasts of Ukraine. The reservoir was created in 1956 when the Kakhovka Hydroelectric Power Plant was built. Max. length 240 km, Max. width 23 km, Surface area 2,155 km², Average depth 8.4 m, Max. depth 26 m, Water volume 18.2 km³, Surface elevation 44 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6728515625,
+          47.54687159892238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Beloye (Vologda Oblast)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Beloye_(Vologda_Oblast)",
+        "comment": "Lake Beloye, is a lake in the northwestern part of Vologda Oblast in Russia. Administratively, the lake is divided between Belozersky District (south) and Vashkinsky District (north) of Vologda Oblast. The town of Belozersk, is located on its coast. In terms of area, Lake Beloye is the second natural lake of Vologda Oblast (behind Lake Onega), and the third lake also behind the Rybinsk Reservoir. It is one of the ten biggest natural lakes in Europe. Max. length 46 km (29 mi), Max. width 33 km (21 mi), Surface area 1,130 km2 (440 sq mi), Max. depth 110 ft (34 m), Water volume 6.2 cubic kilometres (2.2×1011 cu ft), Surface elevation 113 m (371 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70507812499999,
+          60.15244221438077
+        ]
+      }
     }
   ]
 }
