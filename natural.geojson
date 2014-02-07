@@ -2164,6 +2164,86 @@
           39.73042572969995
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Wakatipu",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Wakatipu",
+        "comment": "Lake Wakatipu is an inland lake (finger lake) in the South Island of New Zealand. It is in the southwest corner of the Otago Region, near its boundary with Southland. With a length of 80 kilometres (50 mi), it is New Zealand's longest lake, and, at 291 km2 (112 sq mi), its third largest. The lake is also very deep, its floor being below sea level, with a maximum depth of 380 metres (1,250 ft). It is at an altitude of 310 metres (1,020 ft), towards the southern end of the Southern Alps. The general topography is a reversed \"N\" shape or \"dog leg\". The Dart River flows into the northern end, the lake then runs south for 30 kilometres before turning abruptly to the east. Twenty kilometres (12.4 mi) further along, it turns sharply to the south, reaching its southern end 30 kilometres (19 mi) further south, near Kingston. Average depth 230 metres (750 ft), Max. depth 380 metres (1,250 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.5357666015625,
+          -45.08321794926835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Como",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Como",
+        "comment": "Lake Como is a lake of glacial origin in Lombardy, Italy. It has an area of 146 square kilometres (56 sq mi), making it the third largest lake in Italy, after Lake Garda and Lake Maggiore. At over 400 metres (1,300 feet) deep, it is one of the deepest lakes in Europe, and the bottom of the lake is more than 200 metres (660 ft) below sea-level. Max. length 46 km, Max. width 4.5 km, Surface area 146 km², Average depth 154 m, Max. depth 425 m, Water volume 22.5 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251861572265625,
+          46.0007775685566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ranau",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ranau",
+        "comment": "Lake Ranau is a lake in Lampung, Indonesia. Surface area 125.9 km², Average depth 174 m, Max. depth 229 m, Water volume 21.95 km³, Surface elevation 540 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.919677734375,
+          -4.858364270018912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karakul (Tajikistan)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Karakul_(Tajikistan)",
+        "comment": "Karakul or Qaraqul, is a 52 km (32 mi) diameter lake in the Pamir Mountains in Tajikistan. It lies within the Tajik National Park. Max. width 52 km (32 mi), Surface area 380 km2 (150 sq mi), Max. depth 230 m (750 ft), surface elevation 3,900 m (12,800 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3502197265625,
+          39.031986028740086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ohrid",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ohrid",
+        "comment": "Lake Ohrid straddles the mountainous border between southwestern Macedonia and eastern Albania. It is one of Europe's deepest and oldest lakes, preserving a unique aquatic ecosystem that is of worldwide importance, with more than 200 endemic species. The importance of the lake was further emphasized when it was declared a World Heritage site by UNESCO in 1979 and when, in 2010, NASA decided to name one of Titan's lakes after Lake Ohrid. Max. length 30.4 km (18.9 mi), Max. width 14.8 km (9.2 mi), Surface area 358 km² (138 sq mi), Average depth 155 m (508 ft), Max. depth 288 m (940 ft), Water volume 55.49 km³ (13.33 mi³)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7037353515625,
+          41.027571415339786
+        ]
+      }
     }
   ]
 }
