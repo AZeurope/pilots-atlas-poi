@@ -2852,6 +2852,54 @@
           58.318144965188246
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron Gates",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Derdap",
+        "comment": "The Iron Gates is a gorge on the River Danube. It forms part of the boundary between Romania and Serbia. In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orşova, that contains two hydroelectric dams, with two power stations, Iron Gate I Hydroelectric Power Station and Iron Gate II Hydroelectric Power Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5164794921875,
+          44.67793042697764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Neuchâtel",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Neuchatel",
+        "comment": "Lake Neuchâtel is a lake primarily in Romandy, Switzerland (French-speaking Switzerland). The lake lies mainly in the canton of Neuchâtel, but is also shared by the cantons of Vaud, of Fribourg, and of Bern. With a surface of 218.3 km², it is the largest lake entirely in Switzerland and the 59th largest lake in Europe. 38.3 km long and no more than 8.2 km wide. Its surface is 429 m above sea-level, with a maximum depth of 152 m. The total water volume is 14.0 km³ and its drainage area is approximately 2,670 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87469482421875,
+          46.93526088057719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Maggiore",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Maggiore",
+        "comment": "Lake Maggiore or Lago Verbano, is a large lake located on the south side of the Alps. It is the second largest lake in Italy in the Lombardy region and largest lake of the canton of Ticino, Switzerland. Lake Maggiore is the most westerly of the three great prealpine lakes of Italy, it extends for about 70 kilometres (43 miles) between Locarno and Arona. Max. length 66 km, Max. width 10 km, Surface area 212.5 km², Average depth 177.4 m, Max. depth 372 m, Water volume 37 km³, Surface elevation 193 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63250732421875,
+          45.9511496866914
+        ]
+      }
     }
   ]
 }
