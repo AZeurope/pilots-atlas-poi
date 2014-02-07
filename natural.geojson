@@ -2676,6 +2676,182 @@
           59.22093407615045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storsjön",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Storsjoen",
+        "comment": "Storsjön (\"The Great Lake\") is the fifth largest lake in Sweden, with an area of 464 km² and a greatest depth of 74 m. It is located in the province of Jämtland in modern Jämtland County. From Storsjön runs the river Indalsälven and the lake contains the major island Frösön. The city of Östersund is located on the east shore of the lake, opposite Frösön. Surface area 464 km², Average depth 17.3 m, Max. depth 74 m, Water volume 8,018,000,000 m³, Shore length1 439 km, Surface elevation 292 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.337158203125,
+          63.19649558826465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Keitele",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Keitele",
+        "comment": "Keitele is a lake located in central Finland. With the area of 493.59 km² it is the 9th largest lake in the country. The lake is divided into three regions, Ylä-, Keski-, and Ala-Keitele, of which Keski-Keitele is the largest. Water in the lake is clear and in an excellent condition. The towns of Äänekoski and Viitasaari are located on the shores of Keitele. Surface area 493.59 km², Average depth 7.2 m, Max. depth 66 m, Water volume 3.4 km3, Surface elevation 99.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.988159179687496,
+          62.917734015446655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Neagh",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Neagh",
+        "comment": "Lough Neagh, sometimes Loch Neagh, is a freshwater lake in Northern Ireland. It is the largest lake in Northern Ireland, supplying forty percent of its water; the biggest on the island of Ireland, the biggest by area in the United Kingdom, and the biggest by area in the British Isles. Max. length 19 mi (30 km), Max. width 9.3 mi (15 km), Surface area 151 sq mi (392 km2), Average depth 30 ft (9 m), Max. depth 82 ft (25 m), Water volume 7.76×1011 imp gal (3.528 km3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.421508789062499,
+          54.61661705439048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Skadar",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Scutari",
+        "comment": "Lake Skadar, also called Lake Scutari, Lake Shkodërand Lake Shkodra, lies on the border of Montenegro with Albania, the largest lake in the Balkan Peninsula. It is named after the city of Shkodra in northern Albania. Max. length 48 km (30 mi), Max. width 14 km (8.7 mi), Surface area 370 km² – 530 km², Max. depth 44 m (144 ft), Surface elevation 6 m (20 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.322204589843746,
+          42.15322331239858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Garda",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Garda",
+        "comment": "Lake Garda is the largest lake in Italy. It is a popular holiday location and is located in Northern Italy, about half-way between Brescia and Verona, and between Venice andMilan. Glaciers formed this alpine region at the end of the last Ice Age. The lake and its shoreline are divided between the provinces of Verona (to the south-east), Brescia (south-west), and Trentino (north). Max. length 51.6 km, Max. width 16.7 km, Surface area 369.98 km², Average depth 136 m, Max. depth 346 m, Water volume 50.35 km³, Shore length1 158.4 km, Surface elevation 65 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.645751953125,
+          45.60250901510302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siljan (lake)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Siljan_(lake)",
+        "comment": "Siljan, in Dalarna in central Sweden, is Sweden's sixth largest lake. The cumulative area of Siljan and the adjacent, smaller lakes Orsasjön and Insjön is 354 km2 (137 sq mi). Siljan reaches a maximum depth of 120 m (390 ft), and its surface is situated 161 m (528 ft) above sea level. The largest town on its shore is Mora."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.754638671875,
+          60.860963343405125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puula",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Puula",
+        "comment": "Puula (or Puulavesi) is a lake in the Kymi River area in the Finnish municipalities of Hirvensalmi, Kangasniemi and Mikkeli. Puula is 94.7 metres (311 ft) above sea level, the area is 331 square kilometres (128 sq mi), and it is 62 metres (203 ft) deep at its deepest point, located near Porttisalmi at Simpiänselkä, which is the biggest open area of the lake. Surface area 330.76 km2 (127.71 sq mi), Average depth 9.2 m (30 ft), Max. depth 62 m (203 ft), Surface elevation 94.7 m (311 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72149658203125,
+          61.79909258891916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torneträsk",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tornetraesk",
+        "comment": "Torneträsk or Torne träsk is a lake in Kiruna Municipality, Lapland, Norrbotten County in Sweden, in the Scandinavian mountain range. Träsk is the local word for lake (in Standard Swedish it means \"swamp\"). It is the seventh largest lake in Sweden, with a total area of 330 square kilometres (130 sq mi) and a length of 70 kilometres (43 mi). The lake drains to the south-east through Torne älv. South-west of the lake lie the Abisko National Park and the UNESCO World Heritage Site Laponian area. Max. length 70 km (43 mi), Max. width 11 km (6.8 mi), Surface area 332 km2 (128 sq mi), Average depth 51 m (167 ft), Max. depth 168 m (551 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.852539062499996,
+          68.39918004344189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Neusiedl",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Neusiedl",
+        "comment": "Lake Neusiedl is the second largest Endorheic lake in Central Europe, straddling the Austrian–Hungarian border. The lake covers 315 km², of which 240 km² is on the Austrian side and 75 km² on the Hungarian side. The lake's drainage basin has an area of about 1,120 km². From north to south, the lake is about 36 km long, and it is between 6 km and 12 km wide from east to west. On average, the lake's surface is 115.45 m above the Adriatic Sea and the lake is no more than 1.8 m deep."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.75689697265625,
+          47.855559965615484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Prespa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Prespa",
+        "comment": "Prespa is the name of two freshwater lakes in southeast Europe, shared by Albania, Greece, and the Republic of Macedonia. Of the total surface area, 176.3 km2 (68.07 sq mi) belongs to the Republic of Macedonia, 46.3 km2 (17.88 sq mi) to Albania and 36.4 km2 (14.05 sq mi) to Greece. They are the highest tectonic lakes in the Balkans, standing at an altitude of 853 m (2,798 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0113525390625,
+          40.901057866884024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Võrtsjärv",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Voertsjaerv",
+        "comment": "Lake Võrtsjärv is a lake in southern Estonia with an area of 270 km² (104 mi²). It is the second largest lake of Estonia. The shallow lake is 33.7 m (111 ft) above sea level. The river Emajõgi flows from Lake Võrtsjärv to Lake Peipus. Surface area 270 km², Average depth 2.7 m, Max. depth 6 m, Water volume 0.8 km³, Shore length1 96 km, Surface elevation 33.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.026611328125,
+          58.318144965188246
+        ]
+      }
     }
   ]
 }
