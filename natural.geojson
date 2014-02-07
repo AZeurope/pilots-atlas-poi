@@ -2484,6 +2484,86 @@
           61.46239496003727
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Inari",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Inari",
+        "comment": "Lake Inarijärvi is the third largest lake in Finland and the largest lake in Sápmi. It is located in the northern part of Lapland, north of the Arctic Circle. The lake is 117–119 meters above sea level and it is regulated at the Kaitakoski power plant in Russia. The freezing period normally extends from November to early June. Max. length 80 km, Max. width 50 km, Surface area 1,040.28 km², Average depth 15 m, Max. depth 92 m, Water volume 15.9 km³, Shore length 3,308 km, Surface elevation 118.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.762451171875,
+          68.98204571755966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiev Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kiev_Reservoir",
+        "comment": "The Kyiv Reservoir, locally the Kyiv Sea, is a large water reservoir located on the Dnieper River inUkraine. Named after the city of Kyiv, which lies to the south, it covers a total area of 922 square kilometres within the Kyiv Oblast. The reservoir was formed in 1960-1966, as a result of the Kiev Hydroelectric Power Plant dam being built at Vyshhorod. The reservoir is mainly used for hydroelectricity generation, industrial and public consumption, and irrigation. Max. length 110 km, Max. width 12 km, Surface area 922 km², Max. depth 8 m, Water volume 3.7 km³, Surface elevation 99 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.487060546875,
+          50.85450904781293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Topozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Topozero",
+        "comment": "Lake Topozero is a large freshwater lake in the Republic of Karelia, northwestern part of Russia. It is located at around 65.66°N 32°E and has an area of 986 km², it's 75.3 km long and 30.3 km wide. Maximum depth is about 50 m. There are more than 100 islands on the lake. Topozero is used for fishery and timber floating. From Lake Topozero the waters flow north into the Lake Pyaozero and from there to the White Sea through the Kovda River. Surface area 986 km2 (381 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.81640625,
+          65.76221691239006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Pyaozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pyaozero",
+        "comment": "Lake Pyaozero is a large freshwater lake in the Republic of Karelia, northwestern part of Russia, and has an area of 659 km². There are many islands on the lake with total area of 186 km². Among the rivers that flow into lake Pyaozero is the river Oulankajoki that begins in Finland, where one of its tributaries is the river Kitkanjoki that begins from lake Kitkajärvi in Finland. From south also the waters of Lake Topozero in the Republic of Karelia flow into the Lake Pyaozero. Surface area 659 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.992431640624996,
+          66.08045694353868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ilmen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ilmen",
+        "comment": "Lake Ilmen is a historically important lake in the Novgorod Oblast of Russia, formerly a vital part of the Trade route from the Varangians to the Greeks. The city of Novgorod lies six kilometers below the lake's outflow. Max. length 40 km (25 mi), Max. width 32 km (20 mi), Surface area 982 km2 (379 sq mi), Max. depth 10 m (33 ft), Water volume 12 km3 (2.9 cu mi), Surface elevation 18 m (59 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1572265625,
+          58.297944045474146
+        ]
+      }
     }
   ]
 }
