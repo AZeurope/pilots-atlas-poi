@@ -2084,6 +2084,86 @@
           51.210324789481355
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chelan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chelan",
+        "comment": "Lake Chelan is a narrow, 55-mile-long lake in Chelan County, northern Washington state, U.S. It is the largest natural lake in Washington state. Fed by streams from the Cascade Range and the Chelan Mountains, Lake Chelan has a maximum depth of 1,486 ft (453 m) (although some sources cite 1,420 feet), making it the third deepest lake in the country and the 26th deepest in the world. The surface of the lake is 1,098 feet (335 m) above sea level, while the average width of the lake is one mile. Surface area 52.1 sq mi (135 km2), Average depth 474 ft (144 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1849365234375,
+          47.88503897004144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Poso",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Poso",
+        "comment": "Lake Poso is a lake in Central Sulawesi, Indonesia, and the third-deepest lake in Indonesia. Surface area 323.2 km², Max. depth 450 m, Water volume 216 gigalitre, Surface elevation 485 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61614990234374,
+          -1.9249917503294485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cami Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lago_Fagnano",
+        "comment": "Cami Lake (also called Fagnano Lake) is a lake located on the main island of the Tierra del Fuego archipelago, and shared by Argentina and Chile. The 645 km² lake runs east-west for about 98 kilometres, of which 72.5 km (606 km²) belong to the Argentine Tierra del Fuego Province, and only 13.5 km (39 km²) belong to the Chilean Magallanes y la Antártica Chilena Region. It has a maximum depth of 200 meters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.906494140625,
+          -54.55295156056189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Manapouri",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Manapouri",
+        "comment": "Lake Manapouri is located in the South Island of New Zealand. The lake is situated within the Fiordland National Park and the wider region of Te Wahipounamu South West New Zealand World Heritage Area. Max. length 28 km, Surface area 142 km², Max. depth 444 m, Shore length 170 km, Surface elevation 177.8 m. Islands 33."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.54837036132812,
+          -45.52270606936924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tazawa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tazawa",
+        "comment": "Lake Tazawa is a caldera lake in the city of Semboku, Akita Prefecture, northern Japan. It is the deepest lake in Japan at 423 metres (1,388 ft). The area is a popular vacation area and severalhot spring resorts can be found in the hills above the lake. Akita Prefecture's largest ski area, Tazawa Ski Area, overlooks the lake. Surface area 25.9 km2 (10.0 sq mi), Average depth 280.0 m (918.6 ft), Max. depth 423.4 m (1,389 ft), Water volume 7.2 cubic km, Shore length1 20 kilometres (12 mi), Surface elevation 290 m (950 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.66207885742188,
+          39.73042572969995
+        ]
+      }
     }
   ]
 }
