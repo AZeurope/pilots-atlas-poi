@@ -3460,6 +3460,54 @@
           59.642764176837865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheksna Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sheksninskoye",
+        "comment": "The Sheknsna Reservoir or the Sheksninskoe Reservoir is a water reservoir on Sheksna River and Lake Beloye, in Belozersky, Vashkinsky, Kirillovsky, andSheksninsky Districts of Vologda Oblast in Russia. The reservoir is formed by the dam of the Sheksna Hydropower Plant, located in the urban-type settlement of Sheksna. Surface area 6,520 square kilometres (2,520 sq mi), Average depth 17 metres (56 ft), Water volume 6.5 cubic kilometres (1.6 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.51806640625,
+          59.67883523696079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Pyhäselkä",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pyhaeselkae",
+        "comment": "Pyhäselkä is a lake in Finland. It forms the northernmost part of the Saimaa lake system. Surface area 361.10 km², Surface elevation 75.9 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7125244140625,
+          62.492027730426905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Manych-Gudilo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Manych-Gudilo",
+        "comment": "Lake Manych-Gudilo is a large saltwater reservoir lake in Kalmykia, Russia. Part of the lake lies also in Rostov Oblast and Stavropol Krai. It has an area of about 344 km² and average depth of only about 0.6 m. Surface area 344 km2 (133 sq mi), Average depth 0.6 m (2 ft 0 in), Surface elevation 8 m (26 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.747802734375,
+          46.36588370484982
+        ]
+      }
     }
   ]
 }
