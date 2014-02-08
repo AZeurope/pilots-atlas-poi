@@ -3717,6 +3717,39 @@
           -16.699340234594537
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukhtarma Hydroelectric Power Plant",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bukhtarma_Reservoir",
+        "comment": "The Bukhtarma Hydroelectric Power Plant is a hydroelectric power plant on the Irtysh River 5 km upstream of the town of Serebryansk, in East Kazakhstan Province of Kazakhstan. \"Bukhtarma\" or \"Buqtyrma\" is a Kazakh word that can be translated as \"ambush; blocking\". The plant has 9 individual turbines with a total generating capacity of 675 megawatts and generates 2.6 billion kilowatt-hours of electricity per year. After reconstruction (2001-2010) capacity has increased to 738 MW. The plant is operated by Kazzinc under a long-term concession. It is integrated into Kazakhstan's national electricity system and is used as a peak producer to regulate supply."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.41644287109374,
+          49.62672481765915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bratsk Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bratsk_Reservoir",
+        "comment": "Bratsk Reservoir is a reservoir on the Angara River, located in Irkutsk Oblast, Russia. It is named after the city of Bratsk, the largest city adjacent to the reservoir. It has a surface area of 5,470 square kilometres (2,110 sq mi) and a maximum volume of 169.27 × 1012 litres (37.2 × 1012 gallons). The concrete dam of the Bratsk hydroelectric plant was completed in 1967. It is 125 metres (410 ft) high and 4,417 metres (14,491 ft) long. The Baikal Amur Mainline railroad runs along the top of the dam. At the time of its inauguration, the reservoir was the largest artificial lake in the world. Its electrical power capacity is 4,500 MW. Surface area 5,470 square kilometres (2,110 sq mi, Water volume 169.27 km3.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.766357421875,
+          56.20059291588374
+        ]
+      }
     }
   ]
 }
