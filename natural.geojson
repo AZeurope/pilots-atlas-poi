@@ -3750,6 +3750,38 @@
           56.20059291588374
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sobradinho Reservoir",
+        "type": "lak",
+        "url": "http://en.wikipedia.org/wiki/Sobradinho_Reservoir",
+        "comment": "The Sobradinho Reservoir is a large reservoir located in Sobradinho, north of the Brazilian state of Bahia. The reservoir measures approximately 320 km (200 mi) long, 4,214 km2 (1,627 sq mi) in surface area, and a storage capacity of 34.1 km3 (8.2 cu mi) at its nominal elevation of 392.5 m (1,287.7 ft), making it the 12th-largest reservoir (artificial lake) in the world. The lake encloses the waters of the São Francisco River, one of the largest and most important rivers in Brazil. urface area 4,214 km2 (1,627 sq mi), Average depth 8.6 m (28.2 ft), Max. depth 30 m (98 ft), Water volume 34,100,000,000 m3 (1.20×1012 cu ft), Surface elevation 392.5 m (1,287.7 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.671142578125,
+          -9.698227924591501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nasser",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Nasser",
+        "comment": "Lake Nasser is a vast reservoir in southern Egypt, and northern Sudan, and is one of the largest man-made lakes in the world. Strictly, \"Lake Nasser\" refers only to the much larger portion of the lake that is in Egyptian territory (83% of the total), with the Sudanese preferring to call their smaller body of water Lake Nubia. The area of Sudan-administered Wadi Halfa Salient was largely flooded by Lake Nasser. Max. length 550 km (340 mi), Max. width 35 km (22 mi), Surface area 5,250 km2 (2,030 sq mi), Average depth 25.2 m (83 ft), Max. depth 180 m (590 ft), Water volume 132 km3 (32 cu mi), Shore length1 7,844 km (25,735,000 ft), Surface elevation 183 m (600 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.887817382812496,
+          22.58358253773391
+        ]
+      }
     }
   ]
 }
