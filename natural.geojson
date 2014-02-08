@@ -3044,6 +3044,70 @@
           51.75934048406749
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Trasimeno",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Trasimeno",
+        "comment": "Lake Trasimeno, also referred to as Trasimene or Thrasimene in English, is the largest lake on theItalian peninsula, part of the province of Perugia, in the Umbria region. The Lake is located in the south of the Po River and to the north of the nearby Tiber River, with a surface area of 128 km2 (49.4 sq mi), slightly less than Lake Como. No major river flows directly into or out of Lake Trasimeno and the water level fluctuates significantly according to rainfall levels and the seasonal demands from the towns, villages and farms near the shore. Average depth 4–5 m, Max. depth 6 m, Surface elevation 258 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10693359375,
+          43.16311928246929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Derg (Shannon)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Derg_(Shannon)",
+        "comment": "Lough Derg (from Irish Loch Deirgeirt, meaning \"loch of the red eye\") is the second-largest lake (or lough) in Ireland and is the third-largest in the whole island (after Lough Neagh and Lough Corrib). It is a long, relatively narrow lake, with shores in counties Clare (south-west), Galway (north-west), and North Tipperary (to the east). The lake is the last of the three largest on the River Shannon, with the other two, Lough Reeand Lough Allen lying further north. Some towns and villages on Lough Derg include Portumna, Killaloe & Ballina, Dromineer, Terryglass, Mountshannon and Garrykennedy. Surface area 130 km2 (50 sq mi), Average depth 7.6 m (25 ft), Max. depth 36 m (118 ft), Shore length1 179,000 m (587,000 ft), Surface elevation 33.5 m (110 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40179443359375,
+          52.91387102227773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Ree",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Ree",
+        "comment": "Lough Ree is a lake in the midlands of Ireland, the second of the three major lakes on the River Shannon. Lough Ree is the second largest lake on the Shannon after Lough Derg. The other two major lakes are Lough Allen to the north, and Lough Derg to the south, there are also several minor lakes along the length of the river. The island of Inchcleraun (Inis Cloithreann) in the northern part of the lake is the site of a monastery founded in the early Christian era and contains the remains of several ancient churches. In Irish legends, it was on this island that Queen Maeve was killed. The Viking Turgesius controlled a ringfort on the shores until his death by drowning in Lough Owel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9541015625,
+          53.51091802900767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Allen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Allen",
+        "comment": "Lough Allen is a lake on the River Shannon in northeastern Connacht, Ireland. Most of the lake is in County Leitrim, with a smaller part in County Roscommon. The lake lies to the south of the River Shannon's source, near the Iron Mountains, and is the uppermost of the three main lakes on the river. The other two, Lough Ree and Lough Derg are much further to the south. The lake is shaped like an upturned isosceles triangle. The Shannon enters the lake at the wider northern end and leaves the lake at the narrow southern end. Other rivers that feed the lake include the Diffagher (northwest), the Yellow (northeast), the Stoney (east) and the Arigna (southwest)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0584716796875,
+          54.123016895336384
+        ]
+      }
     }
   ]
 }
