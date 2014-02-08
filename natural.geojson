@@ -3284,6 +3284,102 @@
           67.69694069305432
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pihlajavesi (Saimaa)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pihlajavesi_(Saimaa)",
+        "comment": "Pihlajavesi is a lake in Finland. The area of the lake is 712.59 km² making it the sixth largest lake in the country. Pihlajavesi is the second-largest basin in the complex Saimaa lake system. Pihlajavesi lacks large open lake areas but has more islands than any other lake in Finland. Surface area 712.59 km², Average depth 11.3 m, Max. depth 72 m, Water volume 18.08 km3, Shore length 3200 km, Surface elevation 75.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.819885253906246,
+          61.7679262864865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaniv Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kaniv_Reservoir",
+        "comment": "The Kaniv Reservoir is a water reservoir located on the Dnieper River in Ukraine. Named after the city of Kaniv, it covers a total area of 675 square kilometres within the Cherkasy and Kiev Oblasts. It was created in 1972 because of the dams of the Kaniv Hydroelectric Power Plant on the Dnieper River. Max. length 162 km, Max. width 5 km, Surface area 675 km², Average depth 5.5 m, Water volume 2.6 km³, Surface elevation 87 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4923095703125,
+          49.92647191927194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kovdozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kovdozero",
+        "comment": "Lake Kovdozero is a large freshwater lake in the southern Murmansk Oblast, northwestern part of Russia. There are many islands in the lake. The hydroelectric power plant was built in 1955, thus transforming the lake to the dam. The surface area of Kovdozero has risen from 224–294 km² to 608 km². Many rivers empty into Kovdozero and it flows to theWhite Sea through the Kovda River. The lake is used to fishery, water transport and timber floating. Max. length 48 km, Max. width 23 km, Surface area 608 km², Max. depth 56 m, Water volume 3.7 km3, Surface elevation 37 m, Islands > 580."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0965576171875,
+          66.75941750003717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dniprodzerzhynsk Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dniprodzerzhynsk_Reservoir",
+        "comment": "The Dniprodzerzhynsk Reservoir is a water reservoir located on the lower part of the Dnieper River in Ukraine. Named after the city of Dniprodzerzhynsk, it covers a total area of 567 square kilometres within the Dnipropetrovsk Oblast. It was formed in 1963-1965. The reservoir is mainly used for generating hydroelectric power, transportation, fish farming, and human consumption. Max. length 114 km, Max. width 8 km, Surface area 567 km², Max. depth 15 m, Water volume 2.45 km³, Surface elevation 104 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.05487060546875,
+          48.823140892101684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haukivesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Haukivesi",
+        "comment": "Haukivesi is a lake in southeastern Finland and a part of the Saimaa lake system. Haukivesi is the central basin of the system, collecting 80% of the water that eventually flows into Lake Laatokka through RiverVuoksi. Its area is 562.31 km² (8th). Like other lakes in the system, it has a convoluted shoreline with numerous islands and is divided into a number of smaller regions. Max. length 80 km, Surface area 562.31 km², Surface elevation 75.8 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.428497314453125,
+          62.11223415323946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kallavesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kallavesi",
+        "comment": "Kallavesi is a lake in Northern Savonia, eastern Finland located around the town of Kuopio. Combined with the lakes Suvasvesi, Juurusvesi, Muuruvesi, Melavesi, and Riistavesi Kallavesi forms an 890 square kilometres (340 sq mi) lake system named Iso-Kalla. Max. length 90 km (56 mi), Max. width 15 km (9 mi), Surface area 472.76 km2 (182.53 sq mi), Average depth 5–10 m (16–33 ft), Max. depth > 60 m (200 ft), Surface elevation 81.8 m (268 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7789306640625,
+          62.812509053934484
+        ]
+      }
     }
   ]
 }
