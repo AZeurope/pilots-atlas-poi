@@ -3573,6 +3573,86 @@
           62.80497854914798
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Syamozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Syamozero",
+        "comment": "Lake Syamozero is a large freshwater lake in the Republic of Karelia, northwestern part of Russia, and has an area of 265–270 km². Maximum depth is about 24 m. There are a few islands on the lake. Syamozero is used for fishery, water transport and timber floating. The lake is part of the basin of the Shuya River, which flows into Lake Onega. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.189697265625,
+          61.93378188781818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akkajaure",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Akkajaure",
+        "comment": "Akkajaure is one of the largest reservoirs in Sweden. It lies at the headwaters of the Lule River in Norrbotten County, in Swedish Lappland, within the Stora Sjöfallet national park. The lake formed after the construction of the first Suorva dam in 1913–1923. The rim of the current dam is at an elevation of 453 m (1,486 ft). When full, the lake's maximum depth is 92 m (302 ft), and its mean depth is about 30 m (98 ft). Because it is used for power generation, the lake depth fluctuates by up to 30 m (98 ft). On 12 November 1944, Avro Lancaster bombers of RAF squadrons 9 and 617 flying from Lossiemouth and Milltown rendezvoused over Akkajaure and began their approach to destroy the German battleship Tirpitz."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.545166015625,
+          67.67608458198097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuyto",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kuyto",
+        "comment": "The Kuyto are three lakes in the Republic of Karelia, in the northwestern part of Russia. The Kuyto lakes are connected by natural canals, and are used for timber floating. Surface area 257 km², Max. depth 34 m, Surface elevation 101 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.212158203125,
+          65.12994827112689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hornavan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hornavan",
+        "comment": "Hornavan is a lake in northern Sweden. It is located in Arjeplog Municipality in the province of Swedish Lapland, administratively known as Norrbotten County. It is situated among the Scandinavian mountain range, at a height of 425 meters. The town Arjeplog is located by its south-western shore. The lake then extends 70 kilometers northwest up to the town of Jäckvik, containing about 400 islets, many of which have distinguishable floras and faunas. Surface area 252 km², Max. depth 221 m, Surface elevation 425 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.73193359375,
+          66.18048451285998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rybinsk Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Rybinsk_Reservoir",
+        "comment": "Rybinsk Reservoir, is a water reservoir on the Volga River and itstributaries Sheksna and Mologa, formed by Rybinsk Hydroelectric Station dam, located on the territories of Tver, Vologda, and Yaroslavl Oblasts. At the time of its construction, it was the largest man-made body of water on Earth. It is the northernmost point of the Volga. Surface area 4,580 km2 (1,770 sq mi), Average depth 5.6 m (18 ft), Max. depth 28 m (92 ft), Water volume 25.4 km3 (6.1 cu mi), Surface elevation 102.4 m (336 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.232421875,
+          58.44773280389084
+        ]
+      }
     }
   ]
 }
