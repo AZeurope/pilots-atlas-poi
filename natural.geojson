@@ -3380,6 +3380,86 @@
           62.812509053934484
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puruvesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Puruvesi",
+        "comment": "Puruvesi is a lake in Eastern Finland. The lake is located in Kerimäki, Kesälahti and Punkaharju municipalities. Part of the Saimaa lake system, it borders on the sub-lake system of Pihlajavesi to the south. As is the case of other lakes of Saimaa, it has numerous islands and consists of numerous open lake areas, of which largest are Hummonselkä, Pajuselkä, Sammalselkä, Mustanselkä, and Ruosteselkä. The lake is known for its pure water and has uniquely good underwater visibility for a Finnish lake, easily extending to 6–10 meters from surface on calm and sunny days. urface area 420.86 km2, Surface elevation 75.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.551849365234375,
+          61.885284288255626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vozhe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Vozhe",
+        "comment": "Lake Vozhe, also known as Lake Charondskoye, is a lake in the northern part of Vologda Oblast in Russia. The area of the lake is 416 square kilometres (161 sq mi), and the are of its basin is and the area of its basin is 6,260 square kilometres (2,420 sq mi). The average depth is around 2 metres (6.6 ft) (maximum depth is 4.5 metres (15 ft)). Lake Vozhe drains through the Svid River into Lake Lacha, from which the Onega River flows out. The lake is located on a flatland and its shores are low-lying and swampy. Surface area 416 square kilometres (161 sq mi), Average depth 2 metres (6.6 ft), Max. depth 4.5 metres (15 ft), Surface elevation 120 m (394 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.078369140625,
+          60.62471311568258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lacha",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lacha",
+        "comment": "Lake Lacha is a freshwater lake, located in the south of Kargopolsky District of Arkhangelsk Oblast in Russia, 7 kilometres (4.3 mi) south of the town of Kargopol. It is the largest lake in Arkhangelsk Oblast, with a surface area of 334 square kilometres (129 sq mi) and a basin area of 12,600 square kilometres (4,900 sq mi). Lake Lacha is the source of the Onega River, one of the major waterways of the White Sea basin. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.770751953125,
+          61.29662618671741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Razelm",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Razelm",
+        "comment": "Lake Razelm or Lake Razim is the lake and the group of the lakes on the beach of Black Sea in Romania south of the Danube Delta. It is the largest lake in Romania. It is a complex formed by a few limans and lagoons. The group can be separated into two subgroups. The northern subgroup contains freshwater lakes Razelm and Golovița, whereas the southern group is made up of salt lakes. All these lakes cover an area of about 1000 km², 500 km² of it being the area of lake Razelm alone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98193359375,
+          44.85197466334987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kubenskoye",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kubenskoye",
+        "comment": "Kubenskoe Lake is a large and shallow lake in Vologda Oblast of Russia, situated at the height of 109 metres above mean sea level, stretching for 60 km from north-west to south-east. The lake area is 648 square kilometres (250 sq mi), without islands — 407 square kilometres (157 sq mi). Its average depth is 3 metres (9.8 ft). The lake is known for its frequents storms and seasonal fluctuations of water level. The average seasonal variation is 2.4 metres (7.9 ft) and the maximum is 5.49 metres (18.0 ft).[2] The lake is elongated from the northwest to the southeast. It is the source of the Sukhona River, which flows out in the southeastern corner of the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4354248046875,
+          59.642764176837865
+        ]
+      }
     }
   ]
 }
