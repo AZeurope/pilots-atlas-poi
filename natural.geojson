@@ -3204,6 +3204,86 @@
           54.484400147758
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mamry",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mamry",
+        "comment": "Mamry is a lake in the Masurian Lake District of Poland's Warmia-Mazury Province. It is the second largest lake in Poland, with an area of 104 km.² Maximum depth is 44 m, average is 11 m. It actually comprises six connected lakes: Mamry, Kirsajty, Kisajno, Dargin, Święcajty and Dobskie. Mamry features 33 islands, totalling 213 hectares, some of which are ornithological reserves. Lake Mamry is a popular tourist destination. It is connected to the Pregolya and the Baltic Sea by the disused Masurian Canal. The largest town on the lake is Giżycko."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.710357666015625,
+          54.11013788749546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Koroneia",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Koronia",
+        "comment": "Lake Koroneia is a lake in the heart of the Thessaloniki regional unit in the Mygdonian basin in Greece. The lake is also known as Agios Vasileios after an homonymous village and as Lake Langada. It is located about 12 kilometres east of downtown Thessaloniki. The motorway Egnatia Odos passes along the north side of the lake. A million years ago, Lake Koroneia along with Lake Volvi and all of the Mygdonian basin was a large lake. Since then, the area of the lake is declining and the distance from neighboring Lake Volvi is becoming larger. In the 1950s, Koroneia was among the lakes of Greece with the biggest fish production. In the 1970s, its area was 45 km² and had a depth of about 5 metres. In the early 2000s, the lake had shrunk to 10 km² with a depth of about 0.5 to 1 metre. In the summer of 2002, the lake had almost dried up."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1646728515625,
+          40.686886382151116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Segozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Segozero",
+        "comment": "Lake Segozero is a large freshwater lake in the Republic of Karelia, northwestern part of Russia. Segezha River is a major outflow from Segozero and it empties to Vygozero. After the hydroelectric power plant was built on Segezha River the surface area of Segozero have risen from 815 km² to 906 km². Max. depth 103 m (338 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.651123046875,
+          63.28800124531419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oulujärvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Oulujaervi",
+        "comment": "Oulujärvi is a large lake in Finland located in the Kainuu. With the area of 928 square kilometres (358 sq mi) it is the fifth largest lake in the country. The lake drained by the Oulu River, which flows northwestward from the lake to the Gulf of Bothnia. Its nickname is the \"Kainuu sea\", and it is surrounded by three municipalities: Vaala, Paltamo and Kajaani. About 40 percent of the lake is in the Vaala municipality. Surface area 928.09 km2 (358.34 sq mi), Average depth ca. 7 m (23 ft), Max. depth 38 m (125 ft), Shore length 1,201.17 km (746.37 mi), Surface elevation 120.9–123.6 m (397–406 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.235107421875,
+          64.3113485053558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Imandra",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Imandra",
+        "comment": "Imandra is a lake in the south-western part of the Kola Peninsula in Murmansk Oblast, Russia, slightly beyond the Arctic circle. It is located 127 m above sea level; its area is about 876 km², maximum depth is 67 m. The shape of the shore line is complicated. There are a number of islands and the largest one, Erm Island measures 26 km². There are three principal parts of the lake connected by narrow straits. Surface area 876 km2 (338 sq mi), Max. depth 67 m (220 ft), Surface elevation 127 m (417 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06884765625,
+          67.69694069305432
+        ]
+      }
     }
   ]
 }
