@@ -3782,6 +3782,86 @@
           22.58358253773391
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volgograd Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Volgograd_Reservoir",
+        "comment": "The Volgograd Reservoir is a reservoir in Russia formed at the Volga River by the dam of the Volga Hydroelectric Station. It lies within the Volgograd Oblast and Saratov Oblast and named after the city of Volgograd. It was constructed during 1958-1961. Its area is 3,117 km², volume is 31,5 km², length is 540 km, maximal width is 17 km, average depth is 10.1 m. It is the third largest reservoir in Russia (after Kuybyshev Reservoir and Rybinsk Reservoir)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.923095703125,
+          49.15296965617039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuybyshev Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kuybyshev_Reservoir",
+        "comment": "Kuybyshev Reservoir or Kuybyshevskoye Reservoir, sometimes called Samara Reservoir and informally called Kuybyshev Sea, is a reservoir of the middle Volga and lower Kama. The Kuybyshev Reservoir has a surface area of 6,450 km² and a volume of 58 billion cubic meters. It is the largest reservoir in Europe and third in the world by surface area. The major cities of Kazan, Ulyanovsk, and Tolyatti are adjacent to the reservoir. Max. length over 500 km (310 mi), Max. width 35 km (22 mi), Average depth 8 m (26 ft), Max. depth 41 m (135 ft), Water volume 57.3 km3 (13.7 cu mi), Shore length1 2,604 km (1,618 mi), Surface elevation 53 m (174 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9990234375,
+          53.88491634606499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahora Bassa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Cahora_Bassa_Lake",
+        "comment": "The Cahora Bassa lake is Africa's fourth-largest artificial lake, situated in the Tete Province in Mozambique. The name Cabora Bassa is an earlier misspelling of the name. In Africa, only Lake Volta in Ghana, Lake Kariba, on the Zambezi upstream of Cahora Bassa, and Egypt's Lake Nasser are bigger in terms of surface water. Max. length 292 km, Max. width 38 km, Surface area 2,739 km², Average depth 20.9 m, Max. depth 157 m, Water volume 55.8 km³, Surface elevation 314 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.915283203124996,
+          -15.64419660086606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheboksary Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Cheboksary_Reservoir",
+        "comment": "Cheboksary Reservoir is an artificial lake in the central part of the Volga River and formed by the Cheboksary Dam in Novocheboksarsk. A surface area of Cheboksary Reservoir is 2190 km², max width is 16 km, max depth is 35 m. The largest cities on the Reservoir are Nizhny Novgorod, Cheboksary and Kozmodemyansk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.746826171875,
+          56.28605924471002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapchagay Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kapchagay_Reservoir",
+        "comment": "Kapchagay Reservoir, also spelled Qapshaghay Bogeni Reservoir and sometimes referred to as Lake Kapchagay, is a major reservoir in Almaty Province in southeastern Kazakhstan, approximately 60 kilometres north of Almaty. The 140 kilometre long lake is formed by a dam on the Ili River which flows from the mountains in the east towards Lake Balkhash to the northwest. It is named after the town of Kapchagay, which is located on its western bank. During the summer months the lake attracts a number of tourists from Almaty, who frequent its beachy shores on the weekends. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5634765625,
+          43.83452678223684
+        ]
+      }
     }
   ]
 }
