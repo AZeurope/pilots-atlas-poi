@@ -3653,6 +3653,70 @@
           58.44773280389084
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aral Sea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Aral_Sea",
+        "comment": "The Aral Sea was a lake lying between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south. The name roughly translates as \"Sea of Islands\", referring to about 1,534 islands that once dotted its waters; in Old Turkic aral means \"island\" and \"thicket\". Formerly one of the four largest lakes in the world with an area of 68,000 square kilometres (26,300 sq mi), the Aral Sea has been steadily shrinking since the 1960s after the rivers that fed it were diverted by Soviet irrigation projects. By 2007, it had declined to 10% of its original size, splitting into four lakes – the North Aral Sea, the eastern and western basins of the once far larger South Aral Sea, and one smaller lake between the North and South Aral Seas. By 2009, the southeastern lake had disappeared and the southwestern lake had retreated to a thin strip at the extreme west of the former southern sea. The maximum depth of the North Aral Sea is 42 m (138 ft) (as of 2008)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.46923828125001,
+          45.1433047394883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Volta",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Volta",
+        "comment": "Lake Volta is the largest reservoir by surface area in the world, and the fourth largest by water volume. Contained behind the Akosombo Dam, it is located completely within the country of Ghana, and it has a surface area of about 8,502 km² (3,275 square miles). Surface area 8,502 km2 (3,283 sq mi), Average depth 18.8 m (62 ft), Max. depth 75 m (246 ft), Water volume 148 km3 (32.6 × 1012 gallons), Shore length1 4,800 kilometres (2,980 mi), Surface elevation 85 m (279 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0384521484375,
+          6.593673875998489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smallwood Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Smallwood_Reservoir",
+        "comment": "The Smallwood Reservoir is a large reservoir located in the western part of Labrador in the province of Newfoundland and Labrador, Canada. The reservoir is the source of the Churchill River. Unlike other reservoirs, water is contained not by a single large dam, but by a series of 88 dikes that total 64 km (40 mi) in length. It is named in honour of Joseph Roberts Smallwood. Created by damming the Churchill river, the Smallwood reservoir, with an area of 5,698 km2 (2,200 sq mi), is the largest body of freshwater in the province. It is at the head of the Churchill Falls hydroelectric project and is the second-largest reservoir in the world. Surface elevation 471 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.51171875,
+          54.07228265560386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kariba",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kariba",
+        "comment": "Lake Kariba is the world's largest artificial lake and reservoir by volume. It lies 1300 kilometers upstream from the Indian Ocean, along the border between Zambia and Zimbabwe. Lake Kariba was filled between 1958 and 1963 following the completion of the Kariba Dam at its northeastern end, flooding the Kariba Gorge on the Zambezi River. Surface area 5,400 km², Water volume 180 cubic kilometres (43 cu mi), Surface elevation 485 metres (1,591 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.168945312499996,
+          -16.699340234594537
+        ]
+      }
     }
   ]
 }
