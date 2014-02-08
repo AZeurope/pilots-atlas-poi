@@ -3108,6 +3108,102 @@
           54.123016895336384
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Müritz",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Mueritz",
+        "comment": "The  Müritz is a lake in Mecklenburg-Vorpommern, northern Germany. Its area is 117 km², which makes it the second largest lake in Germany (after Lake Constance) and the largest lake entirely within Germany. Its maximum depth is 31 metres. It is fed and drained by the river Elde. Part of the Müritz and adjacent forests and wetlands are protected by the Müritz National Park. The former Müritz district was named after the lake. The biggest towns bordering the lake are Waren (Müritz) and Röbel, both major centres of tourism in the Mecklenburg Lake District. Average depth 6 m (19.6 feet), Max. depth 31 m (101.7 feet), Surface elevation 62 m (203 feet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.69744873046875,
+          53.42262754609993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bolsena",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bolsena",
+        "comment": "Lake Bolsena is a crater lake of central Italy, of volcanic origin, which began to collect 370,000 years ago following the formation of a caldera in the Vulsini volcanic complex. Roman historic records indicate activity of the Vulsini volcano occurred as recently as 104 BC; it has been dormant since then. The two islands in the southern part of the lake were formed by underwater eruptions following the collapse that created the caldera. The lake is supplied entirely from the aquifer, rainfall and runoff, with one outlet at the southern end. A sewage treatment plant filters most of the raw sewage from the surrounding communities. Surface area 113.5 km2 (43.8 sq mi), Average depth 81 m (266 ft), Max. depth 151 m (495 ft), Water volume 9.2 km3 (3.2×1011 cu ft), Surface elevation 305 m (1,001 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93389892578125,
+          42.589488572714245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Śniardwy",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sniardwy",
+        "comment": "Śniardwy is a lake in the Masurian Lake District of the Warmian-Masurian Voivodeship, Poland. It is the largest lake in Poland with an area of 113.8 square kilometres (43.9 sq mi). It is 22.1 kilometres (13.7 mi) long and 13.4 kilometres (8.3 mi) wide. The maximum depth is 23 metres (75 feet). There are eight islands on the Śniardwy lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.719970703125,
+          53.76494896075243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lucerne",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lucerne",
+        "comment": "Lake Lucerne is a lake in central Switzerland and the fourth largest in the country. The lake has a complicated shape, with bends and arms reaching from the city of Lucerne into the mountains. It has a total area of 114 km² (44 sq mi), an elevation of 434 m (1,424 ft), and a maximum depth of 214 m (702 ft). Its volume is 11.8 km³. Much of the shoreline rises steeply into mountains up to 1,500 m above the lake, resulting in many picturesque views including those of Mount Rigi and Mount Pilatus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37158203125,
+          47.02426985309353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kerkini",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kerkini",
+        "comment": "Lake Kerkini, is an artificial reservoir that was created in 1932, and then redeveloped in 1980, on the site of what was previously an extremely extensive marshland. Before 1932, there were irregular marsh lakes on Strymon, one of them called \"Podkova\" became the mother of Kerkini. Lake Kerkini is now one of, if not the, premier birding site in Greece, and, as it is situated along the migratory flyway for migratory birds en route to the Aegean Sea, the Balkan region, the Black Sea, the Hungarian steppes and beyond it experiences an interesting migration. Surface area 109.96 square kilometers (42.46 sq mi), Max. depth 35.5 m, Surface elevation 35 meters (115 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1427001953125,
+          41.20345619205129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Erne",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lower_Lough_Erne",
+        "comment": "Lough Erne or Loch Erne is the name of two connected lakes in County Fermanagh, Northern Ireland. It is the second-biggest lake system in Northern Ireland and Ulster, and the fourth biggest in Ireland. The lakes are widened sections of the River Erne, which flows north and then curves west into the Atlantic. The smaller southern lake is called the Upper Lough (as it is furtherup the river) or South Lough. The bigger northern lake is called the Lower Lough or North Lough. Surface area Lower: ~42.3 sq mi (110 km2), Upper: ~13.3 sq mi (34 km2), Average depth Lower: ~39 ft (12 m), Upper: ~7.5 ft (2.3 m), Max. depth 155 ft (47 m), Islands 154."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8167724609375,
+          54.484400147758
+        ]
+      }
     }
   ]
 }
