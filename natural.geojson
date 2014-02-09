@@ -4422,6 +4422,119 @@
           6.196192395254453
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chilwa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chilwa",
+        "comment": "Lake Chilwa is the second-largest lake in Malawi after Lake Malawi. It is in eastern Zomba District, near the border with Mozambique. Approximately 60 km long and 40 km wide, the lake is surrounded by extensive wetlands. There is a large island in the middle of the lake called Chisi Island. The lake has no outlet, and the level of water is greatly affected by seasonal rains and summer evaporation. In 1968, the lake disappeared during exceptionally dry weather. When David Livingstone visited the lake in 1859, he reported that its southern boundary reached as far as the Mulanje Massif, which would have made the lake at least 20 miles longer than it is today."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.694580078125,
+          -15.284185114076433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kainji Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kainji_Lake",
+        "comment": "Kainji Lake, in western Nigeria, is a reservoir on the Niger River, formed by the Kainji Dam. It was formed in 1968 and is a part of Niger State and Kebbi State. Kainji Lake National Park (KNLP), situated around the lake, is Nigeria's oldest National Park, established in 1976. Surface area max. 1,243 km², Max. depth 12.1 m, Water volume 15 km³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5428466796875,
+          10.385168447070184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nubia",
+        "type": "lake",
+        "comment": "Lake Nubia - Lake Nasser is a vast reservoir in southern Egypt, and northern Sudan, and is one of the largest man-made lakes in the world. Strictly, \"Lake Nasser\" refers only to the much larger portion of the lake that is in Egyptian territory (83% of the total), with the Sudanese preferring to call their smaller body of water Lake Nubia. The area of Sudan-administered Wadi Halfa Salient was largely flooded by Lake Nasser. ",
+        "url": "http://en.wikipedia.org/wiki/Lake_Nubia",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26708984375,
+          21.861498734372567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pangong Tso",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pangong_Tso",
+        "comment": "Pangong Tso, Tibetan for \"long, narrow, enchanted lake\", also referred to as Pangong Lake, is an endorheiclake in the Himalayas situated at a height of about 4,350 m (14,270 ft). It is 134 km (83 mi) long and extends from India to Tibet. Approximately 60% of the length of the lake lies in Tibet. The lake is 5 km (3.1 mi) wide at its broadest point. All together it covers 604 km2. During winter the lake freezes completely, despite being saline water. The lake is in the process of being identified under the Ramsar Convention as a wetland of international importance. This will be the first trans-boundary wetland in South Asia under the convention."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7994384765625,
+          33.715201644740844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Godzareh depression",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Godzareh_depression",
+        "comment": "The Godzareh depression (also Gowd-e Zereh Meaning: The Lap of Greenery) is the lowest part of an inland drainage basin covering large parts of southern Afghanistan and Iran known as the Sistan Basin. The Sistan Basin is an endorheic basin and encompasses a complex system of rivers, shallow lakes, marshes and wetlands as its watershed, draining into the Hamun Lakes in southeastern Iran. Occasional outflows from these lakes are carried back into Afghanistan by the seasonal Shile river to the basin's terminus, the Godzareh depression in Afghanistan. The depression is flat and very shallow with fine textured sediment at its lowest portions. The lowest section of the Godzareh depression is 467 m above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.67175292968749,
+          29.7453016622136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaptai Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kaptai_Lake",
+        "comment": "Kaptai Lake is a man made lake in south-eastern Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on theKarnaphuli River, as part of the Karnaphuli Hydro-electric project. The Kaptai Lake's average depth is 100 feet (30 m) and maximum depth is 490 feet (150 m). "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.197265625,
+          22.646967311123674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phewa Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Fewa_Lake",
+        "comment": "Phewa Lake, Phewa Tal or Fewa Lake is a freshwater lake in Nepal located in the south of the Pokhara Valley that includes Pokhara city; parts of Sarangkot and Kaskikot. The lake is stream-fed but a dam regulates the water reserve, therefore, the lake is classified as semi-natural freshwater lake. It is the second largest lake in Nepal, the largest in Gandaki Zone followed by Begnas Lake. Phewa lake is located at an altitude of 742 m (2,434 ft) it covers an area of about 5.23 km2 (2.0 sq mi) with an average depth of about 8.6 m (28 ft) with maximum water depth is 24 m (79 ft). Maximum water capacity of the lake is approximately 43,000,000 cubic metres (35,000 acre·ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.94412994384766,
+          28.217289755957054
+        ]
+      }
     }
   ]
 }
