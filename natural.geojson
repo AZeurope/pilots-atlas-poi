@@ -4727,6 +4727,70 @@
           46.581518465658014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tengiz",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tengiz",
+        "comment": "Tengiz Lake is a saline lake in north-central part of Kazakhstan. Lake Tengiz is an important wetland site for birds. It is a part of a Ramsar wetland site of international importance, \"Tengiz-Korgalzhyn Lake System\". 318 species of birds have been recorded at Lake Tengiz, 22 of which are endangered. The lake is part of the Korgalzhyn Nature Reserve, which is was nominated in 2008 together with the Naurzum Nature Reserve as the first natural UNESCO World Heritage site in Kazakhstan (Saryarka — Steppe and Lakes of Northern Kazakhstan). On October 16, 1976, the Soviet space ship Soyuz 23 unintentionally splashed down into the northern part of the lake, which was frozen. The crew was saved thanks to a very difficult rescue operation. Surface area 1,382 km², Average depth 2.5 m, Max. depth 6.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.88427734374999,
+          50.33844888725473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Zaysan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Zaysan",
+        "comment": "Lake Zaysan is a freshwater lake, ca. 1,810 km² (700 mi²), in eastern Kazakhstan, in a hollow between the Altai and the Tarbagatai Mountains. It is the largest lake in the East Kazakhstan Province. The lake lies at an altitude of 420 m, is 105 km long and 22–48 km wide, with a maximum depth of 15 m. Its major tributaries are the Kara Irtysh (Black Irtysh) and Kendyrlyk from the east; its only outlet is the Irtysh River (or White Irtysh). The lake is generally frozen from the beginning of November to the end of April, but still has an abundance of fish. Since the construction of the Bukhtarma dam on the Irtysh downstream from the Zaysan, the lake has risen 6 m (20 ft) above its natural level. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9794921875,
+          47.931066347509784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatyr-Kul",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Chatyr-Kul",
+        "comment": "Chatyr-Kul (also Chatyr Köl) is an endorheic alpine lake in the Tian Shan mountains in At-Bashi District of Naryn Province, Kyrgyzstan; it lies in the lower part of Chatyr-Kul Depression near the Torugart Pass border crossing into China. The name of the lake means “Celestial Lake” in Kyrgyz. The lake and 2 km buffer zone around it is part of the Karatal-Japyryk State Nature Reserve. The lake is a Ramsar site of globally significant biodiversity. Max. length 23 km (14 mi), Max. width 10 km (6.2 mi), Surface area 181 km2 (70 sq mi), Max. depth 16.5 m (54 ft), Water volume 0.62 km3 (0.15 cu mi), Shore length1 58 km (36 mi), Surface elevation 3,530 m (11,580 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2728271484375,
+          40.6306300839918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sary-Chelek",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sary-Chelek",
+        "comment": "Sary-Chelek (also Sarychelek), is a mountain lake located in Sary-Chelek Nature Reserve in Jalal-Abad Province in Western Kyrgyzstan. It is north of Arkit (the park headquarters) at the eastern end of the Chatkal Range. There are a number of smaller lakes in the area. Max. depth 234 m, Surface elevation 1,873 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.95770263671875,
+          41.89716623689337
+        ]
+      }
     }
   ]
 }
