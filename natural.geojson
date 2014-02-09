@@ -3990,6 +3990,134 @@
           65.7734898386667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enonvesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Enonvesi",
+        "comment": "Enonvesi is a lake in Finland and a part of the Saimaa lake system. Surface area 196.68 km², Surface elevation 75.8 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.88717651367187,
+          62.12636244267023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyhäjärvi (Karelia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pyhaejaervi_(Karelia)",
+        "comment": "Pyhäjärvi is a lake located mostly in Finland. The southeastern part of the lake is located in Russia. Surface area 206.79 km², Max. depth 46 m, Surface elevation 79.6 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.101165771484375,
+          61.84837464970738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nyuk",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Nyuk",
+        "comment": "Lake Nyuk is a large freshwater lake in the Republic of Karelia, northwestern part of Russia, and has an area of 214–230 km². There are numerous islands on the lake. The lake is part of the Kem River basin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.87957763671875,
+          64.4514805252685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Seliger",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Seliger",
+        "comment": "Seliger is a lake in Tver Oblast and, in the extreme northern part, Novgorod Oblast of Russia, in the northwest of the Valdai Hills, a part of the Volga basin. Absolute height: 205 m, area 212 km², average depth 5.8 m. Seliger is a large system of lakes linked by effluents, has many small islands and is surrounded by forests, including pine woods with many berries and mushrooms. Seliger is situated within a picturesque landscape of forests and hills. The lake is a protected nature reserve and is sometimes known as the \"European Baikal\" due to the diversity of its unique flora and fauna, similar to Lake Baikal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0853271484375,
+          57.17720302525199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Femund",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Femund",
+        "comment": "Femunden is Norway's third largest lake and the second largest natural lake in Norway. It is located close to the border with Sweden in the municipalities of Os, and Engerdal in Hedmark county and Røros in Sør-Trøndelag county. Femundsmarka National Park borders the northeastern part of the lake. Max. length 60 kilometres (37 mi), Max. width 9 kilometres (5.6 mi), Surface area 203.52 km2 (78.58 sq mi), Max. depth 130 metres (430 ft), Water volume 6 cubic kilometres (1.4 cu mi), Shore length1 234.92 kilometres (145.97 mi), Surface elevation 662 metres (2,172 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88720703125,
+          62.16806666070076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Yanisyarvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Yanisyarvi",
+        "comment": "Lake Yanisyarvi is a lake in the Republic of Karelia, Russia, located north of and draining to Lake Ladoga. The basin of this somewhat circular lake was formed by meteorite impact 700±5 million years ago during the Cryogenian period. The crater is 14 kilometers (8.7 mi) in diameter. Prior to World War II, the lake was thought to be the second known volcanic caldera in Finland (the other was Lake Lappajärvi). Both were eventually recognized as impact craters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.948486328124996,
+          61.97768660126737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lappajärvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lappajaervi",
+        "comment": "Lappajärvi is a lake in Finland, in the municipalities of Lappajärvi, Alajärvi and Vimpeli. It is formed in a 23 km (14 mi) wide meteorite crater. The age of the crater is estimated to be 73.3 million years old (±5.3 million years)—the upper Cretaceous period. The lake is part of Ähtävänjoki basin together with Lake Evijärvi that is located downstream of it. An island in the middle, Kärnä, gives the name to the impact melt rock (breccia), called kärnäite. Surface area 145.49 km2 (56.17 sq mi), Max. depth 36 m (118 ft), Surface elevation 69.5 m (228 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.692016601562496,
+          63.12457211930414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bolmen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bolmen",
+        "comment": "Bolmen is a lake in Småland, Sweden. Covering 184 km², and with a maximum depth of 37 m, it supplies a considerable part of Skåne with fresh water by means of an 82-km long tunnel, the Bolmen Water Tunnel, built during the 1970s and 80s. Bolmen is situated at the heart of Finnveden, one of the small lands of today's Småland. It is the tenth largest lake in Sweden. It contains 365 islands, of which the largest is Bolmsö, which was historically the meeting-place of the local assembly. Surface area 184 km2 (71 sq mi), Max. depth 37 m (121 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.660125732421875,
+          56.912001251183156
+        ]
+      }
     }
   ]
 }
