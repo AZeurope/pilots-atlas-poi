@@ -4919,6 +4919,54 @@
           57.73641728602591
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mavrovo Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mavrovo",
+        "comment": "Mavrovo Lake is situated in the Mavrovo region, in the Mavrovo and Rostuša municipality of the Republic of Macedonia, less than 100 km from Skopje. Abundant with trout, Lake Mavrovo is used for recreational activities such as swimming, boating and fishing during the summer. An additional point of interest is the half-submerged church in the lake. Spreading over an area of about 300 square miles (780 km2), the Mavrovo National Park features deep canyons, snowy peaks and blue lakes combine with dense forests that abound with diverse wildlife. Max. length 10 km, Max. width 5 km, Max. depth 50 m, Water volume 357 hm3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.76141357421875,
+          41.69752591075902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zemplínska šírava",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Zemplinska_sirava",
+        "comment": "Zemplínska šírava (sometimes called the \"Slovak sea\"), is a dam and lake in eastern Slovakia, near the town of Michalovce, wholly belonging to the Michalovce District. The name recalls the historical Zemplín region. The dam was built in 1961–1965, covers an area of 33 km2 (13 sq mi), has an average depth of 9.5 m (31 ft), with a maximum depth of 14 m (46 ft). Water from the dam flows into theLaborec river, which in turn flows into the Bodrog river. The area is primarily used for recreation. It also supplies cooling water for the Vojany Power Station. Max. length 11 km (6.8 mi), Max. width 3.5 km (2.2 mi), Surface area 33 km2 (13 sq mi), Average depth 9.5 m (31 ft), Max. depth 14 m (46 ft), Water volume 334 mio m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.00836181640625,
+          48.79600890414036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embalse de Navacerrada",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Embalse_de_Navacerrada",
+        "comment": "Embalse de Navacerrada is a reservoir at Navacerrada in the Community of Madrid, Spain. At an elevation of 1200 m, its maximum surface area is 93 hectares (230 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.008636474609375,
+          40.71916022743469
+        ]
+      }
     }
   ]
 }
