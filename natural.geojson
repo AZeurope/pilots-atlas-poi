@@ -4310,6 +4310,118 @@
           -0.2966295342722196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Fianga",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Fianga",
+        "comment": "Lake Fianga is a lake in Chad and Cameroon. It does not have clearly delineated borders, as it forms the western border of an area of permanent swampland.[1] The lake forms with the seasonal flooding of the Logone River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.205078125,
+          9.994548179356169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oguta Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Oguta_Lake",
+        "comment": "Oguta Lake is the largest natural lake in the Imo State of Nigeria. Located within the equatorial rainforest region, it is of enormous importance to the local population (the people of Oguta, Orsu, Nkwesi and Awo) as a source of water, fish, tourism and also as an outlet for sewerage. Max. depth 8m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7874908447265625,
+          5.708230686530514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makgadikgadi Pan",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Makadikadi_Basin",
+        "comment": "The Makgadikgadi Pan is a large salt pan in the middle of the dry savanna of northeastern Botswana. It is one of the largest salt flats in the world. The pan is all that remains of the formerly enormous Lake Makgadikgadi, which once covered an area larger than Switzerland, but dried up several thousand years ago. Lying southeast of the Okavango Delta and surrounded by the Kalahari Desert, Makgadikgadi is technically not a single pan but many pans with sandy desert in between, the largest being the Sua (Sowa), Nwetwe and Nxai Pans. The largest individual pan is about 1,900 sq mi (4,921.0 km2). In comparison, Salar de Uyuni in Bolivia is a single salt flat of 4,100 sq mi (10,619.0 km2), rarely has much water, and is generally claimed to be the world's largest salt pan. A dry salty clay crust most of the year, the pans are seasonally covered with water and grass, and are then a refuge for birds and animals in this very arid part of the world. The climate is hot and dry but with regular annual rains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8291015625,
+          -20.689322775663335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ngami",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ngami",
+        "comment": "Lake Ngami is an endorheic lake in Botswana north of the Kalahari Desert. It is seasonally filled by the Taughe River an effluent of the Okavango River system flowing out of the western side of the Okavango Delta. It is one of the fragmented remnants of the ancient Lake Makgadikgadi. Although the lake has shrunk dramatically beginning from 1890, it remains an important habitat for birds and wildlife, especially in flood years."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.69775390625,
+          -20.488773287109836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noun River (Cameroon)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bamendjing",
+        "comment": "The Noun River is a river of the West Province of Cameroon. It arises at Lake Oku (6°11′34″N 10°27′14″E) and flows south, it is joined by the Monoun River and flows south in the valley between the mountains Ngotsetzezan and Mount Yahou. It turns east at about 5° N latitude. Its mouth is at the Mbam River (4°54′42″N 11°06′02″E), which itself is a tributary of the Sanaga River. It forms the boundary between the Bamiléké area and the Bamun area, and played a key role in the history of the Bamileke people. The Noun River was dammed at Bamendjing in 1975[2] (5°41′55″N 10°30′03″E) creating a reservoir with the same name. At its maximum the reservoir is 32 km long and 276 km wide. Its surface area varies between 150 km² and 300 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45074462890625,
+          6.194827125048341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Barombi Mbo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Barombi_Mbo",
+        "comment": "Lake Barombi Mbo or Barombi-ma-Mbu is a lake near Kumba in the Southwest Region of Cameroon. It is located in the Cameroon volcanic chain, and is the largest volcanic lake in this region. It is one of the oldest radiocarbon-dated lakes in Africa. On old colonial maps the area was known as Elefanten Sea (Elephant Lake), but the elephants living in the area were extirpated due to ivory trading. Surface area 5 square kilometres (1.9 sq mi) or 7 square kilometres (2.7 sq mi), Average depth 69 metres (226 ft), Max. depth 111 metres (364 ft), Surface elevation 300 metres (980 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.404296875,
+          4.664029951910404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Oku",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Oku",
+        "comment": "Lake Oku is a crater lake on the Bamenda Plateau in the Northwest Region of Cameroon. It is located at 2,219 metres (7,280 ft) on Mount Oku, and is completely surrounded by cloud forest. The lake lies in an explosion crater formed in the last phase of development of the Oku Massif, a large volcanic field with a diameter of about 100 kilometres (62 mi). Mount Oku is a stratovolcano that rises to 3,011 metres (9,879 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.458984375,
+          6.196192395254453
+        ]
+      }
     }
   ]
 }
