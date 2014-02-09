@@ -5143,6 +5143,70 @@
           9.129215680645755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatun Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gatun_Lake",
+        "comment": "Gatun Lake is a large artificial lake to the south of Colón, Panama. It forms a major part of the Panama Canal, carrying ships for 33 km (21 mi) of their transit across the Isthmus of Panama. The lake was created between 1907 and 1913 by the building of the Gatun Dam across the Chagres River. At the time it was created, Gatun Lake was the largest man-made lake in the world, and the dam was the largest dam on Earth. Surface area 425 km² Surface elevation 26 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92416381835936,
+          9.197003998984497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cochrane/Pueyrredón Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Cochrane/Pueyrredon_Lake",
+        "comment": "The Pueyrredón/Cochrane Lake is a glacier fed lake located on the eastern edge of the southern Andes, straddling the border between Argentina and Chile. It is named after Lord Cochrane on the Chilean side and Pueyrredón on the Argentina side. The border is a peninsula that juts out into the lake on the north side. The border to the north of the lake follows the ridgeline of the last major expression of the eastern Andes. The Argentine portion of the lake has a surface of 150 km2 (58 sq mi), while the portion in Chile covers 175 km2 (68 sq mi). Surface area 325 km², Surface elevation 153 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.982421875,
+          -47.29040793812927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palena/General Vintter Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Palena/General_Vintter_Lake",
+        "comment": "The Palena or General Vintter is a lake located in Patagonia and shared by Argentina, where it is known as Lago General Vintter, and Chile, where it's called Lago Palena. Both names are internationally accepted."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.51275634765625,
+          -43.92757183247524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viedma Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Viedma",
+        "comment": "Viedma Lake, approximately 50 miles (80 kilometers) long in southern Patagonia near the border between Chile and Argentina. It's a major elongated trough lake formed from melting glacial ice. The name of the lake comes from the Spanish explorer Antonio de Viedma, who in 1783 reached its shores, being the first European to do so. Max. length 80 km, Max. width 15 km, Surface area c. 1,088 km², Surface elevation 250 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.235107421875,
+          -49.667627822621924
+        ]
+      }
     }
   ]
 }
