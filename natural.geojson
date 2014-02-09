@@ -5079,6 +5079,70 @@
           14.257728233326104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Yojoa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Yojoa",
+        "comment": "Lake Yojoa is the largest lake in Honduras with a surface area of 285 square kilometers (110 mi²) and an average depth of 15 meters (50 ft). At an altitude of 700 meters (2,300 ft), it lies in a depression formed by volcanoes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.989501953125,
+          14.874450896601473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Apanás",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Apanas",
+        "comment": "Lake Apanás is a reservoir located in the north of Nicaragua. It is created by the dam on the Río Tuma to the north of Jinotega. The reservoir has an area of 51 square kilometers. It is a source of much of nation's hydropower for the Asturias hydroelectric station. Surface area 51 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.98037719726562,
+          13.186468107797188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Managua",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Managua",
+        "comment": "Lake Managua is a lake in Nicaragua. The Spanish name is Lago de Managua or Lago Xolotlán. At 1,042 km², it is approximately 65 kilometres (40 mi) long and 25 kilometres (16 mi) wide. Similarly to the name of Lake Nicaragua, its name was coined by the Spanish conquerors from \"Mangue\" (their name for the Mánkeme tribes) and agua (\"water\"). The city of Managua, the capital of Nicaragua, lies on its southwestern shore. Average depth 9.5 m Max. depth 20 m Surface elevation 39 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.319580078125,
+          12.350734120814016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayano Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lago_Bayano",
+        "comment": "Bayano Lake is a reservoir in the eastern part of Panamá Province, Panama created when the Bayano River was dammed in 1976. In terms of surface area, Lake Bayano is second largest lake in Panama, exceeded only by Lake Gatun. The lake and river are named after Bayano, the leader of largest slave revolt of 16th century Panama. The Bayano Caves are on the south side of the lake. Surface area 353 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77197265625,
+          9.129215680645755
+        ]
+      }
     }
   ]
 }
