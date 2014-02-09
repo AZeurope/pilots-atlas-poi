@@ -4118,6 +4118,102 @@
           56.912001251183156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lovozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lovozero",
+        "comment": "Lake Lovozero is located on the Kola Peninsula, in Murmansk Oblast within the Barents Sea basin and ensures runoff from the Voronya River. Area: 200 km², average depth is 5.7 metres, maximal 35 m. Annual fluctuations do not exceed 1 m, and the average period of water renewal is about 10 months. The lake has a winding coastline and many peninsulas and islands. In 1970, two hydroelectric power plants were built on the Voronya River at Serebryansk, about 100 kilometers downstream from the lake. The dam at the power plant created a reservoir on the Voronya with the same waterlevel as Lake Lovozero, effectively turning the two bodies of water into one."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1397705078125,
+          67.89001868431993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ströms vattudal",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Stroems_vattudal",
+        "comment": "Ströms vattudal is an extensive water system in the northern parts of Jämtland in Sweden. The water system stretches from Kvarnbergsvattnet in the north, close to Gäddede on the border to Norway, to Russfjärden in Strömsund in the south where it flows into Faxälven near Ulriksfors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457763671875,
+          63.944611852182945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randsfjorden",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Randsfjorden",
+        "comment": "Randsfjorden is Norway's fourth largest lake with an area of 138 km2 (53 sq mi). Its volume is estimated at just over 7 km3 (1.7 cu mi), and its greatest depth is 120 metres (390 ft). The lake is 135 metres (443 ft) above sea level. It is located in the county of Oppland and borders the municipalities of Gran, Jevnaker, Nordre Land, and Søndre Land in the districts of Land and Hadeland. It is drained by the Randselva river. Although the term fjord usually describes a saltwater inlet, Randsfjorden is actually a fresh water lake with a narrow shape, approximately aligned on a north-south axis."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404052734375,
+          60.43147654193656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyrifjorden",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tyrifjorden",
+        "comment": "Tyrifjorden (Lake Tyri) is Norway's fifth largest lake with an area of 137 km2. It has a volume of 13 km3, is 295 meters deep at its deepest, and lies 63 meters above sea level. The lake's primary source is the Begna river, which discharges into Tyrifjorden at Hønefoss where the river forms the waterfall of Hønefossen. Its primary outlet is at Geithus near the lake's southwest corner, where Tyrifjorden discharges into the Drammenselva river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1348876953125,
+          60.03604533849971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sommen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sommen",
+        "comment": "Sommen is a Swedish lake. Its area is 132 km² and its greatest depth is 60 m.(although deeper places are found every year) The lake is located in southern Sweden, and is bounded by the provinces of Östergötlandand Småland. The lake is a clear-water lake, with a visibility of 9–11 m in the eastern parts of the lake. This makes Sommen one of the greatest clear-water lakes in Sweden. According to tradition Sommen has 365 islands, one for each day of the year. The actual number is around 350. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.199584960937498,
+          58.016100154646765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dellen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dellen",
+        "comment": "Dellen is a lake system in the province of Hälsingland, Sweden. It consists of two lakes, Northern Dellen and Southern Dellen, appreciated among fly-fishermen for their distinct population of brown trout. Southern Dellen has a surface area of 52 km² and a water volume of 1,226 million m³. Northern Dellen has an area of 82 km² and a water volume of 1,489 million m³. The two lakes are only united by a short channel, and it is therefore disputed whether they should be counted as one or two lakes. If counted together, it would have a total area of 130 km², making it the 18th largest Swedish lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.69921875,
+          61.87428080368215
+        ]
+      }
     }
   ]
 }
