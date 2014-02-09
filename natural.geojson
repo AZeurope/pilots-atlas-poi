@@ -5015,6 +5015,70 @@
           42.439674178149424
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainy Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Rainy_Lake",
+        "comment": "Rainy Lake is a relatively large freshwater lake (345 square miles (890 km2), straddling the border between the United States and Canada. The Rainy River issues from the west side of the lake and is harnessed to make hydroelectricity for US and Canadian locations. The sister cities of International Falls, Minnesota, and Fort Frances, Ontario, are situated on either side of the outflow of the river from the lake. Rainy Lake and Rainy River establish the boundary between the two countries. Max. length 80 km (50 mi), Max. width 48 km (30 mi), Surface area 932 km2 (360 sq mi), Max. depth 50 m (160 ft), Shore length 1,500 km (930 mi) till 2,520 km (1,570 mi)  highly irregular rocky shoreline, Surface elevation 338 m (1,109 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.218994140625,
+          48.66194284607008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coatepeque Caldera",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Coatepeque_Caldera",
+        "comment": "Coatepeque Caldera, also known as Lago De Coatepeque (\"at the snake hill\") is a volcanic caldera in El Salvador in Central America. The caldera was formed during a series of majorrhyolitic explosive eruptions between about 72,000 and 57,000 years ago. Since then, basaltic cinder cones and lava flows formed near the west edge of the caldera, and six rhyodacitic lava domes have formed. The youngest dome, Cerro Pacho, formed after 8000 BC. Elevation 746 m (2,448 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54681396484375,
+          13.874079811160689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ilopango",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Ilopango_Lake",
+        "comment": "Lake Ilopango is a crater lake which fills a scenic 8×11 km (72 km2 or 28 sq mi) volcanic caldera in central El Salvador, on the borders of the San Salvador, La Paz, and Cuscatlán departments. The caldera, which contains the second largest lake in the country and is located immediately east of the capital city, San Salvador, has a scalloped 100 m (330 ft) to 500 m (1,600 ft) high rim. Max. length 11 km (6.8 mi), Max. width 8 km (5.0 mi), Surface area 72 km2 (28 sq mi), Max. depth 230 m (750 ft), Surface elevation 440 m (1,440 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05105590820312,
+          13.668672660746209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Güija",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Gueija",
+        "comment": "Lake Güija is a lake in Central America. The lake is situated on the border between Guatemala and El Salvador and has an area of 45 km², of which approximately 32 km² lies in El Salvador. The lake is of volcanic origin and was formed by a large basaltic lava flow from the San Diego volcano which blocked the Güija depression's original drainage. Surface area 45 km², Surface elevation 430 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51934814453125,
+          14.257728233326104
+        ]
+      }
     }
   ]
 }
