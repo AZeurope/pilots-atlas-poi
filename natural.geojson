@@ -4214,6 +4214,102 @@
           61.87428080368215
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snåsavatnet",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Snasavatnet",
+        "comment": "Snåsavatnet (English: Snåsa lake) is Norway's 6th largest lake, with an area of approximately 120 square kilometres (46 sq mi). The surface is only 24 metres (79 ft) above sea level. Snåsavatnet is located in the municipalities of Steinkjer and Snåsa in Nord-Trøndelag county, Norway. The villages of Følling and Sunnan lie at the southwestern end of the lake and the village of Snåsa lies at the northeastern end of the lake. Max. length 40 kilometres (25 mi), Max. width 5 kilometres (3.1 mi), Surface area 122 km2 (47 sq mi), Max. depth 121 metres (397 ft), Surface elevation 24 metres (79 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.041015625,
+          64.19681461100495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stora Le",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Stora_Le",
+        "comment": "Stora Le or Lesjön in Swedish and Store Le in Norwegian is a lake in Dalsland, Sweden, the northern end of which proceeds into Norway and into Värmland, where it continues as Lake Foxen. The lake stretches approximately 70 km (43.5 Mi) from Ed in the south past Nössemark to Töcksfors in the north, on Lake Foxen. It is a narrow lake, rarely measuring more than 2 to 3 km across, apart from a stretch forming part of Lake Foxen, where it reaches a full 5 km. Stora Le and Lake Foxen combined cover 131 km2. This makes Stora Le the 19th largest lake in Sweden. Its greatest depth is 99 metres to the south of Västra Fågelvik in the Lake Foxen part. Max. length 66 km (41 Mi), Max. width 5.2 km (3.3 Mi), Surface area 131 sq km, Average depth approx. 99 m (325 ft), Surface elevation 102.1 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.861114501953125,
+          59.174520861520634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tunnsjøen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tunnsjoen",
+        "comment": "Tunnsjøen is a lake in the municipalities of Røyrvik and Lierne in Nord-Trøndelag county, Norway. The 100.18-square-kilometre (38.68 sq mi) lake lies just south of the large lake Limingen, and just west of the border with Sweden. It is 358 metres (1,175 ft) above sea level and has a volume of 8.68 cubic kilometres (2.08 cu mi). The deepest part of the lake is 220 metres (720 ft) deep. It is the seventh largest lake in Norway. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.29345703125,
+          64.71201429888224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limingen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Limingen",
+        "comment": "Limingen is a lake in the municipalities of Røyrvik and Lierne in Nord-Trøndelag county, Norway. The lake lies 418 metres (1,371 ft) above sea level and has an area of 93 square kilometres (36 sq mi). At the deepest point, it is 192 metres (630 ft) deep and averages about 87 metres (285 ft) deep. The lake has a volume of 8.34 cubic kilometres (2.00 cu mi). The lake is located just north of the large lakeTunnsjøen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6395263671875,
+          64.76007493834943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chad",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chad",
+        "comment": "Lake Chad is a historically large, shallow, endorheic lake in Africa, the size of which has varied over the centuries. According to the Global Resource Information Database of the United Nations Environment Programme, it shrank as much as 95% from about 1963 to 1998, but \"the 2007 (satellite) image shows significant improvement over previous years.\" Lake Chad is economically important, providing water to more than 30 million people living in the four countries surrounding it (Chad, Cameroon, Niger, and Nigeria) on the edge of the Sahara Desert. It is the largest lake in the Chad Basin. Surface area 1,350 km2 (520 sq mi) (2005), Average depth 1.5 m, Max. depth 11 m, Water volume 72 km3 (17 cu mi), Shore length1 650 km, Surface elevation 278 to 286 metres (912 to 938 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447021484374998,
+          13.079478277226444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Edward",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Edward",
+        "comment": "Lake Edward, Rutanzige or Edward Nyanza is the smallest of the African Great Lakes. It is located in the Albertine Rift, the western branch of the East African Rift, on the border between the Democratic Republic of the Congo and Uganda, with its northern shore a few kilometres south of the Equator. Max. length 77 km (48 mi), Max. width 40 km (25 mi), Surface area 2,325 km2 (898 sq mi), Average depth 17 m (56 ft), Max. depth 112 m (367 ft), Water volume 39.5 km3 (9.5 cu mi), Surface elevation 912 m (2,992 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.564208984375,
+          -0.2966295342722196
+        ]
+      }
     }
   ]
 }
