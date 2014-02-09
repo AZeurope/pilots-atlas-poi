@@ -4855,6 +4855,70 @@
           45.98503507715982
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larnaca Salt Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Larnaca_Salt_Lake",
+        "comment": "Larnaca Salt Lake is a complex network of four salt lakes (3 of them interconnected) of different sizes to the west of the town of Larnaca. The largest is lake Aliki, followed by lake Orphani, lake Soros and lake Spiro. They form the second largest salt lake in Cyprus after the Limassol Salt Lake. The total surface area of the lakes adds up to 2.2 km² and being just off the road leading to Larnaca International Airport is one of the most distinctive landmarks of the area. Surface area 1,585 ha, Average depth 1 m, Surface elevation 0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62091064453125,
+          34.89578722546955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limassol Salt Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Limassol_Salt_Lake",
+        "comment": "Limassol Salt Lake (also known as Akrotiri salt lake) is the largest inland body of water on the island of Cyprus, in Akrotiri and Dhekelia, United Kingdom, an overseas territory. It lies due south-east of the sprawling city of Limassol and measures 10.65 km². Its lowest point is 2.7 meters below sea level and at its deepest point the water depth measures about one meter. Geologists hypothesize the lake was formed over the gradual joining of an offshore islet off the southern coast of Cyprus. Surface area 10.65 km2 (4.11 sq mi), Max. depth 1 m (3 ft 3 in), Surface elevation sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.97065734863281,
+          34.61851721379668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Velence",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Velencei",
+        "comment": "Lake Velence is the third largest lake in Hungary. It is a popular holiday destination among Hungarians. The lake has an area of 26 km2, one third of which is covered by the common reed. Because of the sunny climate of the area and the shallowness of the lake, it is one of the warmest lakes in Europe: its temperature in the summer may reach 26 to 28°C. Max. length 10.8 km, Max. width 3.3 km, Surface area 26 km², Average depth 1.60 m, Shore length1 28.5 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.582000732421875,
+          47.20650833393471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Burtnieks",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Burtnieks",
+        "comment": "Lake Burtnieks is the fourth largest lake in Latvia. It is shallow with an average depth of 2.9 m. The lake bed is mainly sandy, in places a little muddy. In the southeast part of the lake there is Devoniansandstone rock. Max. length 13.3 km (8.3 mi), Max. width 5.5 km (3.4 mi), Average depth 2.4 m (7 ft 10 in), Max. depth 3.3 m (11 ft), Water volume 91.1×106 m3 (3.22×109 cu ft), Islands 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2301025390625,
+          57.73641728602591
+        ]
+      }
     }
   ]
 }
