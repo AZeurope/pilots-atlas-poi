@@ -4791,6 +4791,70 @@
           41.89716623689337
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Song Kol Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Song_Kol_Lake",
+        "comment": "Song Köl (also Son Kul, Songköl, Song-Köl; literally \"following lake\") is an alpine lake in northern Naryn Province, Kyrgyzstan. It lies at an altitude of 3016 m, and has an area of about 270 km2 and volume of 2.64 km3. Lake's maximum length is 29 km, breadth about 18 km, and extreme depth f 13.2 m. It is the second largest lake after Issyk Kul Lake, and the largest fresh water lake in Kyrgyzstan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.135498046875,
+          41.840920397579936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Assad",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Assad",
+        "comment": "Lake Assad is a reservoir on the Euphrates in Ar-Raqqah Governorate, Syria. It was created in 1974 when the Tabqa Dam was closed. Lake Assad is Syria’s largest lake with a maximum capacity of 11.7 cubic kilometres (2.8 cu mi) and a maximum surface area of 610 square kilometres (240 sq mi). A vast network of canals uses water from Lake Assad to irrigate lands on both sides of the Euphrates. In addition, the lake provides drinking water for the city of Aleppo and supports a fishing industry. Max. length 80 km (50 mi), Max. width 8 km (5 mi), Water volume 10 km3 (2.4 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1829833984375,
+          35.969115075774845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doiran Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dojran_Lake",
+        "comment": "Doiran Lake is a lake with an area of 43.1 km² shared between the Republic of Macedonia (27.3 km²) and West Macedoniawithin Greek Macedonia, Greece (15.8 km²). To the west is the city of Nov Dojran, to the east the village of Mouries, to the north the mountain Belasica/Beles and to the south the Greek town of Doirani. The lake has a rounded shape, a maximum depth of 10 m and a north-to-south length of 8.9 km and is 7.1 km at its widest, making it the third largest lake partially in the Republic of Macedonia after Lake Ohrid andLake Prespa. Surface elevation 148 m (486 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.74444580078125,
+          41.21688680440109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lugano",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lugano",
+        "comment": "Lake Lugano is a glacial lake which is situated on the border between south-east Switzerland and Italy. The lake, named after the city of Lugano, is situated between Lake Como and Lago Maggiore. It was cited for the first time by Gregory of Tours with the name Ceresio in 590 AD, a name which is said to have derived from the Latin word cerasus, meaning cherry, and refers to the abundance of cherry trees which at one time adorned the shores of the lake. Surface area 48.7 km2 (18.8 sq mi), Average depth 134 m (440 ft), Max. depth 288 m (945 ft), Water volume 6.5 km3 (1.6 cu mi), Surface elevation 271 m (889 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.963470458984375,
+          45.98503507715982
+        ]
+      }
     }
   ]
 }
