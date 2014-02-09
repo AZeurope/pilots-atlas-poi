@@ -4967,6 +4967,54 @@
           40.71916022743469
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Champlain",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Champlain",
+        "comment": "Lake Champlain is a natural, freshwater lake in North America, located mainly within the borders of the United States (states of Vermont and New York) but partially situated across the Canada-United States border in the Canadian province of Quebec. Max. length 201 km (125 mi), Max. width 23 km (14 mi), Surface area 1,269 km2 (490 sq mi), Average depth 19.5 m (64 ft), Max. depth 122 m (400 ft), Water volume 25.8 km3 (6.2 cu mi), Shore length1 945 km (587 mi), Surface elevation 29 to 30 m (95 to 100 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.333740234375,
+          44.52588470040996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Memphremagog",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Memphremagog",
+        "comment": "Lake Memphremagog is a fresh water glacial lake located between Newport, Vermont, United States and Magog, Quebec, Canada. The name Memphremagog is derived from Algonkian, in which it means \"where there is a big expanse of water\". Max. length 32 mi (51 km), Surface area 41 sq mi (110 km2), Average depth 15.5 m (51 ft), Max. depth 107 m (351 ft), Surface elevation 208 m (682 ft), Islands 20."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.25570678710938,
+          45.04635929200553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake St. Clair",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Saint_Clair_(North_America)",
+        "comment": "Lake St. Clair is a fresh-water lake that lies between the Canadian province of Ontario and the U.S. state of Michigan. It was named after the Clare of Assisi, on whose feast day it was discovered by European explorers. It is part of the Great Lakes system, and along with the St. Clair River and Detroit River, Lake St. Clair connects Lake Huron (to its north) with Lake Erie (to its south). It has a total surface area of about 430 square miles (1,100 km2) and average depth of just 11 ft (3.4 m); to ensure an uninterrupted waterway, a shipping channel is dug across the lake. Max. depth 27 ft (8.2 m), Water volume 0.82 cu mi (3.4 km3)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7105712890625,
+          42.439674178149424
+        ]
+      }
     }
   ]
 }
