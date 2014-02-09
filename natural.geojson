@@ -4535,6 +4535,150 @@
           28.217289755957054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avalanche Lake, Ooty",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Avalanche_Lake,_Ooty",
+        "comment": "Avalanche Lake (Avalanchi lake) is located 28 kilometers from Ooty in the Nilgiris district in Tamil Nadu. The lake derived the name avalanche because of a huge land slide (avalanche) that occurred in the region in the early 1800s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.61659240722656,
+          11.332619336145605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsomoriri Wetland Conservation Reserve",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tso_Moriri",
+        "comment": "Tsomoriri or Lake Moriri (official name: Tsomoriri Wetland Conservation Reserve), is a lake in the Changthang (literally: northern plains) area in Jammu and Kashmir. The lake is at an altitude of 4,595 m (15,075 ft); it is the largest of the high altitude lakes in the Trans-Himalayan biogeographic region, entirely within India. The lake sits between Ladakh, India to the North, Tibet to the east, and Zanskar in the west. Max. length 19 km (12 mi), Max. width 3 km (1.9 mi), Surface area 12,000 ha (30,000 acres), Max. depth 105 m (344 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.31878662109375,
+          32.895732015669786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gavkhouni",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gavkhouni",
+        "comment": "Gavkhouni also written as Gavkhuni or Batlaq-e-Gavkhuni, located in central Iran, east of city of Esfahan, is the terminal basin of the Zayandeh River. Gavkhouni is a salt marsh with a salinity of 315‰ and an average depth of about 1 m. The salt marsh can dry up in summer. The Zayandeh River originates in the Zagros mountains and travels around 300km, before terminating in Gavkhouni."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.833251953125,
+          32.12910537866886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namak Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Namak_Lake",
+        "comment": "Namak Lake (Daryacheh-ye Namak) (Persian for Salt Lake) is a salt lake in Iran. It is located approximately 100 km (62 mi) east of the City of Qom at an elevation of 790 metres (2,590 ft) above sea level. The lake has a surface area of about 1800 km², but most of this is dry. Water only covers 1 km². The lake only reaches a depth between 45 centimetres to 1 metre. The most important water supply is the river Qom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.910400390625,
+          34.51560953848204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakhtegan Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bakhtegan_Lake",
+        "comment": "Lake Bakhtegan is a salt lake in Fars Province, southern Iran, about 160 km (99 mi) east of Shiraz and 15 km (9.3 mi) west of the town of Neyriz. Bakhtegan, with a surface area of 3,500 square kilometres (1,400 sq mi), is Iran's second-largest lake. It is fed by the Kor River. Several dams on the Kor River have significantly reduced waterflow into the lake, increasing its salinity and endangering the lake's populations of flamingos and other migratory birds. Lake Bakhtegan is now completely dry due to the dams built on the Kor River by the Islamic regime."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.953857421875,
+          29.35345166863502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maharloo Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Maharloo_Lake",
+        "comment": "Maharloo Lake is a salt lake located 27 kilometres southeast of Shiraz, Iran. Surface area 600 km2 (230 sq mi), Surface elevation 1,500 m (4,900 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.80853271484375,
+          29.46590536220298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarivar Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Zarivar_Lake",
+        "comment": "Lake Zarivar, also known as Zeribar or Zrewar, is a lake in western Iran. Max. length 5 km, Max. width 1.6 km, Max. depth 6 m, Water volume 30.000,000 m³, Surface elevation 1,285 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.12472534179687,
+          35.545635932499415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Habbaniyah",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Habbaniyah",
+        "comment": "Lake Habbaniyah is a shallow natural lake in al-Anbar, Iraq, west of Baghdad. It has a surface area 140 km². Traditionally the lake has been used to hold flood water from the River Euphrates, and in 1956 a barrage was constructed at Ramadi for this purpose. The lake was also used for recreational purposes. Surface area 140 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.52783203125,
+          33.27084277265288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Milh",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Milh",
+        "comment": "Lake Milh ‎, (literally Sea of Salt, pronounced Bahr al-Milh) is located a few miles west of Karbala, Iraq. It is alternately called Lake Razazah‎. Lake Milh is a depression into which excess water from the Euphrates River is diverted by a controlled escape channel or canal. The lake is rather shallow and water levels change with the seasons. Due to the salts and the changing water levels, few recreational areas exist around the lake. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5772705078125,
+          32.76880048488168
+        ]
+      }
     }
   ]
 }
