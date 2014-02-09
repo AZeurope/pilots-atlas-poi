@@ -3862,6 +3862,70 @@
           43.83452678223684
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Näsijärvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Naesijaervi",
+        "comment": "Näsijärvi is a lake 95 metres (312 ft) above sea level, in Pirkanmaa region, Finland. Näsijärvi is the biggest lake in the Tampere region at 256 square kilometres (99 sq mi) in size. The city of Tampere was built around the rapids of Tammerkoski, through which the lake drains into Pyhäjärvi. The water quality of the lake has improved as forest industry has decreased the amount of waste water. Max. length 40 km (25 mi), Max. depth 63 m (207 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7469482421875,
+          61.5514927834735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alqueva Dam",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Alqueva_dam",
+        "comment": "The Alqueva Dam is an arch dam and the center-piece of the Alqueva Mutlipurpose Project. It impounds the River Guadiana, on the border of Beja and Évora Districts in south of Portugal. The dam takes its name from the town of Alqueva to its right bank. It creates a large reservoir with an inter-annual regulation capacity from which water may be distributed throughout the region. The dam was completed in 2002 and its reservoir was full in 2012. The 518 MW power station was commissioned in two stages, stage I in 2004 and stage II in 2013. The Alqueva Dam constitutes one of the largest dams and artificial lakes (250 km²) in Western Europe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.457656860351562,
+          38.2273928792016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yli-Kitka",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Yli-Kitka",
+        "comment": "Yli-Kitka is a lake in Finland, in the municipalities of Kuusamo and Posio. The lake is connected to Ala-Kitka at Kilkilösalmi strait. Yli-Kitka combined with Ala-Kitka is the largest unregulated lake in Finland. Riisitunturi National Park is located north of the lake. From Ala-Kitka the waters flow through the Kitkanjoki river to the Oulankajoki river which is part of the Kovda River basin that drains into the White Sea in Russia. Surface area 237.31 km², Surface elevation 240.4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.685302734375,
+          66.12829712705536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suvasvesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Suvasvesi",
+        "comment": "Suvasvesi is a lake in Eastern Finland near the town of Kuopio. Suvasvesi consists of two circular open lakes, Kuukkarinselkä in north and Haapaselkä in south. The lakes are separated by a group of islands. The lake has 688 islands in total. The area of the lake is 234 km² making it the 18th largest lake in Finland. Kuukkarinselkä is the third deepest lake in Finland measuring 89.0 m in the deepest point. Surface area 233.58 km², Max. depth 89.0 m, Surface elevation 81.7 m. Islands 688."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19229125976562,
+          62.64071275965705
+        ]
+      }
     }
   ]
 }
