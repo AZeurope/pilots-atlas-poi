@@ -4679,6 +4679,54 @@
           32.76880048488168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tharthar",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tharthar",
+        "comment": "Lake Tharthar (also Therthar), and known in Iraq as Buhayrat ath-Tharthar, is a lake situated 120 kilometers north of Baghdad between the Tigris and the Euphrates rivers. It is the largest lake in Iraq. The construction of several dams has made it an important source for irrigation. Its size shrinks and expands dramatically with the seasons. The lake is deep and nutrient poor; there is very little vegetation except for sparse shrubs, some dense patches of growth and scattered Ziziphus trees. The area is farmed thanks to the use of tube-wells. A few sheep also graze in the area. The lake is threatened due to overfishing. Surface area 2,710 km2 (1,050 sq mi), Average depth 40 m (130 ft) to 65 m (213 ft), Water volume 35.18 km3 (8.44 cu mi) to 85.59 km3 (20.53 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.231201171875,
+          33.947916898356404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Alakol",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Alakol",
+        "comment": "Alakol Lake is a lake located in the Almaty and Shyghyz provinces, east central Kazakhstan. Its elevation is 347 m (1,138 ft) above sea level. Surface area 2,650 km², Max. depth 54 m, Water volume 58.6 km³, Surface elevation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.63940429687499,
+          46.08085173686787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sasykkol",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sasykkol",
+        "comment": "Sasykkol Lake is a lake in eastern part of Kazakhstan. It has an area of 600 km² (736 km² when water level in the lake is high), average depth of 3.3 m and maximum depth of 4.7 m. Fishery on the lake is common. The Mute Swan, Whooper Swan and Spoonbill can be found here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.024169921875,
+          46.581518465658014
+        ]
+      }
     }
   ]
 }
