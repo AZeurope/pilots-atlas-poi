@@ -3926,6 +3926,70 @@
           62.64071275965705
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tikshozero",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tikshozero",
+        "comment": "Lake Tikshozero is a freshwater lake, located in Loukhsky District of the Republic of Karelia and in Kandalakshsky District of Murmansk Oblast in Russia. It is one of the biggest lakes in Karelia. The area of the lake is 209 square kilometres (81 sq mi), and the area of its basin is 1,080 square kilometres (420 sq mi). The outflow of the lake of the Lopskaya River, which flows north as two separate streams (the Pudos River and the Vincha River) into Lake Kovdozero and belongs to the drainage basin of the Kovda River and of the White Sea. Surface area 209 square kilometres (81 sq mi), Surface elevation 111.2 m (365 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8603515625,
+          66.27569825946966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Keret",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Keret",
+        "comment": "Lake Keret is a large freshwater lake in the Republic of Karelia, northwestern part of Russia. It has an area of 223 km². There are about 130 islands on the lake. Keret is used for fishery. Lake Keret freezes up in early November and stays icebound until late May."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8106689453125,
+          65.96213968336818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juojärvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Juojaervi",
+        "comment": "Juojärvi is a lake in Finland. It is considered as one of the cleanest lakes of the country. New Valamo monastery is located on the shore of Juojärvi. Surface area 219.54 km², Max. depth 44 m, Surface elevation 101 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.71002197265625,
+          62.6514398877342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Røssvatnet",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Rossvatnet",
+        "comment": "Røssvatnet is a lake and reservoir in the municipalities of Hattfjelldal and Hemnes in Nordland county, Norway. It has been the site of human occupation since the Stone Age. Its area of 219 square kilometres (85 sq mi) makes it the second largest lake in Norway by surface area. Without the dam which has regulated the lake since 1957, it would be 190 square kilometres (73 sq mi) and the third largest lake in Norway. Its depth is 240 metres (790 ft), its volume is estimated at about 15 cubic kilometres (3.6 cu mi), and its surface elevation is 374 metres (1,227 ft) above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0350341796875,
+          65.7734898386667
+        ]
+      }
     }
   ]
 }
