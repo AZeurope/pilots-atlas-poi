@@ -5991,6 +5991,54 @@
           -31.963813739260456
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobin Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tobin_Lake",
+        "comment": "Tobin Lake is a reservoir of Saskatchewan, Canada. Tobin Lake was formed by the E.B. Campbell Dam on the Saskatchewan River in 1963. The dam was originally named Squaw Rapids Dam, but was then renamed E.B. Campbell Dam due to the local first nations people who considered the name Squaw Rapids racist. It is near to the town of Nipawin and is downstream from Codette Lake, formed by Francois Finlay Dam in 1986. The construction of Francois Finlay Dam earned Nipawin the nickname The Town of Two Lakes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4747314453125,
+          53.589244357588655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Way",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Way",
+        "comment": "Lake Way is a dry lake approximately 15 km south of Wiluna, in the Mid West region of Western Australia. It also gives its name to a nearby cattle station, the Lake Way Station. The lake, dry except during exceptional floods such as occurred in 1900, 1942, 1963, repeatedly from 1992 to 2001 and in 2006, runs roughly parallel to the Leinster-Wiluna road, which is part of the Goldfields Highway. Surface area 460 km2 (180 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3387451171875,
+          -26.77013508224145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Wooleen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Wooleen",
+        "comment": "Lake Wooleen is a DIWA-listed intermittent freshwater lake system in Western Australia. The lake is situated on Wooleen Station, approximately 148 kilometres (92 mi) north of Yalgoo and 176 kilometres (109 mi) west of Cue in the Mid West region of Western Australia. Max. length 27 kilometres (17 mi), Max. width 3 kilometres (2 mi), Surface area 5,500 hectares (13,591 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.19415283203125,
+          -27.050564687097214
+        ]
+      }
     }
   ]
 }
