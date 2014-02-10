@@ -6039,6 +6039,70 @@
           -27.050564687097214
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Wanaka",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Wanaka",
+        "comment": "Lake Wanaka is located in the Otago region of New Zealand, at an altitude of 300 metres. Covering an area of 192 km2 (74 sq mi), it is New Zealand's fourth largest lake, and estimated to be more than 300 m (980 ft) deep. Its name is Māori, a corruption of Oanaka ('The place of Anaka', a local tribal chief). Max. length 42 km, Max. width 10 km, Surface area 192 km², Average depth 300 m (estimated), Surface elevation 300 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.134521484375,
+          -44.49650533109346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ellesmere / Te Waihora",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ellesmere",
+        "comment": "Lake Ellesmere / Te Waihora is located in the Canterbury Region of the South Island of New Zealand. It is actually a broad, shallow lagoon located directly to the west of Banks Peninsula, separated from the Pacific Ocean by a long narrow sandy spit called Kaitorete Spit, or more correctly Kaitorete Barrier. Max. length 30.5 km, Max. width 14.5 km, Surface area 197.81 km², Max. depth 2.1 m, Surface elevation 2 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.43865966796875,
+          -43.77704351930216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Whanga Lagoon",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Te_Whanga_Lagoon",
+        "comment": "Covering 160 square kilometres (62 sq mi), Te Whanga Lagoon dominates the geography of Chatham Island, in the South Pacific Ocean off New Zealand's east coast. It is the outflow of several small rivers in the island's hilly south, and drains to the Pacific via gaps in Hanson Bay on the east coast of the island. It contains many fossilized shark teeth that can be collected from the edges of the lagoon. Over time the lagoon is likely to silt up. 150 square kilometres (58 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          183.5321044921875,
+          -43.86027718467948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Pukaki",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pukaki",
+        "comment": "Lake Pukaki is the largest of three roughly parallel alpine lakes running north-south along the northern edge of the Mackenzie Basin on New Zealand's South Island. The others are Lakes Tekapo and Ohau. All three lakes were created when the terminal moraines of receding glaciers blocked their respective valleys, forming moraine-dammed lakes. Surface area 178.7 km², Average depth 47 m, Max. depth 70 m, Water volume 4.66 km³ , Surface elevation 518.2 to 532 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.167236328125,
+          -44.0777201712664
+        ]
+      }
     }
   ]
 }
