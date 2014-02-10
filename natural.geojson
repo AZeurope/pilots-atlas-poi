@@ -5767,6 +5767,54 @@
           -33.908035299892994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Yamma Yamma",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Yamma_Yamma",
+        "comment": "Lake Yamma Yamma is an ephemeral lake on the Cooper Creek system in the arid Channel Country of south-western Queensland, Australia. The lake, which is sometimes called Lake Mackillop, is the largest inland ephemeral lake in Queensland. Surface area 69,000 ha (690 km2; 270 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.405029296875,
+          -26.293415004265782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Anneen",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Anneen",
+        "comment": "Lake Anneen, sometimes referred to as Anneen Lake or (incorrectly) Nannine Lake, is a DIWA-listed salt lake system in Western Australia, about 40 kilometres (25 mi) southwest of Meekatharra. The lake is roughly 120 square kilometres (46 sq mi) in area, and consists of a main waterbody with two elongate arms. The main waterbody is roughly rectangular, with its long side oriented along a north-westerly axis. Surface area 120 square kilometres (46 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.29254150390624,
+          -26.909824671240692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ballard",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ballard",
+        "comment": "Lake Ballard is an ephemeral salt lake in the Goldfields-Esperance area of Western Australia about 50 kilometres (31 mi) West of Menzies. Max. length 50 kilometres (31 mi), Max. width 20 kilometres (12 mi), Surface area 4,900 hectares (12,108 acres)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.73974609374999,
+          -29.415675471217877
+        ]
+      }
     }
   ]
 }
