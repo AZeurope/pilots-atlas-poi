@@ -5943,6 +5943,54 @@
           -22.461802035333967
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Macleod",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Macleod",
+        "comment": "Lake Macleod is the westernmost lake in Australia. It lies north of the small coastal city of Carnarvon, Western Australia, estimated population 8,816. Surface area 1,500 square kilometres (579 sq mi), Average depth typically <1.5 metres (5 ft), Max. depth 1.5 metres (5 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6700439453125,
+          -24.111661168663574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copperlode Dam",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Morris",
+        "comment": "Copperlode Dam or Lake Morris is a fresh water reservoir dam servicing the city of Cairns, Queensland, Australia. The dam is located in the range immediately west of the city. Originally Cairns' water needs were met with water drawn from Freshwater Creek and also some from Behana Creek. It was evident to even the earliest setters that a larger source of water would need to be secured as Cairns grew."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6787109375,
+          -16.98406940518386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mundaring Weir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_O27Connor",
+        "comment": "Mundaring Weir is the name of a dam (and historically the adjoining locality) which are located 39 kilometres (24 mi) from Perth, Western Australia in the Darling Scarp. It is situated in the Mundaring locality. The dam crosses the Helena River. The town of Mundaring was gazetted in 1898, the same year as the commencement of construction of the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.17561340332031,
+          -31.963813739260456
+        ]
+      }
     }
   ]
 }
