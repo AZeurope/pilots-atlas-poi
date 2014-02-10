@@ -6167,6 +6167,70 @@
           -38.076203576652325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Wairarapa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Wairarapa",
+        "comment": "Lake Wairarapa is a lake at the southern end of the North Island of New Zealand, 50 kilometers east of Wellington. The lake covers an area of 78 km², and is the third largest in the North Island, fractionally smaller than Lake Rotorua. The nearest town to the lake is Featherston, which is located five kilometres from its northern shore. Average depth 2.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.23605346679688,
+          -41.219985784939226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Benmore",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Benmore",
+        "comment": "Lake Benmore is a lake located in the South Island of New Zealand. It was artificially created in the 1960s by construction of Benmore Dam. The lake covers an area of approximately 75 km². The major rivers with which it is fed are the Ohau, Pukaki, Tekapo and Ahuriri Rivers. Immediately downstream is Lake Aviemore. Max. depth 120 m, Surface elevation 361 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.2276611328125,
+          -44.402391829093894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Waikaremoana",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Waikaremoana",
+        "comment": "Lake Waikaremoana is located in Te Urewera National Park in the North Island of New Zealand, 60 kilometres northwest of Wairoa and 80 kilometres southwest of Gisborne. It covers an area of 54 km². From the Maori Waikaremoana translates as 'sea of rippling waters'. Max. depth 256 m, Shore length 102.3 km, Surface elevation 600 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.08587646484375,
+          -38.76800423017594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Coleridge",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Coleridge",
+        "comment": "Lake Coleridge is located in inland Canterbury, in New Zealand's South Island. Located 35 kilometres to the northwest of Methven, it has a surface area of 47 km². The lake is located to the north of the Rakaia River, and is the site of one of the country's earliest hydroelectric schemes, completed in 1914. Max. depth 200 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.485595703125,
+          -43.28120446433274
+        ]
+      }
     }
   ]
 }
