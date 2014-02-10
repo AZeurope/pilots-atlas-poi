@@ -5415,6 +5415,54 @@
           -37.76420119453823
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gippsland Lakes",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gippsland_Lakes",
+        "comment": "The Gippsland Lakes are a network of lakes, marshes and lagoons in east Gippsland, Victoria, Australia covering an area of about 354 square kilometres (137 sq mi). The largest of the lakes are Lake Wellington (Gunai language: Murla), Lake King and Lake Victoria. They are fed by the Avon, Thomson, Latrobe, Mitchell, Nicholson and Tambo rivers. Surface area 354 km2 (137 sq mi), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72422790527344,
+          -37.94148997332171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Macquarie (New South Wales)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Macquarie_(New_South_Wales)",
+        "comment": "Lake Macquarie or Awaba, an open and trained youthful wave dominated barrier estuary, is Australia's largest coastal salt water lake, covering an area of 110 square kilometres (42.5 sq mi), that is located in the Hunter Region of New South Wales. Most of the residents of the City of Lake Macquarie live near the shores of the lake; that is connected to the Tasman Sea by a short channel. Lake Macquarie is twice as large as Sydney Harbour and is the largest permanent salt water lake in the southern hemisphere. However, it is slightly smaller than Port Stephens, which is about 43 kilometres (27 mi) to the northeast of the lake. Max. length 24 km (14.9 mi), Max. width 7.9 km (4.9 mi), Surface area 110 km2 (42.5 sq mi), Average depth 8 m (26 ft), Max. depth 15 m (49 ft), Shore length 174 km (108.1 mi), Surface elevation 0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.58386230468747,
+          -33.07888467262862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myall Lakes",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Myall_Lakes",
+        "comment": "Myall Lakes, a series of fresh water lakes protected under the Ramsar Convention, are located within the Great Lakes local government area in the Mid North Coast region of New South Wales, Australia. The Myall Lakes are adjacent to the east coast, about 250 kilometres (155 mi) north of Sydney. Surface area 9,300 hectares (23,000 acres), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35565185546875,
+          -32.45067943659943
+        ]
+      }
     }
   ]
 }
