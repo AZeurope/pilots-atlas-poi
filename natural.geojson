@@ -5367,6 +5367,54 @@
           -30.600093873550072
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Alexandrina (South Australia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Alexandrina_(South_Australia)",
+        "comment": "Lake Alexandrina is a lake in South Australia adjacent to the coast of the Southern Ocean, about 100 kilometres south-east of Adelaide. Surface area 64,900 hectares (251 sq mi), Average depth 2.8 metres (9.2 ft), Max. depth 6 metres (20 ft), Water volume 1,610 gigalitres (0.39 cu mi), Surface elevation 0.75 metres (2.5 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.19677734375,
+          -35.41591492345622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budgewoi Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Budgewoi_Lake",
+        "comment": "Budgewoi Lake, a lagoon that is part of the Tuggerah Lakes, is located within the Wyong Shire local government area in the Central Coast region of New South Wales, Australia. The lake is located near the settlement of Budgewoi and is situated about 100 kilometres (62 mi) north of Sydney. Surface area 1,400 hectares (3,500 acres), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.52481079101562,
+          -33.24787594792437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bonney S.E (South Australia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bonney_(South_Australia)",
+        "comment": "Lake Bonney S.E is a coastal lake in the south east of South Australia. It is one of the largest freshwater lakes in Australia. The lake is located 450 km (280 mi) south east of Adelaide and 13 km (8 mi) south west of Millicent. The Canunda National Park lies adjacent to the lake shore. For over 60 years, large volumes of wastewater from nearby pulp and paper mills have adversely affected the health of the Lake. Max. length 23 km, Max. width 4 km, Surface area 64 km² to 79 km², Average depth 3 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.34896850585938,
+          -37.76420119453823
+        ]
+      }
     }
   ]
 }
