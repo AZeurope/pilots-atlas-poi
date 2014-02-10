@@ -5511,6 +5511,54 @@
           -32.265071800242445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wonboyn Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Wonboyn_Lake",
+        "comment": "Wonboyn Lake is a tidal lake situated at the south-east tip of New South Wales in Australia. The nearest commercial centre is the town of Eden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9249267578125,
+          -37.24399499539284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake George (New South Wales)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_George,_New_South_Wales",
+        "comment": "Lake George is a lake in south-eastern New South Wales, Australia. It is about 40 kilometres north-east of Canberra along the Federal Highway en route to Sydney. Max. length 25 km (16 mi), Max. width 10 km (6.2 mi), Average depth 1 metre (3 ft 3 in), Max. depth 7.5 m (25 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4140625,
+          -35.101934057246055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Hindmarsh",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Hindmarsh",
+        "comment": "Lake Hindmarsh, in western Victoria, Australia, is the state’s largest natural freshwater lake. The nearest towns are Jeparit to the south and Rainbow to the north. The lake has filled after more than a decade of drought, due to floods in early 2011. Max. length 22 km (14 mi), Max. width 7 km (4.3 mi), Surface area 135 km2 (52 sq mi), Average depth 3.4 m (11 ft), Max. depth 3.65 m (12.0 ft), Water volume 378 GL."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.91864013671875,
+          -36.0646419551714
+        ]
+      }
     }
   ]
 }
