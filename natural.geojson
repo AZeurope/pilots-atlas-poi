@@ -5559,6 +5559,54 @@
           -36.0646419551714
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Magenta",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Magenta",
+        "comment": "Lake Magenta is an ephemeral salt lake in the Wheatbelt area of Western Australia. The lake is located 55 kilometres (34 mi) north-east of Jerramungup and 62 kilometres (39 mi) east of Pingrup. Max. length 22 km (14 mi), Max. width 7 km (4 mi), Surface area 110 km2 (42 sq mi), Water volume 1,540,000 m3 (54,384,587 cu ft), Surface elevation 390 m (1,280 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.17694091796875,
+          -33.46810795527895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menindee Lakes",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Menindee_Lakes",
+        "comment": "The Menindee Lakes is a chain of shallow ephemeral freshwater lakes connected to the Darling River to form a storage system. The lakes lie in the far west region of New South Wales, Australia, near the town of Menindee. The Menindee Lakes Water Storage Scheme supplies water to Broken Hill, the lower Darling and to water users along the Murray River in New South Wales, Victoria and South Australia under the Murray-Darling Basin Agreement. Seven of the lakes have been incorporated in an artificially regulated overflow system providing both for flood mitigation and as storage for domestic use, livestock and irrigation downstream. Max. length 16 kilometres (9.9 mi) (Lake Menindee only), Max. width 14 kilometres (8.7 mi) (Lake Menindee only), Surface area 47,500 hectares (117,000 acres), Average depth 7 metres (23 ft), Water volume 1,731,000 megalitres (61,100×106 cu ft), Surface elevation 60 metres (200 ft) AHD."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.33062744140625,
+          -32.34284135639301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Amadeus",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Amadeus",
+        "comment": "Lake Amadeus is a huge salt lake in the southwest corner of Australia's Northern Territory, about 50 km north of (Ayers Rock). The smaller Lake Neale is adjacent to the northwest. It is part of (or a surface feature of) the Amadeus Basin that was filled with the erosion products of the Petermann Orogeny. Max. length 180 km, Max. width 10 km, Surface area 1032 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.78125,
+          -24.716895455859323
+        ]
+      }
     }
   ]
 }
