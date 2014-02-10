@@ -5607,6 +5607,54 @@
           -24.716895455859323
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Barlee",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Barlee",
+        "comment": "Lake Barlee is an intermittent salt lake, at 1,980 square kilometres (764 sq mi) the second largest lake in Western Australia. It is 65 kilometres (40 mi) southeast of Youanmi and 160 kilometres (99 mi) north of Bullfinch, on the border between the shires of Sandstone and Menzies. Lake Barlee is more than 100 km from west to east, and about 80 km from north to south. The lake is usually dry. It fills about once every ten years on average, after which the water persists for a little less than a year. Max. length approximately 80 km (50 mi), Max. width approximately 100 km (62 mi), Surface area 1,980 km2 (760 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4378662109375,
+          -29.080175989623193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Buchanan (Queensland)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Buchanan_(Queensland)",
+        "comment": "Lake Buchanan is a flat salt lake approximately 28 km long and 8 km wide at its widest point, with a surface area of about 117 km². It is part of the Thomson River catchment and part of the Desert Uplands bioregion. Lake Buchanan is different from all other salt lakes in Australia because it occurs at a high elevation - on the Great Dividing Range. The lake is shallow and the water tends to be brackish.[1] Land around the lake is used for grazing. Surface area 40 km² . "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.865478515625,
+          -21.588489047779028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Disappointment",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Disappointment,_Western_Australia",
+        "comment": "Lake Disappointment is an ephemeral salt lake in Western Australia, which typically is dry except during very wet periods such as the 1900 floods and in many recent tropical wet seasons since 1967. It lies on the Tropic of Capricorn, due east of the mining town of Newman, Western Australia, and the Jigalong community."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.81616210937499,
+          -23.483400654325628
+        ]
+      }
     }
   ]
 }
