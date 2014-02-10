@@ -5703,6 +5703,70 @@
           -22.375476015564775
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mungo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mungo",
+        "comment": "Lake Mungo is a dry lake located in south-eastern Australia,in the south-western portion of New South Wales. It is about 760 km due west of Sydney and 90 km north-east of Mildura. The lake is the central feature of Mungo National Park, and is one of seventeen lakes in the World Heritage listed Willandra Lakes Region. Many important archaeological findings have been made at the lake, most significantly the discovery of the remains of Mungo Man, the oldest human remains found in Australia, Mungo Lady, the oldest human remains in the world to be ritually cremated and as the location of the Lake Mungo geomagnetic excursion, the first convincing evidence that Geomagnetic excursions are a geomagnetic phenomenon rather than sedimentological. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.07769775390625,
+          -33.735760815044635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Torrens",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Torrens",
+        "comment": "Lake Torrens is a salt lake in central South Australia. It is located in the Lake Torrens National Park. Lake Torrens lies between the Arcoona Plateau to the west and the Flinders Ranges to the east. It stretches approximately 200 km in length and 30 km in average width. The lake filled in 1897 and again in April 1989. It has a thin salt crust with red-brown clays beneath, which are soft and boggy. Lake Torrens is approximately 30 m above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.70263671875,
+          -30.741835717889778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Urana Nature Reserve",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Urana_Nature_Reserve",
+        "comment": "Lake Urana Nature Reserve is a nature reserve in the Riverina region of New South Wales, Australia. The reserve was created in 1996 and contains 303 hectares. It is on the western shore of Lake Urana, a shallow intermittent lake in a depression. It fills every 10 to 20 years and retains water for several. Both the lake and reserve lie west of the town of Urana."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18682861328125,
+          -35.28598473606574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willandra Lakes Region",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Willandra_Lakes",
+        "comment": "The Willandra Lakes Region is a World Heritage Site that covers 2,400 square kilometres in south-western New South Wales, Australia. The Region contains important natural and cultural features including exceptional examples of past human civilization including the world's oldest cremation site. A small section of the region is protected by the Mungo National Park. The Willandra Lakes Region was added to the Australian National Heritage List in May 2007. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94998168945312,
+          -33.908035299892994
+        ]
+      }
     }
   ]
 }
