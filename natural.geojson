@@ -6103,6 +6103,70 @@
           -44.0777201712664
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tekapo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tekapo",
+        "comment": "Lake Tekapo is the second-largest of three roughly parallel lakes running north–south along the northern edge of the Mackenzie Basin in the South Island of New Zealand (the others are Lake Pukaki and Lake Ohau). It covers an area of 83 square kilometres (32 sq mi), and is at an altitude of 700 metres (2,300 ft) above sea level. Max. length 27 km, Max. width 6 km (3.7 mi) (max), 3.5 kilometres (2.2 mi) (mean), Surface area 87 km2 (34 sq mi) (summer), 82 km2 (32 sq mi) (winter), Average depth 69 m (226 ft), Max. depth 120 m (390 ft), Water volume 6 km3 (4,900,000 acre·ft), Surface elevation 700 m (2,300 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.52703857421875,
+          -43.84641296470238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ohau",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ohau,_New_Zealand",
+        "comment": "Lake Ohau is a glacial lake in the Mackenzie Basin of New Zealand's South Island. It is fed by the Hopkins and Dobson rivers, which have their headwaters in the Southern Alps, and has its outflow in the Ohau River, which itself feeds into the Waitaki River hydroelectric project. Ohau is the smallest of three roughly parallel lakes running north-south along the northern edge of the Mackenzie Basin. Surface area 54 km², Average depth 74 m, Max. depth 129 m, Water volume 4.02 km³, Surface elevation 520 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.84588623046875,
+          -44.23142460449416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Hāwea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Hawea",
+        "comment": "Lake Hāwea is located in the Otago Region of New Zealand, at an altitude of 348 metres. It covers an area of some 141 km² and is, at its deepest, 392 metres deep. Its name is Māori and is thought to be named after a local tribe though the exact meaning is uncertain. In 1958 the lake was raised artificially by 20 metres to store more water for increased hydroelectric power generation. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.27734375,
+          -44.55133484083592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Rotorua",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Rotorua",
+        "comment": "Lake Rotorua is the second largest lake in the North Island of New Zealand by surface area, and covers 79.8 km2. With a mean depth of only 10 metres it is considerably smaller than nearby Lake Tarawera in terms of volume of water. It is located in the Bay of Plenty region. Max. length 12.1 kilometres (7.5 mi), Max. width 9.7 kilometres (6.0 mi), Surface area 79.8 square kilometres (30.8 sq mi), Average depth 10 metres (33 ft), Max. depth 45 metres (148 ft), Surface elevation 280 metres (920 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.28387451171875,
+          -38.076203576652325
+        ]
+      }
     }
   ]
 }
