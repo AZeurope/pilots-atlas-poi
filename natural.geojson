@@ -5463,6 +5463,54 @@
           -32.45067943659943
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Georges Basin (New South Wales)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/St_Georges_Basin_(New_South_Wales)",
+        "comment": "St Georges Basin is an open intermediate wave dominated barrier estuary, or inland sea, located in the South Coast region of New South Wales, adjacent to the Jervis Bay Territory. Surface area 40.9 km2 (15.8 sq mi), Average depth 5.3 m (17 ft), Water volume 215,079 megalitres (7,595.4×106 cu ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.61294555664062,
+          -35.11990857099681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuggerah Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tuggerah_Lake",
+        "comment": "Tuggerah Lake, an intermittently open intermediate wave dominated barrier estuary that is part of the Tuggerah Lakes, is located within the Wyong Shire local government area in the Central Coast region of New South Wales, Australia. The lake is located near Wyong and is situated about 90 kilometres (56 mi) north of Sydney. Surface area 80.8 square kilometres (31.2 sq mi), Average depth 2.4 metres (7 ft 10 in), Water volume 193,231.2 megalitres (6,823.90×106 cu ft), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.47811889648438,
+          -33.30757713015297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallis Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Wallis_Lake",
+        "comment": "Wallis Lake, an open and trained wave dominated barrier estuary, is located within the Great Lakes local government area in the Mid North Coast region of New South Wales, Australia. Wallis Lake is located adjacent to the towns of Forster and Tuncurry, and adjacent to the east coast, about 308 kilometres (191 mi) north of Sydney. Max. length 25 kilometres (16 mi), Max. width 9 kilometres (5.6 mi), Surface area 98.7 square kilometres (38.1 sq mi), Average depth 2.3 metres (7 ft 7 in), Water volume 217,951.5 megalitres (7,696.88×106 cu ft), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.48886108398435,
+          -32.265071800242445
+        ]
+      }
     }
   ]
 }
