@@ -5207,6 +5207,70 @@
           -49.667627822621924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinchayqucha",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Junin",
+        "comment": "Chinchayqucha ( \"northern lake\" or \"ocelot lake\", hispanicized spelling Chinchaycocha) or Junín Lake (Spanish Lago Junín, named after the town Junín, the center of the ancient Repartimiento de Chinchaycocha) is the largest lake entirely within Peru. Even though Lake Titicaca has a much larger area, its eastern half is located on Bolivian territory. Located at approximately 4,082 metres (13,392 ft) above sea level, Chinchayqucha is an important birdwatching destination in the country. Surface area 529.88 square kilometres (204.59 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1077880859375,
+          -11.00860051288406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brokopondo Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Brokopondo_Reservoir",
+        "comment": "The Brokopondo Reservoir, officially named Professor Doctor Ingenieur W. J. van Blommestein Meer, and also called the Brokopondostuwmeer, is a large reservoir in the South American countrySuriname. It is named after the Surakarta-born Dutch hydrological engineer Willem Johan van Blommestein. With a surface area of approximately 1,560 km² (602 mi²), depending on the current water level, it is one of the largest reservoirs in the world, flooding nearly one percent of the country."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.030517578125,
+          4.762572524280281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guri Dam and Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Guri_(Simon_Bolivar)",
+        "comment": "The Guri Dam is a concrete gravity and embankment dam in Bolívar State, Venezuela on the Caroni River. Its official name is Central Hidroeléctrica Simón Bolívar (previously named Central Hidroeléctrica Raúl Leoni from 1978 to 2000). It is 7,426 metres long and 162 m high. Creates Guri Reservoir: Active capacity 135,000,000,000 m3 (109,446,281 acre·ft), Surface area 4,250 km2 (1,641 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.90222167968749,
+          7.641581457340622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Valencia (Venezuela)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Valencia_(Venezuela)",
+        "comment": "Lake Valencia is the third largest lake in Venezuela, exceeded in size only by Lake Maracaibo and the artificial Lake Guri. It occupies one of the so-called Aragua valleys, enclosed between the parallel mountain ranges of the Cordillera de la Costa, the Maritime Andes. One part is within the limits of Carabobo State and the other within Aragua. Its surface is 410 m above sea level, is about 30 km long, has an area of 350 km², and a catchment basin of 2,646 km², and lies partly in the state of Aragua. The maximum depth is 39 m, the mean depth 18 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.73345947265625,
+          10.190593962679712
+        ]
+      }
     }
   ]
 }
