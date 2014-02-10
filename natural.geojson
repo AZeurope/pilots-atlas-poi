@@ -5655,6 +5655,54 @@
           -23.483400654325628
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dumbleyung Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dumbleyung_Lake,_Western_Australia",
+        "comment": "Dumbleyung Lake, also widely known as Lake Dumbleyung, is a salt lake in Western Australia, in the Great Southern region of Western Australia. With a length of 13 kilometres (8 mi) and a width of 6.5 kilometres (4 mi), it covers a total area of 52 square kilometres (20 sq mi). Surface area 52 square kilometres (20 sq mi), Average depth 2.35 metres (8 ft) (September mean), Max. depth 4.57 metres (15 ft) (overflowing), Surface elevation 255 metres (837 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.66082763671875,
+          -33.33511774753216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Gairdner",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Gairdner",
+        "comment": "Lake Gairdner is a large endorheic lake in central South Australia, and is considered the fourth largest salt lake in Australia when it is flooded. The lake is over 160 km (99 mi) long and 48 km (30 mi) across with salt over 1.2 metres (4 ft) thick in some places. It is located west of Lake Torrens, 150 km northwest of Port Augusta and 440 km northwest of Adelaide. It is located in the Gawler Ranges. Lake Gairdner was named by the Governor of South Australia, Richard MacDonnell in October 1857 after Gordon Gairdner, a Chief Clerk of the Australian Department in the Colonial Office."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.94482421874997,
+          -31.58789446407041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Galilee (Queensland)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Galilee_(Queensland)",
+        "comment": "Lake Galilee is a semi-arid saline lake located in the Desert Uplands region of Central West Queensland. The lake is about 36 kilometres long, up to 12.5 kilometres wide and covers approximately 25,700 hectares. Max. length 36 km, Max. width 12.5 km, Surface area ~25,700 hectares, Max. depth <2 metres, Surface elevation 279 metres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.777587890625,
+          -22.375476015564775
+        ]
+      }
     }
   ]
 }
