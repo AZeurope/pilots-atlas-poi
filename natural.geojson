@@ -5815,6 +5815,54 @@
           -29.415675471217877
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Carnegie (Western Australia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Carnegie_(Western_Australia)",
+        "comment": "Lake Carnegie is an ephemeral lake in Western Australia. It fills with water only during very rare periods of significant rainfall, such as during the huge 1900 floods and in numerous recent tropical wet seasons when the monsoon and tropical cyclones have been moved south by recent climate change. In dry years, it is reduced to a muddy marsh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.431640625,
+          -26.180088724387286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Dora (Western Australia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Dora_(Western_Australia)",
+        "comment": "Lake Dora is a seasonal salt lake in Western Australia. It lies between the vegetated sand fields of the Great Sandy and Gibson Deserts. The Rudall River occasionally brings water to Lake Dora."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9644775390625,
+          -22.057641623615734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Grace North",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Grace_North",
+        "comment": "Lake Grace North is a lake in Western Australia, in the Shire of Lake Grace. Biogeographically, it is part of the Western Mallee subregion of the Mallee region of the South West Botanic Province. It has an area of about 72 square kilometres (28 mi²). It is one of four lakes in the area comprising the Lake Grace System, a DIWA-listed wetland of national importance."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.3612060546875,
+          -33.178939260581046
+        ]
+      }
     }
   ]
 }
