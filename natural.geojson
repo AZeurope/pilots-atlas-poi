@@ -5303,6 +5303,70 @@
           39.78637860850151
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alumine Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Alumine_Lake",
+        "comment": "Alumine Lake is located in the western part of Neuquén Province, Argentina. Alumine Lake is fed by the outflow of Lake Moquehue. Surface area 57 km², Average depth 69.4 m, Max. depth 165 m, Shore length 54.5 km, Surface elevation 1125 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12823486328125,
+          -38.92095542046726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huechulafquen Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Huechulafquen_Lake",
+        "comment": "Huechulafquen Lake is a lake in Neuquén Province, Patagonian Argentina. This glacial lake is located in the Andean mountains in Lanín National Park some 25 kilometres from Junín de los Andes and 60 kilometres from San Martín de los Andes. It is one of Argentina's most important Andean lakes, and is fed by meltwater streams and Lakes Paimún and Epulafquén. The lake's name is Mapuche, and means long lake, an apt name for this nearly 30 km long, 5 km wide lake, which has a surface area of 104 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30950927734375,
+          -39.768436410838426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diamante Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Laguna_del_Diamante",
+        "comment": "Laguna del Diamante is a lake located in the province of Mendoza, Argentina, in the San Carlos Department, some 198 km from Mendoza. It covers a surface area of about 14.1 km² and is one of the largest freshwater resources in the Province. Nearby is Maipo volcano. The volcano and its reflection in the lake forms diamond-shape image, which gives the lake its name. It is known for its stunning beauty. However, few get the chance to see it because it is passable only in February and only via an off-road vehicle. Surface area 14.1 km², Surface elevation 10,791 ft. (3,289 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.69314575195312,
+          -34.156704492287204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mar Chiquita (Córdoba)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Laguna_Mar_Chiquita",
+        "comment": "Mar Chiquita (in Spanish literally \"Little Sea\") or Mar de Ansenuza is an endorheic salt lake located in the northeast of the province of Córdoba, in central Argentina. The northeast corner of the lake also extends into southeastern Santiago del Estero Province. It is the largest of the naturally occurring saline lakes in Argentina. The lake is located in parts of five departments in the two provinces. The lake occupies the southern part of a depression that measures about 50 miles/80 km (north–south) by 28 miles/45 km (east–west). Its surface area varies considerably, given its shallow depth (about 10 m), and ranges between 2000 and 6000 km² (1242 and 3728 mi²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.55615234375,
+          -30.600093873550072
+        ]
+      }
     }
   ]
 }
