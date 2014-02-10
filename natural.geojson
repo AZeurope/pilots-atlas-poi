@@ -5271,6 +5271,38 @@
           10.190593962679712
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Prespa Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Small_Prespa_Lake",
+        "comment": "Small Prespa Lake is a lake shared between Greece (138 km² drainage area; 42.5 km² surface area) and Albania (51 km² drainage area; 4.3 km² surface area). It is the smaller of the two Prespa Lakes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.100616455078125,
+          40.753499070431374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Butrint",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Butrint",
+        "comment": "Lake Butrinti , formerly known as Lake Vivari or Lake Vatzindro, lies in the south of Albania in Saranda. It is in fact a lagoon. It overlooks the Ionian Sea and it is quite large in size. Next to it is the ancient site of Buthrotum (modern Butrinti in Albanian), which contains Ancient Greek and Roman antiquities and is one of the most popular tourist attraction in Albania. Max. length 8 km (5.0 mi), Max. width 3.6 km (2.2 mi), Surface area 18 km2 (6.9 sq mi), Surface elevation 1 m (3.3 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.029449462890625,
+          39.78637860850151
+        ]
+      }
     }
   ]
 }
