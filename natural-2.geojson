@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Islands",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Palm_Islands",
+        "comment": null,
+        "date": null,
+        "elevation": null,
+        "length_km": null,
+        "scalerank": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.122528076171875,
+          25.12663595638182
+        ]
+      }
+    }
+  ]
+}
