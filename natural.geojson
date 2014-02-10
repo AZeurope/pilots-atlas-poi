@@ -5863,6 +5863,86 @@
           -33.178939260581046
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Grace South",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Grace_South",
+        "comment": "Lake Grace South is a lake in Western Australia, on the border of the Shires of Lake Grace and Kent. Biogeographically, it is part of the Western Mallee subregion of the Malleeregion of the South West Botanic Province. It has an area of about 56 square kilometres (22 mi²). It is one of four lakes in the area comprising the Lake Grace System, a DIWA-listed wetland of national importance."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.42437744140625,
+          -33.29150775159363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Gregory (Western Australia)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Gregory_(Western_Australia)",
+        "comment": "Lake Gregory is an inland drainage lake situated in north-eastern Western Australia between the Great Sandy Desert and the Tanami Desert. It is usually fresh water, but can become saline after a number of dry years. It has a fairly regular inflow of water and is considered to be a permanent lake. Lake Gregory is situated on the edge of Mulan Aboriginal Community, home to the Walmajarri people. It is a traditional site to the people, containing several culturally significant sites. The Paraku Indigenous Protected Area works with traditional owners and rangers to monitor and maintain the lake and its surroundings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.41943359375,
+          -20.2055012058442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Joondalup",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Joondalup",
+        "comment": "Lake Joondalup is a medium sized freshwater lake in Perth, Western Australia. It is in the Perth northern suburbs of Joondalup, Wanneroo, and Edgewater. It is a nature reserve and part of the Yellagonga Regional Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.78628540039062,
+          -31.7477300243386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lefroy",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lefroy",
+        "comment": "Lake Lefroy is a large salt lake in southern Western Australia. It is north of Lake Cowan and approximately 55 kilometres (34 mi) south of Boulder. The towns of Kambalda and Widgiemooltha are both located along the western shore of the lake. The lake is ephemeral and rarely contains any water, it is a clay pan covered with a crust of salt that supports little vegetation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.761474609375,
+          -31.226894468813978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mackay",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mackay",
+        "comment": "Lake Mackay is the largest of hundreds of ephemeral salt lakes scattered throughout Western Australia and the Northern Territory. Named after its European discoverer, Donald George Mackay, Lake Mackay is the second largest lake in Australia. It measures approximately 60 miles (100 kilometres) east-west and north-south. The lake is the largest in Western Australia and has a surface area of 3,494 square kilometres (1,349 sq mi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.73779296875,
+          -22.461802035333967
+        ]
+      }
     }
   ]
 }
