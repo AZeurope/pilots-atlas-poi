@@ -6697,6 +6697,70 @@
           60.37586010056013
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tai",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tai",
+        "comment": "Lake Tai or Lake Taihu(lit. \"Great Lake\") is a large freshwater lake in the Yangtze Delta plain near Shanghai, China. The lake belongs to Jiangsu province and the southern shore forms its border with Zhejiang. With an area of 2,250 square kilometers (869 sq mi) and an average depth of 2 meters (6.6 ft), it is the third-largest freshwater lake in China, after Poyang and Dongting. The lake houses about 90 islands, ranging in size from a few square meters to several square kilometers. Lake Tai is linked to the renowned Grand Canal and is the origin of a number of rivers, including Suzhou Creek. In recent years, Lake Tai has been plagued by pollution as a result of rapid economic growth in the surrounding region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.06958007812499,
+          31.240985378021307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Indian Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Southern_Indian_Lake",
+        "comment": "Southern Indian Lake is a lake in Manitoba, Canada with an area of 2,015 km². It has a complex shoreline with many islands, long peninsulas and deep bays. Churchill River flows through the lake. Average depth 9.8 m (32 ft), Max. depth 30 m (98 ft), Water volume 23.4 km³, Surface elevation 254 m (833 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37158203125,
+          57.350237477396824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hongze Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hongze_Lake",
+        "comment": "Hongze Lake is located in Jiangsu Province, China and is encompassed by the prefecture-level cities Suqian (Sihong County and Siyang County) and Huai'an (Xuyi County and Hongze County). Lake Hongze is the fourth largest freshwater lake in China. Lake Hongze has quadrupled in size since the 12th century.[citation needed] A particularly large changed happened in 1680 (the 19th year of the Kangxi era), when the Yellow River changed its course and merged with the Huai River. Heavy sediment from the Yellow River blocked the course of the Huai River and diverted water from the Huai, creating the Hongze Lake as we know it. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71826171875,
+          33.31216783738619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Okeechobee",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Okeechobee",
+        "comment": "Lake Okeechobee, locally referred to as \"The Lake\" or \"The Big O\", is the largest freshwater lake in the state of Florida. It is the seventh largest freshwater lake in the United States and the second largest freshwater lake (the largest being Lake Michigan) contained entirely within the lower 48 states. However, it is the largest freshwater lake completely within a single one of the lower 48 states. Okeechobee covers 1,900 square kilometres (730 sq mi), approximately half the size of the state of Rhode Island, and is exceptionally shallow for a lake of its size, with an average depth of only 3 metres (9 feet). Max. length 57.5 kilometres (35.7 mi), Max. width 46.6 kilometres (29.0 mi), Average depth 2.7 m (8 ft 10 in), Max. depth 3.7 m (12 ft), Water volume 5.2 km3 (1.2 cu mi) (estimated), Surface elevation 3.74 m (12.3 ft) to 5.49 m (18.0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7879638671875,
+          26.922069916732795
+        ]
+      }
     }
   ]
 }
