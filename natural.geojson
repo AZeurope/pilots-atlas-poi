@@ -6536,6 +6536,70 @@
           63.05495931065107
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Bay",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hudson_Bay",
+        "comment": "Hudson Bay, sometimes (usually historically) called Hudson's Bay, is a large body of saltwater in northeastern Canada. It drains a very large area, about 3,861,400 square kilometres (1,490,900 sq mi), that includes parts of Ontario, Quebec, Saskatchewan, Alberta, most of Manitoba, southeastern Nunavut, as well as parts of North Dakota, South Dakota, Minnesota, and Montana. The southern arm of Hudson Bay is called James Bay. The Eastern Cree name for Hudson and James Bay is Wînipekw (Southern dialect) or Wînipâkw (Northern dialect), meaning muddy or brackish water. Lake Winnipeg is similarly named by the local Cree, as is the location for the City of Winnipeg. Max. length 1,370 km (851.28 mi), Max. width 1,050 km (652.44 mi), Surface area 1,230,000 km2 (470,000 sq mi), Average depth 100 metres (330 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.30859375,
+          59.265880628258095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Van",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Van",
+        "comment": "Lake Van is the largest lake in Turkey, located in the far east of the country in Van district. It is a saline soda lake, receiving water from numerous small streams that descend from the surrounding mountains. Lake Van is one of the world's largest endorheic lakes (having no outlet). The original outlet from the basin was blocked by an ancient volcanic eruption. Although Lake Van is situated at an altitude of 1,640 m (5,380 ft) with harsh winters, it does not freeze due to its high salinity except occasionally the shallow northern section. Max. length 119 km (74 mi), Surface area 3,755 km2 (1,450 sq mi), Average depth 171 m (561 ft), Max. depth 451 m (1,480 ft), Water volume 607 km3 (146 cu mi), Shore length1 430 km (270 mi), Surface elevation 1,640 m (5,380 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.813720703125,
+          38.65119833229951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tana",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tana",
+        "comment": "Lake Tana is the source of the Blue Nile and is the largest lake in Ethiopia. Located in Amhara Region in the north-western Ethiopian Highlands, the lake is approximately 84 kilometers long and 66 kilometers wide, with a maximum depth of 15 meters,and an elevation of 1,788 meters. Lake Tana is fed by the Lesser Abay, Reb and Gumara rivers; and its surface area ranges from 3,000 to 3,500 km,² depending on season and rainfall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3095703125,
+          12.071552663274506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uvs Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Uvs_Lake",
+        "comment": "Uvs Lake is a highly saline lake in an endorheic basin - Uvs Nuur Basin in Mongolia with a small part in Russia. It is the largest lake in Mongolia by surface area, covering 3,350 km² at 759 m above sea leve. Max. length 84 km (52 mi), Max. width 79 km (49 mi), Average depth 6 m (20 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.61474609375,
+          50.30337575356313
+        ]
+      }
     }
   ]
 }
