@@ -6360,6 +6360,70 @@
           -20.693176908667347
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nechako Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Nechako_Reservoir",
+        "comment": "The Nechako Reservoir, sometimes called the Ootsa Lake Reservoir, is a hydroelectric reservoir in British Columbia, Canada that was formed by the Kenney Dam making a diversion of the Nechako River through the Kitimat Ranges of the Coast Mountains to sea level at Kemano to service the new Alcan's aluminum smelter at Kitimat. When it was constructed on the Nechako River in 1952, it resulted in the relocation of over 75 families. It was one of the biggest reservoirs built in Canada to date, until the completion of the Columbia Treaty Dams and the W.A.C. Bennett Dam that created Lake Williston. The water level may swing 10 feet between 2790 and 2800 feet. Max. length 140 mi (230 km), Surface area 890 km2 (340 sq mi), Max. depth 305 m, Surface elevation 2,790 ft (850 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.1285400390625,
+          53.771442468556074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Gorges Reservoir Region",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Three_Gorges_Reservoir",
+        "comment": "The Three Gorges Reservoir Region is located in the upstream of the Yangtze River at the boundary of Chongqing municipality and Hubei province with the area of 59900 km² and with the population of 16 million. The Three Gorges Reservoir Region stretches along the Yangtze River from Jiangjin District of Chongqing to Yichang City of Hubei, which is very narrow and where the geography is complex.  The valley of the Three Gorges Reservoir Region below 500 m has an annual temperature 17–19 °C and, with the frost-free period annually lasts 300–340 days. The annual runoff flow at the site of the dam of the Three Gorges Project is 451 billion m³ with the annual sediment discharge of 530 million tons."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.98182678222656,
+          30.8639208197286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novosibirsk Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Novosibirsk_Reservoir",
+        "comment": "Novosibirsk Reservoir or Novosibirskoye Reservoir, informally called the Ob Sea, is the largest artificial lake in Novosibirsk Oblast and Altai Krai, created by a dam on the Ob River near Novosibirsk. The dam, built in 1956, is for generating hydroelectric power. The reservoir is 160 km long and up to 20 km wide. The hydroelectric power ouotput is 400 MW. During the summer, the lake is one of the most popular destinations for Novosibirsk residents, with many yachts and boats dotting the surface, and the beaches teeming with people. Max. length 160 km, Max. width 20 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.562255859375,
+          54.59752785211386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Peck Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Fort_Peck_Lake",
+        "comment": "Fort Peck Lake, or Lake Fort Peck, is a major reservoir in Montana, formed by the Fort Peck Dam on the Missouri River. The lake lies in the eastern prairie region of Montana approximately 140 miles (230 km) east of Great Falls and 120 miles (190 km) north of Billings, reaching into portions of six counties. With a volume of 18,700,000 acre feet (23.1 km3) when full, Fort Peck is the fifth largest artificial lake in the United States. It extends 134 miles (216 km) through central Montana, and its twisting, inlet-studded shoreline has a total length of some 1,520 miles (2,450 km). Max. length 134 mi (216 km), Surface area 245,000 acres (99,000 ha),  Average depth 76.3 ft (23.3 m), Max. depth 220 ft (67 m), Surface elevation 2,250 feet (690 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5179443359375,
+          47.90161354142077
+        ]
+      }
     }
   ]
 }
