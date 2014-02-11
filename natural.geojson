@@ -6472,6 +6472,38 @@
           31.31140838620163
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayrakkum Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kayrakkum_Reservoir",
+        "comment": "Kayrakkum Reservoir, also spelt variously as Kayrakum, Kairakum, Qayraqqum or Qayroqqum, is a large artificial lake in Ghafurov District of northern Sughd Province, in the north-western part of the Central Asiannation of Tajikstan. It lies in the western part of the Fergana Valley and was created in 1956 by damming the Syr Darya river. The provincial capital of Khujand lies about 15 km west of the dam. The reservoir has a surface area of 523 km2; its length is 56 km and maximum width 15 km. Its maximum depth near the dam at its western end is 25 m; the average depth is 8 m. At the other end, the head of the reservoir is silted up for a distance of 10–15 km, a consequence of the construction of the Tahtagul hydroelectric power station upstream on the Naryn River in Kyrgyzstan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.11474609375,
+          40.300476079749494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alajuela Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Alajuela_Lake",
+        "comment": "Alajuela Lake is an artificial lake on the Chagres River created by the Madden Dam and linked to the Panama Canal. Lake Alajuela serves as a reservoir for the canal, which lies to the lake’s southwest. The Chagres, Pequení, Boquerón, Salamanca, La Puente, Indio, Piedras, San Cristóbal and Escandaloso rivers flow into the lake. The rivers of Lake Alajuela contribute 45 percent of the total water for the canal. The reservoir was formerly known as Madden Lake when the Canal Zone was under U.S. administration and was renamed after control of the canal reverted to Panama. In early December 2010, Lake Alajuela reached its highest recorded water level, prompting authorities to close the Panama Canal for 17 hours. The canal reopened on December 9.  Surface area 50.2 km2 (19.4 sq mi), Surface elevation 76.8 m (252 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57809448242188,
+          9.233604298380849
+        ]
+      }
     }
   ]
 }
