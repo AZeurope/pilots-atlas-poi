@@ -6632,6 +6632,71 @@
           58.182288761718965
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poopó Lake",
+        "type": "lake",
+        "url": "http://de.wikipedia.org/wiki/Poopo-See",
+        "comment": "Poopó Lake is a large saline lake located in a shallow depression in the Altiplano Mountains in Bolivia at an altitude of approximately 3,700 metres. Because the lake is long and wide (90 km by 32 km) it makes up the eastern half of the Oruro Department, a mining region in southwest Bolivia. The permanent part of the lake body covers approximately 1,000 km². The lake receives most of its water from the Desaguadero River which flows from Lake Titicaca at the north end of the Altiplano. Since the lake lacks any major outlet and has a mean depth of no more than 3 m, the surface area varies greatly. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.093505859375,
+          -18.802318121688117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mistassini",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mistassini",
+        "comment": "Lake Mistassini is the largest natural lake by surface area in the province of Quebec, Canada, with a total surface area of approximately 2,335 km²  and a net area (water surface area only) of 2,164 km². It is located in the Jamésie region of the province, approximately 360 kilometers (220 mi) east of James Bay. The Cree town of Mistissini is located on Watson Peninsula in the south-east corner of the lake, which separates Baie du Poste from Abatagouche Bay. Max. length 161 km (100 mi), Max. width 19 km (12 mi), Max. depth 183 m (600 ft), Water volume 150 km³ (36 mile³), Surface elevation 372 m (1,220 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6083984375,
+          50.99992885585966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hulun Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hulun_Lake",
+        "comment": "Hulun Lake or Dalai Lake (lit. ocean lake), is a lake in Inner Mongolia, China. It is one of the five largest freshwater lakes in all of China, covering approximately 2,339 km². As in 1995 annual fish production was about 7,000 tons, 100 tons of shrimp, 4 kilograms of pearls, 1.5 million crayfish. The lake is also one of the key reed production areas in China. Max. length 90 km, Max. width 27 km, Average depth 5.7 m, Surface elevation 539 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.35595703124999,
+          48.93693495409401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nueltin Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Nueltin_Lake",
+        "comment": "Nueltin Lake (meaning \"sleeping island lake\") straddles the Manitoba-Nunavut border in Canada. The lake, which has an area of 1,851 km2 (715 sq mi), is predominantly in Nunavut's Kivalliq Region, and on the Manitoba side there is the Nueltin Lake Airport which serves the fishing lodge. The lake is split into two parts by a set of narrows. In 1949, the Government of Canada relocated an Inuit group, the Ihalmiut, to Nueltin from Ennadai Lake but the hunting was poor and they did not stay in the Nueltin area. Surface area 1,851 km2 (715 sq mi).",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.613037109375,
+          60.37586010056013
+        ]
+      }
     }
   ]
 }
