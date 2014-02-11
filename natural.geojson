@@ -6600,6 +6600,38 @@
           50.30337575356313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amadjuak Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Amadjuak_Lake",
+        "comment": "Amadjuak Lake is a lake in Qikiqtaaluk Region, Nunavut, Canada. Along with Nettilling Lake, it is located in south-central Baffin Island's Great Plain of the Koukdjuak. It is 154 km (96 mi) south of Burwash Bay. The closest community is Iqaluit. Surface area 3,115 km2 (1,203 sq mi), Surface elevation 113 m (371 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16943359375,
+          64.92354174306496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wollaston Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Wollaston_Lake",
+        "comment": "Wollaston Lake is located in northeastern Saskatchewan, Canada. With a surface area of 2286 km² (excluding islands; 2681 km² if islands are included), it is the largest bifurcation lake in the world that drains naturally in two directions. The Fond du Lac River flows out of the lake to the northwest, where it drains into Lake Athabasca, which ultimately drains into the Arctic Ocean via the Mackenzie River system. Average depth 20.6 m, Max. depth 71.0 m, Water volume 75 km³, Shore length1 1475 km, Surface elevation 398 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4033203125,
+          58.182288761718965
+        ]
+      }
     }
   ]
 }
