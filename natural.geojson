@@ -6761,6 +6761,70 @@
           26.922069916732795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baker Lake (Nunavut)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Baker_Lake_(Nunavut)",
+        "comment": "Baker Lake is a lake in Kivalliq Region, Nunavut, Canada. It is fed by the Thelon River from the west and the Kazan River from the south. Its outflows into Chesterfield Inlet. The lake is approximately 1,887 km2 (729 sq mi) in size. It has several named bays, and a few islands. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44921875,
+          64.18724867664997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namtso Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Namtso",
+        "comment": "Namtso or Lake Nam (officially: Nam Co; “Heavenly Lake”) is a mountain lake on the border between Damxung County of Lhasa Prefecture and Baingoin County of Nagqu Prefecture in the Tibet Autonomous Region of China, approximately 112 kilometres (70 mi) NNW of Lhasa. Max. length 70 km, Max. width 30 km, Surface area 1,920 km2 (740 sq mi), Average depth 33 m, Max. depth 125 m (410 ft), Water volume 768 billion m3, Surface elevation 4,718 m (15,479 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.50537109375,
+          30.732392734006083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac La Martre",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_La_Martre",
+        "comment": "Lac La Martre, is the third largest lake in the Northwest Territories, Canada. It is located approximately 125 mi (201 km) northwest of the territorial capital of Yellowknife. The Tlicho community of Whati (formerly called Lac La Martre) is located on the east shore of Lac La Martre. Surface area 1,687 km2 (651 sq mi), Surface elevation 265 m (869 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.037109375,
+          63.342272727869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kyoga",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kyoga",
+        "comment": "Lake Kyoga (also spelled Kioga) is a large shallow lake of Uganda, about 1,720 km2 (660 sq mi) in area and at an elevation of 1034 metres. The Victoria Nile flows through the lake on its way from Lake Victoria toLake Albert. The main inflow from Lake Victoria is regulated by the Nalubaale Power Station in Jinja. Another source of water is the Mount Elgon region on the border between Uganda and Kenya. While Lake Kyoga is part of the Great Lakes system, it is not itself considered a great lake. Max. length ~200 km, Average depth 5.7 m, Surface elevation 1,034 m (3,392 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.93701171875,
+          1.472006010190348
+        ]
+      }
     }
   ]
 }
