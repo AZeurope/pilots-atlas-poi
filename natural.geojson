@@ -6424,6 +6424,54 @@
           47.90161354142077
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Truman Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Truman_Reservoir",
+        "comment": "The Truman Reservoir (also known as Truman Lake) is located in the state of Missouri, United States. It is the largest man-made lake in Missouri and the dam that created and manages the lake's water level. It is located between Clinton and Warsaw, on the Osage River and extends south to Osceola. The dam is located in Benton County, but the reservoir also extends into parts of Henry, St. Clair, and Hickory counties. Surface area 55,600 acres (225 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.44146728515625,
+          38.26621945628273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srisailam Dam and Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Srisailam_Reservoir",
+        "comment": "The Srisailam Dam is a dam constructed across the Krishna River at Srisailam in the Kurnool district in the state of Andhra Pradesh in India and is the 3rd largest capacity hydroelectric project in the country. The dam was constructed in a deep gorge in the Nallamala Hills in Kurnool district, 300 m (980 ft) above sea level. It is 512 m (1,680 ft) long, 269.748 m (885.00 ft) high and has 12 radial crest gates. It has a reservoir of 800 km2 (310 sq mi). The left bank power station houses 6 × 150 MW reversible Francis-pump turbines (for pumped-storage) and the right bank contains 7 × 110 MW Francis-turbine generators. Surface area 800 km2 (310 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.83926391601562,
+          16.08276411471161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toledo Bend Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Toledo_Bend_Reservoir",
+        "comment": "Toledo Bend Reservoir is a reservoir on the Sabine River between Texas and Louisiana. The lake has an area of 185,000 acres (749 km²), the largest man-made body of water in (or partially in) Texas, the largest in the South, and the fifth largest (surface acre) in the United States. The dam is capable of generating 92 megawatts of electrical power. Max. length 65 miles (105 km), Max. width 10 miles (16 km), Surface area 185,000 acres (75,000 ha), Average depth 60 feet (18 m), Max. depth 110 feet (34 m), Water volume 4,477,000 acre feet (5.52 km3), Shore length 1,264 miles (2,030 km), Surface elevation 170 feet (52 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.636474609375,
+          31.31140838620163
+        ]
+      }
     }
   ]
 }
