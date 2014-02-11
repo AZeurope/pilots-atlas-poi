@@ -6296,6 +6296,70 @@
           47.517200697839414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Oahe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Oahe",
+        "comment": "Lake Oahe is a large reservoir behind Oahe Dam on the Missouri River beginning in central South Dakota and continuing north into North Dakota in the United States. The lake has an area of 370,000 acres (1,500 km2) and a maximum depth of 205 ft (62 m). By volume, it is the fourth-largest reservoir in the US. Lake Oahe has a length of approximately 231 mi (372 km) and has a shoreline of 2,250 mi (3,620 km). 51 recreation areas are located along Lake Oahe, and 1.5 million people visit the reservoir every year. The lake is named for the 1874 Oahe Indian Mission."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3106689453125,
+          45.120052841530516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mead",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mead",
+        "comment": "Lake Mead is the largest reservoir in the United States in maximum water capacity. It is located on the Colorado River about 24 mi (39 km) from the Strip southeast of Las Vegas, Nevada, in the states of Nevada andArizona. Formed by the Hoover Dam, Lake Mead is 112 miles (180 km) long when the lake is full, has 759 miles (1,221 km) of shoreline, is 532 feet (152 meters) at greatest depth, with a surface elevation of 1,221.4 feet (327.3 metres) above sea level, and has 247 square miles (640 km2) of surface, and when filled to capacity, 28 million acre-feet (35 km3) of water. However, the lake has not reached this capacity since 1983 due to increasing droughts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3951416015625,
+          36.2354121683998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Powell",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Powell",
+        "comment": "Lake Powell is a reservoir on the Colorado River, straddling the border between Utah and Arizona (most of it, along with Rainbow Bridge, is in Utah). It is a major vacation spot that around 2 million people visit every year. It is the second largest man-made reservoir, by maximum water capacity, in the United States behind Lake Mead, storing 24,322,000 acre feet (3.0001×1010 m3) of water when full. Lake Powell was created by the flooding of Glen Canyon by the controversial Glen Canyon Dam. Max. length 299 km (186 mi), Max. width 40 km (25 mi), Surface area 658 km2 (254 sq mi), Average depth 40 m (132 ft), Max. depth 170 m (560 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.302490234375,
+          37.05298514989097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Furnas Dam and Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Furnas_Reservoir",
+        "comment": "The Furnas Reservoir and Dam is a hydroelectric dam in the Minas Gerais state of Brazil. A small settlement was built near the dam with the same name, to house the workers during the dam construction. The main purpose of the dam and reservoir are the production of electricity and the regulation of the flow of the Grande River. Total capacity 22,590,000,000 m3 (7.98×1011 cu ft), Surface area 1,473 km2 (569 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.193389892578125,
+          -20.693176908667347
+        ]
+      }
     }
   ]
 }
