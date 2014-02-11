@@ -6825,6 +6825,54 @@
           1.472006010190348
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac Seul",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_Seul",
+        "comment": "Lac Seul is a large, crescent shaped lake in Kenora District, northwestern Ontario, Canada. It is approximately 241 km (150 mi) long. It has a maximum (regulated) depth of 47.2 m, with a surface elevation of 357 m above sea level. It is the second largest body of water entirely within the province of Ontario (Lake Nipigon being first). The lake consists of open water bays, narrow channels, and islands. It is a relatively shallow lake with many rock shoals. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.537841796875,
+          50.327929664466296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siling Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Siling_Lake",
+        "comment": "Siling Lake, is a lake in the Tibet Autonomous Region, to the north of Xainza. Doijiang is located near the lake. Administratively it belongs toXainza County and Baingoin County of the Nagqu Prefecture. The lake lies at an altitude of 4530 meters. It is a salt lake. It is fed by the rivers Za'gya Zangbo and the Boques Tsangpo. With an area of 1865 square kilometers, Siling Co is the second largest saltwater lake in the northern Tibetan Plateau and forms part of the Siling Co National Nature Reserve (also Selincuo Reserve or Xainza Nature Reserve). The 400,000 hectare reserve was established in 1993. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.044189453125,
+          31.80289258670676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khar-Us Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Khar-Us_Lake",
+        "comment": "Khar-Us Lake (lit. \"black water lake\") is a lake in western Mongolia in the Great Lakes Depression. It is the upper one in a system of the interconnected lakes: Khar-Us, Khar, Dörgön, Airagand Khyargas. Its area value (1,852 km²) includes the island Agbash (or Ak-Bashi, white head) area (274 km²), so the water surface area is 1,578 km² only. Max. length 72.2 km, Max. width 36.5 km, Average depth 2.2 m, Max. depth 4.5 m, Water volume 3.432 km³, Surface elevation 1,156.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.13134765625,
+          47.98256841921402
+        ]
+      }
     }
   ]
 }
