@@ -6504,6 +6504,38 @@
           9.233604298380849
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Colhué Huapi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Musters_and_Lake_Colhue_Huapi#Lake_Colhu.C3.A9_Huapi",
+        "comment": "Lake Colhué Huapi, the name of this large water mirror comes from the mapuche language. Colhué means \"reddish or red place\" and Huapi means \"island\". It is a reference to one of the many clay conformed islands of such lake. Max. length 220 km, Surface area 810 km², Average depth 2 m, Max. depth 5.5 m, Water volume 1,620 hm³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.202880859375,
+          -45.437008288673894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubawnt Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dubawnt_Lake",
+        "comment": "Dubawnt Lake is a lake in Kivalliq Region, Nunavut, Canada. It is 3,833 km2 (1,480 sq mi) in size and has several islands. It is about 200 miles north of the point where Manitoba, Saskatchewan and Nunavut come together, about 300 miles west of Hudson Bay and about 250 miles south of the arctic circle. To the northwest is the Thelon Wildlife Sanctuary. Its main inlet and outlet is the north-flowing Dubawnt River which joins the Thelon River at Beverly Lake (Nunavut). The Thelon flows east to Hudson Bay. Surface area 3,833 km2 (1,480 sq mi), Surface elevation 236 m (774 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.66748046874999,
+          63.05495931065107
+        ]
+      }
     }
   ]
 }
