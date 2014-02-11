@@ -6231,6 +6231,71 @@
           -43.28120446433274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Williston Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Williston_Lake",
+        "comment": "Williston Lake is a reservoir created by the W. A. C. Bennett Dam and is located in the Northern Interior of British Columbia, Canada. The lake fills the basin of the upper Peace River, backing into the Rocky Mountain Trench which is where the Parsnip and Finlay met at Finlay Forks to form the Peace. The lake includes three reaches, the Peace Reach (formerly the Peace Canyon), and the Parsnip and Finlay Reaches, which are the lowermost basins of those rivers, and covers a total area of 1,761 km2 (680 sq mi), being the largest lake in British Columbia and the seventh largest reservoir in the world. Max. length 251 km (156 mi), Max. width 155 km (96 mi), Surface area 1,761 km2 (680 sq mi), Water volume 74,000,000,000 m3 (60,000,000 acre·ft), Surface elevation 671 m (2,201 ft) (level varies by 18 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.90380859374999,
+          55.9922367329393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnoyarsk Dam and Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Krasnoyarsk_Hydroelectric_Dam",
+        "comment": "The Krasnoyarsk Dam is a 124-metre (407 ft) high concrete gravity dam located on the Yenisey River about 30 kilometres (19 mi) upstream from Krasnoyarsk in Divnogorsk, Russia. It was constructed from 1956 to 1972 and supplies 6,000 MW of power, mostly used to supply the KrAZ (Krasnoyarsky Aluminievyy Zavod, Krasnoyarsk Aluminum Plant). Both power and aluminum plants are controlled by the RUSAL company. As a result of the damming, the Krasnoyarskoye reservoir was created. This reservoir, also known as Krasnoyarskoye More (Krasnoyarsk Sea), has an area of 2,000 square kilometres (770 sq mi) and a volume of 73.3 cubic kilometres (18 cu mi). It is 388 km (241 mi) in length and 15 km (9 mi) in width at its widest, has an average depth of 36.6 m (120.1 ft), and a depth of 105 m (344 ft) near the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.27210998535156,
+          55.91381225329089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeya Dam and Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Zeya_Reservoir",
+        "comment": "The Zeya Reservoir, located upstream, is kept at a regulated depth of 93 metres (305 ft). A narrow, 40 kilometres (25 mi) long valley separates the dam water body from the vast surface of the reservoir. The Baikal-Amur Mainline railway runs along the north shore, where a 1,100 metres (3,600 ft) long bridge has been constructed. The Zeya Dam is a concrete gravity dam on the Zeya River, located by the town of Zeya, Amur Oblast, Russia, north of the Chinese border. On average the Zeya Hydroelectric Power Station generates 4.91 TWh of electricity per year. It is equipped with 6 hydro-turbines, 4 with capacity of 225 MW and 2 with capacity of 215 MW.",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.85888671875,
+          54.18815548107151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sakakawea",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sakakawea",
+        "comment": "Lake Sakakawea is a reservoir in the Missouri River basin in central North Dakota. Named for the Shoshone-Hidatsa woman Sakakawea, it is the largest man-made lake in North Dakota and the third largest in the United States, after Lake Mead and Lake Powell. The lake lies in parts of six counties in western North Dakota: Dunn, McKenzie, McLean, Mercer, Mountrail, and Williams. It is located about 80 km (50 mi) from Bismarck, North Dakota; the distance by the river is about 120 km (75 mi). The lake averages between 2 and 3 miles (3.2 and 4.8 km) in width and is 14 miles (23 km) wide at its widest point (Van Hook Arm). Lake Sakakawea marks the maximum southwest extent of glaciation during the ice age. The reservoir was created with the completion of Garrison Dam in 1956, the second (and largest) of six main-stem dams on the Missouri River. Max. depth 180 ft (55 m), Water volume 23,800,000 acre·ft (29.4 km3), Surface elevation 1,817 ft (554 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8048095703125,
+          47.517200697839414
+        ]
+      }
     }
   ]
 }
