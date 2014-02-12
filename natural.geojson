@@ -7353,6 +7353,70 @@
           29.0273547804184
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chany",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chany",
+        "comment": "Lake Chany is one of the largest lakes in Russia. It is a shallow, freshwater lake that has a fluctuating water level, which can change from season to season and year to year. A variety of ecosystems that surround the lake include a mixture of wetlands, salt marshes, and a mixture of birch and aspen forests. Lake Chany in particular is critically important for the migratory birds of Siberia. Max. length 91 km (57 mi), Max. width 88 km (55 mi), Surface area 2,000 km2 (770 sq mi), Average depth 2 m (6.6 ft), Max. depth 7 m (23 ft), Surface elevation 106 m (348 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.607421875,
+          54.838663612975125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mweru Wantipa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mweru_Wantipa",
+        "comment": "Lake Mweru Wantipa is a lake and swamp system in the Northern Province of Zambia. It has been regarded in the past as something of mystery, displaying fluctuations in water level and salinity which were not entirely explained by variation in rainfall levels; it has been known to dry out almost completely. Max. length 65 km, Max. width 20 km, Surface area 1500 km² (2005), dry (1916), Average depth 2 m, Max. depth 5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.794921874999996,
+          -8.57015771468257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagoa dos Patos",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lagoa_dos_Patos",
+        "comment": "Lagoa dos Patos (English: Ducks' Lagoon) is the second largest lagoon in Latin America and the biggest in Brazil. It is located in the state of Rio Grande do Sul, southernBrazil. It is 174 miles (280 km) long, has a maximum width of 44 miles (70 km), and a total area of 3,803 sq. mi. (9,850 km). It is separated from the Atlantic Ocean by a sandbar about 5 miles (8 kilometers) wide. The navigable São Gonçalo Channel, which enters Lagoa dos Patos near the town of Pelotas, connects Lagoa dos Patos to Lagoa Mirim to the south. The Rio Grande, at the south end of Lagoa dos Patos, forms the outlet to the Atlantic."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.185302734375,
+          -30.911651004518244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagoon Mirim",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lagoon_Mirim",
+        "comment": "Lagoon Mirim is a large estuarine lagoon which extends from southern Rio Grande do Sul state in Brazil into eastern Uruguay. Lagoa Mirim is separated from the Atlantic Ocean by a sandy, partially barren isthmus. Lagoa Mirim is about 108 miles (174 km) long by 6 to 22 miles (35 km) wide. It is more irregular in outline than its larger neighbor to the north, Lagoa dos Patos, and discharges into the latter through São Gonçalo Channel, which is navigable by small boats. Lagoa Mirim has no direct connection to the Atlantic, but the Rio Grande, a tidal channel about 24 miles (39 km) long which connects Lagoa dos Patos to the Atlantic, affords an entrance to the navigable inland waters of both lagoons and several small ports. The southern part of the lake lies in Uruguayan territory, but its navigation, as determined by treaty, belongs exclusively to Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9541015625,
+          -32.676372772089834
+        ]
+      }
     }
   ]
 }
