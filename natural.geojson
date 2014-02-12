@@ -7033,6 +7033,70 @@
           55.05320258537112
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Lake (Manitoba)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Island_Lake_(Manitoba)",
+        "comment": "Island Lake is a lake in northeastern Manitoba in Canada, near the Ontario border. The lake covers a total area of 1,223 square kilometres (472 sq mi), making it the 6th largest lake in the province. Communities around the lake include Garden Hill, Island Lake and St. Theresa Point. Island Lake drains north into Gods Lake via Goose Lake and Beaver Lake. Surface elevation 225 m (738 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6527099609375,
+          53.83632232122981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Becharof Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Becharof_Lake",
+        "comment": "Becharof Lake is a 37-mile (60 km) long lake on the Alaska Peninsula. It is located 23 miles (37 km) south-east of Egegik, in the Aleutian Range. Becharof Lake is the second largest lake in Alaska after Iliamna Lake. It ranks eighth on list of largest lakes of the United States by volume and fourteenth on list of largest lakes of the United States by area. Max. length 37 mi (60 km), Surface area 453 sq mi (1,170 km2), Surface elevation 13 ft (4.0 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3134765625,
+          57.938183012205315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lesser Slave Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lesser_Slave_Lake",
+        "comment": "Lesser Slave Lake is a lake located in central Alberta, Canada, northwest of Edmonton. It is the second largest lake entirely within Alberta boundaries (and the largest easily accessible by vehicle), covering 1,160 km2 (450 sq mi) and measuring over 100 km (62 mi) long and 15 km (9.3 mi) at its widest point. Lesser Slave Lake averages 11.4 m (37 ft) in depth and is 20.5 m (67 ft) at its deepest. It drains eastwards into the Athabasca River by way of the Lesser Slave River. Water volume 13.69 km³, Shore length1 247 km (153 mi), Surface elevation 578 m (1,896 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.53222656249999,
+          55.441479359140686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gods Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gods_Lake",
+        "comment": "Gods Lake is a lake in northeastern Manitoba in Canada. The lake covers an area of 1,151 square kilometres (444 sq mi), making it the 7th largest lake in the province. It lies north of Island Lake at an elevation of 178 metres (584 ft), approximately 280 kilometres (174 mi) east of Thompson, Manitoba. It has a perimeter of 678 kilometres (421 mi). The First Nations communities of Gods Lake, Gods Lake Narrows and Gods River are located on the shores of the lake. It drains north through Gods River into the Hayes River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2022705078125,
+          54.74364976592378
+        ]
+      }
     }
   ]
 }
