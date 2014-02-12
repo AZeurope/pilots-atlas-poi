@@ -6873,6 +6873,70 @@
           47.98256841921402
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tuz",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Tuz",
+        "comment": "Lake Tuz (meaning Saltlake) is the second largest lake in Turkey with its 1,665 km2 (643 sq mi) surface area and one of the largest hypersaline lakes in the world. It is located in the Central Anatolia Region, 105 km (65 mi) northeast of Konya, 150 km (93 mi) south-southeast of Ankara and 57 km (35 mi) northwest of Aksaray. Max. length 80 km (50 mi), Max. width 50 km (31 mi), Average depth 0.5 m (2 ft), Max. depth 1.5 m (5 ft), Surface elevation 905 m (2,969 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.33251953125,
+          38.736946065676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yathkyed Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Yathkyed_Lake",
+        "comment": "Yathkyed Lake (meaning: \"white swan\") is a lake in Kivalliq Region, Nunavut, Canada. Located between Angikuni Lake and Forde Lake, it is one of several lakes on the Kazan River. Yathkyed lake was named by Sayisi Dene, historical barren-ground caribou hunters of the area. Caribou Inuit artifacts have also been found here. Max. length 45 mi (72 km), Max. width 5–21 mi (8–34 km), Surface area 860 sq mi (2,227 km2)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.943115234375,
+          62.719498082521035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Claire (Alberta)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Claire_(Alberta)",
+        "comment": "Lake Claire is the largest lake which is entirely in Alberta, Canada. It is located entirely in Wood Buffalo National Park, west of Lake Athabasca. It lies between the mouths of Peace River and Athabasca River, and is part of the Peace-Athabasca Delta system. The lake has a total area of 1,436 km2 (554 sq mi), with 21 km2 (8.1 sq mi) island area, and lies at an elevation of 213 m (699 ft).[1] It is the largest lake located entirely within Albertan boundaries. Lake Athabasca, which straddles the border with Saskatchewan, is larger. The lake is fed by Birch River and McIvor River, and the lake system also contains Baril Lake and Mamawi Lake. The waters are discharged in the Peace River, finding their way to the Arctic Ocean through the Slave River, Great Slave Lake and Mackenzie River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08251953125,
+          58.59116158895476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cree Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Cree_Lake",
+        "comment": "Cree Lake is a lake in Saskatchewan, Canada. The lake is the fourth largest in the province and is located west of Reindeer Lake and south of Lake Athabasca. There is no highway access, but the lake is reachable by float plane. Cree Lake (Crystal Lodge) Airport (bush strip) and Cree Lake (Crystal Lodge) Water Aerodrome serve Crystal Lodge, a fly-in fishing lodge. Surface area 1,152 km2 (445 sq mi), Average depth 14.9 m (49 ft), Max. depth 60 m (200 ft), Water volume 17.6 km3 (4.2 cu mi), Shore length1 786 km (488 mi), Surface elevation 487 m (1,598 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.35314941406249,
+          57.50697120573168
+        ]
+      }
     }
   ]
 }
