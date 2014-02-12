@@ -7737,6 +7737,70 @@
           11.15684527521178
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Karum",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Karum",
+        "comment": "Lake Karum (also known as Lake Assale and Lake Asale) is a lake in the Afar Region of Ethiopia. One of two salt lakes in the northern end of the Danakil Depression (the other one being Lake Afrera), it lies at −115 m (−377 ft) below sea level. The volcano Erta Ale rises southwest of this lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.374755859375,
+          14.040672893673618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Afrera",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Afrera",
+        "comment": "Lake Afrera (also transliterated as Lake Afdera) is a hypersaline lake in northern Ethiopia. Located in Administrative Zone 2 of the Afar Region, it is one of the lakes of the Danakil Depression. According to its entry in Lakenet, it has a surface area of 100 km2 (39 sq mi), although another source states the area is 12,500 hectares. An unconfirmed report gives its depth as 160 m (525 ft); the lake is fed by underground streams."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.902099609375,
+          13.277372689908319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chew Bahir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chew_Bahir",
+        "comment": "Lake Chew Bahir (\"salty lake\") or Lake Istifanos, also called Stefanie, Basso Naebor and Chuwaha, is a lake in southern Ethiopia, on the boundary between the Oromia and the Southern Nations, Nationalities and Peoples' Regions. This lake is the southernmost and lowest (1,880 ft) of a series of lakes which lie in the north-easterly continuation of the Great Rift Valley; its watershed is separated from the watershed of Lake Turkana by the Humu Range and the hills south of it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.84814453125,
+          4.696879026871413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Naivasha",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Naivasha",
+        "comment": "Lake Naivasha is a freshwater lake in Kenya, outside the town of Naivasha in Nakuru County, which lies north west of Nairobi. It is part of the Great Rift Valley. The name derives from the local Maasai name Nai'posha, meaning \"rough water\" because of the sudden storms which can arise. Surface area 139 km², Average depth 6 m (20 ft), Max. depth 30 m (100 ft), Surface elevation 1,884 m (6,180 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.353759765625,
+          -0.7607808662819371
+        ]
+      }
     }
   ]
 }
