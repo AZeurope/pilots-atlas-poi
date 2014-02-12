@@ -7481,6 +7481,70 @@
           48.085418575511994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bras d’Or Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bras_d%27Or_Lake",
+        "comment": "Bras d'Or Lake is an inland sea, or large body of partially fresh/ salt water in the centre of Cape Breton Island in the province of Nova Scotia, Canada. Bras d'Or Lake is sometimes referred to as the Bras d'Or Lakes or the Bras d'Or Lakes system; however, its official geographic name is Bras d'Or Lake as it is a singular entity. Canadian author and yachtsman Silver Donald Cameron describes Bras d'Or Lake as \"A basin ringed by indigo hills laced with marble. Islands within a sea inside an island.\" The lake is connected to the North Atlantic by natural channels, the Great Bras d'Or Channel north of Boularderie Island and the Little Bras d'Or Channel to south of Boularderie Island, connect the northeastern arm of the lake to the Cabot Strait. Max. length 100 km (62 mi), Max. width 50 km (31 mi), Surface area 1,099 km2 (424 sq mi), Max. depth 287 m (942 ft), Water volume 32,000,000,000 m3 (4.2×1010 cu yd), Shore length 1,000 km (621 mi) (excluding islands)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.79833984374999,
+          45.82114340079471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Bitter Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Great_Bitter_Lake",
+        "comment": "The Great Bitter Lake is a salt water lake which is part of the Suez Canal. It is connected to the Small Bitter Lake, through which the canal also runs. Before the canal was built, their site was occupied by dry salt valleys. Together, the Bitter Lakes have a surface area of about 250 km². The canal also runs through Lake Manzala and Lake Timsah, north of the Bitter Lakes. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.376708984375,
+          30.330212685432734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Manyara",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Manyara",
+        "comment": "Lake Manyara is a shallow lake in the Natron-Manyara-Balangida branch of the East African Rift in Manyara Region in Tanzania. Said by Ernest Hemingway to be the \"loveliest lake ... in Africa,\" it is also the home of a diverse set of landscapes and wildlife. The name Manyara comes from the Maasai word emanyara, which is a euphorbia species of plant that is grown into a hedge around a family homestead (Euphorbia tirucalli). The name \"is a Masai description not for the lake, but in general for a lake shore region. Surface area 89 sq mi (231 km2), Max. depth 3.7 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8209228515625,
+          -3.6066246213236863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ambussel",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ambussel",
+        "comment": "Lake Ambussel is a lake on the Lossogonoi Plateau in Tanzania. Along with Nyumba ya Mungu Reservoir, Lake Chala and Lake Jipe, it is one of four waterbodies in the Pangani basin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.265625,
+          -3.9409805788555237
+        ]
+      }
     }
   ]
 }
