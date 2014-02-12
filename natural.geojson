@@ -7193,6 +7193,102 @@
           48.61838518688487
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chott el Djerid",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Chott_el_Djerid",
+        "comment": "Chott el Djerid also spelt Sciott Gerid and Shott el Jerid, is a large endorheic salt lake in southern Tunisia. The bottom of Chott el Djerid is located between 10 and 25 meters above sea level. Roughly in the shape of a tadpole, with a width of 20 km (12 mi) at its narrowest point, it reaches 250 km (160 mi) in overall length. At times, parts of it appear in various shades of white, green and purple. The narrow eastward inlet of the chott is also known as Chott el Fejej. Surface area 7,000 km2, Surface elevation +10-25 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41552734375,
+          33.7243396617476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Frome",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Frome",
+        "comment": "Lake Frome is a large endorheic lake in South Australia, east of the Northern Flinders Ranges. It is a large, shallow, unvegetated salt pan, 100 km long and 40 km wide, lying mostly below sea level and having a total surface area of 259,615 hectares. It only rarely fills with brackish water flowing down usually dry creeks in the Northern Flinders Ranges from the west, or exceptional flows down the Strzelecki Creek from the north. It was named after Edward Charles Frome after his mapping of the area in 1843."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75433349609375,
+          -30.686344939344202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Moore",
+        "type": "lake",
+        "url": "http://de.wikipedia.org/wiki/Lake_Moore",
+        "comment": "Lake Moore is a salt lake in the west-side of Western Australia, with no outflow. Surface area 1163 km2 (till 3500 if max. full), and neasuring 120 km long and 35 km at ist widest point, elevation 312 asl."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.59765625,
+          -29.563901551414432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongting Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dongting_Lake",
+        "comment": "Dongting Lake, or Lake Dongting is a large, shallow lake in northeastern Hu'nan province, China. It is a flood basin of the Yangtze River (Chang Jiang). Hence the lake's size depends on the season. The provinces of Hubei and Hu'nan are named after their location relative to the lake: Hubei means \"North of the Lake\" and Hu'nan means \"South of the Lake\" inChinese. Dongting Lake is famous in Chinese culture as the place of origin of Dragon boat racing. It is the site of Junshan island, and is a home to the Finless Porpoise, which is endangered in China. Surface area 2,820 km² (flood season: 20,000 km²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9010009765625,
+          29.291189838184863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonlé Sap",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tonle_Sap",
+        "comment": "The Tonlé Sap (\"Large Fresh Water River\", but more commonly translated as \"Great Lake\") is a combined lake and river system of major importance to Cambodia. The Tonlé Sap is the largest freshwater lake in Southeast Asia and is an ecological hot spot that was designated as a UNESCO biosphere in 1997. Surface area 2,700 km² (normal), 16,000 km² (monsoon)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90869140625,
+          13.047372256948787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bangweulu",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bangweulu",
+        "comment": "Bangweulu — 'where the water sky meets the sky' — is one of the world's great wetland systems, comprising Lake Bangweulu, the Bangweulu Swamps and the Bangweulu Flats or floodplain. Situated in the upper Congo River basin in Zambia, the Bangweulu system covers an almost completely flat area roughly the size of Connecticut or East Anglia, at an elevation of 1,140 m straddling Zambia's Luapula Province and Northern Province. With a long axis of 75 km and a width of up to 40 km, Lake Bangweulu's permanent open water surface is about 3,000 km², which expands when its swamps and floodplains are in flood at the end of the rainy season in May. The combined area of the lake and wetlands reaches 15,000 km². The lake has an average depth of only 4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.739990234374996,
+          -11.16762377460227
+        ]
+      }
     }
   ]
 }
