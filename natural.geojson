@@ -7801,6 +7801,70 @@
           -0.7607808662819371
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Baringo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Baringo",
+        "comment": "Lake Baringo is, after Lake Turkana, the most northern of the Kenyan Rift Valley lakes, with a surface area of about 130 square kilometres (50 sq mi) and an elevation of about 970 metres (3,180 ft). The lake is fed by several rivers, Molo, Perkerra and Ol Arabel, and has no obvious outlet; the waters are assumed to seep through lake sediments into the faulted volcanic bedrock. It is one of the two freshwater lakes in the Rift Valley in Kenya, the other being Lake Naivasha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0626220703125,
+          0.653672342728431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Magadi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Magadi",
+        "comment": "Lake Magadi is the southernmost lake in the Kenyan Rift Valley, lying in a catchment of faulted volcanic rocks, north of Tanzania's Lake Natron. During the dry season, it is 80% covered by soda and is well known for its wading birds, including flamingos. Lake Magadi is a saline, alkaline lake, approximately 100 square kilometers in size, that lies in a graben. The lake is an example of a \"saline pan\". The lake water, which is a dense sodium carbonate brine, precipitates vast quantities of the mineral trona (sodium sesquicarbonate). In places, the salt is up to 40 m thick."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25488281249999,
+          -1.919501677452836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Awasa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Awasa",
+        "comment": "Lake Awasa is an endorheic basin in Ethiopia, located in the Main Ethiopian Rift south of Addis Ababa. According to the Statistical Abstract of Ethiopia for 1967/68, the lake is 16 km long and 9 km wide, with a surface area of 129 square kilometers. It has a maximum depth of 10 meters and is located at an elevation of 1,708 meters."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.41644287109375,
+          7.046379130937713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chamo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chamo",
+        "comment": "Lake Chamo is a lake in the Southern Nations, Nationalities, and Peoples Region of southern Ethiopia. Located in the Main Ethiopian Rift, it is at an elevation of 1,110 meters. The lake is just to the south of Lake Abaya and the city of Arba Minch, and east of the Guge Mountains. Max. length 32 km, Max. width 13 km, Surface area 317 km², Max. depth 14 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50732421875,
+          5.796361917515151
+        ]
+      }
     }
   ]
 }
