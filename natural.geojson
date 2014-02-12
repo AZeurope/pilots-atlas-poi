@@ -7097,6 +7097,54 @@
           54.74364976592378
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Abaya",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Abaya",
+        "comment": "Lake Abaya or Lake Margherita (Abaya Hayk in Amharic) is a lake in the Southern Nations Nationalities Region of Ethiopia. It was named in 1896 as Lake Margherita by the Italian explorer Vittorio Bottego, the first European to visit the lake, to honor the wife of king Umberto I of Italy, Queen Margherita. However, the American explorer Arthur Donaldson Smith records that the local inhabitants, who included an eye witness of the event, told him that the Italian explorer Eugenio Ruspoli (died 1891) was killed by an elephant near the lake, which happened before Bottego reached Lake Abaya. Max. length 60 km, Max. width 20 km, Surface area 1162 km², Average depth 7.1 m, Max. depth 13.1 m, Water volume 8.2 km3 (2.0 cu mi), Surface elevation 1285 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86163330078125,
+          6.36170500361284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chapala",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chapala",
+        "comment": "Lake Chapala is Mexico's largest freshwater lake. It lies in the municipalities of Chapala, Jocotepec, Poncitlán, and Jamay, in Jalisco, and in Venustiano Carranza and Cojumatlán de Régules, in Michoacán. Max. length 80 km Max. width 18 km, Surface area 1,100 km2, Average depth 4.5 m, Max. depth 10.5 m, Water volume 8.1 km3 (1.9 cu mi), Surface elevation 1,524 m, Islands 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07922363281249,
+          20.251890313952938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aberdeen Lake (Nunavut)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Aberdeen_Lake_(Nunavut)",
+        "comment": "Aberdeen Lake is a large, irregularly-shaped lake in Kivalliq Region, Nunavut, Canada. It is located on the Canadian Shield. The lake measures nearly 90 kilometres (56 mi) east-west with a peneninsula in the center separating the lake into almost two halves which extend nearly 30 km (19 mi) north-south. The Thelon Wildlife Sanctuary is to the west. The Thelon River is the lake's primary inflow and outflow. Beverly Lake and Schultz Lake are nearby. Max. length 90 kilometres (56 mi), Max. width 30 km (19 mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7451171875,
+          64.47752785467301
+        ]
+      }
     }
   ]
 }
