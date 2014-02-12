@@ -6937,6 +6937,38 @@
           57.50697120573168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac la Ronge",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_la_Ronge",
+        "comment": "Lac la Ronge is a glacial lake in Saskatchewan, Canada. It is the fifth largest lake in the province. It is approximately 250 kilometres (160 mi) north of Prince Albert, on the edge of the Canadian Shield. La Ronge, Air Ronge and the Lac La Ronge First Nation are on the west shore. The lake is a popular vacation spot. Recreational activities include fishing, boating, canoeing, hiking, and camping. Surface area 1,413 square kilometres  (546 sq mi), Max. depth 41+ m (130+ feet), Surface elevation 364 m, Islands 1305."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.018310546875,
+          55.10665854913564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clearwater Lakes",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Clearwater_Lakes",
+        "comment": "The Lac à l'Eau Claire (the official name, in French), also called the Clearwater Lakes in English, Wiyasakami in Cree and Allait Qasigialingat by the Inuit, are a pair of (annular) circular lakes on the Canadian Shield in Quebec, Canada, near Hudson Bay. The lakes are actually a single body of water with a sprinkling of islands forming a \"dotted line\" between the eastern and western parts. The name is due to the clear water it holds. There are actually 25 lakes with that name in the province (26 if the Petit lac à l'Eau Claire — the Small Clearwater Lake — is included). These are the largest and northernmost, and the second largest natural lake in Quebec after Lake Mistassini. Surface area 1,383 km2 (534 sq mi), Max. depth 178 m (584 ft), Surface elevation 241 m (791 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35546875,
+          56.1210604250441
+        ]
+      }
     }
   ]
 }
