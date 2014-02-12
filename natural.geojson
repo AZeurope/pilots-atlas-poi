@@ -7609,6 +7609,70 @@
           -27.991976169784145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bosumtwi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bosumtwi",
+        "comment": "Lake Bosumtwi situated within an ancient meteorite impact crater, is approximately 8 kilometres (5.0 mi) across and the only natural lake in Ghana. It is situated about 30 km south-east ofKumasi and is a popular recreational area. There are about 30 villages near this crater lake, with a combined population of about 70,000 people. Max. length 8.6 km (5.3 mi), Max. width 8.1 km (5.0 mi), Surface area 49 km² (19 mi²), Average depth 45 m (150 ft), Max. depth 81 m (265 ft), Surface elevation 150 m (490 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40350341796875,
+          6.517272401536648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Débo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Debo",
+        "comment": "Lake Débo is a lake in the central part of Mali, formed by the seasonal flooding of the Niger River basin. It is in the Inner Niger Delta of the Niger River. During high water stages of the river, the delta formed by lakes, creeks, and backwaters form part of Lake Débo. The inner delta has many wide channels, which are shallow and flooded marshes; this delta extends over a length of 200 miles (320 km) with a width of 50 miles (80 km). Lake Débo during high flow season, is at a distance of 80 kilometres (50 mi) from Mopti on its upstream, on the southern end and 240 kilometres (150 mi) from Timbuktu at its downstream, on the north-eastern end. It is the largest of many such seasonal wetlands and lakes which form the Inner Niger Delta, and the largest lake within Mali."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1748046875,
+          15.321273934950508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Faguibine",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Faguibine",
+        "comment": "Lake Faguibine is a lake in Mali on the southern edge of the Sahara Desert situated 80 km west of Timbuktu and 75 km north of the Niger River to which it is connected by a system of smaller lakes and channels. In years when the height of the annual flood of the river is sufficient, water flows from the river into the lake. Since the Sahel drought of the 1970s and 1980s the lake has been mostly dry. Water has only rarely reached the lake and even when it has done so, the lake has been only partially filled with water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.878173828125,
+          16.794023610508034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kossou",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kossou",
+        "comment": "Lake Kossou is the largest lake in Côte d'Ivoire. It lies in the center of the country on the Bandama River. It is an artificial lake, created in 1973 by damming the Bandama River at Kossou (the Kossou Dam). Some 85,000 Baoulé people were displaced by the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6195068359375,
+          7.1608500964972555
+        ]
+      }
     }
   ]
 }
