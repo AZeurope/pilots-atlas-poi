@@ -7289,6 +7289,70 @@
           -11.16762377460227
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mai-Ndombe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mai-Ndombe",
+        "comment": "Lake Mai-Ndombe is a large freshwater lake in the Mai-Ndombe District of the Bandundu Province in western Democratic Republic of the Congo. The lake is within the Tumba-Ngiri-Maindombe area, the largest Wetland of International Importance recognized by the Ramsar Convention in the world. Surface area 890 sq mi (2,300 km²), Average depth 5 m, Max. depth 10 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2373046875,
+          -1.9551868337565106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Rukwa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Rukwa",
+        "comment": "Lake Rukwa is an endorheic lake in the Rukwa Valley of southwestern Tanzania. The alkaline Lake Rukwa lies midway between Lake Tanganyika and Lake Nyasa at an elevation of about 800 metres (2,600 ft), in a parallel branch of the rift system. Almost half of the lake lies in Uwanda Game Reserve. The lake has seen large fluctuations in its size over the years, due to varying inflow of streams. Currently it is about 180 kilometres (110 mi) long and averages about 32 kilometres (20 mi) wide, making it about 5,760 square kilometres (2,220 sq mi) in size. In 1929 it was only about 48 kilometres (30 mi) long, but in 1939 it was about 128 kilometres (80 mi) long and 40 kilometres (25 mi) wide. The lake may at times have been even higher and linked Lake Tanganyika with Lake Malawi; ancient shorelines suggest a final date of overflow into Tanganyika of 33,000BP. Surface elevation 800 metres (2,600 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14599609375,
+          -7.993957436359008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarygamysh Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sarygamysh_Lake",
+        "comment": "The Sarygamysh Lake, also Sarykamysh or Sary-Kamysh, Turkmen for \"Yellow Depression\", is a lake situated in central north Turkmenistan. It is geographically located approximately midway between the Caspian Sea and the Aral Sea. Approximately the northwest quarter of the lake belongs to the country of Uzbekistan, while the rest belongs to Turkmenistan. Lake Sarygamysh was fed, up to the 17th century, by the Uzboy River, a distributary of the Amu Darya River, which continued on to the Caspian Sea. Surface area ca. 5,000 km², Surface elevation 5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.41455078124999,
+          41.88592102814744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poyang Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Poyang_Lake",
+        "comment": "Poyang Lake located in Jiangxi Province, is the largest freshwater lake in China. The area of the lake fluctuates dramatically between the wet and dry seasons, but in recent years the size of the lake has been decreasing overall. In a normal year the area of the lake averages 3,500 square kilometres (1,400 sq mi). In early 2012, due to drought and the practice of storing water at the Three Gorges Dam the area of the lake reached a low of about 200 square kilometres (77 sq mi). Max. length 170 kilometres (110 mi), Max. width 17 kilometres (11 mi), Surface area 3,210 square kilometres (1,240 sq mi), Average depth 8.4 metres (28 ft), Max. depth 25.1 metres (82 ft), Water volume 25.2 cubic kilometres (6.0 cu mi), Shore length1 1,200 kilometres (750 mi), Surface elevation 16.5 metres (54 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.43310546875,
+          29.0273547804184
+        ]
+      }
     }
   ]
 }
