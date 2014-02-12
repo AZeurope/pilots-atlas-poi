@@ -7417,6 +7417,70 @@
           -32.676372772089834
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aydar Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Aydar_Lake",
+        "comment": "The Aydar Lake (alternate spellings: Lake Aydarkul, Lake Aidarkul) is part of the man-made Aydar-Arnasay system of lakes, which covers an area of 4,000 square kilometres (1,500 mi²). This system includes 3 brackish water lakes (Aydar Kul, Arnasay and Tuzkan) located in the saline depressions of the south-eastern Kyzyl Kum (now in Uzbekistan and Kazakhstan). The lakes are the unintentional byproduct of Soviet planning. Up to the middle of the last century the Arnasay lowland remained a dry Salt pan during most of the year. Only in Spring, in the lowlands, would the small, ephemeral Lake Tuzkan glisten briefly, disappearing in the hot weather. Max. length 250 km (160 mi), Max. width 15 km (9.3 mi), Water volume 44,300,000,000 km3 (1.06×1010 cu mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0166015625,
+          40.871987756697415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Melville",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Melville",
+        "comment": "Lake Melville is a saltwater tidal extension of Hamilton Inlet on the Labrador coast in the Canadian province of Newfoundland and Labrador. Comprising 3,069 square kilometres, and stretching 140 kilometres inland to Happy Valley-Goose Bay, it forms part of the largest estuary in the province, primarily draining the Churchill River and Naskaupi River watersheds. Both Lake Melville and Hamilton Inlet are encircled by mountains, with primary settlements at Happy Valley-Goose Bay, Northwest River, and Sheshatshiu. A ferry service runs on Lake Melville and Hamilton Inlet, connecting a number communities including Happy Valley-Goose Bay, Rigolet and Cartwright. Lake Melville was named for Viscount Melville (1742–1811), a prominent British politician."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.69970703124999,
+          53.72271667491848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Pontchartrain",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pontchartrain",
+        "comment": "Lake Pontchartrain is a brackish estuary located in southeastern Louisiana. It covers an area of 630 square miles (1,600 km2) with an average depth of 12 to 14 feet (3.7 to 4.3 m). Some shipping channels are kept deeper through dredging. It is roughly oval in shape, about 40 miles (64 km) from west to east and 24 miles (39 km) from south to north. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.318603515625,
+          30.183121842195515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Lake (Minnesota)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Red_Lake_(Minnesota)",
+        "comment": "Red Lake (translated from the Ojibwe language Miskwaagamiiwi-zaaga'igan: Lake with its liquid water be colored red) is a lake in Beltrami County in northern Minnesota, USA. It is the largest natural freshwater lake located entirely within Minnesota, and the 16th largest lake in the United States. The lake is separated into two sections by a peninsula on the eastern side that almost bisects it in the middle. The community of Ponemah lies on the peninsula. The two parts of the lake are known as Upper Red Lake and Lower Red Lake. Surface area 1,106 square kilometres (427 sq mi)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.07568359375,
+          48.085418575511994
+        ]
+      }
     }
   ]
 }
