@@ -7545,6 +7545,70 @@
           -3.9409805788555237
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyumba ya Mungu ",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Nyumba_ya_Mungu_Reservoir",
+        "comment": "Nyumba ya Mungu Dam is a hydroelectric dam in Tanzania. It is in Mwanga District, Kilimanjaro Region. The water runs down the slopes of Kilimanjaro in the deep valleys. These streams pour their water in the Nyumba ya Mungu reservoir. Nyumba ya Mungu means 'House of God'. Its installed capacity is 8 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.41119384765625,
+          -3.691596030449676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pool Malebo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pool_Malebo",
+        "comment": "The Pool Malebo (formerly Stanley Pool, also known as Malebo Pool), or Lake Nkunda by local indigenous people in pre-colonial times, is a lake-like widening in the lower reaches of the Congo River. The Pool Malebo is about 35 km (22 mi) long, 23 km (14 mi) wide and 500 km² in surface area. Its central part is occupied by M'Bamou or Bamu Island (180 km²), which is Republic of the Congo territory. The pool is shallow with depths of 3 to 10 m, while water levels vary by as much as 3 m over the course of a year at an average altitude of 272 m (900 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.483856201171875,
+          -4.299852230741914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Malombe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Malombe",
+        "comment": "Lake Malombe is a lake in southern part of Malawi, on the Shire River, in the Southern Region. Its located about twelve miles south of much larger Lake Malawi. It has an area of about 450 square kilometres (170 sq mi). In recent years the number of fishermen on the lake rose substantially, and this led to local decline in some fish species, especially the chambo which is an important source of food throughout Malawi. The lake is extremely shallow with an average depth of approximately eight feet, and during a period of dry weather the water level recedes and can even disappear. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.255126953125,
+          -14.657997403502987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake St. Lucia",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_St._Lucia",
+        "comment": "Lake St Lucia is an estuarine lake system in northern KwaZulu-Natal, South Africa. It is the largest estuarine lake in Southern Africa, covering an area of approximately 350 km 2, and falls within the iSimangaliso Wetland Park (a World Heritage Site). The lake was named Santa Lucia by Manuel Perestrerello on 13 December 1575, the day of the feast of Saint Lucy. It was later renamed to St. Lucia. St Lucia Lake harbours rich fauna, including crocodiles, hippopotami, various birds and invertebrates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47833251953125,
+          -27.991976169784145
+        ]
+      }
     }
   ]
 }
