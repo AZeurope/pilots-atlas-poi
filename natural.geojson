@@ -6969,6 +6969,70 @@
           56.1210604250441
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cedar Lake (Manitoba)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Cedar_Lake_(Manitoba)",
+        "comment": "Cedar Lake is a lake just north of Lake Winnipegosis in Manitoba, Canada. Cedar Lake's water level is controlled by the Grand Rapids dam. The town of Grand Rapids and the First Nations town of Easterville are nearby. The lake is known to have excellent examples of prehistoric amber fossil of cretaceous age. This type of amber is called as \"Chemawinit\", according to an Indian tribe which lives in this area. Another name of this amber is \"Cedarit\". This amber contains many organic inclusions. To date, these inclusions have not been thoroughly researched. The lake's main source is the Saskatchewan River, which forms a delta on the northwest side of the lake. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34912109375,
+          53.396432127095984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasba Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Kasba_Lake",
+        "comment": "Kasba Lake is a lake in the northern Canadian wilderness. The majority of the lake lies within the Northwest Territories, but a small section is in Nunavut. The lake is close to Canada's four corners. A seasonal fishing lodge is open to tourists each summer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0794677734375,
+          60.267747379866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tangra Yumco",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Tangra_Yumco",
+        "comment": "Tangra Yumco is a lake in Tibet, it is in the southwest of Nyima County.Tangra Yumco is 835.8 km 2, with a drainage area of 8219.7 km2, an elevation of 4528 m, length 71.7 km and mean width 11.65 km (max 19.4 m). It is the holy lake of the Bön believers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5447998046875,
+          31.019986671412497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bienville",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bienville",
+        "comment": "Lake Bienville is a lake in western central Quebec in Canada. The lake was named after Jean-Baptiste Le Moyne de Bienville, the younger brother of Sieur d'Iberville. Great Whale River flows through this lake on its way to Hudson Bay. Surface 1049 km2, elevation 426 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92724609375,
+          55.05320258537112
+        ]
+      }
     }
   ]
 }
