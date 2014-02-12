@@ -7673,6 +7673,70 @@
           7.1608500964972555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manantali Dam",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Manantali_Dam",
+        "comment": "The Manantali Dam is a multi-purpose dam on the Bafing river in the Senegal River basin, 90 km to the south-east of Bafoulabé, in Mali's Kayes Region. Total capacity 11.3bn m3, Surface area 477 square km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.358734130859375,
+          13.106230102044576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake George (Uganda)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_George_(Uganda)",
+        "comment": "Lake George or Lake Dweru is a lake in Uganda. It covers a total surface area of 250 square kilometres (97 sq mi) and is a part of Africa's Great Lakes system, although not itself considered one of the Great Lakes. Like the other lakes in the region, it was named after a member of the British royal family, in this case Prince George, later to become King George V of the United Kingdom. Lake George drains to the southwest into Lake Edward through the Kazinga Channel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.223388671874996,
+          0.005493164054094371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Zway",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Zway",
+        "comment": "Lake Zway or Lake Ziway is one of the freshwater Rift Valley lakes of Ethiopia. It is located about 60 miles south of Addis Ababa, on the border between the Regions of Oromia and of the Southern Nations, Nationalities, and Peoples; the woredas holding the lake's shoreline are Adami Tullu and Jido Kombolcha, Dugda Bora, and Ziway Dugda. The town of Ziway lies on the lake's western shore. The lake is fed primarily by two rivers, the Meki from the west and the Katar from the east, and is drained by the Bulbar which empties into Lake Abijatta. Max. length 31 km, Max. width 20 km, Surface area 440 km², Max. depth 8.9 m, Surface elevation 1,636 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81195068359374,
+          8.004836862364069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Abbe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Abbe",
+        "comment": "Lake Abbe, also known as Lake Abhe Bad, is a salt lake, lying on the Ethiopia-Djibouti border. It is one of a chain of six connected lakes, which also includes (from north to south) lakes Gargori, Laitali, Gummare, Bario and Afambo. Surface area 45,000 ha (170 sq mi) (34,000 ha open water, 11,000 ha salt flats), Average depth 36 metres (118 ft), Surface elevation 243 metres (797 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7755126953125,
+          11.15684527521178
+        ]
+      }
     }
   ]
 }
