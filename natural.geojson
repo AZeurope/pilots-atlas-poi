@@ -7145,6 +7145,54 @@
           64.47752785467301
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napaktulik Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Napaktulik_Lake",
+        "comment": "Napaktulik Lake, also known as Takijuq Lake is the eighth largest lake, Nunavut, Canada. It is located 173 km south of Kugluktuk. Surface area 1,080 km2 (420 sq mi), Surface elevation 381 m (1,250 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9833984375,
+          66.32868478255796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MacKay Lake (Northwest Territories)",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/MacKay_Lake_(Northwest_Territories)",
+        "comment": "MacKay Lake is the fifth largest lake in the Northwest Territories, Canada. Surface area 976 km2 (377 sq mi), Surface elevation 431 m (1,414 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.20635986328125,
+          63.944611852182945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Saint-Jean",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Saint-Jean",
+        "comment": "Lake Saint-Jean is a large, relatively shallow lake in south-central Quebec, Canada, in the Laurentian Highlands. It is situated 206 kilometres north of the Saint Lawrence River, into which it drains via the Saguenay River. It covers an area of 1,053 km2 (407 sq mi), and is 63.1 m (207 ft) at its deepest point. The lake is fed by dozens of small rivers, including the Ashuapmushuan, the Mistassini, the Peribonka, the Des Aulnaies, the Métabetchouane, and the Ouiatchouane. Max. length 43.8 km (27.2 mi), Max. width 24 km (15 mi), Average depth 11.4 m (37 ft), Water volume 11.9 km3 (2.9 cu mi), Surface elevation 99.6 m (327 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0703125,
+          48.61838518688487
+        ]
+      }
     }
   ]
 }
