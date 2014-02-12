@@ -7775,8 +7775,9 @@
       "properties": {
         "name": "Lake Chew Bahir",
         "type": "lake",
-        "url": "http://en.wikipedia.org/wiki/Lake_Chew_Bahir",
-        "comment": "Lake Chew Bahir (\"salty lake\") or Lake Istifanos, also called Stefanie, Basso Naebor and Chuwaha, is a lake in southern Ethiopia, on the boundary between the Oromia and the Southern Nations, Nationalities and Peoples' Regions. This lake is the southernmost and lowest (1,880 ft) of a series of lakes which lie in the north-easterly continuation of the Great Rift Valley; its watershed is separated from the watershed of Lake Turkana by the Humu Range and the hills south of it."
+        "url": "http://en.wikipedia.org/wiki/Lac_d%27Hourtin-Carcans",
+        "comment": "Lake Chew Bahir (\"salty lake\") or Lake Istifanos, also called Stefanie, Basso Naebor and Chuwaha, is a lake in southern Ethiopia, on the boundary between the Oromia and the Southern Nations, Nationalities and Peoples' Regions. This lake is the southernmost and lowest (1,880 ft) of a series of lakes which lie in the north-easterly continuation of the Great Rift Valley; its watershed is separated from the watershed of Lake Turkana by the Humu Range and the hills south of it.",
+        "date": ""
       },
       "geometry": {
         "type": "Point",
@@ -7863,6 +7864,86 @@
         "coordinates": [
           37.50732421875,
           5.796361917515151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ardibbo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ardibbo",
+        "comment": "Lake Ardibbo is a freshwater lake of Ethiopia. It is located north of Dessie, in the Debub Wollo Zone of the Amhara Region. It is situated about five kilometers southeast of Lake Hayq; both lakes are in Tehuledere woreda."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7650146484375,
+          11.237674247415999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sørvágsvatn lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Sorvagsvatn",
+        "comment": "Sørvágsvatn/Leitisvatn is a large lake in the Faroe Islands. The biggest lake of the islands, it is situated on the island of Vágar between the municipalities of Sørvágs Kommuna and Vága kommuna. The name Sørvágsvatn means \"The lake of Sørvágur\". In size it is 3.4 km2, more than three times the size of the second biggest lake Fjallavatn, which also lies on the island of Vágar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.238616943359375,
+          62.0505063310321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac d'Hourtin-Carcans",
+        "type": "lake",
+        "url": "Lac d'Hourtin-Carcans is a lake in Gironde, France. It is the largest lake situated entirely in France. It lies at an elevation of 14 m (46 ft), and has a surface area of 56.67 km² (21.88 sq. miles). Max. length 18 km, Max. width 5 km, Max. depth 10 m.",
+        "comment": "Lac d'Hourtin-Carcans is a lake in Gironde, France. It is the largest lake situated entirely in France. It lies at an elevation of 14 m (46 ft), and has a surface area of 56.67 km² (21.88 sq. miles). Max. length 18 km, Max. width 5 km, Max. depth 10 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1178588867187498,
+          45.131679975460514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Lacanau",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Lacanau",
+        "comment": "Étang de Lacanau is a lake in Lacanau, Gironde, France. Its surface area is 19.85 km²"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.109619140625,
+          44.97354220216915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Der-Chantecoq",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Der-Chantecoq",
+        "comment": "Lake Der-Chantecoq is situated close to the commune of Saint-Dizier in the departments of Marne and Haute-Marne. It is the largest artificial lake in Western Europe, covering 48 km² with 350 million m³ of water. The lake is named after the Der plain, in which it is located, and the submerged village Chantecoq. The lake is fed by a 12 km long canal that branches off the river Marne in Saint-Dizier. The outflow of the lake is a canal that joins the Marne in Arrigny, 20 km downstream of Saint-Dizier. Surface area 48 km², Max. depth 15 m, Water volume 350 hm³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.758453369140624,
+          48.58296689084418
         ]
       }
     }
