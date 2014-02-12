@@ -7946,6 +7946,70 @@
           48.58296689084418
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Leucate",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Leucate",
+        "comment": "Étang de Leucate or 'Étang de Salses is a lake in Pyrénées-Orientales and Aude, France. At an elevation of 0 m, its surface area is 54 km². Average depth 1.8 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9992675781249996,
+          42.842744406244606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Thau",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Thau",
+        "comment": "Étang de Thau or Bassin de Thau is the largest of a string of étangs (lakes) that stretch along the Languedoc-Roussillon, French coast from the Rhône River to the foothills of the Pyrenees which form the border to Spain. It is the second largest lake in France. Max. length 21 km, Max. width 8 km, Surface area 7,012 ha, Average depth 4 m, Max. depth 30 m, Surface elevation 0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6021423339843746,
+          43.400058705767954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Vaccarès",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Vaccares",
+        "comment": "Étang de Vaccarès is a lake, or rather; a salt water lagoon (étang/ lake), in the wetlands of the Camargue in the delta of the River Rhône in southern France. The lake has an area of 65 km², and the depth is less than two meters. It is the northernmost, and also the largest of the lakes of the Camargue, and constitutes the principal element in the water control system of the Rhône delta, which depends upon a strict management of water resources, through pumping, irrigation and draining stations making a complex network of channels throughout the river delta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.577178955078124,
+          43.542575722469245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake of Sainte-Croix",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_of_Sainte-Croix",
+        "comment": "The Lake of Sainte-Croix is a man-made lake that was formed by the construction, between 1971 and 1974 (when it was put into service) of a reinforced-concrete arch dam by the name of Dam of Sainte-Croix . The reservoir holds a maximum of 761 million cubic metres of water. The dam, which generates 142 million kWh of electricity per year, is 94 metres high, 7.5 metres thick at its base and 3 metres thick at its crest. Surface area 22 km², Max. depth 93 m, Water volume 760,000,000 m3 (2.7×1010 cu ft), Surface elevation 477 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159210205078125,
+          43.75125720420175
+        ]
+      }
     }
   ]
 }
