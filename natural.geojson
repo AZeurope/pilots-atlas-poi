@@ -8010,6 +8010,54 @@
           43.75125720420175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac de Serre-Ponçon",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_de_Serre-Poncon",
+        "comment": "Lake Serre-Ponçon is a lake in southeast France; it is one of the largest artificial lakes in western Europe. The lake gathers the waters of the Durance and the Ubaye rivers, flowing down through the Hautes-Alpes and the Alpes du Sud to the Rhône River. The waters are dammed by the Barrage de Serre-Ponçon, a 123 m high earth core dam. Max. length 20 km, Max. width 3 km, Surface area 28 km², Max. depth 90 m, Water volume 1.272 km³, Surface elevation max. 780 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3288116455078125,
+          44.51168652108638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac du Bourget",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_du_Bourget",
+        "comment": "Lac du Bourget (Lake Bourget), also locally known as Lac Gris (Grey Lake), is a lake at the southernmost end of the Jura Mountains in the department of Savoie, France. It is the deepest lake located entirely within France, and either the largest or second largest after Lac de Grand-Lieu depending on season. The largest town on its shore is Aix-les-Bains. Chambéry, the capital of Savoie, lies about 10 km south of the lake. Max. length 18 km, Max. width 3.5 km, Surface area 44.5 km², Average depth 85 m, Max. depth 145 m, Water volume 3,600 mio m³, Surface elevation 231.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.855712890625,
+          45.73494252455993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac de Grand-Lieu",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lac_de_Grand-Lieu",
+        "comment": "Lac de Grand-Lieu is a lake located to the south-west of Nantes, in the Loire-Atlantique, France, and almost entirely in Saint-Philbert-de-Grand-Lieu. At an elevation of 5 m, its surface area is 62.92 km², making it the largest lake in France in winter, but second after Lac du Bourget in summer. Surface area 62.92 km² (Summer: 35Km²), Average depth 1.6 m, Max. depth 4 m, Surface elevation 5 m, Islands 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67266845703125,
+          47.10378387099161
+        ]
+      }
     }
   ]
 }
