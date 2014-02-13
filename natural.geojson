@@ -8858,6 +8858,54 @@
           52.65681045479847
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khashm el-Girba Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Khashm_el-Girba_Dam",
+        "comment": "The Khashm el-Girba Dam is gravity and embankment composite dam on the Atbarah River about 4 km (2 mi) south of Khashm El Girba in Eastern Sudan. The primary purpose of the dam is irrigation and it is equipped with canal headworks on its left bank which diverts water into a canal. If water levels in the reservoir are low, three pumps can move water into the canal. The main portion of the dam is an earthen embankment while the spillway and irrigation headworks sections are concrete gravity. Total capacity 1,300,000,000 m3 (1,053,927 acre·ft) Catchment area 112,400 km2 (43,398 sq mi), Surface area 125 km2 (48 sq mi), Max. length 80 km (50 mi), Normal elevation 473 m (1,552 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9088134765625,
+          14.82799134735208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chao Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Chao_Lake",
+        "comment": "Chao Lake, or Chao Hu, is a lake located at the juncture of Chaohu and Hefei cities in Anhui Province, China. It is the largest lake in Anhui and one of the five largest freshwater lakes in China. Mushan Island is situated within the lake. About 5 million people live near the lake, and use it for irrigation, transportation and fishing. Heavy use of the lake in recent years has led to eutrophicationand silting. Due to China's rapid economic growth, the lake is now one of China's most polluted lakes. Max. length 52 km (32 mi), Max. width 22 km (14 mi), Surface area 760 km2 (290 sq mi), Average depth 2.5 m (8.2 ft), Max. depth 5.0 m (16.4 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.53173828125,
+          31.541089879585808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dian Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Dian_Lake",
+        "comment": "Dianchi Lake, also known as Lake Dian and Kunming Lake, is a large endorheic lake located on the Yunnan-Guizhou Plateau close to Kunming, Yunnan, in southern China. Its nickname is the \"Sparkling Pearl Embedded in a Highland\" and it was the model for the Kunming Lake in the Summer Palace in Beijing. It is a freshwater fault lake at 1,886.5 m (6,189 ft) above sea level. The lake covers 298 km2 (115 sq mi). It is 39 km (24 mi) long from north to south, and the average depth is 4.4 m (14 ft). It is the eighth largest lake in China and the largest in Yunnan Province."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7166748046875,
+          24.851549944184754
+        ]
+      }
     }
   ]
 }
