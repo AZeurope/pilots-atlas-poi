@@ -9082,6 +9082,54 @@
           45.81300790534134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bracciano",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bracciano",
+        "comment": "Lake Bracciano is a lake of volcanic origin in the Italian region of Lazio, 32 km (20 mi) northwest of Rome. It is the second largest lake in the region (second only to Lake Bolsena) and one of the major lakes of Italy. It has a circular perimeter of approximately 32 km (20 mi). The lake owes its origin to intense volcanic activity from 600,000 to 40,000 years before present, which created many small volcanoes in the Sabatino territory. The main magma chamber was situated under the present lake of Bracciano. Surface area 56.76 km2 (21.92 sq mi), Max. depth 165 m (541 ft), Surface elevation 160 m (520 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.223663330078125,
+          42.120635949743644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pozzillo Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pozzillo_Lake",
+        "comment": "Pozzillo Lake is a lake in the Province of Enna, Sicily, southern Italy. Located in the Erean Mountains chain, it is the largest artificial basin in the island. The lake is located mostly in the comune of Regalbuto, but also partially in Agira. The lake was formed when a dam was built in 1959 at the north eastern end of the lake. Surface elevation 370 asl."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.589843749999998,
+          37.659906493259385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Omodeo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Omodeo",
+        "comment": "Lake Omodeo is an artificial lake, in central west Sardinia, Italy. The lake was constructed in the 1920s. The dam, designed by the engineer Angelo Omodeo, was inaugurated in 1924, at that time it was the largest reservoir in Europe. The lake length is 20 km. Max. length 20 km (12 mi), Surface area 29 km2 (11 sq mi), Water volume 748,000,000 m3 (2.64×1010 cu ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.92913818359375,
+          40.136890695345905
+        ]
+      }
     }
   ]
 }
