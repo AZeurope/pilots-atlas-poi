@@ -8826,6 +8826,38 @@
           -13.966054081318301
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windermere",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Windermere",
+        "comment": "Windermere is the largest natural lake in England. It is a ribbon lake formed in a glacial trough after the retreat of ice at the start of the current interglacial. It has been one of the country's most popular places for holidays and summer homes since the arrival of the Kendal and Windermere Railway's branch line in 1847. It is in the county of Cumbria and entirely within the Lake District National Park. Max. length 18.08 km (11.23 mi), Max. width 1.49 km (0.93 mi), Surface area 14.73 km2 (5.69 sq mi) or 1,473 ha (3,640 acres), Max. depth 66.76 m (219.0 ft), Surface elevation 39 m (128 ft), Islas 18."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9367828369140625,
+          54.37855781215283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rutland Water",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Rutland_Water",
+        "comment": "Rutland Water is Anglian Water's drinking water reservoir in the county of Rutland, England, just east of the county town Oakham. It was known as Empingham Reservoir during its construction and until its official opening in 1976. It provides a reserve supply of water in the driest and most densely populated quarter of the United Kingdom and is one of the largest artificial lakes in Europe. By surface area it is the largest reservoir in England, but by capacity it is exceeded by Kielder Water. Surface area 10.86 square kilometres (4.19 sq mi), Water volume 124,000,000 m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.626220703125,
+          52.65681045479847
+        ]
+      }
     }
   ]
 }
