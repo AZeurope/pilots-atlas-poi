@@ -8954,6 +8954,70 @@
           42.65517191849825
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daihai Lake",
+        "type": "lake",
+        "url": "http://de.wikipedia.org/wiki/Daihai",
+        "comment": "Max. length 20 km, Max wide 10 km and Max. depth 20 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69226074218749,
+          40.56806745430726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lop Nur",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lop_Nur",
+        "comment": "Lop Nur or Lop Nor former salt lake, now largely dried-up, located between the Taklamakan and Kumtag deserts in the southeastern portion of Xinjiang Uygur Autonomous Region in the People's Republic of China. The lake system into which the Tarim River and Shule River empty is the last remnant of the historical post-glacial Tarim Lake, which once covered more than 10,000 km2 (3,900 sq mi) in the Tarim Basin. Lop Nur is hydrologically endorheic— it is landbound and there is no outlet. The lake measured 3,100 km2 (1,200 sq mi) in 1928, but has dried up due to construction of dams which blocked the flow of water feeding into the lake system."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3955078125,
+          40.10328591293442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulungur Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Ulungur_Lake",
+        "comment": "Ulungur Lake is located in Fuhai County, Xinjiang, China. With an area of 1,035 square kilometers, the lake is one of China's ten largest freshwater lakes. Its main tributary is the Ulungur River. Lake Ulungur is divided into two sections, often viewed as to separate lakes: the Buluntuo Lake (or the Ulungur Lake proper) and the smaller Jili Lake, connected by a narrow channel. Surface area 1,035 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2314453125,
+          47.24567802101873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xiechi Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Xiechi_Lake",
+        "comment": "Xiechi Lake is the largest natural lake in Shanxi in Northern China. It is a saline lake. Max. lengthe 22.9 km and Max. wide 4 Km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.92071533203125,
+          34.94673942495388
+        ]
+      }
     }
   ]
 }
