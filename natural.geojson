@@ -8378,6 +8378,86 @@
           43.61271391449898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Shinji",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Shinji",
+        "comment": "Lake Shinji is a lake in the northeast area of the Shimane Prefecture in Japan. The lake is the seventh largest in Japan, with a circumference of 48 kilometres (30 mi). It is enclosed by the Shimane Peninsula to the north, and the Izumo and Matsue plains to the west and east respectively. 7,652 ha of wetland are a Ramsar Site. Lake Shinji-ko is connected to the Sea of Japan via Nakaumi Lagoon, and as a result is made up of brackish water of good quality, which adds to the abundance of aquatic life, such as whitebait, eel, sea bass, and the most famous Lake Shinji-ko delicacy, the Shijimi clam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.94143676757812,
+          35.45283961767315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Tōya",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Toya",
+        "comment": "Lake Tōya is a volcanic caldera lake in Shikotsu-Toya National Park, Abuta District, Hokkaido, Japan. It is a part of \"Toya Caldera and Usu Volcano Global Geopark\" which joins in Global Geoparks Network. The stratovolcano of Mount Usu lies on the southern rim of the caldera. The lake is nearly circular, being 10 km in diameter from east-west and 9 km from North-South. The lake's biggest town, Toyako Onsen is located on its western shore. The town Toyako is located on the other side of the lake. Lake Toya is said to be the northernmost lake in Japan that never ices, and the second most transparent lake in Japan.  Surface area 70.7 km2 (27.3 sq mi), Average depth 117.0 m (383.9 ft), Max. depth 180 m (590 ft), Water volume 8.19 km3 (1.96 cu mi), Shore length1 46 km (29 mi), Surface elevation 84 m (276 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8447265625,
+          42.60970621339408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Hamana",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Hamana",
+        "comment": "Lake Hamana in Shizuoka Prefecture is Japan's tenth largest lake (by area). It spans the boundaries of the cities of Hamamatsu and Kosai. Surface area 65.0 km², Average depth 4.8 m, Max. depth 16.6 m, Water volume 0.35 km³, Shore length 114 km, Surface elevation 0 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.56805419921875,
+          34.747254680829876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Towada",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Towada",
+        "comment": "Lake Towada is the largest crater lake in Honshū island, Japan. Located on the border between Aomori and Akita prefectures, it lies 400 meters (1,800 ft) above sea level and is 327.0m (1,073 ft) depth, and is drained by the Oirase river. With a surface area of 61.1 km², Towada is Japan's 12th largest lake, its bright blue color is due to its great depth. The lake is roughly circular, with two peninsulas extending from its southern shore approximately one-third into the center of the lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87493896484375,
+          40.470979694762356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hachirōgata",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Hachirogata",
+        "comment": "Hachirōgata is a lake in the Akita Prefecture in northern Japan. Its formal name is Lake Hachirō, but it is also called Hachirōgata Regulating Pond. At 4 meters below sea level, Hachirōgata is now the lowest point in Japan. Hachirōgata was the second-largest lake in Japan after Lake Biwa. Extensive reclamation began in 1957 for crop production, and Ōgata village was established on the reclaimed land on October 1, 1964. The remaining lake has an area of 48.3 km2 (19 sq mi) (18th largest in Japan). "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.02761840820312,
+          39.920269337634004
+        ]
+      }
     }
   ]
 }
