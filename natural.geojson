@@ -8666,6 +8666,70 @@
           56.95920348441074
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Chrissie",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Chrissie",
+        "comment": "Lake Chrissie (Chrissiesmeer in Afrikaans) is a lake in Msukaligwa Local Municipality, Mpumalanga, South Africa. It is a shallow and large lake, with a maximum depth of about 6 m, 9 km long, 3 km wide. The lake is named after Christiana Pretorius, daughter of Marthinus Wessel Pretorius, first president of the boer Transvaal Republic. The lake is also informally known as \"Matotoland\" (meaning \"land of frogs\") and its swazi name is \"Kachibibi\" (meaning \"big lake\"). A famous battle of the Second Boer War was fought by Lake Chrissie on 6 February 1901."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.21652221679687,
+          -26.331576128197028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mentz",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Darlington_Dam",
+        "comment": "Total capacity\t187 000 000 m³ Catchment area\t16 700 km2 Surface area\t3452.7 ha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.140838623046875,
+          -33.1433007031258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gariep Dam Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Gariep_Dam",
+        "comment": "The Gariep Dam was originally named the Hendrik Verwoerd Dam after the first prime minister of the Republic of South Africa Hendrik Verwoerd on its commission in 1971. However, after the end of apartheid, the Verwoerd name was considered unsuitable. The name was officially changed to Gariep Dam on 4 October 1996. Gariep is San for \"Great water\", the original name of the river. Total capacity 5,340,000 megalitres (5,340 hm3), Surface area 374 km2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.914001464843746,
+          -30.555165634175708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pongolapoort Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Pongolapoort_Dam",
+        "comment": "Pongolapoort Dam and reservoir is an arch type dam in KwaZulu-Natal, South Africa located on the Phongolo River. The Dam was constructed at the eastern end of the narrow gorge separating the Lebombo and Ubombo ranges. It was established in 1973. The dam mainly serves for irrigation purposes and its hazard potential has been ranked high. Total capacity 2 445 900 000 m3, Catchment area 7814 km2, Surface area 13 272.8 ha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9537353515625,
+          -27.405909155361034
+        ]
+      }
     }
   ]
 }
