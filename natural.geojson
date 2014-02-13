@@ -8602,6 +8602,70 @@
           57.68800141680898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Shiel",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Shiel",
+        "comment": "Loch Shiel is a 19.3 km2 freshwater loch, 120 m deep, situated 20 km west of Fort William in Lochaber, Highland, Scotland. Its nature changes considerably along its length, being deep and enclosed by mountains in the north east and shallow surrounded by bog and rough pasture in the south west, from which end the 4 km River Shiel drains to the sea in Loch Moidart near Castle Tioram. Loch Shiel should not be confused with Glen Shiel, 40 km further north in Skye and Lochalsh, which contains a longer River Shiel and a much smaller Loch Shiel. Max. length 28 km, Surface area 19.3 km2, Average depth 40.5 m, Max. depth 128 m, Water volume 0.8 km3 (0.19 cu mi), Surface elevation 4.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.57830810546875,
+          56.79862240634502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Ericht",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Ericht",
+        "comment": "Loch Ericht is a freshwater loch on the border between Perth and Kinross and the Highlands Council areas of Scotland. It is situated at a height of 351 metres above sea level and has a north-east to south-west orientation. The village of Dalwhinnie lies at the north east end of the loch. The loch is 14.5 miles (23.3 km) in length and has a surface area of approximately 7 square miles.[1] Loch Ericht is the tenth largest freshwater lake in Scotland and has a good reputation for its trout fishing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.441223144531249,
+          56.77756073774989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Tay",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Tay",
+        "comment": "Loch Tay is a freshwater loch in the central highlands of Scotland, in the district of Perthshire. It is a long narrow loch of around 14.55 mi (23.42 km) long, and typically around 1 to 1½ miles wide, following the line of the valley from the south west to north east. It is the sixth largest loch in Scotland by area and over 150 m (490 ft) deep at its deepest. Max. width 0.7 mi (1.1 km), Surface area 10.19 sq mi (26.4 km2), Average depth 60.66 m (199.0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.031982421875,
+          56.576127999193766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Morar",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Morar",
+        "comment": "Loch Morar is a freshwater loch in Morar, Lochaber, Highland, Scotland. It is the fifth-largest loch in Scotland, with a surface area of 26.7 km2 (10.3 sq mi) and the deepest freshwater body in the British Isles; with a maximum depth of 1,017 ft (310 m) it is deeper than the height of The Shard in London. Max. length 19 km (12 mi), Average depth 86.6 m, Water volume 2.3 km3 (0.55 cu mi), Surface elevation 10 m, Islands 5."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7643890380859375,
+          56.95920348441074
+        ]
+      }
     }
   ]
 }
