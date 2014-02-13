@@ -8538,6 +8538,70 @@
           46.68995749641134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Ness",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Ness",
+        "comment": "Loch Ness is a large, deep, freshwater loch in the Scottish Highlands extending for approximately 37 km (23 mi) southwest of Inverness. Its surface is 15.8 m (52 ft) above sea level. Loch Ness is best known for alleged sightings of the cryptozoological Loch Ness Monster, also known affectionately as \"Nessie\". Max. length 36.3 km (22.6 mi), Max. width 2.7 km (1.7 mi), Average depth 132 m (433 ft), Max. depth 226.96 m (744.6 ft), Water volume 7.4 km3 (1.8 cu mi), Surface elevation 15.8 m (52 ft), Islands 1, Cherry Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45220947265625,
+          57.30575694028871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Lomond",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Lomond",
+        "comment": "Loch Lomond is a freshwater Scottish loch which crosses the Highland Boundary Fault. It is the largest inland stretch of water in Great Britain by surface area. The loch contains many islands, including Inchmurrin, the largest fresh-water island in the British Isles. Loch Lomond is a freshwater loch lying on the Highland Boundary Fault, often considered the boundary between the lowlands of Central Scotland and the Highlands. It is 39 km (24 mi) long and between 1.21 km (0.75 mi) and 8 km (5.0 mi) wide. It has an average depth of about 37 m (121 ft), and a maximum depth of about 190 m (620 ft). Its surface area is 71 km2 (27 sq mi), and it has a volume of 2.6 km3 (0.62 cu mi). Of all lochs and lakes in Great Britain, it is the largest by surface area, and the second largest (after Loch Ness) by water volume."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6087646484375,
+          56.09349156919378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Awe",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Awe",
+        "comment": "Loch Awe is a large body of water in Argyll and Bute, Scotland. It has also given its name to a village on its banks, variously known as Loch Awe, or Lochawe. There are islands within the loch such as Innis Chonnell and Inishail. It is the third largest freshwater loch in Scotland with a surface area of 38.5 square kilometres (14.9 sq mi). It is the longest freshwater loch in Scotland, measuring 41 kilometres (25 mi) from end to end with an average width of 1-kilometre (0.62 mi). The loch runs approximately south-west to north-east, roughly parallel to the two sea lochs of Loch Etive and Loch Fyne. Via the River Awe and Loch Etive it drains westward from its northern end and thus into the Atlantic Ocean. Average depth 32 m, Max. depth 93.6 m, Water volume 1.2 km3 (0.29 cu mi), Shore length 129 km, Surface elevation 36.2 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2301788330078125,
+          56.293299846872735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Maree",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Loch_Maree",
+        "comment": "Loch Maree is a loch in Wester Ross in the Northwest Highlands of Scotland. At 20 km (12 mi) long and with a maximum width of 4 km (2.5 mi), it is the fourth largest freshwater loch in Scotland; it is the largest north of Loch Ness. Its surface area is 28.6 km2 (11.0 sq mi). Average depth 125 ft (38 m), Max. depth 375 ft (114 m), Islands 30."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.482177734375,
+          57.68800141680898
+        ]
+      }
     }
   ]
 }
