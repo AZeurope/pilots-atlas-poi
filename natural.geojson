@@ -9018,6 +9018,70 @@
           34.94673942495388
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamdrok Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Yamdrok_Lake",
+        "comment": "Yamdrok Lake (also known as Yamdrok Yumtso or Yamzho Yumco) is a freshwater lake in Tibet, it is one of the three largest sacred lakes in Tibet. It is over 72 km (45 mi) long. The lake is surrounded by many snow-capped mountains and is fed by numerous small streams. The lake does have an outlet stream at its far western end. Around 90 km to the west of the lake lies the Tibetan town of Gyantse and Lhasa is a hundred km to the northeast. According to local mythology, Yamdok Yumtso lake is the transformation of a goddess. Max. length 72 km (45 mi), Surface area 638 km2 (246 sq mi), Surface elevation 4,441 m (14,570 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.69488525390625,
+          28.94086176940557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Puma Yumco",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Puma_Yumco",
+        "comment": "Lake Puma Yumco is a lake located at 5,030 metres (16,503 ft) above mean sea level on the southern Tibetan Plateau. It is 32 km (20 mi) long, and is 13 km (8.1 mi) wide. Streams of water from the snow-capped surrounding mountains feed the lake, but the lake has no outlet. Some sediment can be seen entering the lake at its western end. Puma Yumco literally means The Blue Jewel which is floating in the sky. The lake freezes in winter and is crossed by shepherds with their sheep. Since the climate is warming, the ice is becoming thinner and thus creates a problem for the 120 people living off and around the lake. Max. length 32 km (20 mi), Max. width 13 km (8.1 mi), Surface elevation 5,030 m (16,503 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.32409667968749,
+          28.5941685062326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Iseo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Iseo",
+        "comment": "Lake Iseo or Lago d'Iseo or Sebino is the fourth largest lake in Lombardy, Italy, fed by the Oglio river. It is in the north of the country in the Val Camonica area, near the cities of Brescia and the stunning city of Bergamo. The lake is almost equally divided between the Provinces of Bergamo and Brescia. Max. length 25 km, Surface area 65.3 km², Average depth 124 m, Max. depth 251 m, Surface elevation 181 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06072998046875,
+          45.73494252455993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Varese",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Varese",
+        "comment": "Varese Lake is a lake of glacial origin in Lombardy, in the north of Italy. It has an area of 14.5 km², a medium depth of 11 m, and a maximum depth of 23 m, Surface elevation 238 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.730697631835938,
+          45.81300790534134
+        ]
+      }
     }
   ]
 }
