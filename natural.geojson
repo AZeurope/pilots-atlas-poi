@@ -8186,6 +8186,70 @@
           -20.17456745043183
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salar de Coipasa",
+        "type": "lake",
+        "url": "http://es.wikipedia.org/wiki/Salar_de_Coipasa",
+        "comment": "El salar de Coipasa está localizado en el oeste de Bolivia, en el Departamento de Oruro, junto a la frontera con Chile. Se encuentra en la parte central oeste del altiplano andino, a una altura de 3657 msnm. Tiene alrededor de 700 km de largo por 50 km y una superficie de 2218 km² (856 Millas cuadradas) —25 km² en territorio chileno—, lo que lo ubica como el quinto mayor salar continuo del mundo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1646728515625,
+          -19.33706180106996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Trichonida",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Trichonida",
+        "comment": "Lake Trichonida is the largest natural lake in Greece. It is situated in the eastern part of Aetolia-Acarnania, southeast of the town Agrinio and northwest of Nafpaktos. It covers an area of 98.6 square kilometres (38.1 sq mi) with a maximum length of 19 kilometres (12 mi) and maximum depth of 58 metres (190 ft). One million years ago the lake was much larger, and covered the central part of Aetolia-Acarnania, a part that is now a plain. Water volume 2.868 km3 (0.688 cu mi), Surface elevation 15 m (49 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54144287109375,
+          38.576084772796115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Volvi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Volvi",
+        "comment": "Lake Volvi is located in the root of the Chalkidiki peninsula, in the Thessaloniki regional unit, Greece. Lake Volvi is the second largest lake in Greece. It is about 12 miles (19 km) in length, and 6 or 8 miles (9.7 or 12.9 km) wide. The area is 68 km² and the depth is 20 m. It is located east of Lake Koronia (Lake Lagkada). Surface area 70 km2 (27 sq mi), Max. depth 22.3 m (73 ft), Water volume 0.94 km3 (0.23 cu mi), Surface elevation 37 m (121 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5382080078125,
+          40.65772237175813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vegoritida",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Vegoritida",
+        "comment": "Lake Vegoritida, also known in the past as Lake Ostrovo, is a large natural lake of western Macedonia, northern Greece. It is situated 6 km northeast of Amyntaio and 18 km west of Edessa. The Voras Mountains lie to the north. Surface area 54.3 km2 (21.0 sq mi), Surface elevation 540 m (1,770 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.781082153320312,
+          40.75714002927082
+        ]
+      }
     }
   ]
 }
