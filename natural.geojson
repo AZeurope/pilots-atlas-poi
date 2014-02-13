@@ -9178,6 +9178,38 @@
           41.879786443521795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vico",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Vico",
+        "comment": "Lake Vico is a caldera lake in the northern Lazio region, central Italy. It is one of the highest major Italian lakes, with an altitude of 510 m. Administratively, it is part of the municipalities of Caprarola and Ronciglione. The lake is surrounded by the Cimini Hills, in particular by the Fogliano (965 m) and Venere (851 m) mountains. It is part of the Lake Vico Natural Reserve. Surface area 12.93 km2 (4.99 sq mi), Average depth 22.2 m, Max. depth 48.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1728515625,
+          42.31286205312122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lago di Piana degli Albanesi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lago_di_Piana_degli_Albanesi",
+        "comment": "The Lago di Piana degli Albanesi, is an artificial lake in Piana degli Albanesi, in the Province of Palermo, Sicily, Italy. The lake was made to produce electricity. It was built from 1920 to 1923 by hand. The output water jump 475 m lower until the \"Casuzze\" hydro-electrical plant near Palermo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.300323486328125,
+          37.97234987199528
+        ]
+      }
     }
   ]
 }
