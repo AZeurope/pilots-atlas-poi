@@ -7397,8 +7397,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.185302734375,
-          -30.911651004518244
+          -51.58630371093749,
+          -31.419288124288343
         ]
       }
     },
@@ -8728,6 +8728,54 @@
         "coordinates": [
           31.9537353515625,
           -27.405909155361034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Sibhayi",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Sibhayi",
+        "comment": "Lake Sibhayi, also known as Lake Sibaya, a freshwater lake in South Africa, with a surface area of 64 km². The lake is also wrongly known as Sibaya or Sibayi. The lake is located in the Maputaland, or Umhlabuyalingana, area of KwaZulu-Natal, on the east coast of South Africa. Surface area 64 km2 (25 sq mi), Average depth 10.9 m (36 ft), Water volume 700,000,000 m3 (2.5×1010 cu ft), Surface elevation 20.8 m (68 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6788330078125,
+          -27.342494467201007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaal Reservoir",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Vaal_Dam",
+        "comment": "The Vaal Dam in South Africa was constructed in 1938 and lies 77 km south of OR Tambo International Airport. The lake behind the dam wall has a surface area of about 320 square kilometres (120 sq mi) and is 47 meters deep. The Vaal Dam lies on the Vaal River, which is one of South Africa's strongest-flowing rivers. Other rivers flowing into the dam are the Wilge River, Klip River, Molspruit and Grootspruit. It has over 800 kilometres (500 mi) of shoreline and is South Africa's second biggest dam by area and the fourth largest by volume. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.307647705078125,
+          -27.02304245066497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaíba River",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Guaiba_Rive",
+        "comment": "The Guaíba Lake is a waterway in Rio Grande do Sul, a state in southern Brazil. It is famous for its beautiful reflection at sunset. The Guaíba is an extension of the Lagoa dos Patos, a huge coastal lagoon to the south, and although commonly referred to as a \"lake\", the Guaíba is an estuary, and is also referred to as a bay, lake, or lagoon. The Jacuí River empties into the Guaíba from the north. The city of Porto Alegre, which is the capital of Rio Grande do Sul, lies on the eastern shore of the Guaíba River, and the city of Guaíba lies opposite Porto Alegre on the western shore. The Guaíba is navigable, and is connected to the Atlantic Ocean via the Lagoa dos Patos and its outlet channel, located farther south at Rio Grande."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.240234375,
+          -30.244831915307145
         ]
       }
     }
