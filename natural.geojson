@@ -8778,6 +8778,54 @@
           -30.244831915307145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llanquihue Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Llanquihue_Lake",
+        "comment": "Lake Llanquihue is the second largest lake in Chile with an area of about 860 square kilometres (330 sq mi). It is situated in the southern Los Lagos Region in the Llanquihue and Osorno provinces. The lake's fan-like form was created by successive piedmont glaciers during the Quaternary glaciations. The last glacial period is called Llanquihue glaciation in Chile after the terminal moraine systems around the lake. Max. depth 317 m (1,040 ft), Surface elevation 70 m (230 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.850341796875,
+          -41.120745590167445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uru Uru Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Uru_Uru_Lake",
+        "comment": "Uru Uru Lake is a lake in the Oruro Department in Bolivia. It is fed by the Desaguadero River. It is situated at an elevation of 3,686 m, its surface area is 214 km². Max. depth 1.5 m. The lake is formed by the flow of the Desaguadero River at its mouth into the Lake Poopó, over the extensive sedimentation known as \"Santo Tomás\" from the small hermitage found there that was completely inundated. The formation dates to 1962. The river connects Lake Titicaca and Lake Poopó."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.11822509765625,
+          -18.046644225282463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rogagua Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Rogagua_Lake",
+        "comment": "Laguna Rogagua is a lake in the pampas area in the northern Bolivia, in the José Ballivián Province of the Beni Department. Laguna Rogagua and some smaller lakes are north of Santa Rosa, Beni, Bolivia, and north east of Rurrenabaque and Reyes, Bolivia. Some of the popular pampas tours from Rurrenabaque go to the area of Laguna Rogagua or to the area of the Yacuma River. Max. length 21 km, Max. width 6 km, Surface area 155 km², Shore length1 52 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9781494140625,
+          -13.966054081318301
+        ]
+      }
     }
   ]
 }
