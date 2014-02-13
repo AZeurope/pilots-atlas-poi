@@ -9130,6 +9130,54 @@
           40.136890695345905
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venetian Lagoon",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Venetian_Lagoon",
+        "comment": "The Venetian Lagoon is the enclosed bay of the Adriatic Sea in which the city of Venice is situated. Its name in the Italian and Venetian language, Laguna Veneta – cognate of Latin lacus, \"lake\" – has provided the international name for an enclosed, shallow embayment of salt water, a lagoon. The Venetian Lagoon stretches from the River Sile in the north to the Brenta in the south, with a surface area of around 550 square kilometres (210 sq mi). It is around 8% land, including Venice itself and many smaller islands. About 11% is permanently covered by open water, or canal, as the network of dredged channels are called, while around 80% consists of mud flats, tidal shallows and salt marshes. The lagoon is the largest wetland in the Mediterranean Basin. It is connected to the Adriatic Sea by three inlets: the Lido, Malamocco and Chioggia inlets."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.29644775390625,
+          45.404235401683344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valli di Comacchio",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Valli_di_Comacchio",
+        "comment": "The Valli di Comacchio, meaning \"fish basins of Comacchio\", are a series of contiguous brackish lagoons situated to the south of Comacchio, close to the Adriatic coast of the Emilia-Romagna region in northern Italy. They lie within the comuni of Comacchio and Argenta in the province of Ferrara and the comune of Ravenna in the province of Ravenna. The area, covering almost 17,000 hectares within the Parco regionale del Delta del Po, the regional park of the Po Delta, is classified as a Site of Community Importance and a Special Protection Area. It is also rated internationally important by the Ramsar Convention for the conservation and sustainable utilization of wetlands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1673583984375,
+          44.610023477890515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lesina",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lesina",
+        "comment": "Lake Lesina situated in the north of Puglia between Tavoliere delle Puglie and the promontory of Gargano is the ninth largest lake in Italy and the second of the southern part of the country. It is about 22 km long, an average of 2.4 km wide and covers an area of 51.4 km². Two canals, Acquarotta and Schiapparo link it to the Adriatic Sea, from which it is separated by a dune known as Bosco Isola, between 1 and 2 km in width and 16 km in length. Numerous streams provide the lake with a modest supply of fresh water. Average depth 0.7 m (2 ft 4 in), Max. depth 1.7 m (5 ft 7 in)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4522705078125,
+          41.879786443521795
+        ]
+      }
     }
   ]
 }
