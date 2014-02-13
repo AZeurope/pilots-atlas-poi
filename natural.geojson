@@ -8314,6 +8314,70 @@
           35.337533782800946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kasumigaura",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kasumigaura",
+        "comment": "Lake Kasumigaura is the second-largest lake in Japan, located 60 km to the north-east of Tokyo. In a narrow sense and officially Lake Kasumigaura refers to a waterbody with an area of 167.63km². In a wider sense Lake Kasumigaura can also refer group of contiguous lakes, which includes Lake Kasumigaura proper hereby referred to as Nishiura, and two smaller lakes, Kitaura 35.16km²) and Sotonasakaura 5.85km², and also encompasses the rivers connecting them. In this case the total area is 220km². Average depth 4 m, Max. depth 7 m, Water volume 0.848 km³, Shore length 252 km, Surface elevation 0.16 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.394287109375,
+          36.03133177633187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Inawashiro",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Inawashiro",
+        "comment": "Lake Inawashiro is the fourth-largest lake in Japan, located in the middle of Fukushima Prefecture, south of Mount Bandai. It is also known as the 'Sky Mirror Lake'. In winter swans migrate to the beaches of the lake and stay there until spring. Surface area 103.3 km², Water volume 5.40 km³, Surface elevation 514 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08804321289062,
+          37.47594794878128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Saroma",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Saroma",
+        "comment": "Lake Saroma also Saroma Lagoon is a body of brackish water in Saroma, Kitami, and Yūbetsu Hokkaidō, Japan. It is located in Abashiri Quasi-National Park. By area, the lake is the third largest in Japan and the largest in Hokkaido. The name comes from the Ainu place name saruomahetsu, meaning place of many Miscanthus reeds and rushes. Surface area 150 km2 (37,000 acres), Average depth 8.7 m (29 ft), Max. depth 19.5 m (64 ft), Water volume 1.3 km3 (0.31 cu mi), Shore length1 82.4 km (51.2 mi), Surface elevation 0 m (0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78219604492188,
+          44.13984130739739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kussharo",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kussharo",
+        "comment": "Lake Kussharo is a caldera lake in Akan National Park, eastern Hokkaido, Japan. As with many geographic names in Hokkaido, the name derives from the Ainu language. It is the largest caldera lake in Japan in terms of surface area, and sixth largest lake in Japan. It is also the largest lake in Japan to freeze over completely in winter. The lake’s central island, Nakajima, is a composite volcano. Volcanic gases render the lake water acidic, and it supports few fish except in areas where inflowing streams dilute the water. Surface area 79.3 km2 (30.6 sq mi), Average depth 28.4 m (93 ft), Max. depth 118 m (387 ft), Water volume 2.25 km3 (0.54 cu mi), Shore length 57 km (35 mi), Surface elevation 121 m (397 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.327392578125,
+          43.61271391449898
+        ]
+      }
     }
   ]
 }
