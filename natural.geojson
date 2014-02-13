@@ -9210,6 +9210,54 @@
           37.97234987199528
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Foyle",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Foyle",
+        "comment": "Lough Foyle, sometimes Loch Foyle, is the estuary of the River Foyle in Ulster. It starts where the Foyle leaves Derry. It separates the Inishowen Peninsula in County Donegal, Republic of Ireland from County Londonderry in Northern Ireland. The Lough Foyle Ramsar site (wetlands of international importance designated under the Ramsar Convention), is 2204.36 hectares in area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.119140625,
+          55.11608453987681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lough Mask",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lough_Mask",
+        "comment": "Lough Mask is a limestone lough of 20,500 acres (83 km²) in County Mayo, Ireland, north of Lough Corrib. Lough Mask is the upper of the two lakes, which empty into the Corrib River, through Galway, into Galway Bay. The lake is popular for its trout fishing. Lough Mask feeds into Lough Corrib through an underground stream. Max. length 16.1 km (10.0 mi), Max. width 6.4 km (4.0 mi), Average depth 5 m (16 ft), Max. depth 57 m (187 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.34661865234375,
+          53.64300964258231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Øyeren",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Oyeren",
+        "comment": "Øyeren is a lake in the Glomma river watershed, southeast of Lillestrøm. It is located within the municipalities of Enebakk, Skedsmo, Fet and Rælingen in Akershus county and Spydeberg and Trøgstad municipalities in Østfold county. Øyeren lake is the ninth largest lake by area in Norway with a surface area of 84.7 km². It is 101 meters above sea level and 71 meters deep."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.173095703125,
+          59.85309220083689
+        ]
+      }
     }
   ]
 }
