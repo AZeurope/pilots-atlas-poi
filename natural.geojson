@@ -8250,6 +8250,70 @@
           40.75714002927082
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vistonida",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Vistonida",
+        "comment": "Lake Vistonida is a lake in Porto Lagos, Xanthi regional unit, Greece. It is known from Greek Mythology. Lake Vistonida encompasses a unique ecosystem and the local climate can be described as mid-Mediterranean. It hosts a variety of fauna: several types of fish, amphibians, reptiles, mammals, birds as well as flora. Max. surface 45,030 km2, max. length 12.450 km, max. wide 7 km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.11199951171875,
+          41.03378713521864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Orestiada",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Orestiada",
+        "comment": "Lake Orestida or Lake Kastoria is a lake in the Kastoria regional unit of Macedonia, northwestern Greece. Sitting at an altitude of 630 metres, the lake covers an area of 28 square kilometres. Nine rivulets flow into the lake. Its depth varies from nine to ten metres. The Orestida was formed ca. 10 mya ago. The Kastoria Peninsula (with the town of Kastoria) divides the lake into two parts, the larger to the north and the smaller to the south."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.298370361328125,
+          40.52528265385008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ioannina",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Ioannina",
+        "comment": "Lake Ioannina, or lake Pamvotida, or Pamvotis, is the largest lake of Epirus, located in the central part of the Ioannina regional unit in northern Greece. Ioannina to the west and the town of Perama to the north are urban settlements fringing the lake while the remaining of its periphery is composed of farmland. Max. length 7.9 km (4.9 mi), Max. width 5.4 km (3.4 mi), Surface area 19.4 km2 (7.5 sq mi), Average depth 4.5 m (15 ft), Max. depth 11 m (36 ft), Surface elevation 470 m (1,540 ft), Islands 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.891876220703125,
+          39.67019926771584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Biwa",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Biwa",
+        "comment": "Lake Biwa (literally \"Biwa Lake\") is the largest freshwater lake in Japan, located in Shiga Prefecture (west-central Honshu), northeast of the former capital city of Kyoto. Because of its proximity to the ancient capital, references to Lake Biwa appear frequently in Japanese literature, particularly in poetry and in historical accounts of battles. Max. length 63.49 km, Max. width 22.8 km, Surface area 670.4 km², Max. depth 103.58 m, Water volume 27.5 km³, Shore length1 235.2 km, Surface elevation 85.6 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12335205078125,
+          35.337533782800946
+        ]
+      }
     }
   ]
 }
