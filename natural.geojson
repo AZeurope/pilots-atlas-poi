@@ -8458,6 +8458,86 @@
           39.920269337634004
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mashū",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mashu",
+        "comment": "Lake Mashū is a endorheic crater lake formed in the caldera of a potentially active volcano. It is located in Akan National Park on the island of Hokkaido, Japan. The lake has been called the clearest lake in the world. Max. width 6 km (3.7 mi), Surface area 19 km2 (4,700 acres), Average depth 137.5 m (451 ft), Max. depth 211.5 m (694 ft), Water volume 2.86 km3 (0.69 cu mi), Shore length 19.8 km (12.3 mi), Surface elevation 351 m (1,152 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.53613281249997,
+          43.58635949637695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bassenthwaite Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Bassenthwaite_Lake",
+        "comment": "Bassenthwaite Lake is one of the largest water bodies in the English Lake District. It is long and narrow, approximately 4 miles (6.4 km) long and 3⁄4-mile (1.2 km) wide, but is also extremely shallow, with a maximum depth of about 70 ft (21 m). It is the only body of water in the Lake District to be technically defined as a \"lake\" and to use the word \"lake\" in its name, all the others being \"waters\". Surface area 1.98 sq mi (5.1 km2), max. deth 70 ft (21 m), Shore length 11.3 mi (18.2 km), Surface elevation 223 ft (68 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2135009765625,
+          54.64960434808237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Lubāns",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Lubans",
+        "comment": "Lake Lubāns is a lake in Latvia. The lake lies in the centre of the Eastern Latvian Lowland. It is a shallow drainage lake, fed by the Rēzekne, Malta, Malmuta and Lisinja rivers and several smaller brooks, with an outflow via the Aiviekste River into the Daugava River. After damaging spring floods in 1926, several dams and ditches were constructed. The elevation of the lake is allowed to fluctuate between approximately 90 and 93 metres above sea level. At an elevation of 90.75 m the lake has an area of 25 km², increasing to about 100 km² at 92.75 m. In that stage it considered to be the biggest lake of Latvia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8560791015625,
+          56.76777808558104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Engure",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Engure",
+        "comment": "Lake Engure is a lake in the western part of Latvia, in the Talsi District. It is the third largest lake in the country after Lake Lubāns and Lake Rāzna. Lake Engure is an ancient sea lagoon, divided from the sea by a 1.5 - 2.5 km wide sand bar with dunes. Its outflow is the artificial Mersraga channel, dug in 1842. It is eutrophic, mostly overgrown with reeds, and contains 16 species of fish. Max. length 17.9 km, Max. width 4.4 km, Surface area 40.46 km², Average depth 0.4 m, Max. depth 2.1 m, Water volume 0.0168 km³, Surface elevation 3.2 m, Islands 9."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.101501464843746,
+          57.26864868030774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Thun",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Thun",
+        "comment": "Lake Thun is an Alpine lake in the Bernese Oberland in Switzerland. It took its name from the city of Thun, on its northern shore. Lake Thun's approximately 2,500 km² large catchment area frequently causes local flooding after heavy rainfalls. This occurs because the river Aar, which drains Lake Thun, has only limited capacity to handle the excess runoff. Max. length 17.5 km (10.9 mi), Max. width 3.5 km, Surface area 48.3 km², Average depth 136 m (446 ft), Max. depth 217 m (712 ft), Water volume 6.5 km³, Surface elevation 558 m (1,831 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722015380859375,
+          46.68995749641134
+        ]
+      }
     }
   ]
 }
