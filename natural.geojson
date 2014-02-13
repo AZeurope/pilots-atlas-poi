@@ -8122,6 +8122,70 @@
           64.85594024004723
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arresø",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Arreso",
+        "comment": "Arreso is a lake located in the Hovedstaden region just north of Olsted and east of Frederiksværk on the island of Zealand in Denmark. At 39.87 km² (15.39 sq mi) Arresø is Denmark's largest lake, based on area. The lake runs into Roskilde Fjord through the Arresø Canal in Frederiksværk. The canal was begun in about 1717 by royal command, and the work was carried out by Danish soldiers and Swedish POW's. Average depth 3.1 m, Max. depth 5.6 m, Surface elevation 3.9 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12615966796875,
+          55.9745666526033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roskilde Fjord",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Roskilde_Fjord",
+        "comment": "Roskilde Fjord is the fjord north of Roskilde, Denmark. It is a long branch of the Isefjord. The cities Frederiksværk, Frederikssund, Jægerspris, Jyllinge and Roskilde, (home to the famous Roskilde Festival), all have coastline at Roskilde Fjord. The image on this page shows the view of the fjord, as seen from Roskilde."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79656982421875,
+          55.88070333425207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Esrum",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Lake_Esrum",
+        "comment": "Lake Esrum is the largest lake in Denmark by water volume and the second-largest lake by surface area, after lake Arresø. It is situated in the region of Hovedstaden, on the island of Zealand. On the western shore is the Gribskov forest and on the eastern shores is the Fredensborg Castle. Max. length 8.4 km, Surface area 17.3 km², Average depth 13.5 m, Max. depth 22.3 m, Water volume 233 mill. m³, Surface elevation below 9.38 m in the summer, below 9.48 m in the winter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388458251953125,
+          56.00913099463985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salar de Uyuni",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Salar_de_Uyuni",
+        "comment": "Salar de Uyuni (or Salar de Tunupa) is the world's largest salt flat at 10,582 square kilometers (4,086 sq mi). It is located in the Potosí and Oruro departments in southwest Bolivia, near the crest of the Andesand is at an elevation of 3,656 meters (11,995 ft) above mean sea level. The Salar was formed as a result of transformations between several prehistoric lakes. It is covered by a few meters of salt crust, which has an extraordinary flatness with the average altitude variations within one meter over the entire area of the Salar.  It contains 50 to 70% of the world's lithium reserves, which is in the process of being extracted."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59063720703125,
+          -20.17456745043183
+        ]
+      }
     }
   ]
 }
