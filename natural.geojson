@@ -8906,6 +8906,54 @@
           24.851549944184754
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erhai Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Erhai_Lake",
+        "comment": "Er Lake or Erhai Lake, Chinese Erhai is an alpine fault lake in Yunnan province, China. Its name means \"Ear-shaped Sea\", due to its shape as seen by locals and travellers. Er Lake was also known as Yeyuze or Kunming Lake in ancient times. Max. length 40 km (25 mi), Max. width 8 km (5.0 mi), Surface area 250 km2 (97 sq mi), Average depth 11 m (36 ft), Water volume 2.5 km3 (0.60 cu mi), Surface elevation 1,972 m (6,470 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.184326171875,
+          25.814727063097408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jingpo Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Jingpo_Lake",
+        "comment": "Lake Jingpo or Lake Jingbo (literally \"Mirror Lake\"), is a lake located on the Wanda Mountains, in Ningan County, Heilongjiang in China, in the upper reaches of Mudan River. Earlier names for Lake Jingpo include Meituohu Lake, Huhanhai Lake and Bi’erteng Lake. The length of the lake from north to south is 45 kilometres (28 mi) and the widest distance between east and west is only 6 kilometres (3.7 mi). The area is 95 square kilometres (37 sq mi) and the storage capacity is 1.63 billion m3. The south part of lake is shallow with the deepest place in the northern part at 62 metres (203 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.88473510742188,
+          43.83254552160589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayding Lake",
+        "type": "lake",
+        "url": "http://en.wikipedia.org/wiki/Ayding_Lake",
+        "comment": "Aydingkol is a lake in the Turpan Depression, Xinjiang Uyghur Autonomous Region, PR China. At 154 m below sea level, it is the fourth lowest land point on Earth (after the shores of the Dead Sea, the Sea of Galilee and Lake Assal). This lake is now totally dried, and very muddy and salty. The lake is located in the south hinterland of the Turpan Depression, approximately 35 kilometres away from the city of Turpan. From east to west, the lake spans 40 kilometres; the north-south span is 8 kilometres; and the total area of the lake is 200 square kilometres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26391601562499,
+          42.65517191849825
+        ]
+      }
     }
   ]
 }
