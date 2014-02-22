@@ -3755,7 +3755,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sobradinho Reservoir",
-        "type": "lak",
+        "type": "lake",
         "url": "http://en.wikipedia.org/wiki/Sobradinho_Reservoir",
         "comment": "The Sobradinho Reservoir is a large reservoir located in Sobradinho, north of the Brazilian state of Bahia. The reservoir measures approximately 320 km (200 mi) long, 4,214 km2 (1,627 sq mi) in surface area, and a storage capacity of 34.1 km3 (8.2 cu mi) at its nominal elevation of 392.5 m (1,287.7 ft), making it the 12th-largest reservoir (artificial lake) in the world. The lake encloses the waters of the São Francisco River, one of the largest and most important rivers in Brazil. urface area 4,214 km2 (1,627 sq mi), Average depth 8.6 m (28.2 ft), Max. depth 30 m (98 ft), Water volume 34,100,000,000 m3 (1.20×1012 cu ft), Surface elevation 392.5 m (1,287.7 ft)."
       },
@@ -7904,8 +7904,9 @@
       "properties": {
         "name": "Lac d'Hourtin-Carcans",
         "type": "lake",
-        "url": "Lac d'Hourtin-Carcans is a lake in Gironde, France. It is the largest lake situated entirely in France. It lies at an elevation of 14 m (46 ft), and has a surface area of 56.67 km² (21.88 sq. miles). Max. length 18 km, Max. width 5 km, Max. depth 10 m.",
-        "comment": "Lac d'Hourtin-Carcans is a lake in Gironde, France. It is the largest lake situated entirely in France. It lies at an elevation of 14 m (46 ft), and has a surface area of 56.67 km² (21.88 sq. miles). Max. length 18 km, Max. width 5 km, Max. depth 10 m."
+        "url": "http://en.wikipedia.org/wiki/Lac_d%27Hourtin-Carcans",
+        "comment": "Lac d'Hourtin-Carcans is a lake in Gironde, France. It is the largest lake situated entirely in France. It lies at an elevation of 14 m (46 ft), and has a surface area of 56.67 km² (21.88 sq. miles). Max. length 18 km, Max. width 5 km, Max. depth 10 m.",
+        "date": ""
       },
       "geometry": {
         "type": "Point",
@@ -9256,6 +9257,22 @@
         "coordinates": [
           11.173095703125,
           59.85309220083689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taj Mahal",
+        "type": "building",
+        "url": "http://en.wikipedia.org/wiki/Taj_Mahal",
+        "comment": "The Taj Mahal is a white marblemausoleum located in Agra, Uttar Pradesh, India. It was built by Mughal emperor Shah Jahan in memory of his third wife, Mumtaz Mahal. The Taj Mahal is widely recognized as \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". Taj Mahal is regarded by many as the finest example of Mughal architecture, a style that combines elements from Islamic, Persian, Ottoman Turkish and Indian architectural styles. In 1983, the Taj Mahal became a UNESCO World Heritage Site. While the white domed marble mausoleum is the most familiar component of the Taj Mahal, it is actually an integrated complex of structures. The construction began around 1632 and was completed around 1653, employing thousands of artisans and craftsmen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0424976348877,
+          27.172651300304196
         ]
       }
     }
