@@ -47,7 +47,6 @@
         "name": "Bosphorus Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Bosphorus_Bridge",
-        "comment": null,
         "date": null,
         "elevation": null,
         "length_km": null,
@@ -67,7 +66,7 @@
         "name": "Giza Necropolis",
         "type": "building",
         "url": "http://en.wikipedia.org/wiki/Giza_Necropolis",
-        "comment": null,
+        "comment": "",
         "date": null,
         "elevation": null,
         "length_km": null,
@@ -226,8 +225,8 @@
       "properties": {
         "name": "Atchafalaya Basin Bridge",
         "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Atchafalaya_Basin",
-        "comment": null,
+        "url": "http://en.wikipedia.org/wiki/Atchafalaya_Basin_Bridge",
+        "comment": "",
         "date": null,
         "elevation": null,
         "length_km": "29,29",
@@ -6124,6 +6123,22 @@
         "coordinates": [
           5.970039367675781,
           50.4385933698494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tower_Bridge",
+        "comment": "Tower Bridge (built 1886–1894) is a combined bascule and suspension bridge in London which crosses the River Thames. It is close to the Tower of London, from which it takes its name, and has become an iconic symbol of London. The bridge consists of two towers tied together at the upper level by means of two horizontal walkways, designed to withstand the horizontal forces exerted by the suspended sections of the bridge on the landward sides of the towers. The vertical component of the forces in the suspended sections and the vertical reactions of the two walkways are carried by the two robust towers. Total length 244 metres (801 ft), Longest span 61 metres (200 ft), Clearance below 8.6 metres (28 ft) (closed) and 42.5 metres (139 ft) (open)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07570266723632812,
+          51.50543026060531
         ]
       }
     }
