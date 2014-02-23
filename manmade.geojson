@@ -6590,6 +6590,86 @@
           35.15303868519649
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulaski Skyway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pulaski_Skyway",
+        "comment": "Built as part of the 13-mile (21 km) long Route 1 Extension, sources differ on the length and terminal points of the skyway. The National Bridge Inventory identifies the Hudson County section as 14,906 feet (4,543.5 m) and the Essex County section as 3,592 feet (1,094.8 m). In historic roadway and bridge study for NJDOT, it was described as 16,000 feet (4,900 m) long. NJDOT has indicated the overall length of the bridge structures to be 3.5 miles (5.6 km) and identified the Hudson County section as 14,900 feet (4,500 m) long."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09282684326172,
+          40.73542135862957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden City Skyway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Garden_City_Skyway",
+        "comment": "The Garden City Skyway is a major high-level bridge located in St. Catharines and Niagara-on-the-Lake, Ontario, Canada, that allows the Queen Elizabeth Way (QEW) to cross the Welland Canal without the interruption of a lift bridge. Six lanes of traffic are carried across the bridge, which is 2.2 km (1.37 miles) in length and 40 metres (131 feet) at its tallest point. It is the tallest and largest single structure along the entire QEW; the Burlington Bay James N. Allan Skyway, which is also part of the QEW, is actually two separate and smaller four-lane bridges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.19503211975098,
+          43.167438922099755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra–Worli Sea Link",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bandra-Worli_Sea_Link",
+        "comment": "The Bandra–Worli Sea Link, officially called Rajiv Gandhi Sea Link, is a cable-stayed bridge with pre-stressed concrete-steel viaducts on either side that links Bandra in the Western Suburbs of Mumbai with Worli in South Mumbai. The bridge is a part of the proposed Western Freeway that will link the Western Suburbs to Nariman Point in Mumbai's main business district. Total length 5.6 km (3.5 mi), Width 2 x 20 m (66 ft), Height 126 m (413 ft), Longest span 2 x 250 m (820 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81755447387694,
+          19.038265663688872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bromford Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bromford_Viaduct",
+        "comment": "The Bromford Viaduct carries the M6 motorway between Castle Bromwich (J5) and Gravelly Hill (J6) along the River Tame valley in Birmingham, England. This elevated stretch of motorway above the River Tame is 3½ miles long, which makes it the longest viaduct in Great Britain. It is a quarter mile longer than the Second Severn Crossing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8228721618652344,
+          52.50650479924131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Severn Crossing",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Second_Severn_Crossing",
+        "comment": "The Second Severn Crossing is the M4 motorway bridge over the River Severn between England and Wales, inaugurated on 5 June 1996 by HRH The Prince of Walesto augment the traffic capacity of the original Severn Bridge built in 1966. The bridge marks the lower limit of the River Severn and the start of the Severn Estuary. Total length 5,128 m (16,824 ft), Width 34.6 m (113.5 ft), Height 137 m (449 ft), Longest span 456 m (1,496 ft), Vertical clearance 37 m (121 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.690277099609375,
+          51.571521791080826
+        ]
+      }
     }
   ]
 }
