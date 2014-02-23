@@ -6142,6 +6142,70 @@
           51.50543026060531
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weinan Weihe Grand Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Weinan_Weihe_Grand_Bridge",
+        "comment": "The Weinan Weihe Grand Bridge is a part of the Zhengzhou–Xi'an High-Speed Railway which connects Zhengzhou and Xi'an, in China. The bridge is 79,732 metres (261,588 ft) (49.5 Miles) long crossing the Wei River twice, as well as many other rivers, highways and railways. Upon its completion, it was the longest bridge in the world, but surpassed by two new bridges on Beijing–Shanghai High-Speed Railway that completed in 2010."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.56974029541016,
+          34.54898366801555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing Grand Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Beijing_Grand_Bridge",
+        "comment": "Beijing Grand Bridge is a 48.153 kilometres (29.921 mi) long railway viaduct on the Beijing–Shanghai High-Speed Railway, located in Beijing. It was completed in 2010 and opened in 2011. It is one of the longest bridges in the world. Longest span 44 metres (144 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33148193359375,
+          39.838068180000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jintang Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jintang_Bridge",
+        "comment": "Jintang Bridge is a highway bridge with a cable-stayed bridge portion, built in Zhejiang, China on the Zhoushan Archipelago, the largest offshore island group in China. It is the longest bridge in Zhoushan Trans-oceanic Bridges with a length of 26,540 meters, connecting Jintang Island and Zhenhai, Ningbo. The main span of the bridge is a cable-stayed bridge with opposite towers. Longest span 620 m (2,034 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.77658081054688,
+          30.05483122485245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6th October Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/6th_October_Bridge",
+        "comment": "The 6th October Bridge is an elevated highway in central Cairo, Egypt. The 20.5 kilometres (12.7 mi) bridge and causeway crosses the Nile twice from the west bank suburbs, east through Gezira Island to Downtown Cairo, and on to connect the city to the Cairo International Airport to the east. Its name commemorates the date of 'The Crossing' which commenced the outbreak day of the October War in 1973. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.228466033935547,
+          30.04940787325944
+        ]
+      }
     }
   ]
 }
