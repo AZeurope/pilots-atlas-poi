@@ -6862,6 +6862,70 @@
           30.393014902255455
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Governor Albert D. Rosellini Bridge—Evergreen Point",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Evergreen_Point_Floating_Bridge",
+        "comment": "The Governor Albert D. Rosellini Bridge—Evergreen Point (formerly the Evergreen Point Floating Bridge, and commonly called the SR 520 Bridge or 520 Bridge) is the longest floating bridge on Earth at 2,310 meters (7,580 ft) (floating section) and carries State Route 520 across Lake Washington from Seattle to Medina in the U.S. state of Washington. The bridge's total length is approximately 4,750 meters (15,580 ft). The Evergreen Point of the bridge's original name is the westernmost of the three small Eastside peninsulas that SR 520 crosses."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25723266601562,
+          47.64133557512159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikramshila Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vikramshila_Setu",
+        "comment": "Vikramshila Setu is a bridge across the Ganges, near Bhagalpur in the Indian state of Bihar named after Vikramaśīla University which was established by King Dharmapala (783 to 820 A.D.) . Vikramshila Setu is 3rd longest bridge in India and 118 rank in world longest bridge in world The 4.7 km long bridge serves as a link between NH 80 and NH 31 running on the opposite sides of the Ganges. It runs from Barari Ghat on the Bhagalpur side on the south bank of the Ganges to Naugachia on the north bank. Its also connect Bhagalpur to Purnia and kathiar This has reduced considerably the road travel distance between Bhagalpur and places across the Ganges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0281982421875,
+          25.283196012824373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vembanad Rail Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vembanad_Rail_Bridge",
+        "comment": "Vembanad Rail Bridge in the state of Kerala is a rail connecting Edappally and Vallarpadam in Kochi . It is the longest rail bridge in India. The line is dedicated solely for freight. Total length 4.62 km, Width 5 m, Height 7.5 m, Number of spans 132."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2564468383789,
+          10.003846142337487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Gandy_Bridge",
+        "comment": "Gandy Bridge is the southernmost bridge spanning Old Tampa Bay from St. Petersburg, Florida to Tampa, Florida. The original span was dismantled in 1975. The second bridge was used until 1997, when it was converted to recreational use by non-motorized traffic. It is now known as the Friendship Trail Bridge. It was proposed for demolition in 2012 and there is a campaign to preserve it. The third and fourth spans of the Gandy Bridge are currently being used for vehicle traffic. Almost three miles long, the Gandy Bridge is one of three bridges connecting the mainland of Hillsborough County and Pinellas County; the others being the Howard Frankland Bridge and the Courtney Campbell Causeway. Total length 14,859 feet (4,529 m) (eastbound), 13,886 feet (4,226 m) (westbound), Width 40.4 feet (12.3 m) (eastbound), 39.7 feet (12.1 m) (westbound), Clearance below 43.0 feet (13.1 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54783630371094,
+          27.888246118437756
+        ]
+      }
     }
   ]
 }
