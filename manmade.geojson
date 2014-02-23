@@ -6206,6 +6206,86 @@
           30.04940787325944
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aérotrain",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Aerotrain",
+        "comment": "The Aérotrain was a Hovertrain developed in France from 1965 to 1977. The lead engineer was Jean Bertin.  The goal of the Aérotrain was similar to that of the magnetic levitation train: to suspend the train above the tracks so the only resistance is that of air resistance. Consequently, the Aérotrain could travel at very high speeds without the technical complexity and expensive tracks of magnetic levitation. This project was abandoned in 1977 due to lack of funding, the death of Jean Bertin, and the adoption of TGV by the French government as its high-speed ground transport solution."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.884326934814453,
+          48.01134351815356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhumibol Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bhumibol_Bridge",
+        "comment": "The Bhumibol Bridge, also known as the Industrial Ring Road Bridge is part of the 13 km long Industrial Ring Road connecting southern Bangkok with Samut Prakan Province. The bridge crosses the Chao Phraya River twice, with two striking cable-stayed spans of lengths of 702 m and 582 m supported by two diamond-shaped pylons 173 m and 164 m high. Where the two spans meet, another road rises to join them at a free-flowing interchange suspended 50 metres above the ground. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53889274597167,
+          13.665503445815087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jubilee Parkway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jubilee_Parkway",
+        "comment": "The Jubilee Parkway is a pair of parallel concrete viaduct bridges that carry Interstate 10 across Mobile Bay from the George Wallace Tunnel on Blakeley Island in Mobile, Alabama eastbound to Spanish Fort/Daphne, Alabama. The bridges are similar in design to the pre-Hurricane Katrina I-10 Twin Span Bridge near New Orleans, Louisiana. Each of the two bridges is two lanes wide, for a total of four lanes, and 7.5 miles (12.1 km) long. The parkway was completed in 1978 and crosses the northern portion of Mobile Bay, running roughly parallel to the nearby Battleship Parkway. It was named for the jubilee phenomena that occurs intermittently in Mobile Bay, but is commonly referred to locally and in the media as the \"Bayway\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9678726196289,
+          30.666856564516053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuhu Yangtze River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Wuhu_Yangtze_River_Bridge",
+        "comment": "The Wuhu Yangtze River Bridge is a combined highway and railway bridge over the Yangtze river. The bridge is located in Wuhu, Anhui, China, and was completed in 2000. The cable-stayed bridge consists of a 312 metres (1,024 ft) main span and two 180 metres (591 ft) side spans and has, together with all approaches, a total length of 10,521 metres (34,518 ft). The bridges carries four lanes of the G5011 Wuhu–Hefei Expressway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33751678466797,
+          31.387640604815132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General W.K. Wilson Jr. Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/General_W.K._Wilson_Jr._Bridge",
+        "comment": "The General W.K. Wilson Jr. Bridge consists of dual parallel tied through archs of weathering steel and beam viaducts of concrete that form one continuous span carrying four lanes of Interstate 65 across the Mobile-Tensaw River Delta northeast of the U.S. city of Mobile, Alabama. Built from 1978 to 1980, it spans a distance of 6.08 miles (10 km) over the delta, making it, along with the Jubilee Parkway across Mobile Bay to its south, among the longest bridges in the nation. It was named in honor of Walter K. Wilson, a Chief of Engineers with the United States Army Corps of Engineers and long-term resident of Mobile."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96409606933594,
+          30.91341833228475
+        ]
+      }
     }
   ]
 }
