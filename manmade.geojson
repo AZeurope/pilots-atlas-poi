@@ -6734,6 +6734,70 @@
           -7.189463367057662
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dauphin Island Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Dauphin_Island_Bridge",
+        "comment": "The Dauphin Island Bridge, formally the Gordon Persons Bridge, carries a 3-mile (4.8 km), two-lane section of Alabama State Route 193 from mainland Mobile County, Alabama across the Gulf Intracoastal Waterway to Dauphin Island. The natural channel followed by the Gulf Intracoastal Waterway at this location is Pass Aux Herons. The bridge separates the Mississippi Sound on the west from Mobile Bay on the east. It was named in honor of Seth Gordon Persons, the forty-sixth governor of Alabama. Total length 17,814 feet (5,430 m), Longest span 400 feet (122 m), Clearance below 83 feet (25 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13095092773438,
+          30.292867742612255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yolo Causeway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yolo_Causeway",
+        "comment": "The Yolo Causeway is a 3.2-mile (5.2-kilometer) long elevated highway viaduct on Interstate 80 that crosses the Yolo Bypass floodplain and connects the cities of Sacramento, California and Davis, California (through West Sacramento, California)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62757873535155,
+          38.565079401130205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malir River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Malir_River_Bridge",
+        "comment": "The Malir River Bridge is to date Pakistan's largest bridge which spans 5,000 metres (16,000 ft). This bridge was inaugurated by Governor of Sindh Dr Ishrat ul Ibad on Wednesday 4 February 2009. The cost of the bridge is PKR 1.2 billion or USD 14 million funded by the Government of Pakistan. The bridge has shortened the distance by 28 kilometres (17 mi) for the residents of Korangi, Landhi and Shah Faisal towns. To enable construction 42 houses were demolished and the owners were compensated by the government. Total length 460 m (1,510 ft), Width 19 m (62 ft), Longest span 30 m (98 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.2044849395752,
+          24.865334421509907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckman Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Buckman_Bridge",
+        "comment": "The Henry Holland Buckman Bridge carries I-295 West Beltway traffic over the St. Johns River in Jacksonville, Florida. It was named for Henry Holland Buckman, a prominent legislator and attorney who was instrumental in establishing the Florida state road system. Total length 16300 feet (4968.2 m), Width 35 feet (10.7 m) per direction, Longest span 250 feet (76.2 m), Clearance below 65 feet (19.8 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66275024414061,
+          30.189650699263083
+        ]
+      }
     }
   ]
 }
