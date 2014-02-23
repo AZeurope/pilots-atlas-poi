@@ -6926,6 +6926,86 @@
           27.888246118437756
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sault Ste. Marie International Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sault_Ste._Marie_International_Bridge",
+        "comment": "The Sault Ste. Marie International Bridge, often known just as the International Bridge, spans the St. Marys River between the United States and Canada connecting the twin cities of Sault Ste. Marie, Michiganand Sault Ste. Marie, Ontario. It serves as the northern terminus of Interstate 75. The International Bridge began construction in 1960 and officially opened to traffic on October 31, 1962. Total length 2.8 miles (4.5 km), Width 28 feet (8.5 m), Longest span 132 m, Clearance below 124 feet (38 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36161041259766,
+          46.50701779369795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jingzhou Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jingzhou_Yangtze_River_Bridge",
+        "comment": "The Jingzhou Bridge is a large bridge complex crossing the Yangtze River just south of the city-center of Jingzhou, Hubei. The bridge has two main cable-stayed spans (North and South) with lengths of 500 metres (1,600 ft) and 305 metres (1,001 ft) respectively. The bridge has nine box girder spans between the two large cable stayed spans, each measuring 151 metres (495 ft). The bridge carries four lanes of the G55 Erenhot–Guangzhou Expressway. Total length 4,177 metres (13,704 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21572875976561,
+          30.30679966307638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo Bay Aqua-Line",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Bay_Aqua-Line",
+        "comment": "The Tokyo Bay Aqua-Line, also known as the Trans-Tokyo Bay Highway, is a bridge–tunnel combination across Tokyo Bay in Japan. It connects the city of Kawasakiin Kanagawa Prefecture with the city of Kisarazu in Chiba Prefecture, and forms part of National Route 409. With an overall length of 14 km, it includes a 4.4 km bridge and 9.6 km tunnel underneath the bay—the fourth-longest underwater tunnel in the world. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86007690429688,
+          35.47409160773029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayside Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bayside_Bridge_(Pinellas_County,_Florida)",
+        "comment": "The Bayside Bridge crosses over the northwesternmost end of Tampa Bay, connecting Clearwater, Florida and Largo, Florida. Construction began in the early 1990s and was completed in Summer of 1993, officially opening for traffic on June 2 of that year. Originally conceived in the 1970s as the 49th Street Bridge, a toll-levied part of the 12-mile (19 km) Pinellas Parkway, the current six-lane twin-span bridge provides direct, unmitigated access from eastern Clearwater to St. Petersburg/Clearwater International Airport by connecting McMullen Booth Road to 49th Street North and also serves as a bypass for heavily-congested US 19. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70439147949219,
+          27.940426898126454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commodore Barry Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Commodore_Barry_Bridge",
+        "comment": "The Commodore Barry Bridge is a cantilever bridge that spans the Delaware River from Chester, Pennsylvania to Bridgeport, in Logan Township, New Jersey, USA. It is named after the American Revolutionary War hero and Philadelphia resident John Barry. Total length 4,240.38 m (13,912 feet), Width 23.47 m (77 feet), Longest span 501.09 m (1,644 feet), Clearance below 58.52 meters (192 feet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37093162536621,
+          39.82772019218976
+        ]
+      }
     }
   ]
 }
