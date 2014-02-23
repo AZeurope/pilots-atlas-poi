@@ -50,7 +50,8 @@
         "date": null,
         "elevation": null,
         "length_km": null,
-        "scalerank": null
+        "scalerank": null,
+        "comment": "The Bosphorus Bridge, also called the First Bosphorus Bridge or simply the First Bridge is one of two suspension bridges spanning the Bosphorus strait in Istanbul, Turkey; thus connecting Europe and Asia (the other one is the Fatih Sultan Mehmet Bridge, which is called the Second Bosphorus Bridge.) The bridge is located between Ortaköy (on the European side) and Beylerbeyi (on the Asian side). It is a gravity anchored suspension bridge with steel towers and inclined hangers. The aerodynamic deck hangs on zigzag steel cables. It is 1,560 m (5,118 ft) long with a deck width of 33.40 m (110 ft). The distance between the towers (main span) is 1,074 m (3,524 ft) and the total height of the towers is 165 m (541 ft). The clearance of the bridge from sea level is 64 m (210 ft)."
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +67,7 @@
         "name": "Giza Necropolis",
         "type": "building",
         "url": "http://en.wikipedia.org/wiki/Giza_Necropolis",
-        "comment": "",
+        "comment": "The Giza Necropolis (\"pyramids of Giza\") is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt. This complex of ancient monuments includes the three pyramid complexes known as the Great Pyramids, the massive sculpture known as the Great Sphinx, several cemeteries, a workers' village and an industrial complex. It is located some 9 km (5 mi) inland into the desert from the old town of Giza on the Nile, some 25 km (15 mi) southwest of Cairo city centre. The pyramids, which have historically loomed large as emblems of ancient Egypt in the Western imagination, were popularised in Hellenistic times, when the Great Pyramid was listed by Antipater of Sidon as one of the Seven Wonders of the World. It is by far the oldest of the ancient Wonders and the only one still in existence.",
         "date": null,
         "elevation": null,
         "length_km": null,
@@ -226,7 +227,7 @@
         "name": "Atchafalaya Basin Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Atchafalaya_Basin_Bridge",
-        "comment": "",
+        "comment": "The Atchafalaya Basin Bridge, also known as the Louisiana Airborne Memorial Bridge, is a pair of parallel bridges in the U.S. state of Louisiana between Baton Rouge and Lafayette which carries Interstate 10 over the Atchafalaya Basin. With a total length of 96,095 feet (29,290 m) or 18.2 miles, it is the second-longest bridge in the US and fourteenth-longest in the world by total length. The bridge includes two exits: one for Whiskey Bay (LA 975) and another for Butte La Rose (LA 3177). While the bridges run parallel for most of their length, they merge when crossing the Whiskey Bay Pilot Channel and the Atchafalaya River. The average daily traffic count is (as of 2011) 24,540 vehicles.",
         "date": null,
         "elevation": null,
         "length_km": "29,29",
