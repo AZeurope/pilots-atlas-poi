@@ -1096,8 +1096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.9112548828125,
-          29.72025928058346
+          115.90713500976561,
+          29.72502973997892
         ]
       }
     },
@@ -6348,6 +6348,70 @@
         "coordinates": [
           -122.4697494506836,
           37.94094845586459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangpu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yangpu_Bridge",
+        "comment": "The Yangpu Bridge in Shanghai, China, sister bridge to Nanpu Bridge, is among the world's longest bridges, with a total length of 8354 meters. Its longest span of 602 m makes it one of the largest cable-stayed bridges in the world. It carries the Inner Ring Road from the Yangpu District in Puxi to the Pudong New Area. It was completed in September 1993 and opened in October."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54209136962889,
+          31.25595466608565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maestri Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Maestri_Bridge",
+        "comment": "The Maestri Bridge (originally known as the Pontchartrain Bridge and later as the Watson-Williams Pontchartrain Bridge and the Five Mile Bridge) carries U.S. Route 11 across Lake Pontchartrain between New Orleans and Slidell, Louisiana. The bridge opened on February 18, 1928 as the first permanent crossing of Lake Pontchartrain. The 4.78-mile (7.69 km) bridge was the longest concrete bridge in the world upon completion. The bridge is 35 feet (11 m) wide and has 2 draw spans for passing vessels and barges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.84722137451172,
+          30.176295756214493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiujiang Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jiujiang_Yangtze_River_Bridge",
+        "comment": "The Jiujiang Bridge is a combined road and rail bridge which over the Yangtze River near the city of Jiujiang. It links Xunyang District of Jiujiang, Jiangxi Province south of the river with Xiaochi Town (Huangmei County, Hubei Province) to the north. The central section of the bridge uses the combined action of arch and truss bridges and has a main span of 216 meters (709 ft) and two side spans of 180 meters (590 ft). The double deck bridge carries four vehicular lanes and two sidewalks on the top deck and two railway tracks on the bottom deck. Cracks have appeared in the bridge and traffic weighting more than 20 tonnes was prohibited from using the bridge. A new cable-stayed bridge, the Jiujiang Fuyin Expressway Bridge is being constructed 10 km up stream from the Jiujiang Bridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.01287841796874,
+          29.752455480021393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/James_River_Bridge",
+        "comment": "The James River Bridge is a four-lane divided highway lift bridge across the James River in the U.S. state of Virginia. Owned and operated by the Virginia Department of Transportation, it carries U.S. Route 17(US 17), US 258, and State Route 32 across the river near its mouth at Hampton Roads. The bridge connects Newport News on the Virginia Peninsula with Isle of Wight County in the South Hampton Roads region, and is the easternmost such crossing without a tunnel component. When completed in 1928, the 4.5-mile (7 km) bridge was the longest bridge in the world over water. The original two-lane bridge was replaced from 1975 to 1982 with a wider four-lane bridge that could handle increased traffic volumes. In 2005, the bridge carried an annual average daily traffic of about 30,000 vehicles per day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46827697753906,
+          37.004746084814784
         ]
       }
     }
