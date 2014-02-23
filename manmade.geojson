@@ -6798,6 +6798,70 @@
           30.189650699263083
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tappan Zee Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tappan_Zee_Bridge",
+        "comment": "The Governor Malcolm Wilson Tappan Zee Bridge, usually referred to as The Tappan Zee Bridge, is a cantilever bridge in the U.S. state of New York, crossing the Hudson River at one of its widest points; the Tappan Zee is named for an American Indian tribe from the area called \"Tappan\"; and zee being the Dutch word for \"sea\". As an integral conduit within the New York Metropolitan Area, it connects South Nyack in Rockland County with Tarrytown in Westchester County in the Lower Hudson Valley. Total length 16,013 feet (4,881 m), Width 90 feet (27 m), Longest span 1,212 feet (369 m), Clearance below 138 feet (42 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89266967773438,
+          41.06951613614495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Frankland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Howard_Frankland_Bridge",
+        "comment": "The W. Howard Frankland Bridge is the central bridge spanning Old Tampa Bay from St. Petersburg, Florida to Tampa, Florida. It is one of three bridges connecting Hillsborough County and Pinellas County; the others being Gandy Bridge and Courtney Campbell Causeway. The bridge carries Interstate 275 and is by far the most traveled of the bay's bridges. Total length 15,872 feet (4,838 m) (northbound), 15,900 feet (4,846 m) (southbound), Width 58.4 feet (17.8 m) (northbound), 68.9 feet (21.0 m) (southbound), Clearance below 43.0 feet (13.1 m) (northbound), 48.9 feet (14.9 m) (southbound)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59796142578124,
+          27.924047271926145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamuna Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jamuna_Bridge",
+        "comment": "Jamuna Multi-purpose Bridge, is a bridge opened in Bangladesh in June 1998. It connects Bhuapur on the Jamuna River's east bank to Sirajganj on its west bank. It was the 11th longest bridge in the world when constructed in 1998 and currently the 6th longest bridge in South Asia. It was constructed over the Jamuna River, one of the three major rivers of Bangladesh, and fifth largest in the world in terms of volumetric discharge. Total length 4.8 km, Width 18.5 m, Longest span 100 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.78164672851562,
+          24.399008996573865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pensacola Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pensacola_Bay_Bridge",
+        "comment": "The Pensacola Bay Bridge, also known locally as the Three-Mile Bridge, runs between downtown Pensacola, Florida, and Gulf Breeze, Florida. It carries four lanes of U.S. Highway 98 across Pensacola Bay. Total length 15,640 feet (4,767.1 m), Width 55 feet (16.8 m), Clearance below 50 feet (15.2 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.18406677246094,
+          30.393014902255455
+        ]
+      }
     }
   ]
 }
