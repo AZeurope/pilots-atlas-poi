@@ -6510,6 +6510,86 @@
           16.510491161570826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. George Island Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/St._George_Island_Bridge",
+        "comment": "The 4 mile (6.4 km) St. George Island Bridge (designated State Road 300 from end to end, plus approaches) was built in 2002 (completed in 2004) when the two original bridges (cut by an island in the middle) that led to St. George Island, a small resort town 10 miles (16 km) from Apalachicola, Florida were deemed unsafe due to their old age. The new bridge, by bypassing the middle island, became the 3rd longest bridge in Florida. The north end of SR 300 is at US 98 (SR 30) in Eastpoint. It was opened on February 27, 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.88449096679688,
+          29.68745623523309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astoria–Megler Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Astoria-Megler_Bridge",
+        "comment": "The Astoria–Megler Bridge is a steel cantilever through truss bridge that spans the Columbia River between Astoria, Oregon and Point Ellice near Megler, Washington, in the United States. Located 14 miles (23 km) from the mouth of the river, the bridge is 4.1 miles (6.6 km) long and was the last completed segment of U.S. Route 101 between Olympia, Washington, and Los Angeles, California. It is the longest continuous truss bridge in North America."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.86604309082031,
+          46.220227228843534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Oeland_bridge",
+        "comment": "The Öland Bridge is a road bridge connecting Kalmar on mainland Sweden to Färjestaden on the island of Öland to its east. At 6,072 meters (19,921 ft) long, it is one of the longest in all ofEurope (the longest one until completion of Vasco da Gama Bridge, Lisboa, Portugal, in 1998). It is supported by 156 pillars, and has a characteristic hump at its western end which was created to provide a vertical clearance of 36 m for shipping."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.436233520507812,
+          56.671320366850686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Libertador General San Martín Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Libertador_General_San_Martin_Bridge",
+        "comment": "The Libertador General San Martín Bridge is a cantilever road bridge that crosses the Uruguay River and joins Argentina and Uruguay. It runs between Puerto Unzué, near Gualeguaychú, Entre Ríos Province, Argentina, and Fray Bentos, Río Negro Department, Uruguay, with a total length of 5,966 meters (3.7 mi) (4,220 meters (13,845 ft) in Argentine jurisdiction and 1,146 meters (3,760 ft) in Uruguayan territory)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.24951171874999,
+          -33.098444531367164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hernando de Soto Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hernando_de_Soto_Bridge",
+        "comment": "The Hernando de Soto Bridge is a through arch bridge carrying Interstate 40 across the Mississippi River between West Memphis, Arkansas and Memphis, Tennessee. Memphians also call the bridge the \"New Bridge\", as it is newer than the Memphis & Arkansas Bridge (carrying Interstate 55) downstream, and the \"M Bridge\", due to its distinctive shape. It is of similar construction to the Sherman Minton Bridge between Louisville, Kentucky and New Albany, Indiana. Total length 19,535 feet (5,954 m), Width 90 feet (27 m), Longest span 900 feet (274 m) each, Clearance below 109 feet (33 m) (varies some due to river level)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0655746459961,
+          35.15303868519649
+        ]
+      }
     }
   ]
 }
