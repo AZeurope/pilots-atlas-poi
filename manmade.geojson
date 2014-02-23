@@ -6414,6 +6414,102 @@
           37.004746084814784
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gwangan Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Gwangan_Bridge",
+        "comment": "The Gwangan Bridge is a suspension bridge located in Busan, South Korea. It connects Haeundae-gu to Suyeong-gu. The road surface is about 6,500 meters long, with the bridge as a whole spanning 7,420 meters. It is the second longest bridge in the country after the Incheon Bridge. Construction began in 1994 and concluded in December 2002, with a total cost of 789.9 billion won. The bridge opened temporarily in September and October 2002 for the 2002 Asian Games. However, it was not officially opened until January, 2003."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.12059783935547,
+          35.137879119634185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champlain Bridge, Montreal",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Champlain_Bridge_(Montreal)",
+        "comment": "The Champlain Bridge is a steel truss cantilever bridge with approach viaducts constructed of prestressed concrete beams supporting a prestressed concrete deck paved with asphalt. The bridge crosses the Saint Lawrence River and Saint Lawrence Seaway, connecting the Montreal boroughs of Verdun and Le Sud-Ouest to Brossard on the South Shore. The bridge, with approaches, is approximately 6 km (3.7 mi) long. When the project began, it was designated as the \"Nuns' Island Bridge\" because it crosses over Nuns' Island. In 1958, it was officially named the Champlain Bridge in honour of the explorer Samuel de Champlain, who founded Quebec City in 1608."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52703094482422,
+          45.469039846107734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seohae Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Seohae_Bridge",
+        "comment": "The Seohae Bridge is a cable-stayed bridge that connects Pyongtaek and Dangjin, South Korea. Bridge construction started in 1993 and was completed in 2000 at a cost of 677.7 billion won. During construction part of the southern approach viaduct collapsed on August 5, 1999. The bridge opened on November 9, 2000. Total length 7,310 m (23,980 ft), Width 34 m (112 ft), Longest span 470 m (1,540 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8210220336914,
+          36.94426698728549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chesapeake Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Chesapeake_Bay_Bridge",
+        "comment": "The Chesapeake Bay Bridge (commonly known as the Bay Bridge) is a major dual-span bridge in the U.S. state of Maryland. Spanning the Chesapeake Bay, it connects the state's rural Eastern Shore region with the more urban Western Shore. The original span opened in 1952 and, at the time, with a length of 4.3 miles (6.9 km), it was the world's longest continuous over-water steel structure. The parallel span was added in 1973. Officially, the bridge is named the William Preston Lane, Jr. Memorial Bridge after William Preston Lane, Jr. who, as governor of Maryland, initiated its construction. Total length 22,790 ft (6,946 m) or 4.316 mi (6.946 km), Width 28 ft (8.5 m) (eastbound) and 38 ft (11.6 m) (westbound), Longest span 1,600 ft (488 m), Clearance below 186 ft (56.7 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3604736328125,
+          38.98823513440445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huey P. Long Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Huey_P._Long_Bridge_(Jefferson_Parish)",
+        "comment": "The Huey P. Long Bridge, located in Jefferson Parish, Louisiana, is a cantilevered steel through truss bridge that carries a two-track railroad line over the Mississippi River at mile 106.1 with three lanes of US 90 on each side of the central tracks. Opened in December 1935 to replace the Walnut Street Ferry, the bridge was named for the extremely popular and notorious governor, Huey P. Long, who had just been assassinated on September 8 of that year. The bridge was the first Mississippi River span built in Louisiana and the 29th along the length of the river. It is a few miles upriver from the city of New Orleans. The East Bank entrance is at Elmwood, Louisiana and the West Bank at Bridge City. Total length 8,076 feet (2,462 m) (road), 22,996 feet (7,009 m) (rail), Longest span 790 feet (241 m), Clearance below 153 feet (47 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16960144042969,
+          29.944374117948083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanlwin Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Thanlwin_Bridge_(Mawlamyaing)",
+        "comment": "Thanlwin Bridge (Mawlamyaing) is the longest bridge in Burma, and connects the city of Mawlamyaing with Mottama. Constructed at the confluence of the Thanlwin River, the Gyaing River and the Attayan River in Mon State, the bridge has a two-mile (3 km)-long motor road and four-mile (6 km)-long railroad as well as pedestrian lanes. The approach structure of the rail bridge on Mawlamyaing bank is 1.22 miles (1,960 m) long, and on Mottama bank is 1.42 miles (2,290 m) long. The total length of the rail bridge is 4.75 miles (7,640 m) long."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.61833190917969,
+          16.510491161570826
+        ]
+      }
     }
   ]
 }
