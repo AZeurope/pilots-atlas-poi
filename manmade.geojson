@@ -136,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.120849609375,
-          30.20211367909724
+          -90.11123657226562,
+          30.26499796432109
         ]
       }
     },
@@ -6284,6 +6284,70 @@
         "coordinates": [
           -87.96409606933594,
           30.91341833228475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norfolk Southern Lake Pontchartrain Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Norfolk_Southern_Lake_Pontchartrain_Bridge",
+        "comment": "The Norfolk Southern Lake Pontchartrain Bridge is a bridge that carries a single-track of Norfolk Southern rail line between Slidell and New Orleans, Louisiana. At 5.8 miles (9.3 km) long, it is the longest railroad bridge in the United States and likely the longest rail bridge over water on Earth. The Huey P. Long Bridge in New Orleans has sometimes been given that title, but at about 4.4 miles (7.1 km), that bridge is considerably shorter than the Norfolk Southern bridge. The bridge is heavily used by Norfolk Southern freight trains. In addition, Amtrak's Crescent passenger train crosses the bridge once daily in each direction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.87777709960938,
+          30.152252297201876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I-10 Twin Span Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/I-10_Twin_Span_Bridge",
+        "comment": "The I-10 Twin Span Bridge, a nearly 6 mile causeway known locally as the Twin Spans, consists of two parallel trestle bridges. These parallel bridges cross the eastern end of Lake Pontchartrain in southernLouisiana from New Orleans, Louisiana to Slidell, Louisiana. The current twin spans were constructed in the second half of the 2000s after the original bridges were extensively damaged by Hurricane Katrina in 2005. The first span opened to eastbound traffic on July 9, 2009. On April 7, 2010, the second span was opened to traffic and the old twin spans were permanently closed to traffic. The approaches to the westbound lanes were completed with a ribbon cutting ceremony on September 8, 2011 and the opening of all 6 lanes the next morning. The original Twin Span bridges will be demolished in the near future, with portions being used for a public pier in Slidell, LA, and the rest as an underwater reef."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81117248535156,
+          30.19439868711761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia Dare Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Virginia_Dare_Memorial_Bridge",
+        "comment": "The Virginia Dare Memorial Bridge is the newest, longest, and widest bridge over the Croatan Sound. It was built in 2002. The four-lane bridge carries U.S. Highway 64 Bypass from Manns Harbor to Roanoke Island in the U.S. state of North Carolina. This bridge along with the Washington Baum Bridge and Melvin R. Daniels Bridge provide express access from the North Carolina mainland to the Outer Banks communities. The Virginia Dare Memorial Bridge was named after Virginia Dare, the first child born in the Americas to English parents, who resided on the Roanoke Island colony. At a length of 5.2 miles, the Dare Bridge is the longest in the state. It was constructed with nearly 44,000 tons of deck concrete, 72 concrete columns, and 2,368 piles."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70060729980469,
+          35.883487000049925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond–San Rafael Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Richmond-San_Rafael_Bridge",
+        "comment": "The Richmond–San Rafael Bridge (officially, the John F. McCarthy Memorial Bridge) is the northernmost of the east–west crossings of the San Francisco Bay in California, USA, connecting Richmond on the east to San Rafael on the west end. It opened in 1956, replacing ferry service by the Richmond–San Rafael Ferry Company. Total length 29,040 ft (5.500 mi, 8.85 km), Clearance below 185 feet (56 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4697494506836,
+          37.94094845586459
         ]
       }
     }
