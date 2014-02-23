@@ -6670,6 +6670,70 @@
           51.571521791080826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahatma Gandhi Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Mahatma_Gandhi_Setu",
+        "comment": "Mahatma Gandhi Setu (also called Gandhi Setu or Ganga Setu) is a bridge over the river Ganges connecting Patna in the south to Hajipur in the north of Bihar. It was the longest river bridge in India at the time of its construction and remains the longest river bridge in Asia. It was inaugurated in May 1982 by the then Prime Minister, Mrs Indira Gandhi. Total length 5575 meter, Width 25 meter, Number of spans 47, Piers in water 40, Clearance below 265 meters, Construction begin 1972, Construction end 1982, Opened May 1982."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.20515441894531,
+          25.618620285946978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong–Shenzhen Western Corridor",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Shenzhen_Bay_Bridge",
+        "comment": "The Hong Kong–Shenzhen Western Corridor is a 5.5-kilometre (or 3-mile), dual three-lane carriageway in Hong Kong, connecting Ngau Hom Shek, Hong Kong to an area leased by Hong Kong at Dongjiaotou, which is geographically located in southwestern Shenzhen, a city of mainland China. It connects Hong Kong with the border crossing facilities on its border with mainland China, the Shenzhen Bay Control Point. Width 6 lanes with shoulder, Longest span 210 m (689 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.95912170410156,
+          22.472589012561954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Eastern Corridor",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Island_Eastern_Corridor",
+        "comment": "Island Eastern Corridor (IEC) is an expressway along the Hong Kong Island in Hong Kong. It starts from Causeway Bay in the west and ends in Chai Wan in the east. It is part of Route 4. The section between Causeway Bay and Quarry Bay consists mainly of viaducts built along Victoria Harbour."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20339584350586,
+          22.29409963694228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suramadu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Suramadu_Bridge",
+        "comment": "The Suramadu Bridge, also known as the Surabaya–Madura Bridge, is cable-stayed bridge between Surabaya on the island of Java and the town of Bangkalan on the island of Madura in Indonesia. Opened in June 2009, the 5.4-km bridge is the longest in Indonesia and the first bridge to cross the Madura Strait. The cable-stayed portion has three spans with lengths 192 m, 434 m and 192 m. The bridge has two lanes in each direction plus an emergency lane and a dedicated lane for motorcycles. Total length 5,438 m (17,841 ft), Width 30 m (98 ft), Height 146 m (479 ft), Longest span 818 m (2,684 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78083801269531,
+          -7.189463367057662
+        ]
+      }
     }
   ]
 }
