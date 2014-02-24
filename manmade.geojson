@@ -7902,6 +7902,86 @@
           43.88725365601314
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humber Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Humber_Bridge",
+        "comment": "The Humber Bridge, near Kingston upon Hull, England, is a 2,220-metre (7,280 ft) single-span suspension bridge, which opened to traffic on 24 June 1981. It is the seventh-longest of its type in the world. It spans the Humber (the estuary formed by the rivers Trent and Ouse) between Barton-upon-Humber on the south bank and Hessle on the north bank, connecting the East Riding of Yorkshire and North Lincolnshire – both of which were briefly in the short-lived non-metropolitan county of Humberside. The bridge itself can be seen for miles around and as far as Ottringham in the East Riding of Yorkshire."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.44837951660156244,
+          53.70646218454777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juanico Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/San_Juanico_Bridge",
+        "comment": "San Juanico Bridge is part of the Pan-Philippine Highway and stretches from Samar to Leyte across the San Juanico Strait in the Philippines. Its longest length is a steel girder viaduct built on reinforced concrete piers, and its main span is of an arch-shaped truss design. With a total length of 2.16 kilometers (1.34 mi), it is the longest bridge in the Philippines spanning a body of seawater. The bridge was heavily damaged by Typhoon Haiyan in November 2013 but repaired."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9698257446289,
+          11.300974463227185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Mahanadi Rail Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Second_Mahanadi_Rail_Bridge",
+        "comment": "Second Mahanadi Rail Bridge is a rail bridge over the Mahanadi near Cuttack in the Indian state of Odisha. Total length 2,100 metres (6,900 ft), opened 2008. - The first Mahanadi Rail Bridge was opened on 1 January 1899. It had 64 spans of 100 feet each, on wells 19 ft 6 in. in diameter sunk to 60 ft below low water level. The Engineer in Charge of construction of the first Mahanadi Rail Bridge was William Beckett (engineer), who won a gold medal from the Institution of Civil Engineers in 1901, for a paper he presented on the bridge construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91025352478027,
+          20.48410995199275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharavati Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sharavathi_Bridge",
+        "comment": "The Sharavati Bridge is a railway bridge, south of Honnavar, in the state of Karnataka, India, completed in 1994. It carries the Konkan Railway over the Sharavati river. It is 2,060 metres (6,760 ft) long, and is the longest bridge on that railway, and the longest railway bridge in the state."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.46258544921875,
+          14.263883980310183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajendra Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rajendra_Setu",
+        "comment": "Rajendra Setu (also known as Rajendra Pul and Mokama Bridge) across the Ganges was the first bridge to link North Bihar and South Bihar. The road-cum-rail bridge near Mokama in Patna district was inaugurated by Dr. Rajendra Prasad, President of India. It is about 2 kilometres (1.2 mi) long and carries a two lane road and a double line railway track. It was opened in 1959."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99754333496092,
+          25.37473977649287
+        ]
+      }
     }
   ]
 }
