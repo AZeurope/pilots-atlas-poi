@@ -7422,6 +7422,70 @@
           47.27922900257082
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Third Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Third_Bridge",
+        "comment": "The Deputy Darcy Castelo de Mendonça Bridge, colloquially known as the Third Bridge, is the second tallest bridge in Brazil, connecting the cities of Vila Velha and Vitóriain the state of Espirito Santo. Spanning the mouth of Vitória's bay, which has many other features, including the Penha Convent, Moreno's hill, freight ships, coastline, islands and modern buildings, the bridge has become one of Espirito Santo's main landmarks. 61 pillars, 3.3 km long, 70 metres high at the centre, Span of 260 metres between central pillars."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.284976959228516,
+          -20.319355277686775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delaware Memorial Bridges",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Delaware_Memorial_Bridge",
+        "comment": "The Delaware Memorial Bridge is a set of twin suspension bridges crossing the Delaware River. The toll bridges carry Interstate 295 and U.S. Route 40 between Delaware and New Jersey. The bridge was designed by the firm known today as HNTB with consulting help from famous engineer Othmar Ammann, whose other designs include the Walt Whitman Bridge (which is similar in appearance, except for the additional travel lanes and shorter center span) and Verrazano-Narrows Bridge. It is also one of only two crossings of the Delaware River with both U.S. Highway and Interstate Highway designations, the other being the Benjamin Franklin Bridge. Total length 10,765 feet (3,281 m) (eastbound), 10,796 feet (3,291 m) (westbound), Width 59.1 feet (18 m) (eastbound), 58.7 feet (18 m) (westbound), Longest span 2,150 feet (655 m), Vertical clearance 17.9 feet (5 m), Clearance below 174 feet (53 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52139282226562,
+          39.68975221365206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tay Rail Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tay_Rail_Bridge",
+        "comment": "The Tay Rail Bridge carries the main-line railway across the Firth of Tay in Scotland, between the city of Dundee and the suburb of Wormit in Fife. Total length 3,264 metres (10,709 ft), its span is 2.75 miles (3.5 kilometres). The present-day structure is the second one on its site. From about 1854, there had been plans for a Tay crossing, to replace an early train-ferry. The first bridge, opened in 1878, was a single-track lattice design, notable for lightness and low cost. Its sudden collapse in a high wind on December 28th 1879 was one of the great engineering disasters of history, and its causes are still debated today. The second bridge was a double-track construction of iron and steel, opened in 1887 and still in service. In 2003, a strengthening and refurbishing project was recognised by a major award for the scale and difficulty of the work."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9889678955078125,
+          56.43782408929537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hale Boggs Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Luling_Bridge",
+        "comment": "The Hale Boggs Memorial Bridge (also known as the Luling-Destrehan Bridge) is a cable-stayed bridge over the Mississippi River in St. Charles Parish, Louisiana. It is named for the late United States Congressman Hale Boggs. The bridge was dedicated by Governor David C. Treen and Bishop Stanley Ott of Baton Rouge and opened to traffic on October 8, 1983 connecting Louisiana Highway 18 on the West Bank and Louisiana Highway 48 on the East Bank. Total length 10,700 feet (3,261 m), Width 76 feet (23 m), Longest span 1,220 feet (372 m), Clearance below 158 feet (48 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37422180175781,
+          29.941547896721726
+        ]
+      }
     }
   ]
 }
