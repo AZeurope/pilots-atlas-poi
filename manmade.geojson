@@ -7358,6 +7358,70 @@
           39.90499580965428
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humen Pearl River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Humen_Pearl_River_Bridge",
+        "comment": "The Humen Pearl River Bridge (literally: Tiger Gate Huge Bridge) is a suspension bridge over the Pearl River in GuangdongProvince, southern China. It connects the Nansha District of Guangzhou to Humen Town of Dongguan. Completed in 1997, the bridge has a main span of 888 meters, total length 3,618 m (11,870 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61236572265624,
+          22.79643932091949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thăng Long Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Thang_Long_Bridge",
+        "comment": "The Thăng Long Bridge (completed 1978) is a bridge in Hanoi, Vietnam, which connects the city with Noi Bai Airport."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78563690185547,
+          21.09763334465576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego–Coronado Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/San_Diego-Coronado_Bridge",
+        "comment": "The San Diego–Coronado Bridge, locally referred to as the Coronado Bridge, is a \"prestressed concrete/steel\" girder bridge, crossing over San Diego Bay in the United States, linking San Diego with Coronado, California. The bridge is signed as part of State Route 75. Total length 11,179 feet (3,407 m) or 2.1 miles (3.4 km), Longest span 1,880 feet (573 m), Clearance below 200 feet (61 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15528488159178,
+          32.687786999982244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Nazaire Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Saint-Nazaire_Bridge",
+        "comment": "The Saint-Nazaire Bridge is a cable-stayed bridge spanning the Loire river and linking Saint-Nazaire on the north bank and Saint-Brevin-les-Pins on the south bank, in thedepartment of Loire-Atlantique, Brittany, France. Total length 3,356 m, Longest span 404 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1667098999023438,
+          47.27922900257082
+        ]
+      }
     }
   ]
 }
