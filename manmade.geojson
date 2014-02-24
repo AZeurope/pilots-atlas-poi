@@ -907,11 +907,11 @@
         "name": "Russky Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Russky_Bridge",
-        "comment": "The Russky Bridge is a bridge built across the Eastern Bosphorus strait, to serve the Asia-Pacific Economic Cooperation that took place in Vladivostok in 2012. The bridge connects the mainland part of the city (Nazimov peninsula) with Russky Isla",
-        "date": null,
-        "elevation": null,
+        "comment": "The Russky Bridge is a bridge built across the Eastern Bosphorus strait, to serve the Asia-Pacific Economic Cooperation that took place in Vladivostok in 2012. The bridge connects the mainland part of the city (Nazimov peninsula) with Russky Island. Total length 3,100 m (10,200 ft), Width 29.5 m (97 ft), Longest span 1,104 m (3,622 ft), Vertical clearance 70 m.",
+        "date": "null",
+        "elevation": "null",
         "length_km": "3,100",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -1107,11 +1107,11 @@
         "name": "San Francisco–Oakland Bay Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/San_Francisco_%E2%80%93_Oakland_Bay_Bridge",
-        "comment": "The San Francisco–Oakland Bay Bridge (known locally as the Bay Bridge) is a complex of bridges spanning San Francisco Bay of the U.S. state of California. As part of Interstate 80 and the direct road route between San Francisco and Oakland, it carries",
-        "date": null,
-        "elevation": null,
-        "length_km": null,
-        "scalerank": null
+        "comment": "The San Francisco–Oakland Bay Bridge (known locally as the Bay Bridge) is a complex of bridges spanning San Francisco Bay of the U.S. state of California. As part of Interstate 80 and the direct road route between San Francisco and Oakland.",
+        "date": "null",
+        "elevation": "null",
+        "length_km": "null",
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -7564,6 +7564,86 @@
         "coordinates": [
           11.881027221679688,
           54.963030676825205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masnedsund Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Masnedsund_Bridge",
+        "comment": "Masnedsund Bridge is a road and railway bascule bridge that crosses Masnedsund between the islands Masnedø and Zealand (Sjælland) in Denmark. Together with Storstrøm Bridge it connects Falster and Zealand and was the main road connection between the islands until the Farø Bridges were opened in 1985. It was officially opened on 6 August 1937, and replaced an older railway bridge that was opened on 15 January 1884, and a ferry."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.888751983642578,
+          54.99691813570296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Orinoco crossing",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Second_Orinoco_crossing",
+        "comment": "The Second Orinoco crossing or Orinoquia Bridge is a combined road and railway bridge over the Orinoco River near Ciudad Guayana, Venezuela. It was inaugurated on November 13, 2006 and named Orinoquia Bridge. Prior to its construction, the only crossing of the Orinoco was the Angostura Bridge around 100 km further upstream at Ciudad Bolívar that was opened in 1967. Total length 3,156 m (10,354 ft), Longest span 300 m, (984 ft), Vertical clearance 41 m (135 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.90050506591797,
+          8.271291114508655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nehru Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nehru_Setu",
+        "comment": "Nehru Setu (earlier referred to as the Upper Son Bridge), across the Son River, between Dehri-on-Son and Son Nagar, in Bihar, is the second longest railway bridge in India, after Vembanad Rail Bridge in Kerala. However, the latter is meant only for goods traffic. Total length 3,064 metres (10,052 ft), Number of spans 93."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.21295166015625,
+          24.89391089802126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jawahar Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jawahar_Setu",
+        "comment": "Jawahar Setu is across the Son River, between Dehri-on-Son and Son Nagar, in the Indian state of Bihar. It is named after the first prime minister of India, Jawaharlal Nehru. The 3,061 metres (10,043 ft) road bridge carries the Grand Trunk Road/ NH 2. It was built by Gammon India Ltd in 1963-65. Nehru Setu, the rail bridge that runs parallel to the road bridge was built in 1900."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.19612884521483,
+          24.90263046793521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talmadge Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Talmadge_Memorial_Bridge",
+        "comment": "The Talmadge Memorial Bridge is a bridge in the United States that spans the Savannah River between downtown Savannah, Georgia, and Hutchinson Island. It carries US 17/SR 404 Spur. Total length 1.9 miles (3.06 km), Longest span 1,100 feet (335 m), Clearance below 185 feet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09875679016113,
+          32.08890123510838
         ]
       }
     }
