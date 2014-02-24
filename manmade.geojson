@@ -8046,6 +8046,86 @@
           16.503743124976687
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airoli Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Airoli_Bridge",
+        "comment": "Airoli Bridge is a bridge in the Mumbai metropolitan area of India. It was constructed to establish a direct road link between Mumbai and Navi Mumbai. Total length 3,850 m (12,630 ft), Longest span 1,030 m (3,379 ft), Number of spans 19 spans of 50 meters c/c. Two end spans of 40 meters each. Two navigational spans."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.982177734375,
+          19.151006101333085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malviya Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Malviya_Bridge",
+        "comment": "Malviya Bridge, inaugurated in 1887 (originally called The Dufferin Bridge) is a double decker bridge over the Ganges at Varanasi. It carries rail track on lower deck and road on the upper deck. It is one of the major bridges on the Ganges and carries the Grand Trunk Road across the river. It has 7 spans of 350 ft and 9 spans of 110 ft long and it was the first bridge of its type constructed in the Indian sub-continent, Total length 1,048.5 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.03535461425781,
+          25.320752845440186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Naini Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Old_Naini_Bridge",
+        "comment": "The Old Naini Bridge is one of the longest and oldest bridges in India, located in Allahabad. It is a double-decked steel truss bridge which runs across the Yamuna river in the southern part of the city.The bridge runs North-South across the Yamuna river connecting the city of Allahabad to its neighborhood of Naini. It boasts capability of roadways and railways simultaneously. Upper deck has a two lane railway line which connects Naini Junction railway station to Allahabad Junction railway station, while the lower deck has successfully been facicilating roadway services sinse 1927, Total length 1,006 m (3,301 ft), Construction end 1865."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.85037612915039,
+          25.423276388579332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chamravattom Regulator-cum-Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Chamravattom_Regulator-cum-Bridge",
+        "comment": "The Chamravattom Regulator-cum-Bridge, also known as Chamravattom Palam or Chamravattom Bridge or Chamravattom RcB or just Chamravattom Project, is built across Bharathapuzha aka Nila near Chamravattom. This seems to be the largest of its type in Kerala. The bridge has 978 m length and 10.5 m width. It connects Ponnani and Tirur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.96153259277344,
+          10.819648905821689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivekananda Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vivekananda_Setu",
+        "comment": "Vivekananda Setu (also called Willingdon Bridge and Bally Bridge) is a bridge over the Hooghly River in West Bengal, India. It links the city of Howrah, at Bally, to its twin city ofKolkata, at Dakshineswar. Completed in December 1932, it is a multispan steel bridge and was built to provide road and rail link between the Calcutta Port and its hinterland. It is 2,887 feet (880 m) long."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35617065429688,
+          22.653145762996566
+        ]
+      }
     }
   ]
 }
