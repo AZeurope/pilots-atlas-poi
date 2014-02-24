@@ -7230,6 +7230,54 @@
           31.191144041700596
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaotianmen Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Chaotianmen_Bridge",
+        "comment": "The Chaotianmen Bridge, is a road-rail bridge over the Yangtze River in the city of Chongqing, China. The bridge which opened on 29 April 2009 is the world's longest arch bridge. The continuous steel truss arch bridge with tie girders has a main span of 552 metres (1,811 ft) and a total length of 1,741 m (5,712 ft). It carries 6 lanes in two ways and a pedestrian lane on each side on the upper deck, and dual light rails in the middle and 2 traffic lanes on each side on the lower deck."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57493591308594,
+          29.58838576520234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suez Canal Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Suez_Canal_Bridge",
+        "comment": "The Suez Canal Bridge, also known as the Shohada 25 January Bridge or the Egyptian-Japanese Friendship Bridge, is a road bridge crossing the Suez Canal at El Qantara. The Arabic \"al qantara\" means \"the bridge\". The bridge links the continents of Africa and Eurasia. Total length 3.9 km (2.4 mi), Width 10 m (33 ft), Height pylons: 154 m (505 ft), Longest span 404 m (1,325 ft), Clearance below 70 m (230 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.316627502441406,
+          30.82825498484088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponte della Libertà",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ponte_della_Liberta",
+        "comment": "Ponte della Libertà (English: Freedom Bridge) is a road bridge connecting the historical center of the city of Venice, that is a group of islands, to the mainland. Designed in 1932 by engineer Eugenio Miozzi, and opened by Benito Mussolini in 1933 as Ponte Littorio, the bridge is the only access for road vehicles to the historical center of the capital city of Veneto. At the end of World War II it was renamed Ponte della Libertà to honour the end of the Fascist dictatorship and of the Nazi occupation. The bridge is the final end of the old public road 11 (Padana Superiore), it is 3.85 km (2.39 mi) long and has two lanes each way, with no emergency lane. It is built alongside the Venice Railroad Bridge, which was constructed in 1846, with two tracks each way, and is still in use."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.297821044921875,
+          45.45459177182875
+        ]
+      }
     }
   ]
 }
