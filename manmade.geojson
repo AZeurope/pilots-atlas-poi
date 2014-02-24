@@ -7646,6 +7646,70 @@
           32.08890123510838
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saraighat Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Saraighat#Saraighat_Bridge",
+        "comment": "Saraighat Bridge is the first rail-cum-road bridge constructed over the Brahmaputra River in Guwahati. It was opened to traffic in April 1962 by then Prime Minister Jawaharlal Nehru. The Lachit Borphukan Park is situated on the south end and Chilarai Park situated on the north end of the bridge. The 3,015 metre long road bridge was built for the North Frontier Railway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.67198181152344,
+          26.17423464180222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolia Bhomora Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kolia_Bhomora_Setu",
+        "comment": "Kolia Bhomora Setu is a pre-stressed concrete road bridge over the Brahmaputra River near Tezpur in Assam (India). It is named after the Ahom General Kolia Bhomora Phukan. This bridge connects Sonitpur on the north bank with Nagaon District on the south bank. The length of this bridge is 3015 meters. The construction of the bridge took place from 1981 to 1987."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8564453125,
+          26.59773720487368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponte Conde de Linhares",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ponte_Conde_de_Linhares",
+        "comment": "The Ponte Conde de Linhares (English: Count of Linhares Bridge), often shortened to Ponte de Linhares is a 3 km long causeway connecting Ribandar to the main city of Panjim in Goa. On the south side is the Khazan salt pans and to the north is the Mandovi River. There are ducts which act as tide controls. Ponte Conde de Linhares was built in 1633 under the direction of the then Viceroy of Portuguese India, Miguel de Noronha, 4th Count of Linhares, after whom it is named."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84554862976074,
+          15.500684836116221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiangyin Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jiangyin_Suspension_Bridge",
+        "comment": "The Jiangyin Bridge is a suspension Bridge over the Yangtze River in Jiangsu, China. When it was completed it was the most seaward crossing of the Yangtze River however the Sutong Bridge and the Shanghai Yangtze River Tunnel and Bridge have since been built further downstream. The bridge has a main span of 1,385 metres (4,544 ft) connecting Jiangyin south of the river to Jingjiang to the north. When it was completed in 1999 it was the fourth longest suspension bridge span in the world and the longest in China. Several longer bridges have since been completed in china and abroad but it still ranks among the ten longest bridge spans in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26802062988281,
+          31.947792543995604
+        ]
+      }
     }
   ]
 }
