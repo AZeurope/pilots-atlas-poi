@@ -7982,6 +7982,70 @@
           25.37473977649287
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vashi Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vashi_Bridge",
+        "comment": "The Vashi Bridge, also known as Thane Creek Bridge, is a bridge, built across the Thane Creek that connects the city of Mumbai to the Indian mainland at Navi Mumbai. The bridge links the suburb of Mankhurd in Mumbai with Vashi in Navi Mumbai, the satellite city of Mumbai. It is one of four entry points into Mumbai, and handles traffic directed towards the region to the south and east of Mumbai. Total length 1,837.5 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96964645385742,
+          19.061793386528766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Yamuna Bridge, Allahabad",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/New_Yamuna_Bridge,_Allahabad",
+        "comment": "The New Yamuna Bridge is the longest cable-stayed bridge of India, located in Allahabad. The bridge was constructed by the end of 2004 with the aim of minimizing the traffic over the Old Naini Bridge. The bridge runs North-South across the Yamuna river connecting the city of Allahabad to its neighborhood of Naini. The construction was consulted by COWI A/S, a Danish consulting company. Total length 365 m + 630 m + 515 m = 1,510 m (4,954 ft), Width 250 m, Longest span 260 m (853 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.89105987548828,
+          25.43521371216217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koilwar Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Koilwar_Bridge",
+        "comment": "Koilwar Bridge, now named Abdul Bari Bridge, at Koilwar spans the River Sone. The bridge has been named after Professor Abdul Bari, academic and social reformer. The Koilwar Bridge (known as Sone Bridge when it was built) is amongst the older of the longer bridges in this subcontinent. Although construction started in 1856, it was disrupted by uprisings in 1857 and completed in 1862. Total length 4,726 feet (1,440 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.80020523071288,
+          25.564278159695736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prakasam Barrage",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Prakasam_Barrage",
+        "comment": "The structure of the Prakasam Barrage stretches 1223.5 m across the Krishna River connecting Krishna and Guntur districts. The barrage serves also as a road bridge and spans over a lake. The three canals associated with the barrage run through the city of Vijayawada crossing it and giving it a Venetian appearance."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60359954833984,
+          16.503743124976687
+        ]
+      }
     }
   ]
 }
