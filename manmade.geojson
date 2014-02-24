@@ -7838,6 +7838,70 @@
           -17.80843254601681
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pamban Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pamban_Bridge",
+        "comment": "The Pamban Bridge is a cantilever bridge on the Palk Strait which connects the town of Rameswaram on Pamban Island to mainland India. The bridge refers to both the road bridge and the cantilever railway bridge, though primarily it means the latter. Opened in 1914, it was India's first sea bridge, and was the longest sea bridge in India till 2010. The rail bridge is for the most part, a conventional bridge resting on concrete piers, but has a double leaf bascule section midway, which can be raised to let ships and barges pass through. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19254302978516,
+          9.283754088863379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teodoro Moscoso Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Teodoro_Moscoso_Bridge",
+        "comment": "The Teodoro Moscoso Bridge is a toll bridge that connects San Juan with Isla Verde. Total length 2,250 meters (7,382 ft), opened February 1994."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.02568626403809,
+          18.4218832330983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farakka Barrage",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Farakka_Barrage",
+        "comment": "Farakka Barrage is a barrage across the Ganges River, located in the Indian state of West Bengal, roughly 16.5 kilometres (10.3 mi) from the border with Bangladesh near Chapai Nawabganj District. Construction was started in 1961 and completed in 1975 at a cost of 156.49 crore (US$25 million). Operations began on April 21, 1975. The barrage is about 2,240 metres (7,350 ft) long. The feeder canal from the barrage to the Bhagirathi-Hooghly River is about 25 miles (40 km) long."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.93251037597656,
+          24.804499827575405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danube Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Danube_Bridge",
+        "comment": "The Danube Bridge (formerly known as the Friendship Bridge) is a steel truss bridge over the Danube River connecting the Bulgarian bank to the south with the Romanian bank to the north and the cities of Ruse and Giurgiu respectively. It is one of only two bridges connecting Romania and Bulgaria. Total length 2,223 m (7,293 ft), Clearance below 30 m (98 ft), Construction begin 1952."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.006698608398438,
+          43.88725365601314
+        ]
+      }
     }
   ]
 }
