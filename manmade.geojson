@@ -7118,6 +7118,70 @@
           38.64573513304631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anghel Saligny Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Anghel_Saligny_Bridge",
+        "comment": "The Anghel Saligny Bridge (formerly King Carol I Bridge) is a complex of railroad truss bridges in Romania, across the Danube River, connecting the cities of Cernavodă and Feteşti. The bridge is listed in theNational Register of Historic Monuments. The bridge was built between 1890 and 1895 over the Danube and Borcea branch of the Danube, and when it was completed it then became the longest bridge in Europe and the third longest in the world. The two cities on the banks of the river which was built were Feteşti on the left side and Cernavodă on the right side. The bridge has a length of 4,087.95 m (13,411.9 ft) of which 1,662 m (5,453 ft) over the Danube and 970 m (3,180 ft) over Borcea and was designed by Romanian engineer Anghel Saligny. It is 30 m (98 ft) above the water, allowing tall ships to pass under it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.014450073242188,
+          44.340792975052004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur Ravenel Jr. Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Arthur_Ravenel,_Jr._Bridge",
+        "comment": "The Arthur Ravenel Jr. Bridge, also known as the New Cooper River Bridge, is a cable-stayed bridge over the Cooper River in South Carolina, connecting downtown Charleston to Mount Pleasant. The eight lane bridge satisfied the capacity of U.S. Route 17 when it opened in 2005 to replace two obsolete cantilever truss bridges. The bridge has a main span of 1,546 feet (471 m), the third longest among cable-stayed bridges in the Western Hemisphere. It was built using the design-build method and was designed by Parsons Brinckerhoff. Total length 13,200 feet (4.0 km), Width eight 12-foot (3.7 m) lanes, Height 575 feet (175 m), Longest span 1,546 feet (471 m), Clearance below 186 feet (57 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91437911987305,
+          32.80285901614185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fred Hartman Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Fred_Hartman_Bridge",
+        "comment": "The Fred Hartman Bridge or Baytown Bridge is a cable-stayed bridge in the U.S. state of Texas, spanning the Houston Ship Channel. The bridge carries 2.6 miles (4 km) of State Highway 146, between the cities of Baytown, Texas and La Porte, Texas (east of Houston). The bridge, named for Fred Hartman (1908–1991), the editor and publisher of the Baytown Sun from 1950 to 1974, is the longest cable-stayed bridge in Texas, and one of only three such bridges in the state, the others being the Veterans Memorial Bridge in Orange County."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.01731872558592,
+          29.703560887190708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainbow Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rainbow_Bridge_(Texas)",
+        "comment": "The Rainbow Bridge is a cantilever bridge crossing the Neches River in Southeast Texas just upstream from Sabine Lake. It allows State Highway 87 and State Highway 73 to connect Port Arthur in Jefferson County on the southwest bank of the river with Bridge City in Orange County on the northeast bank. Construction on the bridge began in 1936 under the guidance of the Texas State Highway Department. Due to concerns by the upstream city of Beaumont about the bridge posing a threat to ship navigation, the Rainbow Bridge was built with a 680 foot (210 m) main span. In addition, it has a vertical clearance of 177.0 feet (54 m), which was intended to allow the tallest ship in the US Navy, the USS Patoka, passage under the bridge (however, the Patoka never did)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.87044906616211,
+          29.98051291706061
+        ]
+      }
     }
   ]
 }
