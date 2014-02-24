@@ -7486,6 +7486,86 @@
           29.941547896721726
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dames Point Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Dames_Point_Bridge",
+        "comment": "The Dames Point Bridge (officially the Napoleon Bonaparte Broward Bridge) is a cable-stayed bridge over the St. Johns River in Jacksonville, Florida on the Interstate 295 East Beltway. Construction began in 1985 and it was completed in 1989. The main span is 1,300 feet (396.2 m), and is 175 feet (53.3 m) high, Total length 10646 feet (3244.9 m), Width 106 feet (32.2 m), Vertical clearance 39.7 feet (12.11 m). The bridge was designed by HNTB Corporation and built by Massman Construction Company. The bridge carries Interstate 295 which makes it become part of the bridges on the interstate highway system."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5573501586914,
+          30.383537906740475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great South Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Great_South_Bay_Bridge",
+        "comment": "Great South Bay Bridge is a bridge on the southwest side of Suffolk County, on Long Island, in the U.S. state of New York, connecting the Robert Moses Causeway from Long Island's mainland over the Great South Bay, connecting to both Captree and Jones Beach Islands ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.27262878417969,
+          40.67334753512089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fire Island Inlet Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Fire_Island_Inlet_Bridge",
+        "comment": "The Fire Island Inlet Bridge, an integral part of the Robert Moses Causeway, is a two-lane, steel arch span with a concrete deck that carries the parkway over Fire Island Inlet. Construction of the Fire Island Bridge was completed in 1964 and although a relatively young structure, (less than 50-years old), its concrete deck has suffered from severe chloride ingress resulting in cracks, spalling, and the formation of potholes. Total length 3,970 feet (1,210 m), Width 26 feet (7.9 m), Load limit 29 (5 on span, 24 approach), Vertical clearance 65 feet (20 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2626724243164,
+          40.6306300839918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macleay River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Macleay_River_Bridge",
+        "comment": "The Macleay River Bridge is a road bridge over the Macleay River and its floodplain near the settlement of Frederickton, New South Wales, Australia. The bridge is part of the Pacific Highway new alignment which bypasses Kempsey and Frederickton. The 3.2 kilometres (2.0 mi) long bridge carries four lanes of traffic; two lanes in each direction, each lane 3.5 metres (11 ft). It is currently the longest road bridge in Australia.[2] The bridge is constructed of 941 concrete beams supported by 93 piers. Installation of all support beams was completed in October 2012. On 24 February 2013 the bridge was opened to visitors for a preview walk and it was opened to traffic on 27 March 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.88745880126953,
+          -31.03793260449624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storstrøm Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Storstrom_Bridge",
+        "comment": "Storstrøm Bridge is a road and railway arch bridge that crosses Storstrømmen between the islands of Falster and Masnedø in Denmark. Together with Masnedsund Bridge it connects Falster and Zealand (Sjælland). It was the main road connection between the islands until the Farø Bridges were opened in 1985. It is still part of the railway connection between the islands of Lolland, Falster, and Zealand. It is on the rail line between Copenhagen and Hamburg, Germany. Total length 3,199 m, Width 9 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.881027221679688,
+          54.963030676825205
+        ]
+      }
     }
   ]
 }
