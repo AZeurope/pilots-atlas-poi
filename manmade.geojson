@@ -7710,6 +7710,70 @@
           31.947792543995604
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio–Antirrio bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rio-Antirrio_bridge",
+        "comment": "The Rio–Antirrio bridge, officially the Charilaos Trikoupis Bridge after the statesman who first envisaged it, is the world's longest multi-span cable-stayed bridge. It crosses the Gulf of Corinth near Patras, linking the town of Rio on the Peloponnese to Antirrio on mainland Greece by road. Total length 2,880 m (9,450 ft), Width 27.2 m (89 ft), Longest span 560 m (1,840 ft), opened August 7, 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.77318572998047,
+          38.32091891115419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strelasund Crossing",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Strelasund_Crossing",
+        "comment": "The Rügen Bridge is a pre-stressed concrete cable-stayed bridge that spans the Strelasund between the German City of Stralsund andRügen Island, Germany. The bridge was built to replace the aging Rügendamm, which will remain in service to provide a rail link and serve local traffic to Dänholm island. The bridge has 3 lanes, the centre one being demand-activated. The main element of the 4,100 metre crossing is the 2,831 metre-long main span over the Strelasund."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.120765686035154,
+          54.31301849614071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Godavari Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Godavari_Bridge",
+        "comment": "The Godavari Bridge or Kovvur-Rajahmundry Bridge is a truss bridge spanning Godavari river in Rajahmundry, India. It is Asia's second longest road-cum-rail bridge crossing a water body, after the Sky Gate Bridge in Kansai International Airport, Osaka. It is second of the three bridges that span the Godavari River at Rajahmundry. The Havelock Bridge being the earliest, was built in 1897, and having served its full utility, was decommissioned in 1997. The latest bridge is the Godavari Arch Bridge, a bowstring-girder bridge, built in 1997 and presently in service. Total length 2.7 km (1.7 mi), Longest span 97.5 m (320 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.75536155700684,
+          16.997531234254435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Godavari Arch Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Godavari_Arch_Bridge",
+        "comment": "The Godavari Arch Bridge is a bowstring-girder bridge that spans the Godavari river in Rajahmundry, India. It is the latest of the three bridges that span the Godavari river at Rajahmundry. The Havelock Bridge being the earliest, was built in 1897, and having served its full utility, was decommissioned in 1997.  The second bridge known as the Godavari Bridge is a truss bridge and is Asia's second longest railroad bridge. Total length 2,745 m (9,006 ft), Longest span 97.552 m (320 ft), Number of spans 28 twin arches, Piers in water 28."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.762056350708,
+          17.007709048583074
+        ]
+      }
     }
   ]
 }
