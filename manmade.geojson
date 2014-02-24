@@ -667,11 +667,11 @@
         "name": "San Mateo–Hayward Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/San_Mateo%E2%80%93Hayward_Bridge",
-        "comment": "The San Mateo–Hayward Bridge is a bridge crossing the U.S. state of California's San Francisco Bay, linking the San Francisco Peninsula with the East Bay.",
-        "date": null,
-        "elevation": null,
+        "comment": "The San Mateo–Hayward Bridge is a bridge crossing the U.S. state of California's San Francisco Bay, linking the San Francisco Peninsula with the East Bay. Total length 11,265.41 meters (36,960 ft) 7.0 miles, Clearance below 41 meters (135 ft).",
+        "date": "null",
+        "elevation": "null",
         "length_km": "11,265",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -7004,6 +7004,70 @@
         "coordinates": [
           -75.37093162536621,
           39.82772019218976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escambia Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Escambia_Bay_Bridge",
+        "comment": "The Escambia Bay Bridge is a six-lane freeway bridge that carries Interstate 10 across Escambia Bay near Pensacola, Florida. The original four-lane bridge opened in 1968. It consisted of twin spans of two lanes each with no shoulders and was heavily damaged during Hurricane Ivan in 2004. Total length 13,820 feet (4,212.3 m) eastbound, 13,736 feet (4,186.8 m) westbound, Clearance below 65 feet (19.8 m), Opened 1968 (original bridge), 2007 (current bridge)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13600158691405,
+          30.52618770946091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenville Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Greenville_Bridge",
+        "comment": "The Greenville Bridge is a cable-stayed bridge over the Mississippi River carrying US 82 and US 278 between Greenville, Mississippi and Lake Village, Arkansas. When it opened in 2010, it was the fourth longest cable-stayed bridge in North America. Total length 13,560 feet (4,133 m), Width 88 feet (27 m), Longest span 1,378 feet (420 m), Clearance below 122 feet (37 m), Opened August 4, 2010."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.15562438964844,
+          33.28605496845029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosario-Victoria Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rosario-Victoria_Bridge",
+        "comment": "Rosario-Victoria Bridge is the informal name of the physical connection between the Argentine cities of Rosario (province of Santa Fe) and Victoria (province of Entre Ríos). The link between the two cities spans a total of 59.4 km (37 mi). The total length of the various bridges and their viaducts is 12.2 km (7.5 mi). The main cable-stayed bridge spans 330 meters (1,082 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.681953430175774,
+          -32.86978351213603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crescent City Connection",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Crescent_City_Connection",
+        "comment": "The Crescent City Connection (CCC), formerly the Greater New Orleans Bridge (GNO), refers to twin cantilever bridges that carry U.S. Route 90 Business over the Mississippi River in New Orleans, Louisiana, United States. They are tied as the fifth-longest cantilever bridges in the world. Each span carries four general-use automobile lanes; additionally the westbound span has two reversible HOV lanes across the river. It is the farthest downstream bridge on the Mississippi River. It is also the widest and most heavily-traveled bridge on the lower Mississippi; the only other comparable bridges on the Mississippi are in the St. Louis Area, those being the Poplar Street Bridge, the Jefferson Barracks Bridge, and the Stan Musial Veterans Memorial Bridge. Total length 13,428 ft (4,093 m), Width 52 ft (16 m) (eastbound), 92 ft (28 m) (westbound), Longest span 1,575 ft (480 m), Clearance below 170 ft (52 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0569486618042,
+          29.938647217754657
         ]
       }
     }
