@@ -8126,6 +8126,71 @@
           22.653145762996566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nivedita Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nivedita_Setu",
+        "comment": "Nivedita Setu (also called Second Vivekananda Setu) is a cable-stayed bridge over Hooghly River in Kolkata, West Bengal. It runs parallel to and around 50 m downstream of the old Vivekananda Setu opened in 1932. The bridge is named after Sister Nivedita, the social worker-disciple of Swami Vivekananda. Belghoria Expressway that connects the meeting point of NH 2 with NH 6 at Dankuni to NH 34, NH 35, Dum Dum Airport and northern parts of Kolkata passes over the bridge. The bridge is designed to carry 48,000 vehicles per day. Total length 880 m (2,890 ft), Width 29 m (95 ft), Number of spans 7. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35170745849608,
+          22.652076435452496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidyasagar Setu",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vidyasagar_Setu",
+        "comment": "Vidyasagar Setu, also known as the Second Hooghly Bridge, is a toll bridge over the Hooghly River in West Bengal, India, linking the cities of Kolkata (previously known as Calcutta) and Howrah. With a total length of 823 metres (2,700 ft), Vidyasagar Setu is the longest cable–stayed bridge in India and one of the longest in Asia. It was the second bridge to be built across the Hooghly River; the first, the Howrah Bridge (also known as Rabindra Setu) 3.7 km (2.3 mi) to the north, was completed in 1943. Named after the educationist reformer Pandit Ishwar Chandra Vidyasagar, it cost Indian Rupees 3.88 billion to build."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32733154296875,
+          22.557427814573106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howrah Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Howrah_Bridge",
+        "comment": "The Howrah Bridge, is a cantilever bridge with a suspended span over the Hooghly River in West Bengal, India. Commissioned in 1943, the bridge was originally named the New Howrah Bridge, because it replaced a pontoon bridge at the same location linking the two cities of Howrah and Kolkata (Calcutta). On 14 June 1965 it was renamed Rabindra Setu, after the great Bengali poet Rabindranath Tagore, who was the first Indian and Asian Nobel laureate. It is still popularly known as the Howrah Bridge. Total length 705 m (2,313.0 ft), Width 71 ft (21.6 m) with two footpaths of 15 ft (4.6 m) on either side, Height 82 m (269.0 ft), Longest span 1,500 ft (457.2 m), Vertical clearance 5.8 m (19.0 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3465576171875,
+          22.58532600946538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganges Barrage",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ganges_Barrage",
+        "comment": "Ganges Barrage, officially named as Lav Khush Barrage, this bridge across the Ganges lies at Azad Nagar-Nawabganj in Kanpur. Construction started in 1995 and inaugurated in May 2000. The total length is 621 m and will serve as a four lane Highway Bypass for NH 91. ",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.32035827636719,
+          26.512055085186898
+        ]
+      }
     }
   ]
 }
