@@ -7182,6 +7182,54 @@
           29.98051291706061
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zacatal Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Zacatal_Bridge",
+        "comment": "The Zacatal Bridge is located southwest of Ciudad del Carmen, in the state of Campeche in Mexico. It connects the Atasta peninsula and the Isla del Carmen. This is the longest bridge in the state and at the time of opening the longest in Mexico with a length of 3,861 m and a width of 9.00 m. It is a two-lane road bridge for the Federal Highway 180. It is one of the busiest in the country since it is the gateway to the Yucatán Peninsula. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.84158325195312,
+          18.621520393840978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Köhlbrand Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Koehlbrandbruecke",
+        "comment": "The Köhlbrand Bridge is a cable-stayed bridge in Hamburg, Germany, which connects the harbor area on the island of Wilhelmsburg between the Norderelbe and Süderelbe anabranches of the Elbe river with motorway 7 (exit Waltershof). It bridges the Süderelbe, here called Köhlbrand, before it unites with the Norderelbe again. The bridge was opened on 9 September 1974. Total length 3,618 m, Width 17.5 m, Height 135 m, Longest span 325 m, Clearance below 55 m above middle tide."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.937820434570312,
+          53.52199245722722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lupu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Lupu_Bridge",
+        "comment": "The Lupu Bridge is a through arch bridge over the Huangpu River in Shanghai, China, connecting the city's Luwan and Pudongdistricts. It is the world's second longest steel arch bridge, after the Chaotianmen Bridge in Chongqing. The bridge, which cost 2.5 billion yuan (US$302 million), has a total length of 3,900 m (12,795 ft) and opened on June 28, 2003. Its main span of 550 metres (1,804 ft) over the Huangpu River is 32 metres (105 ft) longer than the previous record holder for the longest arch bridge, the New River Gorge Bridge in Fayetteville, West Virginia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47660255432129,
+          31.191144041700596
+        ]
+      }
     }
   ]
 }
