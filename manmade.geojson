@@ -7278,6 +7278,86 @@
           45.45459177182875
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Isabella Causeway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Queen_Isabella_Causeway",
+        "comment": "The two-mile long Queen Isabella Causeway, located in southern Cameron County, Texas is the only road connecting South Padre Island, Texas to the mainland. The Causeway was opened in 1974 and replaced the previous bridge which had also been named Queen Isabella Causeway. A central section of the original causeway has been removed and it has been renamed the Queen Isabella State Fishing Pier. The Causeway is the 2nd longest bridge in Texas, stretching 2.37 miles (3.81 km) across the Laguna Madre."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.19261169433592,
+          26.084538039722087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mozambique Island Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Mozambique_Island_Bridge",
+        "comment": "Mozambique Island Bridge is a bridge in Mozambique that connects the Island of Mozambique, the former capital of colonial Portuguese East Africa to the mainland over the Indian Ocean. Total length 3,800 m (12,500 ft), Construction end 1969, 1 Lane."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.70674896240234,
+          -15.043280030874318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vĩnh Tuy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Vinh_Tuy_Bridge",
+        "comment": "The Vĩnh Tuy Bridge is a bridge over the Red River in Hanoi which was completed 2008. It was one of the Millennial Anniversary of Hanoi commemorative projects along with the Thanh Trì Bridge. It is unrelated to a smaller Vĩnh Tuy bridge destroyed in 1966 by United States Air Force bombing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87730407714842,
+          21.005836414422614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dona Ana Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Dona_Ana_Bridge",
+        "comment": "The Dona Ana Bridge spans the lower Zambezi River between the towns of Vila de Sena and Mutarara in Mozambique, effectively linking the two halves of the country. Built by the Portuguese in 1934 during the Portuguese rule of Mozambique, it was blown up by RENAMO fighters during the Mozambican Civil War. It was originally constructed as a railway bridge to link Malawi and the Moatize coal fields to the port of Beira. After the civil war, it was converted to a road bridge through the assistance of USAID. It was reconverted to a rail bridge in 2009. Total length 3,670 m (12,040 ft), Number of spans 40."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.06217956542968,
+          -17.439096201155525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walt Whitman Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Walt_Whitman_Bridge",
+        "comment": "The Walt Whitman Bridge is a green-colored single-level suspension bridge spanning the Delaware River from Philadelphia to Gloucester City, New Jersey. Named after the poet Walt Whitman, who resided in nearby Camden toward the end of his life, the Walt Whitman Bridge is one of the larger bridges on the east coast of the United States. Total length 11,981 feet (3,652 m), Width 92 feet 2 inches (28.09 m), Longest span 610 m (2,000 ft), Clearance below 46.5 m (153 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12863159179688,
+          39.90499580965428
+        ]
+      }
     }
   ]
 }
