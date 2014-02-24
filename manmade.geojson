@@ -867,11 +867,11 @@
         "name": "Sydney Harbour Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
-        "comment": "The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle and pedestrian traffic between the Sydney central business district (CBD) and the North Shore.",
-        "date": null,
-        "elevation": null,
+        "comment": "The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle and pedestrian traffic between the Sydney central business district (CBD) and the North Shore. Total length 1,149 m (3,770 ft), Width 49 m (161 ft), Height 134 m (440 ft), Longest span 503 m (1,650 ft), Clearance below 49 m (161 ft) at mid-span.",
+        "date": "null",
+        "elevation": "null",
         "length_km": "1,149",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -7772,6 +7772,70 @@
         "coordinates": [
           81.762056350708,
           17.007709048583074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Godavari Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Old_Godavari_Bridge",
+        "comment": "The Old Godavari Bridge or The Havelock Bridge is a decommissioned bridge that spans the Godavari River in Andhra Pradesh, India. Commissioned in 1900, the bridge served trains plying between Howrah and Madras. It is the earliest of three bridges that span the Godavari River at Rajahmundry. The Godavari Arch Bridge was later constructed as a replacement for the Havelock Bridge. The bridge along with the Godavari bridge and Godavari Arch Bridge is one of the most recognised symbols of Rajahmundry. Total length 2.7 km (1.7 mi), Design life 100 years, Construction begin November 11, 1897."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.75343036651611,
+          17.007298663541338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houghton Highway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Houghton_Highway",
+        "comment": "The Houghton Highway is a 2.74 km (1.70 mi) reinforced concrete viaduct, shortening the road distance between the cities of Redcliffe and Brisbane in Queensland, Australia. The bridge, along with its duplicate, the Ted Smout Memorial Bridge, are the longest bridges in the country. Almost immediately after opening it faced a greater capacity task than originally intended, and in later years became a contentious issue politically with concerns about its ability to meet growing traffic demands, refusal to build another bridge, and the lowering of its speed limit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.06890487670896,
+          -27.277365182901228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Gate Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/West_Gate_Bridge",
+        "comment": "The West Gate Bridge is a steel box girder cable-stayed bridge in Melbourne, Victoria, Australia. It spans the Yarra River, just north of its mouth into Port Phillip, and is a vital link between the inner city (CBD) and Melbourne's western suburbs; with the industrial suburbs in the west and with the city of Geelong, 80 kilometres (50 mi) to the south-west. It is one of the busiest road corridors in Australia. The main river span is 336 metres (1,102 ft) in length, and the height above the water is 58 metres. The total length of the bridge is 2,582.6 metres (8,473.1 ft). It is the second longest in Australia behind the Houghton Highway and its twin the Ted Smout Memorial Bridge, and is twice as long as the Sydney Harbour Bridge. It is one of the highest bridges in Australia, most notably trailing that of the more iconic Sydney Harbour Bridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89765167236328,
+          -37.82958198283901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Armando Emilio Guebuza Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Armando_Emilio_Guebuza_Bridge",
+        "comment": "Armando Emilio Guebuza Bridge is a bridge in Mozambique that crosses the Zambezi River. It connects the provinces of Sofala and Zambezia. It is named after Armando Guebuza, the President of Mozambique. Total length 2,376 m (7,795 ft), Width 16 m (52 ft), Number of spans 6."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39700508117676,
+          -17.80843254601681
         ]
       }
     }
