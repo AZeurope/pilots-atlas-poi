@@ -7070,6 +7070,54 @@
           29.938647217754657
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poplar Street Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Poplar_Street_Bridge",
+        "comment": "The Congressman William L. Clay Sr. Bridge, formerly known as the Bernard F. Dickmann Bridge and popularly as the Poplar Street Bridge, completed in 1967, is a 647-foot (197 m)-long deck girder bridgeacross the Mississippi River between St. Louis, Missouri and East St. Louis, Illinois. The bridge arrives on the Missouri shore line just south of the Gateway Arch. Total length 2,164 feet (660 m), Width 104 feet (32 m), Longest span 600 feet (183 m), Clearance below 92 feet (28 m), Opened 1967."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18230438232422,
+          38.617943458629746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jefferson Barracks Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jefferson_Barracks_Bridge",
+        "comment": "The Jefferson Barracks Bridge, often called the J.B. Bridge, is a pair of bridges that span the Mississippi River on the south side of St. Louis, Missouri. Both bridges are 909-foot (277 m) long steel arch bridges. The first bridge was built in 1983, the south bridge opened in 1992. A delay occurred during the construction of the second bridge when a crane dropped a section of it into the river and it had to be rebuilt. They replaced the former steel truss bridge built in 1941 that originally carried U.S. Route 50. It carries traffic for Interstate 255 (part of the St. Louis beltway) and U.S. Route 50. Prior to the construction of the first bridge, river crossings in this area were made via the Davis Street Ferry in the Carondelet neighborhood of St. Louis. Total length 3,998 feet (1,219 m), Longest span 910 feet (277 m), Clearance below 88 feet (27 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27328491210938,
+          38.486113460914275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stan Musial Veterans Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/New_Mississippi_River_Bridge",
+        "comment": "The Stan Musial Veterans Memorial Bridge (known as the New Mississippi River Bridge until its formal naming in 2013 and informally known as the \"Stan Span\") is a bridge across the Mississippi River between St. Clair County, Illinois, and the city of St. Louis, Missouri. Built between April 19, 2010, and July 2013, the bridge opened on February 9, 2014. The cable-stayed bridge has a main span of 1,500 feet (457 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17942905426024,
+          38.64573513304631
+        ]
+      }
     }
   ]
 }
