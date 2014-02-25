@@ -8991,6 +8991,86 @@
           34.36866124425174
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Bisan-Seto Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Minami_Bisan-Seto_Bridge#Constituent_bridges",
+        "comment": "The Kita Bisan-Seto Bridge is a double-decked suspension bridge with two sections linked by a common anchorage between them. The center span is 990 meters (3,248 ft) and the total length is 1,538 m (5,046 ft). It is the 19th largest suspension bridge in the world. The nearly identical Minami Bisan Seto Bridge is located immediately to the south."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.80695343017578,
+          34.40889243093678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baling River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Balinghe_Bridge",
+        "comment": "The Baling River Bridge is a suspension bridge in Guanling County in Guizhou Province of China. The bridge spans the Baling River Valley and opened to public traffic on December 23, 2009. The bridge is part of the G60 Shanghai–Kunming Expressway between Kunming and Guiyang and reduced the travel time across the river valley from one hour to four minutes. The suspension span is 1,088 m (3,570 ft) long, and the bridge has a total length of 2,237 m (7,339 ft). It is also one of the world's highest bridges with 375 m (1,230 ft) of clearance above the river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6277084350586,
+          25.959896778172585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taizhou Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Taizhou_Bridge",
+        "comment": "The Taizhou Bridge is a bridge over the Yangtze River in Taizhou, Jiangsu, China. It is the longest double span suspension bridge in the world with two main spans of 1,080 m. It won the 2013 Institution of Structural Engineers Supreme Award for structural engineering. Total length 2,940 m (9,650 ft), Width 34.8 m (114 ft), Height 192 m (630 ft), Longest span 1,080 m (3,540 ft) x 2, Number of spans 2 main, Opened November 25, 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.87594604492188,
+          32.24765156466268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma'anshan Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ma%27anshan_Bridge",
+        "comment": "The Ma'anshan Bridge is a bridge in over the Yangtze River in Ma'anshan, Anhui, China.It will tie with the Taizhou Bridge as the longest double span suspension bridge in the world with two main spans of 1,080 m. Total length 11.0 km (6.8 mi), Longest span 1,080 m (3,540 ft) x 2, Number of spans 2 main, Opened 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.39073181152344,
+          31.613626970322684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Washington Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/George_Washington_Bridge",
+        "comment": "The George Washington Bridge is a double-decked suspension bridge spanning the Hudson River, connecting the Washington Heights neighborhood in the borough of Manhattan in New York City to Fort Lee, Bergen County, New Jersey, in the United States. Interstate 95 (I-95) and U.S. Route 1/9 (US 1/9) cross the river via the bridge. Total length 4,760 ft (1,450 m), Width 119 ft (36 m), Height 604 ft (184 m), Longest span 3,500 ft (1,067 m), Vertical clearance 14 ft (4.3 m) (upper level), 13.5 ft (4.1 m) (lower level), Clearance below 212 ft (65 m) at mid-span."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95206451416014,
+          40.85147526676901
+        ]
+      }
     }
   ]
 }
