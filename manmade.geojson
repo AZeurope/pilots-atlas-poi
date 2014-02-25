@@ -1087,7 +1087,7 @@
         "name": "San Francisco–Oakland Bay Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/San_Francisco_%E2%80%93_Oakland_Bay_Bridge",
-        "comment": "The San Francisco–Oakland Bay Bridge (known locally as the Bay Bridge) is a complex of bridges spanning San Francisco Bay of the U.S. state of California. As part of Interstate 80 and the direct road route between San Francisco and Oakland.",
+        "comment": "The San Francisco–Oakland Bay Bridge (known locally as the Bay Bridge) is a complex of bridges spanning San Francisco Bay of the U.S. state of California. As part of Interstate 80 and the direct road route between San Francisco and Oakland. Total: 4.46 miles (7.18 km), Width West: 5 traffic lanes totaling 57.5 ft (17.5 m), Height West: 526 ft (160 m), Longest span West: two main spans 2,310 ft (704 m), East: one main span 1,400 ft (430 m).",
         "date": "null",
         "elevation": "null",
         "length_km": "null",
@@ -1096,8 +1096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.35198974609375,
-          37.820632846207864
+          -122.36160278320311,
+          37.812767557570204
         ]
       }
     },
@@ -9273,6 +9273,86 @@
         "coordinates": [
           -63.59813690185546,
           8.144203668868975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanmonkyo Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kanmonkyo_Bridge",
+        "comment": "The Kanmonkyo Bridge (Kanmon bridge) (Asian Highway Network AH1 AH1) is a suspension bridge crossing the Kanmon Straits, a stretch of water separating two of Japan's four main islands. On the Honshū side of the bridge is Shimonoseki (which contributed \"Kan\" to the name of the strait) and on the Kyūshū side is Kitakyushu, whose former city and present ward, Moji, gave the strait its \"mon\". The Kanmonkyo bridge was opened to vehicles on November 14, 1973 and connected to the Kyūshū Expressway on March 27, 1984. It is among the 50 largest suspension bridges in the world with a central span of 712 metres (779 yards)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.95943450927734,
+          33.96130153320936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bronx–Whitestone Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bronx-Whitestone_Bridge",
+        "comment": "The Bronx–Whitestone Bridge (colloquially referred to as the Whitestone Bridge or simply the Whitestone) is a suspension bridge in New York City that crosses the East River and connects the boroughs of Queens on Long Island and The Bronx via Interstate 678. The bridge was designed by Othmar Ammann and opened to traffic with four lanes on April 29, 1939. Total length 3,770 feet (1,150 m), Longest span 2,300 feet (700 m), Vertical clearance 14 feet 6 inches (4.4 m), Clearance below 134 feet 10 inches (41.1 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83018493652344,
+          40.80237530523985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stord Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Stord_Bridge",
+        "comment": "The Stord Bridge is a suspension bridge which crosses Digernessundet between the islands of Stord and Føyno in Stord, Norway. The bridge is 1,077 m (3,533 ft) long, has a main spanof 677 m (2,221 ft) and a clearance below of 18 m (59 ft). It carries two lanes of European Route E39 and a combined pedestrian and bicycle pathway. It is part of the Triangle Link, a fixed link which connects Stord to Bømlo, and both to the mainland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4032135009765625,
+          59.74792070033727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierre Laporte Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pierre_Laporte_Bridge",
+        "comment": "The Pierre Laporte Bridge is the longest main span suspension bridge in Canada. It crosses the Saint Lawrence River approximately 200 metres (660 ft) west of the famous Quebec Bridge between historic Quebec City and Lévis, Quebec. It is the longest non-tolled suspension bridge in the world. Total length 1,041 m (3,415 ft), Longest span 667.5 m (2,190 ft), opened 1969."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29199981689453,
+          46.74703625854439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haicang Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Haicang_Bridge",
+        "comment": "Haicang Bridge is a suspension bridge located in Xiamen, Fujian Province, China. Built in 1999, it has a main span of 648 meters. Haicang Bridge is a very important bridge that links Xiamen Island (where the city center is located) with the city's Haicang District located on the mainland. Total length 5,926 metres (19,442 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.06594848632812,
+          24.49761494594885
         ]
       }
     }
