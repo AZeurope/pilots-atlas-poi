@@ -8191,6 +8191,70 @@
           26.512055085186898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quebec Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Quebec_Bridge",
+        "comment": "The Quebec Bridge is a road, rail and pedestrian bridge across the lower Saint Lawrence River to the west of Quebec City, and Lévis, Quebec, Canada. The project failed twice, at the cost of 88 lives, and took over 30 years to complete. The Quebec Bridge is a riveted steel truss structure and is 987 m (3,239 ft) long, 29 m (94 ft) wide, and 104 m (340 ft) high. Cantilever arms 177 m (580 ft) long support a 195 m (640 ft) central structure, for a total span of 549 m (1800 ft), still the longest cantilever bridge span in the world (it was the all-categories longest span in the world until the Ambassador Bridge was completed in 1929). It is the easternmost (farthest downstream) complete crossing of the Saint Lawrence. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28659248352051,
+          46.74344854850565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambassador Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ambassador_Bridge",
+        "comment": "The Ambassador Bridge is a suspension bridge that connects Detroit, Michigan, in the United States, with Windsor, Ontario, in Canada. It is the busiest international border crossing in North America in terms of trade volume: more than 25 percent of all merchandise trade between the United States and Canada crosses the bridge. A 2004 Border Transportation Partnership study showed that 150,000 jobs in the region andUS$13 billion in annual production depend on the Detroit–Windsor international border crossing. Total length 7,500 feet (2,300 m), Longest span 1,850 feet (560 m), Clearance below 152 feet (46 m), Construction begin August 16, 1927, opened Nov. 11, 1929."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07449340820312,
+          42.312227349150085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forth Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Forth_Bridge_(railway)",
+        "comment": "The Forth Bridge is a cantilever railway bridge over the Firth of Forth in the east of Scotland, 9 miles (14 kilometres) west of central Edinburgh. It was opened on 4 March 1890 and spans a total length of 8,296 feet (2,528.7 m). It is sometimes referred to as the Forth Rail Bridge to distinguish it from the Forth Road Bridge, though this has never been an official title. The bridge connects Edinburgh with Fife, leaving the Lothians at Dalmeny and arriving in Fife at North Queensferry, connecting the north-east and south-east of the country. The bridge was begun in 1883 and took 7 years to complete with the loss of 98 men. Longest span 2 of 1,710 feet (520 m), Clearance below 151 feet (46 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.38653564453125,
+          55.99521296263851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forth Road Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Forth_Road_Bridge",
+        "comment": "The Forth Road Bridge is a suspension bridge in east central Scotland. The bridge, opened in 1964, spans the Firth of Forth, connecting the capital city Edinburgh, at South Queensferry, to Fife, at North Queensferry. It replaced a centuries-old ferry service to carry vehicular traffic, cyclists, and pedestrians across the Forth; rail crossings are made by the adjacent and historic Forth Bridge. Total length 2,512 m (8,241 ft), Width 33 m (108 ft) Dual two-lane carriageway, two cycle/footpaths, Longest span 1,006 m (3,301 ft), Clearance below 44.3 m (145 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4040451049804688,
+          56.004716161849345
+        ]
+      }
     }
   ]
 }
