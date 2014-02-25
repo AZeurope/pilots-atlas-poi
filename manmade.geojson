@@ -27,11 +27,11 @@
         "name": "Golden Gate Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Golden_Gate_Bridge",
-        "comment": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide, three-mile-long channel between San Francisco Bay and the Pacific Ocean.",
-        "date": null,
-        "elevation": null,
+        "comment": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide, three-mile-long channel between San Francisco Bay and the Pacific Ocean. Total length 8,981 ft (2,737.4 m), Width 90 ft (27.4 m), Height 746 ft (227.4 m), Longest span 4,200 ft (1,280.2 m), Clearance below 220 ft (67.1 m) at Tide, opened April 19, 1937.",
+        "date": "null",
+        "elevation": "null",
         "length_km": "2,737",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -547,11 +547,11 @@
         "name": "Verrazano–Narrows Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Verrazano%E2%80%93Narrows_Bridge",
-        "comment": "The Verrazano–Narrows Bridge, in the U.S. state of New York, is a double-decked suspension bridge that connects the boroughs of Staten Island and Brooklyn in New York City at the Narrows, the reach connecting the relatively protected upper bay with the",
-        "date": null,
-        "elevation": null,
+        "comment": "The Verrazano–Narrows Bridge, in the U.S. state of New York, is a double-decked suspension bridge that connects the boroughs of Staten Island and Brooklyn in New York City at the Narrows, the reach connecting the relatively protected upper bay. Longest span 4,260 feet (1,298 m), Vertical clearance 15 feet (4.57 m) (upper level), 14.4 feet (4.39 m) (lower level), Clearance below 228 feet (69.5 m) at mean high water, opened 21. Nov. 1964.",
+        "date": "null",
+        "elevation": "null",
         "length_km": "1,298",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -8925,6 +8925,70 @@
         "coordinates": [
           6.83074951171875,
           60.478371315135796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuhan Yangluo Yangtze River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yangluo_Bridge",
+        "comment": "The Yangluo Bridge is a suspension bridge over the Yangtze River in Wuhan, Hubei, China. With a main span of 1,280 metres (4,200 ft), it is tied with the Golden Gate Bridge as the eleventh longest suspension bridge in the world. The bridge carries the G70 Fuzhou–Yinchuan Expressway and G4201 Wuhan Ring Expressway over the Yangtze River and provides easy access to both sides of the river as part of a larger plan to promote development in the eastern portion of the city. Construction on the bridge began on November 4, 2003, and it opened to traffic on December 26, 2007."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.55375671386719,
+          30.636730434653305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Höga Kusten Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hoega_Kusten_Bridge",
+        "comment": "The High Coast Bridge is a suspension bridge crossing the mouth of the Ångermanälven river near Veda, on the border between the Härnösand and Kramfors municipalities in the province of Ångermanland in northern Sweden. The area is often referred to as The High Coast, hence its name. The bridge replaces Sandöbron, the old bridge across the river, in a new extension of the European route E4. It is (as of 2013) the third longest suspension bridge in Scandinavia (after Great Belt Fixed Link in Denmark and Hardanger Bridge in Norway), the fourth longest in Europe, and the 14th longest of the world. Total length 1,867 metres (6,125 ft), Width 17.8 metres (58 ft), Height 180 metres (591 ft), Longest span 1,210 metres (3,970 ft), Number of spans 1, Piers in water 2, Clearance below 40 metres (131 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.936553955078125,
+          62.797132224479014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huangpu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Huangpu_Bridge",
+        "comment": "The Huangpu Bridge carries expressway traffic over two branches of the Pearl River in Guangzhou, Guangdong, China. The bridge is a combined suspension and cable-stayed bridge. The suspension bridge portion crosses the south western channel and has a main span of 1,108 metres (3,635 ft). As of 2012 the suspension bridge span is one of the ten longest in China and among the 20 longest in the world. The cable stayed portion spans 383 metres (1,257 ft) over the north east channel. At 201 metres (659 ft) high the pylon on the cable-stayed section is one of the tallest bridge pylons in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.47503662109375,
+          23.072151310102868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minami Bisan-Seto Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Minami_Bisan-Seto_Bridge#Constituent_bridges",
+        "comment": "The Minami Bisan-Seto Bridge is a double-decked suspension bridge with a center span of 1,100 meters (3,609 ft) and a total length of 1,648 m (5,407 ft). It is the 13th longest suspension bridge span in the world. It is the southernmost part of the Great Seto Bridge. The roadway of the bridge is 93 meters (305 ft) above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.82343292236328,
+          34.36866124425174
         ]
       }
     }
