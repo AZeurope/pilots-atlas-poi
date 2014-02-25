@@ -1036,28 +1036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          110.3961181640625,
-          30.620777507443577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Manchac Swamp bridge",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Manchac_Swamp_bridge",
-        "comment": "The Manchac Swamp Bridge is a twin concrete trestle bridge in the US state of Louisiana. With a total length of 36.69 km it is one of the longest bridges in the world over water.",
-        "date": null,
-        "elevation": null,
-        "length_km": "36,710",
-        "scalerank": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.67047119140624,
-          13.655995545325037
+          100.66841125488281,
+          13.658664468384856
         ]
       }
     },
@@ -9117,6 +9097,54 @@
         "coordinates": [
           111.39244079589844,
           30.56965135330637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xiling Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Xiling_Bridge",
+        "comment": "The Xiling Bridge, or Xiling Yangtze Bridge, is a suspension bridge over the Yangtze River, just a few kilometers downstream from the Three Gorges Dam. The bridge is located within Yiling District of the prefecture-level city of Yichang (Hubei Province of China), connecting the towns of Taipingxi and Letianxi (on the left, northern bank of the river) with Sandouping (on the right, southern bank). The bridge has a main span of 900 meters; the total length of the bridge was reported as 1,118.66 meters. The bridge surface is 18 m wide, carrying two lanes of traffic in each direction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.04637145996092,
+          30.82825498484088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidu River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Si_Du_River_Bridge",
+        "comment": "The Sidu River Bridge is a 1,222 m-long (4,009 ft) suspension bridge crossing the valley of the Sidu River near Yesanguan in Badong County of the Hubei Province of the People's Republic of China. The bridge was designed by CCSHCC Second Highway Consultants Company, Ltd. and built at a cost of 720 million yuan (approximately US$100 million). It opened to traffic on November 15, 2009. Total length 1,222 m (4,009 ft), Width 24.5 m (80 ft), Longest span 900 m (3,000 ft), Clearance below 496 m (1,627 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3961181640625,
+          30.621368403494955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ōnaruto Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Onaruto_Bridge",
+        "comment": "The Ōnaruto Bridge is a suspension bridge on the route connecting Kobe with Naruto, Tokushima, Japan. Completed in 1985, it has a main span of 876 metres (2,874 ft). Although it is one of the largest bridges in the world, it is dwarfed by the Akashi-Kaikyo Bridge, which is on the same route. In 2004, 6.8 million cars and trucks crossed this bridge, translating into a daily average of about 18,600."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.65530395507812,
+          34.239621314560885
         ]
       }
     }
