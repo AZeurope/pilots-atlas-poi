@@ -8319,6 +8319,54 @@
           30.43949808841618
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis and Clark Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Lewis_and_Clark_Bridge_(Columbia_River)",
+        "comment": "The Lewis and Clark Bridge is a cantilever bridge that spans the Columbia River between Longview, Washington and Rainier, Oregon. At the time of completion, it had the longest cantilever span. The bridge is 8,288 ft (2.5 km) long with 210 ft (64 m) of vertical clearance. The main span is 1,200 ft (366 m) long and the top of the bridge is 340 ft (104 m) above the river. It was designed by Joseph Strauss, engineer of the Golden Gate Bridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96241760253906,
+          46.10418484314803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queensboro Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Queensboro_Bridge",
+        "comment": "The Queensboro Bridge, also known as the 59th Street Bridge – because its Manhattan end is located between 59th and 60th Streets – and officially titled the Ed Koch Queensboro Bridge, is a cantilever bridge over the East River in New York City that was completed in 1909. It connects the neighborhood of Long Island City in the borough of Queens with Manhattan, passing over Roosevelt Island. Total length 3,724 ft 6 in (1,135.2 m), Width 100 ft (30 m), Longest span 1,182 ft (360 m) (west span), 984 ft (300 m) (east span), 630 ft (192 m) (center span), Vertical clearance 12 ft (3.7 m) (upper level), Clearance below 130 ft (40 m), opened March 30, 1909."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95455360412598,
+          40.756814951767154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge of the Americas",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bridge_of_the_Americas",
+        "comment": "The Bridge of the Americas (originally known as the Thatcher Ferry Bridge) is a road bridge in Panama, which spans the Pacific entrance to the Panama Canal. Completed in 1962, at a cost of US$ 20 million, it was the only non-swinging bridge (there are two other bridges, one at the Miraflores locks and one at the Gatun locks) connecting the north and south American land masses until the opening of the Centennial Bridge in 2004. Total length 1,654 m (5,425 ft), Width 10.4 m (34 ft), Longest span 344 m (1,128 ft), Clearance below 61.3 m (201 ft) at high tide, opened October 12, 1962."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56676483154297,
+          8.94239246612573
+        ]
+      }
     }
   ]
 }
