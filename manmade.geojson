@@ -8543,6 +8543,102 @@
           -27.464185038671708
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Leo Hielscher Bridges",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Gateway_Bridge,_Brisbane",
+        "comment": "The Sir Leo Hielscher Bridges are a pair of road bridges on the Gateway Motorway (M1), which skirts the eastern suburbs of Brisbane, Queensland, Australia. They are the most eastern crossing of the Brisbane River, the closest to Moreton Bay, crossing at the Quarries Reach, between Eagle Farm and Murarrie. The original bridge (formerly named the Gateway Bridge) was opened on 11 January 1986 and cost A$140 million to build. The duplicate bridge was opened in May 2010. Total length 1,627 metres (5,338 ft), Width 22 metres (72 ft), Height 78.75 metres (258.4 ft) AHD, Longest span 260 metres (850 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10160636901855,
+          -27.446134231502196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Varodd Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/New_Varodd_Bridge",
+        "comment": "The New Varodd Bridge is a cantilever road bridge that spans the Topdalsfjord in the city of Kristiansand, Norway. It carries the westbound lanes of European route E18; the eastbound lanes are carried by the adjacent Old Varodd Bridge. The length of the bridge is 663 metres, with 4 spans, of which the longest is 260 metres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.052291870117188,
+          58.16173863197741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Rogers Clark Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/George_Rogers_Clark_Memorial_Bridge",
+        "comment": "The George Rogers Clark Memorial Bridge is a four-lane cantilevered truss bridge crossing the Ohio River between Louisville, Kentucky and Jeffersonville, Indiana, that carries US 31. It is known locally as the Second Street Bridge. Total length 5,746.5 ft (1,751.5 m), Width 38.0 ft (11.6 m), Longest span 819.6 ft (249.8 m), opened 1929."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751895904541,
+          38.263793402845316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunshine Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sunshine_Bridge",
+        "comment": "The Sunshine Bridge is a cantilever bridge over the Mississippi River in St. James Parish, Louisiana. Completed in 1963, it carries LA 70, which connects Donaldsonville on the west bank of Ascension Parish with Sorrento on the east bank of Ascension Parish as well as with Gonzales on the east bank of Ascension Parish. The approach roads on the east and west banks begin in Ascension Parish before crossing into St. James Parish. Total length 8,236 feet (2,510 m), Width 4 lanes, Longest span 825 feet (251 m), Clearance below 170 feet (52 m), opened August 1964."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.91409683227539,
+          30.09746476043537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Vicksburg Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Old_Vicksburg_Bridge",
+        "comment": "The Old Vicksburg Bridge, also known as Mississippi River Bridge, is a cantilever bridge carrying one rail line across the Mississippi River between Delta, Louisiana and Vicksburg, Mississippi. Total length 8,546 feet (2,605 m), Longest span 825 feet (251 m), Clearance below 116 feet (35 m), opened May 1, 1930."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.90465545654297,
+          32.31383067137085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brent Spence Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Brent_Spence_Bridge",
+        "comment": "The Brent Spence Bridge is a double decker cantilever truss bridge that carries Interstates 71 and 75 across the Ohio River between Covington, Kentucky and Cincinnati, Ohio. The top deck carries southbound traffic while the bottom deck carries northbound traffic. When the bridge opened in November 1963 it carried three lanes of traffic each way across the Ohio River. In 1986, the emergency shoulders were eliminated, and the bridge was restriped with four lanes in each direction. The bridge was designed to carry 85,000 vehicles per day, but in 2007 it carried 155,000 vehicles per day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52288627624512,
+          39.090433889411834
+        ]
+      }
     }
   ]
 }
