@@ -8639,6 +8639,70 @@
           39.090433889411834
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helena Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Helena_Bridge",
+        "comment": "The Helena Bridge is a cantilever bridge carrying U.S. Route 49 across the Mississippi River between Helena-West Helena, Arkansas and Lula, Mississippi. Total length 5,204 feet (1,586 m), Width 28 feet (9 m), Longest span 804 feet (245 m), Clearance below 119 feet (36 m), opened July 27, 1961."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58673858642578,
+          34.496087960638086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin G. Humphreys Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Benjamin_G._Humphreys_Bridge",
+        "comment": "The Benjamin G. Humphreys Bridge was a two-lane cantilevered truss bridge carrying U.S. Route 82/U.S. Route 278 across the Mississippi River between Lake Village, Arkansas and Greenville, Mississippi, the first bridge to connect the two towns. The bridge was named for Benjamin G. Humphreys II, a former United States Congressman from Greenville. Total length 9,957 feet (3,035 m), Width 24 feet (7 m), Longest span 840 feet (256 m), Clearance below 130 feet (40 m), opened October 4, 1940 and closed July 28, 2010."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1590576171875,
+          33.29480795480459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brownville Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Brownville_Bridge",
+        "comment": "The Brownville Bridge is a truss bridge over the Missouri River on U.S. Route 136 from Nemaha County, Nebraska, to Atchison County, Missouri, at Brownville, Nebraska. It was built in 1939 by Atchison County, at a cost of $700,000 and was originally run as a toll bridge. It is now run by the county as a free crossing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.65195083618164,
+          40.399117458401925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natchez–Vidalia Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Natchez-Vidalia_Bridge",
+        "comment": "The Natchez–Vidalia Bridge are two twin cantilever bridges carrying US Routes 65, 84 and 425 across the Mississippi River between Vidalia, Louisiana and Natchez, Mississippi. It is the tallest bridge in Mississippi (although the demolished Benjamin G. Humphreys Bridge connecting Mississippi with Arkansas were taller by 5 feet, its main spans were located entirely within Arkansas). Total length 4,205 feet (1,282 m) (westbound), 4,202 feet (1,281 m) (eastbound), Width 24 feet (7 m) (westbound), 42 feet (13 m) (eastbound), Longest span 3 848 feet (258 m) spans per bridge, Clearance below 125 feet (38 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.41946792602538,
+          31.558498077706712
+        ]
+      }
     }
   ]
 }
