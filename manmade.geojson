@@ -8447,6 +8447,102 @@
           45.52054115838411
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hart Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hart_Bridge",
+        "comment": "The Isaiah David Hart Bridge is a truss bridge that spans the St. Johns River in Jacksonville, Florida. It carries U.S. Route 1 Alternate/State Road 228. It is named after Isaiah Hart, the founder of Jacksonville. Total length 1171.7 m (3844 feet), Width 19.7 m (65 feet), Longest span 331.6 m (1088 feet), Vertical clearance 6.14 m (20.1 feet), Clearance below 42.9 m (141 feet), Opened November 2, 1967."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62635803222656,
+          30.313764880900642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newburgh–Beacon Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Newburgh-Beacon_Bridge",
+        "comment": "The Newburgh–Beacon Bridge, (officially the Hamilton Fish Newburgh–Beacon Bridge) is a cantilever toll bridge that spans the Hudson River in New York State carrying NY 52 and Interstate 84 between Newburgh and Beacon. The first (westbound, north of other span) span was opened to traffic on November 2, 1963 as a two-lane (one in each direction) bridge. Total length 2,374 m (7,789 feet), 2,394 m (7,855 feet), Longest span 304.8 m (1,000 feet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99394989013672,
+          41.51963163123418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stolma Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Stolma_Bridge",
+        "comment": "Stolma Bridge is a road bridge over the Stolmen sound in Austevoll municipality, Hordaland. It connects the islands Stolmen and Selbjørn. The bridge is 467 meters long and has three spans, the largest of which is 301 meters. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.110015869140625,
+          60.13295729738063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundøy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sundoy_Bridge",
+        "comment": "Sundøy Bridge (Norwegian: Sundøybrua) is a cantilever bridge in the municipality of Leirfjord in Nordland county, Norway. The concrete bridge connects the mainland to the village of Sundøya on the island of Alsta. The 538-metre (1,765 ft) bridge has three spans, with the main span being 298 metres (978 ft) long. The maximum clearance to the sea is 43.5 metres (143 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9364013671875,
+          66.02122745316818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Martin_Luther_King_Bridge_(St._Louis)",
+        "comment": "The Martin Luther King Bridge (formerly known as the Veterans Bridge) in St. Louis is a cantilever truss bridge of about 4,000 feet (1,200 m) in total length across the Mississippi River, connecting St. Louis with East St. Louis, Illinois. The bridge serves as traffic relief connecting the concurrent freeways of Interstate 55, Interstate 70, Interstate 64, and U.S. Route 40 with the downtown streets of St. Louis."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17771244049072,
+          38.63081814300356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Story Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Story_Bridge",
+        "comment": "The Story Bridge is a heritage-listed steel cantilever bridge spanning the Brisbane River that carries vehicular, bicycle and pedestrian traffic between the northern and the southern suburbs. Brisbane, Queensland, Australia. It is the longest cantilever bridge in Australia. Total length 777 m (2,549 ft), Width 24 m (79 ft), Height 74 m (243 ft), Longest span 282 m (925 ft), Clearance below 30.4 m (99.7 ft) at mid-span, opened 6 July 1940."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03560256958008,
+          -27.464185038671708
+        ]
+      }
     }
   ]
 }
