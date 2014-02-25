@@ -9071,6 +9071,54 @@
           40.85147526676901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurushima-Kaikyō Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kurushima-Kaikyo_Bridge",
+        "comment": "The Kurushima-Kaikyō Bridge, which connects the island of Ōshima to the main part of Shikoku, is the world's longest suspension bridge structure and was completed in 1999. The bridge is part of the Shimanami Kaidō, an expressway that spans a series of islands and connects Hiroshima Prefecture in Honshū to Ehime Prefecture in Shikoku. Total length 4,015 m (13,173 ft), Width 27 m (89 ft), Construction begin May 15, 1988."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9943084716797,
+          34.119763245290756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Severn Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Severn_Bridge",
+        "comment": "The Severn Bridge is a motorway suspension bridge spanning the River Severn and River Wye between Aust, South Gloucestershire (just north of Bristol) in England, and Chepstow, Monmouthshire in South Wales, via Beachley, Gloucestershire, a peninsula between the two rivers. It is the original Severn road crossing between England and Wales and took three and half years. Total length 0.99 mi (1.6 km), Height 445 ft (136 m), Longest span 3,240 ft (988 m), Clearance below 154 ft (47 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.62847900390625,
+          51.60522457335245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yichang Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yichang_Bridge",
+        "comment": "The Yichang Bridge, or Yichang Yangtze Highway Bridge is a suspension bridge that crosses the Yangtze River some 20 km downstream from the center city of Yichang, China. It is located within the prefecture-level city of Yichang, and carries the G50 Shanghai–Chongqing Expressway. The bridge was essentially designed to be extremely similar in appearance to the Golden Gate Bridge in San Francisco. Total length 1,187 m (3,894 ft), Longest span 960 m (3,150 ft), Construction begin February 19, 1998, Construction end 2001."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.39244079589844,
+          30.56965135330637
+        ]
+      }
     }
   ]
 }
