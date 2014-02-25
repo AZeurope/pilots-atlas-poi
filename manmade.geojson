@@ -8367,6 +8367,86 @@
           8.94239246612573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centennial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Centennial_Bridge,_Panama",
+        "comment": "Panama's Centennial Bridge is a major bridge crossing the Panama Canal. It was built to supplement the overcrowded Bridge of the Americas and to replace it as the carrier of the Pan-American Highway. Upon its opening in 2004, it became the second permanent crossing of the canal. Total length 1,052 m (3,451 ft), Longest span 420 metres (1,380 ft), Clearance below 80 m (262 ft), opened 15 August 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6354293823242,
+          9.030899746535217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carquinez Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Carquinez_Bridge",
+        "comment": "The Carquinez Bridge refers to parallel bridges spanning the Carquinez Strait, forming part of Interstate 80 between Crockett and Vallejo, in the U.S. state of California. The name originally referred to a single cantilever bridge built in 1927, helping to form a direct route between San Francisco and Sacramento. A second parallel cantilever bridge was completed in 1958 to deal with the increased traffic. Later, seismic problems of the 1927 span led to the construction and 2003 opening of a replacement: a suspension bridge officially called the Alfred Zampa Memorial Bridge. Total length 3,465 feet (1,056 m) or 0.66 miles (1.06 km) (suspension bridge), 3,300 feet (1,000 m) (cantilever bridge), Width 84 feet (26 m) (suspension deck), 52 feet (16 m) (cantilever deck), Height 410 feet (120 m) (suspension tower), Longest span 2,390 feet (730 m) (suspension span), Clearance below 148 feet (45 m) (suspension bridge), 140 feet (43 m) (cantilever bridge)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22702026367188,
+          38.06485174812299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ironworkers Memorial Second Narrows Crossing",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ironworkers_Memorial_Second_Narrows_Crossing",
+        "comment": "The Ironworkers Memorial Second Narrows Crossing, also called the Ironworkers Memorial Bridge and Second Narrows Bridge, is the second bridge constructed at the Second (east) Narrows of Burrard Inlet in Vancouver, British Columbia, Canada. Originally named the Second Narrows Bridge, it connects Vancouver to the north shore of Burrard Inlet, which includes the District of North Vancouver, the City of North Vancouver, and West Vancouver. It was constructed adjacent to the older Second Narrows Bridge, which is now exclusively a rail bridge. The First Narrows Bridge, better known as Lions Gate Bridge, crosses Burrard Inlet about 5 miles west of the Second Narrows. Total length 1,292 metres (4,239 ft), Longest span 335 metres (1,099 ft), Construction begin 1957."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02644729614256,
+          49.29602380812735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lions Gate Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Lions_Gate_Bridge",
+        "comment": "The Lions Gate Bridge, opened in 1938, officially known as the First Narrows Bridge, is a suspension bridge that crosses the first narrows of Burrard Inlet and connects the City of Vancouver, British Columbia, to the North Shore municipalities of the District of North Vancouver, the City of North Vancouver, and West Vancouver. The term \"Lions Gate\" refers to The Lions, a pair of mountain peaks north of Vancouver. The total length of the bridge including the north viaduct is 1,823 metres (5,890 feet). The length including approach spans is 1,517.3 m (4,978 ft), the main span alone is 473 m (1,550 ft), the tower height is 111 m (364 ft), and it has a ship's clearance of 61 m (200 ft). Prospect Point in Stanley Park offered a good high south end to the bridge, but the low flat delta land to the north required construction of the extensive North Viaduct."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13888549804686,
+          49.314827675746386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacques Cartier Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jacques_Cartier_Bridge",
+        "comment": "The Jacques Cartier Bridge is a steel truss cantilever bridge crossing the Saint Lawrence River from Montreal Island, Montreal, Quebec to the south shore at Longueuil, Quebec, Canada. The bridge crosses Île Sainte-Hélène in the centre of the river, where offramps allow access to the Parc Jean-Drapeau and La Ronde amusement park. Originally named the Montreal Harbour Bridge (pont du Havre), it was renamed in 1934 to commemorate the 400th anniversary of Jacques Cartier's first voyage up the St. Lawrence River. Total length 2,725 m (8,940 ft) or 3,425.6 m (11,239 ft) (including approaches), Width 22 m (72 ft), Height 104 m (341 ft), Longest span 590.5 m (1,937 ft), Number of spans 40, Clearance below 49.4 m (162 ft) at mid-span."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5344123840332,
+          45.52054115838411
+        ]
+      }
     }
   ]
 }
