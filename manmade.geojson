@@ -9211,6 +9211,70 @@
           34.35845871671969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akinada Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Akinada_Bridge",
+        "comment": "The Akinada Bridge is a suspension bridge in Hiroshima, Japan. Completed in 2000, it has a main span of 750 m. It was constructed by PentaOceanConstruction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.67879486083984,
+          34.20640758438387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semey Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Semipalatinsk_Bridge",
+        "comment": "The Semei Bridge is a gravity-anchored suspension bridge that crosses the Irtish river in Semei, Kazakhstan. It has a main span of 750 meters and a total length of 1086 m. It was built between 1998 and 2001 and is currently in use by road traffic."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22405624389647,
+          50.40917393464584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakuchō Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hakucho_Bridge",
+        "comment": "The Hakuchō Bridge is a suspension bridge in Muroran, Hokkaido, Japan. Opened April 17, 1998, it has a main span of 720 meters and is signed as part of Japan National Route 37. It is the first section of Hakuchō new road. Several windmills line the bridge which provide lighting at night to the park golf link nearby. The winds are extremely high on the bridge, so pedestrians, bikes, and motorbikes are prohibited from crossing. Height 140 m (460 ft) (pylons), Longest span 1,380 m (4,530 ft), Clearance below 54.45 m (178.6 ft), Construction begin 1985, Construction end 1998."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.94978332519528,
+          42.352708639553654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angostura Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Angostura_Bridge",
+        "comment": "Angostura Bridge is a suspension bridge that spans the Orinoco River at Ciudad Bolívar, Venezuela. The Spanish word Angostura means \"narrows\". Built in 1967, the bridge has a main span of 712 metres. Until the opening of the Second Orinoco crossing 100 km downstream near Ciudad Guayana on 13 November 2006 it was the only bridge across the Orinoco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59813690185546,
+          8.144203668868975
+        ]
+      }
     }
   ]
 }
