@@ -8847,6 +8847,86 @@
           26.808444325168733
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beipanjiang River 2009 Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Beipanjiang_River_2009_Bridge",
+        "comment": "Beipanjiang River 2009 Bridge is a suspension bridge near Guanling, on the border of the Anshun Prefecture, Guizhou, China. The bridge has a main span of 636 metres and is part of the G60 Shanghai–Kunming Expressway crossing the Beipan River. It stands at a height of 318 metres above the river, placing it amongst the 10 highest bridges in the world. Clearance below 318 m (1,043 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31974792480469,
+          25.902776812888508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xihoumen Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Xihoumen_Bridge",
+        "comment": "The Xihoumen Bridge is a suspension bridge built on the Zhoushan Archipelago, the largest offshore island group in China. The main span was completed in December 2007.  The entire bridge, along with Jintang Bridge, was opened to traffic on a test basis on 25 December 2009. It is the second-longest suspension bridge ranked by the length of the centre span. The opening date was put off because of a ship collision on 16 November 2009 that slightly damaged the side of Jintang Bridge. The 5.3-kilometre-long suspension bridge connection has a 2.6-kilometre-long main bridge with a central span of 1,650 metres. The approaches total 2.7 kilometres. When it opened, there was only one bridge with a larger span, the Akashi-Kaikyo Bridge in Japan. However, there are several other bridges planned or under construction that will also be larger."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92214965820311,
+          30.069688200656845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fourth Nanjing Yangtze Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nanjing_Fourth_Yangtze_Bridge",
+        "comment": "The Fourth Nanjing Yangtze Bridge is a suspension bridge over the Yangtze River in Nanjing, China. The bridge is the sixth longest span in the world and the third largest in china. Total length 5,437 m (17,838 ft), Width 34.0 m (112 ft), Height 229 m (751 ft), Longest span 1,418 m (4,652 ft), opened 24. Dec. 2012."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.94004821777344,
+          32.177356033083505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsing Ma Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tsing_Ma_Bridge",
+        "comment": "The Tsing Ma Bridge is a bridge in Hong Kong. It is the world's ninth-longest span suspension bridge, and was the second longest at time of completion. The bridge was named after two of the islands at its ends, namely Tsing Yi and Ma Wan. It has two decks and carries both road and rail traffic, which also makes it the largest suspension bridge of this type. The bridge has a main span of 1,377 metres (4,518 ft) and a height of 206 metres (676 ft). The span is the largest of all bridges in the world carrying rail traffic. Opened May 22, 1997 by Margaret Thatcher."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.07293319702148,
+          22.35071086781299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardanger Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hardanger_Bridge",
+        "comment": "Hardanger Bridge is a bridge between Ullensvang and Ulvik in Hordaland, Norway, across the Hardangerfjord. It replaced a ferry connection between Bruravik and Brimnes, and shortens the driving time between Oslo and Bergen. It is the longest suspension bridge in Norway. Total length 1,380 metres (4,530 ft), Width 20 metres (66 ft), Height 200 metres (660 ft), Longest span 1,310 metres (4,300 ft), Clearance below 55 metres (180 ft), opened August 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83074951171875,
+          60.478371315135796
+        ]
+      }
     }
   ]
 }
