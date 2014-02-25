@@ -8703,6 +8703,86 @@
           31.558498077706712
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huey P. Long Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Huey_P._Long_Bridge_(Baton_Rouge)",
+        "comment": "The Huey P. Long Bridge is a truss cantilever bridge over the Mississippi River carrying US 190 (Airline Highway) and one rail line between East Baton Rouge Parish, Louisiana and West Baton Rouge Parish, Louisiana. Although the bridge is named after former Louisiana governor Huey P. Long, it is known locally in the Baton Rouge Area as \"the old bridge\".[1] It is similar in design to the Huey P. Long Bridge in Jefferson Parish, Louisiana. Total length 5,879 feet (1,792 m), Clearance below 113 feet (34 m), opened August 1940."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19785308837889,
+          30.50607549756194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foresthill Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Foresthill_Bridge",
+        "comment": "The Foresthill Bridge over the North Fork American River is the highest (deck height) bridge in the U.S. state of California and the fourth highest in the United States. It is sometimes referred to as the Auburn-Foresthill Bridge or the Auburn Bridge. Originally constructed to accompany the unbuilt Auburn Dam, the bridge stands 731 feet above the riverbed. It was fabricated in 1971 by Kawasaki Heavy Industries in Japan. Total length 2,428 feet (740 m), Height 522 feet (159 m), Longest span 862 feet (263 m), Vertical clearance 730 feet (220 m), opened 1973."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.03912353515626,
+          38.92242450867167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Water Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Blue_Water_Bridge",
+        "comment": "The Blue Water Bridge is a twin-span international bridge across the St. Clair River that links Port Huron, Michigan, United States, and Sarnia, Ontario, Canada. The Blue Water Bridge connects Highway 402 in Ontario with both Interstate 69 and Interstate 94 in Michigan. The original span is a cantilever truss bridge with a total length of 6,178 feet (1,883 m) and a main span of 871 feet (265 m). The second, newer span is a continuous tied-arch bridge with a total length of 6,109 feet (1,862 m) and a main span of 922 feet (281 m). Together, the two bridges are the second-busiest crossing between the United States and Canada, after the Ambassador Bridge at Detroit-Windsor. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42389678955078,
+          42.99862111927107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl Perkins Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Carl_Perkins_Bridge",
+        "comment": "The Carl D. Perkins Bridge is a cantilever bridge that spans the Ohio River between Portsmouth, Ohio and Greenup County, Kentucky. The bridge carries the two lanes of State Route 852 and Truck Route U.S. Highway 23. The bridge connects to Kentucky Route 8. During the demolition of the original U.S. Grant Bridge and the construction of its replacement upstream, it was the only highway bridge connecting Ohio to Kentucky at Portsmouth. Longest span 274 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0178451538086,
+          38.72717065879627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hi Carpenter Memorial Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Carpenter_Bridge_(Ohio_River)",
+        "comment": "The Hi Carpenter Memorial Bridge is a cantilever bridge over the Ohio River between Newport, Ohio and St. Marys, West Virginia. It carries Ohio State Route 807 (SR 807) and West Virginia Route 807 (WV 807) and serves to connect WV 2 with OH 7. Total length 2579 feet."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21402740478516,
+          39.388182633584485
+        ]
+      }
     }
   ]
 }
