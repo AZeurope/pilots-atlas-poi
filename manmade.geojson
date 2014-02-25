@@ -9147,6 +9147,70 @@
           34.239621314560885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacoma Narrows Bridges",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge",
+        "comment": "The Tacoma Narrows Bridge is a pair of twin suspension bridges that span the Tacoma Narrows strait of Puget Sound in Pierce County, Washington. The bridges connect the city of Tacoma with the Kitsap Peninsula and carry State Route 16 (known as Primary State Highway 14 until 1964) over the strait. Historically, the name \"Tacoma Narrows Bridge\" has applied to the original bridge nicknamed \"Galloping Gertie\", which opened in July 1940 but collapsed because of aeroelastic flutter four months later, as well as the replacement of the original bridge which opened in 1950 and still stands today as the westbound lanes of the present-day twin bridge complex. Total length 5,400 ft (1,645.92 m), Longest span 2,800 ft (853.44 m), Clearance below 187.5 ft (57.15 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55111694335939,
+          47.26664987622105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askøy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Askoy_Bridge",
+        "comment": "The Askøy Bridge is a suspension bridge which crosses Byfjorden between Bergen and Askøy in Hordaland, Norway. It is 1,057 meters (3,468 ft) long and has a main span of 850 meters (2,789 ft). Its span was the longest for a suspension bridge in Norway, until Hardanger Bridge was opened in August 2013. It carries two lanes of County Road 562 and a combined pedestrian and bicycle path. The bridge's two concrete pylons are 152 meters (499 ft) tall and are located at Brøstadneset in Bergen and Storeklubben in Askøy. The bridge has seven spans in total, although all but the main span are concreteviaducts. The bridge has a clearance below of 62 meters (203 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.214042663574218,
+          60.396727404970505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanxi Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nanxi_Bridge",
+        "comment": "The Nanxi Bridge is a highway bridge over the Yangtze River in Nanxi District, Yibin, Sichuan, China. It is one of the longest suspension bridges in the world with a span of 820 m (2,690 ft). The bridge carries traffic on the G93 Chengdu–Chongqing Ring Expressway and cost 660 million RMB. Total length 1,295 metres (4,249 ft), Construction end 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95067596435545,
+          28.79263491049174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innoshima Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Innoshima_Bridge",
+        "comment": "The Innoshima Bridge is a Japanese suspension bridge, part of the 59 kilometer Nishi-Seto Expressway linking the islands of Honshū and Shikoku in the joint region of Suworen—Kokurū. Completed in 1983, it has a main span of 770 metres (2,526 ft) and connects Mukaishima, Hiroshima with Innoshima, Hiroshima. Total length 1,339 metres (4,393 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.1810760498047,
+          34.35845871671969
+        ]
+      }
     }
   ]
 }
