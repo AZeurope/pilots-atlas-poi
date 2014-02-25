@@ -427,11 +427,11 @@
         "name": "Baluarte Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Baluarte_Bridge",
-        "comment": "The Baluarte Bridge, officially the Baluarte Bicentennial Bridge, is a cable-stayed bridge in Mexico. ",
-        "date": null,
-        "elevation": null,
+        "comment": "The Baluarte Bridge, officially the Baluarte Bicentennial Bridge, is a cable-stayed bridge in Mexico. Total length 1,124 m (3,688 ft), Width 16 m (52 ft), Longest span 520 m (1,710 ft), Clearance below 403 m (1,322 ft).",
+        "date": "null",
+        "elevation": "null",
         "length_km": "1,124",
-        "scalerank": null
+        "scalerank": "null"
       },
       "geometry": {
         "type": "Point",
@@ -8253,6 +8253,70 @@
         "coordinates": [
           -3.4040451049804688,
           56.004716161849345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minato Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Minato_Bridge",
+        "comment": "The Minato Bridge is a double-deck cantilever truss bridge in Osaka, Japan; upper deck is for Hanshin Expressway Route 16 Osakako Line, and lower deck is Route 5 Bayshore Line. It opened in 1974. It is the third-longest cantilever truss span in the world, behind the Quebec Bridge and the Forth Bridge. Designs including arch and suspension elements were eliminated from consideration due to poor subsoil conditions of alternating layers of clay and gravel. Instead, the designers selected a cantilever structure using high-strength steel, to reduce mass. Total length 983 m (3,225 ft), Width 22.5 m (74 ft) (deck), Longest span 1 × 510 m (1,670 ft), 2 × 235 m (771 ft), Clearance below 51 m (167 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.437650680542,
+          34.64394177616416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gramercy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Gramercy_Bridge",
+        "comment": "The Gramercy Bridge (officially the Veterans Memorial Bridge), is a cantilever bridge over the Mississippi River connecting Gramercy, Louisiana in St. James Parish with St. John the Baptist Parish. It is the second newest Mississippi River bridge in Louisiana (due to the completion of the John James Audubon Bridge), one of many built to replace the ferry system following a 1976 accident that killed 78 when a ferry sank after being struck by a ship.[2] While the Veterans Memorial Bridge has not transformed the local economy as extensively as its upriver cousin, the Sunshine Bridge, the farming industry has benefited from the quicker river crossing. Total length 3,101 feet (945 m), Width 4 lanes, Longest span 1,460 feet (445 m), Clearance below 165 feet (50 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.67256927490234,
+          30.04561878017059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John James Audubon Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/John_James_Audubon_Bridge_(Mississippi_River)",
+        "comment": "The John James Audubon Bridge, completed and opened in 2011, is a Mississippi River crossing between Pointe Coupee and West Feliciana parishes in south central Louisiana. The bridge has the second longest cable-stayed span in the Western Hemisphere (after Mexico's Baluarte bridge, although its total length is four times that of the Mexican bridge) and replaces the ferry between the communities of New Roads and St. Francisville. Total length 12,883 feet (3,927 m), Width 76 feet (23 m), Height 500 feet (152 m), Longest span 1,583 feet (482 m), Clearance below 130 feet (40 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3542366027832,
+          30.71940712027702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horace Wilkinson Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Horace_Wilkinson_Bridge",
+        "comment": "The Horace Wilkinson Bridge is a cantilever bridge carrying Interstate 10 in Louisiana across the Mississippi River from Port Allen in West Baton Rouge Parish to Baton Rouge in East Baton Rouge Parish. Around the Baton Rouge Metropolitan Area, the bridge is more commonly known as the \"New Bridge\" because it is the younger of the two bridges that cross the river in Baton Rouge. Total length 4,550 feet (1,387 m) (superstructure), 14,150 feet (4,313 m) (overall), Width 80 feet (24 m), Longest span 1,235 feet (376 m), Clearance below 175 feet (53 m), opened April 10, 1968."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19579315185547,
+          30.43949808841618
         ]
       }
     }
