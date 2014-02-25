@@ -8783,6 +8783,70 @@
           39.388182633584485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beipanjiang River 2003 Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Beipanjiang_River_2003_Bridge",
+        "comment": "Beipanjiang River 2003 Bridge is a 366 metre high suspension bridge on the Guanxing Highway near Xingbei Town (Xinbeizhen), Zhenfeng County, Guizhou Province, China. The bridge has a span width of 388 metres. Between 2003 and 2005, it was the world's highest bridge. The highest bridge in the world upon its opening in late 2003, the 1,200 foot (366 m) high Beipanjiang River 2003 highway bridge became the second Chinese span in two years to take the record. The first was 2001’s Liuguanghe Bridge. Total length 388 m (1,273 ft), Height 366 m (1,201 ft), Longest span 388 m (1,273 ft), Clearance below 366 m (1,201 ft), Construction end 2003."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.69148063659668,
+          25.651120860295165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liuguanghe Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Liuguanghe_Bridge",
+        "comment": "Liuguanghe Bridge is a 305 metre high beam bridge at Liu Guangzhen, Guizhou, China. It held the record for world's highest bridge between 2001 and 2003, surpassing the 72-year old 291 m (955 ft) high Royal Gorge Bridge, until the opening of the 366 m (1,201 ft) Beipanjiang River 2003 Bridge. As of 2011, it is still the highest beam bridge and is among the ten highest bridges in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40816688537598,
+          26.991383541189826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aizhai Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Aizhai_Bridge",
+        "comment": "The Aizhai Bridge is a suspension bridge on the G65 Baotou–Maoming Expressway near Jishou, Hunan, China. The bridge was built as part of an expressway from southwest China's Chongqing Municipality to Changsha. With a main span of 1,146 metres (3,760 ft) and a deck height of 350 metres (1,150 ft), as of 2013, it is the sixth-highest bridge in the world and the world's fifteenth-longest suspension bridge. Of the world's 400 or so highest bridges, none has a main span as long as Aizhai. It is also the world's highest and longest tunnel-to-tunnel bridge. The bridge contains 1888 lights to increase visibility at night."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.59832191467285,
+          28.332110841228637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liuchonghe Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Liuchonghe_Bridge",
+        "comment": "Liuchonghe Bridge is a cable-stayed bridge near Zhijin, Guizhou, China. At 336 m (1,102 ft), the bridge is one of the 10 highest in world. The bridge is part of a new expressway between Zhijin and Qianxi in Guizhou Province that opened in 2013. The bridge crosses the Liuchong River gorge. Total length 1,508 m (4,948 ft), Height 190.1 m (624 ft), Longest span 438 m (1,437 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88520050048827,
+          26.808444325168733
+        ]
+      }
     }
   ]
 }
