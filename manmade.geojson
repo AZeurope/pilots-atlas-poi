@@ -1356,8 +1356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.0609130859375,
-          34.14590795200977
+          133.06400299072266,
+          34.14676036062783
         ]
       }
     },
@@ -9481,6 +9481,70 @@
         "coordinates": [
           5.376434326171875,
           59.73719497387701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rainbow Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rainbow_Bridge_(Tokyo)",
+        "comment": "The Rainbow Bridge is a suspension bridge crossing northern Tokyo Bay between Shibaura Pier and the Odaiba waterfront development in Minato, Tokyo, Japan. Construction started in 1987 and was completed in 1993. The bridge is 798 metres (2,618 ft) long with a main span of 580 metres (1,903 ft). Officially called the \"Shuto Expressway No. 11 Daiba Route - Port of Tokyo Connector Bridge,\" the name \"'Rainbow Bridge\" was decided by the public. Width 49 m, Height 126 m (towers), 52 m (roadway), Number of spans 3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7677230834961,
+          35.635255684127046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakata-Ōshima Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hakata-Oshima_Bridge",
+        "comment": "The Hakata-Ōshima Bridge is a Japanese suspension bridge, part of the 59 kilometer Nishiseto Expressway connecting the islands of Honshū and Shikoku. Completed in 1988, it has a main span of 560 meters and connects Hakatajima with Ōshima. The expressway connects seven small islands and also includes several other long span bridges including the Tatara Bridge, theInnoshima Bridge, and the Kurushima-Kaikyō Bridge. Total length 840 metres (2,756 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.07344436645508,
+          34.193203619503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Throgs Neck Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Throgs_Neck_Bridge",
+        "comment": "The Throgs Neck Bridge is a suspension bridge opened on January 11, 1961, which carries Interstate 295 over the East River where it meets Long Island Sound. The bridge connects the Throggs Neck section of the Bronx with the Bay Terrace section of Queens. It is the newest bridge across the East River and was built to relieve traffic on the adjacent Whitestone Bridge which opened in 1939. Total length 886.97 meters (2,910 feet), Longest span 548.64 meters (1,800 feet), Clearance below 142 feet (43.3 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.79344940185547,
+          40.79717741518769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin Franklin Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Benjamin_Franklin_Bridge",
+        "comment": "The Benjamin Franklin Bridge — known informally as the Ben Franklin Bridge and originally named the Delaware River Bridge — is a suspension bridge across the Delaware River connectingPhiladelphia, Pennsylvania, and Camden, New Jersey. Owned and operated by the Delaware River Port Authority, it is one of four primary vehicular bridges between Philadelphia and southern New Jersey, along with the Betsy Ross, Walt Whitman, and Tacony-Palmyra Bridges. Total length 2,917.86 m (9,573 feet), Width 39.01 m (128 feet), Longest span 533.4 m (1,750 feet), Vertical clearance 5.12 m (16.8 feet), Clearance below 41.19 m (135 feet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13532638549805,
+          39.95304325255671
         ]
       }
     }
