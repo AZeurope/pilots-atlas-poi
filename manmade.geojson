@@ -9595,6 +9595,86 @@
           68.37097753576371
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kvalsund Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kvalsund_Bridge",
+        "comment": "Kvalsund Bridge is a suspension bridge in Kvalsund Municipality, Finnmark county, Norway. The bridge crosses the Kvalsundet strait between the mainland and the island of Kvaløya. The bridge is located just west of the village of Kvalsund and about 25 kilometres (16 mi) south of the town of Hammerfest. Opened for traffic in 1977, the 741-metre (2,431 ft) long bridge has 11 spans, the main span being 525 metres (1,722 ft). The maximum clearance to the sea is 26 metres (85 ft). Kvalsund Bridge is the 56th longest suspension bridge in the world, and also the northernmost suspension bridge in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.953628540039062,
+          70.51184426076078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matadi Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Matadi_Bridge",
+        "comment": "The Matadi Bridge, also known as the OEBK Bridge, is a suspension bridge in the port of Matadi, Democratic Republic of Congo. Completed in 1983, it has a main span of 520 m, crossing the Congo River, carrying the main highway between the capital Kinshasa and the Atlantic coast. As well as passing through Matadi it links the ports of Boma and Banana. Matadi Bridge is the only fixed crossing of any kind over the lower and middle Congo River. The next crossing is a road and rail bridge at Kongolo, 2,800 km (1,700 mi) further upstream on the upper Congo (the Lualaba River)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433876037597656,
+          -5.8255651723314745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmerich Rhine Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Emmerich_Rhine_Bridge",
+        "comment": "The Emmerich Rhine Bridge is a suspension bridge located in Emmerich am Rhein, Germany. Completed in 1965, it has a main span of 500 metres (1,600 ft), crossing the Rhine, carrying the Bundesstraße B 220, the federal highway between Emmerich am Rhein and Kleve. It is the longest suspension bridge in Germany. Total length 803 m (2,635 ft), Width 22.5 m (74 ft), Clearance below 30 m (98 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22650146484375,
+          51.82813964710642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sotra Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sotra_Bridge",
+        "comment": "The Sotra Bridge is a suspension bridge which crosses Knarreviksundet between Knarrevik in Fjell and Drotningsvik on the mainland of Bergen in Hordaland, Norway. It carries two road lanes and two narrow pedestrian paths of National Road 555, providing a fixed link for the archipelago of Sotra. The bridge is 1,236 metres (4,055 ft) long, has a main span of 468 metres (1,535 ft) and a clearance of 50 metres (160 ft). In 2007, it had an average 25,494 vehicles per day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1656341552734375,
+          60.37297494976914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hirado Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hirado_Bridge ",
+        "comment": "The Hirado Bridge is a suspension bridge in Nagasaki Prefecture, Japan. It connects the islands of Hirado and Kyūshū. Completed in 1977, it has a main span of 465.5 meters and total length of 665 m. From April 1, 2010, no fee is required to pass the bridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.57223892211914,
+          33.35691456311512
+        ]
+      }
     }
   ]
 }
