@@ -9995,6 +9995,38 @@
           37.24727461256812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marina Bay Sands",
+        "type": "building",
+        "url": "http://en.wikipedia.org/wiki/Marina_Bay_Sands",
+        "comment": "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore. Developed by Las Vegas Sands (LVS), it is billed as the world's most expensive stand-alone casino property at US$ 5.7 billion, including the cost of the prime land. Marina Bay Sands is situated on 15.5 hectares of land with the gross floor area of 581,000 square metres. The iconic design has transformed Singapore's skyline and tourism landscape since it opened on 27 April 2010. The property has a hotel, convention and exhibition facilities, theatres, entertainment venues, retailers, and restaurants. Opening date 15 February 2011 (grand opening), 23 June 2010 (official opening), 27 April 2010 (preview opening), No. of rooms 2,561."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8581371307373,
+          1.2827183052628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dutch Harbor",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Dutch_harbour",
+        "comment": "Dutch Harbor is a harbor located off of Amaknak Island in Unalaska, Alaska. It was the location of the Battle of Dutch Harbor in June 1942, and it was one of the few locations in American territory to be bombed by the Japanese during World War II. Dutch Harbor is now the home of an important fishing industry. Dutch Harbor is located within the Aleutian Islands of Alaska, more precisely on Amaknak Island in the Fox Islands. A mile long spit extending from the south west of Amaknak Island makes Dutch Harbor a natural port, protecting ships from the waves and currents of the Bering Sea, although winds off the Bering Sea have tossed shipments from decks of ships (\"stockpiles of lumber were tossed like toothpicks about Dutch Harbor.\") Dutch Harbor is in a great location allowing ease of accesses to some of the richest fishing in the world and it is ice free."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.5259552001953,
+          53.88370218320821
+        ]
+      }
     }
   ]
 }
