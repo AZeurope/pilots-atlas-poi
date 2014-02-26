@@ -9803,6 +9803,118 @@
           34.94434735008821
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pont d'Aquitaine",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Aquitaine_Bridge",
+        "comment": "The Pont d'Aquitaine is a large suspension bridge over the Garonne, north-west of the city of Bordeaux, in France. It forms part of the ring-road of Bordeaux and carries the A630 autoroute. It was completed in 1967 and its main span is 394 m (1,293 ft) long. The eastern and western aspects of the bridge are dramatically different. To the east there is a ridge of land which allows the roadway to enter the bridge with little or no slope. By contrast, to the west there is an area of flat land, forming part of the Medoc, which means the roadway across the bridge slopes dramatically upwards in order to gain sufficient height to enter the bridge. Total length 1,776 m (5,827 ft), Width 30.9 m (101 ft), Height 58 m (190 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5366134643554688,
+          44.879957968083765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cologne Rodenkirchen Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Cologne_Rodenkirchen_Bridge",
+        "comment": "The Cologne Rodenkirchen Bridge is a steelsuspension bridge over the Rhine located in Cologne, Germany. Completed in 1954, it has a main span of 378 metres. It was named after the Cologne district of Rodenkirchen. It was built from 1938 to 1941, after the design of Paul Bonatz and the planning of Fritz Leonhardt, for the Autobahn Cologne-Aachen. Today the Bundesautobahn 4 is the southern wing of the Cologne Beltway. The bridge was destroyed due to an airstrike on 14 January 1945. It was rebuilt from 1952 to 1954, with the old pylons re-used. The new bridge was only built from 3350 tons of steel, unlike the old bridge with 6100 tons."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.99005126953125,
+          50.899460258402144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hercilio Luz Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hercilio_Luz_Bridge",
+        "comment": "Located in Florianopolis, the capital city of Santa Catarina State in southern Brazil, the Hercilio Luz Bridge is the first bridge constructed to link the Island of Santa Catarina to the mainland. It is the longest suspension bridge in Brazil. The central span was considered quite long (but not the longest, at 340 metres) at the time of its opening and is still one of the 100 largest suspension bridges. Construction commenced on 14 November 1922 with the bridge being inaugurated on May 13, 1926. The total length is 819.471 metres, with 259 metres of viaduct from the island, a central span of 339.471 metres and 221 metres of viaduct from the mainland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.565235137939446,
+          -27.59760821998063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamar Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tamar_Bridge",
+        "comment": "The Tamar Bridge is a major road bridge at Saltash in southwest England carrying traffic between Cornwall and Devon over the River Tamar. When it opened in 1961 it was the longest suspension bridge in the United Kingdom. In 2001 it became the world's first suspension bridge to be widened (from three to five lanes) using cantilevers. Total length 335 metres (1,099 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.203557968139648,
+          50.408189325313124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chirundu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Otto_Beit_Bridge#The_Otto_Beit_Bridge_.281939.29",
+        "comment": "The Chirundu Bridge now consists of two road bridges side by side across the Zambezi River between the small town of Chirundu, Zambia and the village of Chirundu, Zimbabwe. At this location around 65 km downstream from the Kariba Dam the river is about 400 m wide. The bridges carry the Harare to Lusaka section of the Great North Road, which extends between South Africa and East Africa, and was once seen as part of a Cape to Cairo Road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.851728439331055,
+          -16.038142032754955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chavanon Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Chavanon_Viaduct",
+        "comment": "The Chavanon Viaduct is a suspension bridge located in the Chavanon Valley in France connecting the towns of Merlines and Messeix. Opened for traffic in 2000, it has a main span of 300 metres."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4794769287109375,
+          45.623942733856786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeongjong Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yeongjong_Bridge",
+        "comment": "The Yeongjong Grand Bridge is a self-anchored suspension bridge located in Incheon, South Korea, linking Yeongjong Island to the Korean mainland. The bridge is part of the Incheon International Airport Expressway and was completed in 2000. The total length of the bridge is 4,420 m (14,500 ft), of which the main suspension bridge takes 550 m (1,800 ft), a truss bridge 2,250 m (7,380 ft) and a steelbox girder bridge 1,620 m (5,310 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.58344268798828,
+          37.54566616715801
+        ]
+      }
     }
   ]
 }
