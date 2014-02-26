@@ -9547,6 +9547,54 @@
           39.95304325255671
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betsy Ross Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Betsy_Ross_Bridge",
+        "comment": "The Betsy Ross Bridge is a continuous truss bridge spanning the Delaware River from Philadelphia to Pennsauken, New Jersey. It was originally planned as the Delair Bridge, after a paralleling vertical lift bridgeowned by Pennsylvania Railroad (now used by Conrail and NJ Transit's Atlantic City Line), but was instead named for Betsy Ross, reputed creator of the first American flag, making it the first automotive bridge named for a woman and the second bridge overall (after Iowa's Boone High Bridge was renamed the Kate Shelley High Bridge in 1912). Total length 8,485 feet (2,586 m), Width 105 feet, 4 inches (32 m), Longest span 729 feet (222 m), Vertical clearance 37.66 feet (11.48 m), Clearance below 135 feet (41.1 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06649017333984,
+          39.98448618198461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacony–Palmyra Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tacony-Palmyra_Bridge",
+        "comment": "The Tacony–Palmyra Bridge is a combination steel arch, double-leaf bascule bridge across the Delaware River, connecting New Jersey Route 73 in Palmyra, New Jersey and Pennsylvania Route 73 in the Tacony section of Philadelphia. The bridge has a total length of 3,659 feet (1,115 m) and spans 2,324 feet (708 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0431442260742,
+          40.01210192247637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skjomen Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Skjomen_Bridge",
+        "comment": "Skjomen Bridge is a suspension bridge that crosses the Skjomen fjord near the town of Narvik in Nordland county, Norway. The 711-m (2,333 ft) bridge has a main span of 525 m (1,722 ft). The maximum clearance to the sea is 35 m (115 ft). The bridge has nine spans, and it is part of the European route E6 highway. Skjomen Bridge was opened in 1972."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.240982055664062,
+          68.37097753576371
+        ]
+      }
     }
   ]
 }
