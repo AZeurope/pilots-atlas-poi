@@ -9355,6 +9355,70 @@
           24.49761494594885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjemnessund Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Gjemnessund_Bridge",
+        "comment": "The Gjemnessund Bridge is a suspension bridge that crosses the Gjemnessundet strait between the mainland and the island of Bergsøya in the municipality of Gjemnesin Møre og Romsdal county, Norway. The 1,257-metre (4,124 ft) long bridge was the longest suspension bridge in Norway until the opening of the Hardanger Bridge in 2013, although it did not have the longest span (623 metres or 2,044 feet), beeing eclipsed by the Askøy Bridge. Gjemnessund Bridge was opened in 1992, and has 21 spans with a maximum clearance to the sea of 43 metres (141 ft). It was built as part of the Krifast project, the mainland road connection of the city of Kristiansund (along with the Freifjord Tunnel and the Bergsøysund Bridge)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.78003692626953,
+          62.971453386023335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuzui Yangtze River Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yuzui_Yangtze_Bridge",
+        "comment": "Yuzui Yangtze River Bridge is a suspension bridge spanning 616 metres (2,021 ft) over the Yangtze River near Yuzuizhen, Chongqing, China. The bridge is 33 metres (108 ft) wide and carries the G5001 Chongqing Ring Expressway between the Nan'an District south of the Yangtze River and the Jiangbei District to the north. Total length 1,348 metres (4,423 ft), Width 33 metres (108 ft), Longest span 616 metres (2,021 ft), Opened 2009."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77234649658203,
+          29.610177689916434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tancarville Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Tancarville_Bridge",
+        "comment": "The Tancarville Bridge is a suspension bridge that crosses the Seine River and connects Tancarville (Seine-Maritime) and Marais-Vernier (Eure), near Le Havre. The bridge was completed in 1959 at a cost of 1,37 billion Euro. Total length 1,420 m, Width 12.50 m, Longest span 608 m, Clearance below 50.85 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4648590087890625,
+          49.472586174080966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Belt Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/New_Little_Belt_Bridge",
+        "comment": "The New Little Belt Bridge is a suspension bridge that crosses the Little Belt strait between Jutland (Jylland) and the island of Funen (Fyn) in Denmark. The bridge is 1700 metres long, the main span is 600 metres, the pylons reaching a height of 120 metres, and the maximum clearance from the sea is 44 meters. The New Little Belt Bridge was built from 1965 to 1970 and was opened by King Frederik IX on 21 October 1970."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.749679565429688,
+          55.518913385615804
+        ]
+      }
     }
   ]
 }
