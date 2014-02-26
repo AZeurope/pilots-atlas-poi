@@ -9739,6 +9739,70 @@
           44.66425772271015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A. Murray MacKay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/A._Murray_MacKay_Bridge",
+        "comment": "The A. Murray MacKay Bridge locally known as \"the new bridge\" is the second suspension bridge linking the Halifax Peninsula with Dartmouth, Nova Scotia, and opened on July 10, 1970. The A. Murray MacKay Bridge measures 1,200 m (3,900 ft) with the total of all suspended spans being 739.9 m (2,427 ft) in length, carrying four traffic lanes with posted speed limits of 70 kilometres per hour (43 mph). Pedestrians and bicycles are not permitted on the A. Murray MacKay Bridge; they may use dedicated lanes on the Angus L. Macdonald Bridge instead."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.61307144165039,
+          44.676953912213165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Älvsborg Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Alvsborg_Bridge",
+        "comment": "The Älvsborg Bridge is a suspension bridge over Göta älv in Gothenburg, Sweden, which connects the north and the south part of the city. It was built in 1966 and designed by Sven Olof Asplund. The total length of the bridge is 933 metres and distance between the towers (\"main span\") is 417 metres, while the clearance below the bridge is 45 metres. The pylons are 107 metres tall making the bridge one of Gothenburg's most prominent landmarks. The bridge was painted green for the 1995 World Championships in Athletics which Gothenburg hosted. Work started in 1993 and used about 36,000 litres of paint. The bridge was the finish line for the 2005–06 Volvo Ocean Race."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.901283264160156,
+          57.691212806038436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuan Phuoc Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Thuan_Phuoc_Bridge",
+        "comment": "The Thuan Phuoc Bridge is a suspension bridge that crosses the lower Han River at Da Nang, Vietnam. The four-lane, three-span, bridge is 1,850 meters long and 18 meters wide,[1] and has a main span of 405 meters. Its two major pillars are 80m in height. It is the longest suspension bridge in Vietnam, with total investment of nearly 1 trillion dong. The bridge was built with an estimated cost of VND 650 billion (about 42 million US dollars). Consulting firms from China, Cuba and Canada provided assistance. Total length 1,850 m (6,070 ft), Width 18 m (59 ft), Height 80 m (260 ft), Longest span 405 m (1,329 ft), Piers in water 2, Construction begin 2003, opened 19 July 2009."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22039604187012,
+          16.095134453506578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namhae Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Namhae_Bridge",
+        "comment": "The Namhae Bridge is a suspension bridge that connects Hadong Noryang and Namhae Noryang, South Korea. The bridge, completed in 1973 has a total length of 660 meters. The bridge has a real-time monitoring system installed to monitor its performance. Width 9.6 m (31 ft), Height 80 m (260 ft), Longest span 404 m (1,325 ft), Construction end 1973."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.87210464477539,
+          34.94434735008821
+        ]
+      }
     }
   ]
 }
