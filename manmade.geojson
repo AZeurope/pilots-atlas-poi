@@ -9915,6 +9915,70 @@
           37.54566616715801
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ the Redeemer (statue)",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+        "comment": "Christ the Redeemer is a statue of Jesus Christ in Rio de Janeiro, Brazil, considered the largest Art Decostatue in the world. It is 30 m (98 ft) tall, not including its 8 m (26 ft) pedestal, and its arms stretch 28 m (92 ft) wide. It weighs 635 tonnes (625 long, 700 short tons), and is located at the peak of the 700-m (2,300 ft) Corcovado mountain in the Tijuca Forest National Park overlooking the city. A symbol of Brazilian Christianity, the statue has become an icon for Rio de Janeiro and Brazil. It is made of reinforced concrete and soapstone, and was constructed between 1922 and 1931."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.21094512939453,
+          -22.951438332269262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Falls, Ontario",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Niagara_Falls",
+        "comment": "Niagara Falls is the collective name for three waterfalls that straddle the international border between Canada and the United States; more specifically, between the province of Ontario and the state of New York. They form the southern end of the Niagara Gorge.From largest to smallest, the three waterfalls are the Horseshoe Falls, the American Falls and the Bridal Veil Falls. The Horseshoe Falls lie on the Canadian side and the American Falls on the American side, separated by Goat Island. The smaller Bridal Veil Falls are also located on the American side, separated from the other waterfalls by Luna Island. The international boundary line was originally drawn through Horseshoe Falls in 1819, but the boundary has long been in dispute due to natural erosion and construction. Total height 167 ft (51 m), Number of drops 3, Watercourse Niagara River Average flow rate 85,000 cu ft/s (2,400 m3/s)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06662940979004,
+          43.117963907676696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mecca - Hejaz",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Mecca",
+        "comment": "Mecca, also transliterated as Makkah, is a city in the Hejaz and the capital of Makkah Province in Saudi Arabia. The city is located 70 km (43 mi) inland from Jeddah in a narrow valley at a height of 277 m (909 ft) above sea level. Its resident population in 2012 was roughly 2 million, although visitors more than triple this number every year during Hajjperiod held in the twelfth Muslim lunar month of Dhu al-Hijjah. As the birthplace of Muhammad and a site of Muhammad's first revelation of the Quran (the site in specificity being a cave 3.2 km (2 mi) from Mecca), Mecca is regarded as the holiest city in the religion of Islam and a pilgrimage to it known as the Hajj is obligatory for all able Muslims."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82621192932129,
+          21.422509756558238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Peter's Basilica",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+        "comment": "St. Peter's Basilica is a Late Renaissance church located within Vatican City. Designed principally by Donato Bramante, Michelangelo, Carlo Maderno and Gian Lorenzo Bernini, St. Peter's is the most renowned work of Renaissance architecture and remains one of the largest churches in the world. While it is neither the mother church of the Roman Catholic Church nor the cathedral of the Bishop of Rome, St. Peter's is regarded as one of the holiest Catholic sites. It has been described as \"holding a unique position in the Christian world\" and as \"the greatest of all churches of Christendom\". Length 730 feet (220 m), Width 500 feet (150 m), Height (max) 452 feet (138 m), Dome dia. (outer) 137.7 feet (42.0 m), Dome dia. (inner) 136.1 feet (41.5 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454075813293455,
+          41.902213158437355
+        ]
+      }
     }
   ]
 }
