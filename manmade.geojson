@@ -9419,6 +9419,70 @@
           55.518913385615804
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egongyan Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/E%27gongyan_Bridge",
+        "comment": "The Egongyan Bridge is a suspension bridge which crosses the Yangtze River in Chongqing, China. Completed in 2000, it has a main span of 600 metres (2,000 ft).[1] The bridge carries 6 lanes of traffic between the Nan'an District east of the Yangtze River and the Jiulongpo District to the west. Total length 1,420 metres (4,660 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52669906616211,
+          29.523131128619834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osterøy Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Osteroy_Bridge",
+        "comment": "Osterøy Bridge connects Kvisti on the island of Osterøy in Hordaland County with the mainland at Herland east from Bergen, Norway. Osterøy Bridge is a suspension bridge and has a main span of 595 meter. The towers are 121.5 meters high. The bridge was completed October 3, 1997 and cost about 308 million Norwegian kroner. The bridge is the third largest suspension bridge in Norway. It is part of the highway 566 (Fylkesvei 566) runs between Herland in Bergen and Løno in Osterøy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535736083984375,
+          60.426393620789895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Wanxian Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Second_Wanxian_Bridge",
+        "comment": "The Second Wanzhou Bridge is a suspension bridge which crosses the Yangtze River in Wanzhou District of Chongqing, China. Completed in 2004, it has a main span of 580 metres (1,900 ft) places it among the longest suspension spans in the world. Total length 1,154 metres (3,786 ft), Construction begin 2001, opened 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4050178527832,
+          30.82589644587977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bømla Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bomla_Bridge",
+        "comment": "The Bømla Bridge (Norwegian: Bømlabrua) is a suspension bridge which crosses Spissøysundet between the islands of Nautøy in Stord and Spissøy in Bømlo, Norway. The bridge is 998 meters (3,274 ft) long, has a main span of 577 meters (1,893 ft) and a clearance below of 36 meters (118 ft). It carries two lanes of County Road 542 (former National Road 542) and a combined pedestrian and bicycle pathway. It is part of the Triangle Link, a fixed link which connects Stord to Bømlo, and both to the mainland at Sveio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376434326171875,
+          59.73719497387701
+        ]
+      }
     }
   ]
 }
