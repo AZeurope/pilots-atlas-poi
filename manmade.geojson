@@ -9979,6 +9979,22 @@
           41.902213158437355
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 51",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Area_51",
+        "comment": "Area 51, also officially known as Groom Lake or Homey Airport (ICAO: KXTA) is a remote detachment of Edwards Air Force Base. According to the Central Intelligence Agency (CIA), the correct names for the Area 51 facility are the Nevada Test and Training Range and Groom Lake, though the name Area 51 has been used in official CIA documentation. Other names used for the facility include Dreamland, Paradise Ranch, Home Base, Watertown Strip, and most recently Homey Airport. The area around the field is referred to as (R-4808N). It is located in the southern portion of Nevada in the western United States, 83 miles (133 km) north-northwest of Las Vegas. Situated at its center, on the southern shore of Groom Lake, is a large military airfield."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8130645751953,
+          37.24727461256812
+        ]
+      }
     }
   ]
 }
