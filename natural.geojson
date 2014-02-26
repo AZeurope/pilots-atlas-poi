@@ -9275,6 +9275,70 @@
           27.172651300304196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bering Strait",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Bering_Strait",
+        "comment": "The Bering Strait is a strait 82 kilometres (51 mi; 44 nmi) wide at its narrowest point, between Cape Dezhnev, Chukchi Peninsula, Russia, the easternmost point (169° 43' W) of the Asian continent and Cape Prince of Wales, Alaska, USA, the westernmost point (168° 05' W) of the North American continent. Named after Vitus Bering, a Russian explorer born in Denmark, it lies slightly south of the polar circle at approximately 65° 40' N latitude, with the present US-Russia east-west boundary, agreed to only by the USA, at 168° 58' 37\" W. The Strait has been the subject of scientific speculation that humans migrated from Asia to North America across a land bridge known as Beringia when lower ocean levels – perhaps a result of glaciers locking up vast amounts of water – exposed a wide stretch of the sea floor, both at the present strait and in the shallow sea north and south of it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -167.87109375,
+          65.80277639340238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strait of Gibraltar",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Gibraltar_strait",
+        "comment": "The Strait of Gibraltar is a narrow strait that connects the Atlantic Ocean to the Mediterranean Sea and separates Gibraltar and Spain in Europefrom Morocco in Africa. The name comes from the Rock of Gibraltar, which in turn originates from the Arabic Jebel Tariq (meaning \"Tariq's mountain\", named after Tariq ibn Ziyad. It is also known as the Straits of Gibraltar, or STROG (Strait Of Gibraltar), in naval use. Europe and Africa are separated by 7.7 nautical miles (14.3 km; 8.9 mi) of ocean at the strait's narrowest point. The Strait's depth ranges between 300 and 900 metres (160 and 490 fathoms; 980 and 2,950 ft) which possibly interacted with the lower mean sea level of the last major glaciation 20,000 years ago when the level of the sea is believed to have been lower by 110–120 m (60–66 fathoms; 360–390 ft). Ferries cross between the two continents every day in as little as 35 minutes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4547119140625,
+          35.97800618085568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strait of Hormuz",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Strait_of_hormuz",
+        "comment": "The Strait of Hormuz is a strait between the Gulf of Oman and the Persian Gulf. It is the only sea passage from the Persian Gulf to the open ocean and is one of the world's most strategically important choke points. On the north coast is Iran, and on the south coast is the United Arab Emirates and Musandam, an exclave of Oman. At its narrowest, the strait is 21 nautical miles (39 km) wide. About 20% of the world's petroleum, and about 35% of the petroleum traded by sea, passes through the strait making it a highly important strategic location for international trade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.29986572265625,
+          12.677855730564929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Canyon",
+        "type": "landmark",
+        "url": "http://en.wikipedia.org/wiki/Grand_canyon",
+        "comment": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in the United States in the state of Arizona. It is contained within and managed by Grand Canyon National Park, the Hualapai Tribal Nation, and the Havasupai Tribe. President Theodore Roosevelt was a major proponent of preservation of the Grand Canyon area, and visited it on numerous occasions to hunt and enjoy the scenery. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,000 feet or 1,800 m). Nearly two billion years of Earth's geological history has been exposed as the Colorado River and its tributaries cut their channels through layer after layer of rock while the Colorado Plateau was uplifted. While the specific geologic processes and timing that formed the Grand Canyon are the subject of debate by geologists, recent evidence suggests that the Colorado River established its course through the canyon at least 17 million years ago. Since that time, the Colorado River continued to erode and form the canyon to its present-day configuration."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08251953125,
+          36.09738321748593
+        ]
+      }
     }
   ]
 }
