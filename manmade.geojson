@@ -4160,17 +4160,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.82150268554686,
-          19.00929764707014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "name": "Jaisalmer TV Tower",
         "type": "tower",
